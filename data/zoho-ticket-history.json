@@ -371,11 +371,11 @@
   },
   "2026-10-12": {
     "capBereikt": false,
-    "geslotenVandaag": 1,
+    "geslotenVandaag": 2,
     "inDeWacht": 18,
-    "nieuweVandaag": 2,
+    "nieuweVandaag": 3,
     "statusBreakdown": {
-      "Gesloten": 686,
+      "Gesloten": 687,
       "In de wacht": 18,
       "Open": 10
     },

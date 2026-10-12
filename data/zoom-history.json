@@ -4838,19 +4838,19 @@
   "2026-10-12": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 719,
+        "beantwoord": 3,
+        "gesprekstijdSec": 1053,
         "uitgaand": 0
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-12",
-    "generated_at": "2026-10-12T07:40:46Z",
+    "generated_at": "2026-10-12T07:50:47Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 2
+    "totaalInbound": 3
   }
 }
