@@ -4880,6 +4880,13 @@
         "tijd": "12:22"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31615504975",
+        "teruggebeld": false,
+        "tijd": "12:24"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31614870130",
@@ -4889,8 +4896,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-12",
-    "generated_at": "2026-10-12T10:30:51Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-10-12T10:40:55Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -4928,6 +4935,13 @@
         "tijd": "12:22"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31615504975",
+        "teruggebeld": false,
+        "tijd": "12:24"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31614870130",
@@ -4936,7 +4950,7 @@
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 13
+    "totaalGemist": 7,
+    "totaalInbound": 14
   }
 }
