@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T07:30:51Z",
+  "generated_at": "2026-10-12T07:40:45Z",
   "tickets": [
     {
       "ticketNumber": "2858",
@@ -13,21 +13,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014579001",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2859",
+      "tijd": "09:36",
+      "titel": "Niet geleverde warmtepomp",
+      "klant": "P.H.J. Bijlhout",
+      "status": "Gesloten",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014587001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 1
+    "Phone": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
-    "geslotenVandaag": 0,
+    "nieuweVandaag": 2,
+    "geslotenVandaag": 1,
     "totaalOpen": 28,
     "inDeWacht": 18,
     "statusBreakdown": {
+      "Gesloten": 686,
       "In de wacht": 18,
-      "Open": 10,
-      "Gesloten": 685
+      "Open": 10
     },
     "capBereikt": false
   },
