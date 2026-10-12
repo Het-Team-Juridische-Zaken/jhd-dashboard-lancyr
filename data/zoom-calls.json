@@ -1,15 +1,22 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T09:10:44Z",
-  "totaalInbound": 5,
-  "totaalGemist": 1,
+  "generated_at": "2026-10-12T09:20:51Z",
+  "totaalInbound": 7,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31637398933",
       "naam": "Onbekend",
       "tijd": "11:05",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31637398933",
+      "naam": "Onbekend",
+      "tijd": "11:11",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -21,13 +28,20 @@
       "tijd": "11:05",
       "callResult": "abandoned",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31637398933",
+      "naam": "Onbekend",
+      "tijd": "11:11",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 4,
+      "beantwoord": 5,
       "uitgaand": 3,
-      "gesprekstijdSec": 1690
+      "gesprekstijdSec": 2369
     }
   },
   "beantwoordZonderAgent": 0
