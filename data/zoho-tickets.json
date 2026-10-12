@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T13:40:48Z",
+  "generated_at": "2026-10-12T13:50:48Z",
   "tickets": [
     {
       "ticketNumber": "2858",
@@ -49,19 +49,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014605013",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2862",
+      "tijd": "15:46",
+      "titel": "Conflict met plaatsing zonnepanelen",
+      "klant": "S.J. van Poelje",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014585051",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 4
+    "Phone": 5
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 4,
+    "nieuweVandaag": 5,
     "geslotenVandaag": 1,
-    "totaalOpen": 30,
-    "inDeWacht": 20,
+    "totaalOpen": 31,
+    "inDeWacht": 21,
     "statusBreakdown": {
-      "In de wacht": 20,
+      "In de wacht": 21,
       "Open": 10,
       "Gesloten": 686
     },
@@ -283,6 +295,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014564001"
+    },
+    {
+      "ticketNumber": "2862",
+      "titel": "Conflict met plaatsing zonnepanelen",
+      "klant": "S.J. van Poelje",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014585051"
     },
     {
       "ticketNumber": "2861",
