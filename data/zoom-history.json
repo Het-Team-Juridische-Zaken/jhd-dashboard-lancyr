@@ -4838,8 +4838,8 @@
   "2026-10-12": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 12,
-        "gesprekstijdSec": 4607,
+        "beantwoord": 13,
+        "gesprekstijdSec": 4680,
         "uitgaand": 3
       }
     },
@@ -4906,12 +4906,19 @@
         "nummer": "+31651146485",
         "teruggebeld": false,
         "tijd": "12:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31618086086",
+        "teruggebeld": false,
+        "tijd": "16:05"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-12",
-    "generated_at": "2026-10-12T14:01:21Z",
-    "nietTerugGebeld": 9,
+    "generated_at": "2026-10-12T14:10:53Z",
+    "nietTerugGebeld": 10,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -4975,10 +4982,17 @@
         "nummer": "+31651146485",
         "teruggebeld": false,
         "tijd": "12:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31618086086",
+        "teruggebeld": false,
+        "tijd": "16:05"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 9,
-    "totaalInbound": 21
+    "totaalGemist": 10,
+    "totaalInbound": 23
   }
 }
