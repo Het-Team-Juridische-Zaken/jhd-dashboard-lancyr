@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T14:40:46Z",
+  "generated_at": "2026-10-12T14:51:34Z",
   "tickets": [
     {
       "ticketNumber": "2858",
@@ -97,21 +97,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2866",
+      "tijd": "16:44",
+      "titel": "conflict met rabobank",
+      "klant": "P.C.G. Thole",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014576026",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 5,
+    "Phone": 6,
     "Email": 3
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 8,
+    "nieuweVandaag": 9,
     "geslotenVandaag": 1,
-    "totaalOpen": 34,
-    "inDeWacht": 21,
+    "totaalOpen": 35,
+    "inDeWacht": 22,
     "statusBreakdown": {
+      "In de wacht": 22,
       "Open": 13,
-      "In de wacht": 21,
       "Gesloten": 686
     },
     "capBereikt": false
@@ -332,6 +344,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014564001"
+    },
+    {
+      "ticketNumber": "2866",
+      "titel": "conflict met rabobank",
+      "klant": "P.C.G. Thole",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014576026"
     },
     {
       "ticketNumber": "2865",
