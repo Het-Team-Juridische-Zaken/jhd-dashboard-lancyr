@@ -1,10 +1,10 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T10:40:55Z",
-  "totaalInbound": 14,
-  "totaalGemist": 7,
+  "generated_at": "2026-10-12T10:50:50Z",
+  "totaalInbound": 16,
+  "totaalGemist": 9,
   "terugGebeld": 0,
-  "nietTerugGebeld": 7,
+  "nietTerugGebeld": 9,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31637398933",
@@ -52,6 +52,20 @@
       "nummer": "+31614870130",
       "naam": "Onbekend",
       "tijd": "12:24",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31618733039",
+      "naam": "Onbekend",
+      "tijd": "12:39",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31651146485",
+      "naam": "Onbekend",
+      "tijd": "12:44",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -103,6 +117,20 @@
       "nummer": "+31614870130",
       "naam": "Onbekend",
       "tijd": "12:24",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31618733039",
+      "naam": "Onbekend",
+      "tijd": "12:39",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31651146485",
+      "naam": "Onbekend",
+      "tijd": "12:44",
       "callResult": "abandoned",
       "teruggebeld": false
     }
