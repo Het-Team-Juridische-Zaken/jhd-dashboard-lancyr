@@ -4838,8 +4838,8 @@
   "2026-10-12": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 6,
-        "gesprekstijdSec": 2799,
+        "beantwoord": 7,
+        "gesprekstijdSec": 3230,
         "uitgaand": 3
       }
     },
@@ -4857,12 +4857,19 @@
         "nummer": "+31637398933",
         "teruggebeld": false,
         "tijd": "11:11"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31637610444",
+        "teruggebeld": false,
+        "tijd": "12:00"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-12",
-    "generated_at": "2026-10-12T10:01:02Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-10-12T10:10:47Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -4877,10 +4884,17 @@
         "nummer": "+31637398933",
         "teruggebeld": false,
         "tijd": "11:11"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31637610444",
+        "teruggebeld": false,
+        "tijd": "12:00"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 8
+    "totaalGemist": 3,
+    "totaalInbound": 10
   }
 }
