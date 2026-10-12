@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T08:20:50Z",
+  "generated_at": "2026-10-12T08:32:09Z",
   "tickets": [
     {
       "ticketNumber": "2858",
@@ -31,7 +31,7 @@
       "tijd": "09:45",
       "titel": "Conflict met acommodatie in Frankrijk",
       "klant": "D. Ramharakh",
-      "status": "Gesloten",
+      "status": "Open",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014594001",
@@ -45,13 +45,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 3,
-    "geslotenVandaag": 2,
-    "totaalOpen": 28,
+    "geslotenVandaag": 1,
+    "totaalOpen": 29,
     "inDeWacht": 18,
     "statusBreakdown": {
-      "Gesloten": 687,
-      "In de wacht": 18,
-      "Open": 10
+      "Open": 11,
+      "Gesloten": 686,
+      "In de wacht": 18
     },
     "capBereikt": false
   },
@@ -271,6 +271,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014564001"
+    },
+    {
+      "ticketNumber": "2860",
+      "titel": "Conflict met acommodatie in Frankrijk",
+      "klant": "D. Ramharakh",
+      "status": "Open",
+      "aangemaakt": "2026-10-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014594001"
     },
     {
       "ticketNumber": "2858",
