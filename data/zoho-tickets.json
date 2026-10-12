@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T08:40:45Z",
+  "generated_at": "2026-10-12T08:50:50Z",
   "tickets": [
     {
       "ticketNumber": "2858",
@@ -47,11 +47,11 @@
     "nieuweVandaag": 3,
     "geslotenVandaag": 1,
     "totaalOpen": 29,
-    "inDeWacht": 18,
+    "inDeWacht": 19,
     "statusBreakdown": {
-      "Open": 11,
-      "Gesloten": 686,
-      "In de wacht": 18
+      "In de wacht": 19,
+      "Open": 10,
+      "Gesloten": 686
     },
     "capBereikt": false
   },
@@ -217,6 +217,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530001"
     },
     {
+      "ticketNumber": "2852",
+      "titel": "Fwd: Verzoek beoordeling huurprijswijzigingsbeding Stadgenoot",
+      "klant": "R.H.K. Tevreden",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-09",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014550001"
+    },
+    {
       "ticketNumber": "2856",
       "titel": "FW: 84213359_Cheng Vraag over juridisch conflict met gerechtsdeurwaarder",
       "klant": "De juridische helpdesk",
@@ -247,14 +255,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-09",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530057"
-    },
-    {
-      "ticketNumber": "2852",
-      "titel": "Fwd: Verzoek beoordeling huurprijswijzigingsbeding Stadgenoot",
-      "klant": "R.H.K. Tevreden",
-      "status": "Open",
-      "aangemaakt": "2026-10-09",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014550001"
     },
     {
       "ticketNumber": "2851",
