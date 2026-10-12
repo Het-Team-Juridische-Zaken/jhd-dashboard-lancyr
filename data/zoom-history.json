@@ -4864,12 +4864,19 @@
         "nummer": "+31637610444",
         "teruggebeld": false,
         "tijd": "12:00"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31615504975",
+        "teruggebeld": false,
+        "tijd": "12:05"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-12",
-    "generated_at": "2026-10-12T10:10:47Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-12T10:20:52Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -4891,10 +4898,17 @@
         "nummer": "+31637610444",
         "teruggebeld": false,
         "tijd": "12:00"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31615504975",
+        "teruggebeld": false,
+        "tijd": "12:05"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 10
+    "totaalGemist": 4,
+    "totaalInbound": 11
   }
 }

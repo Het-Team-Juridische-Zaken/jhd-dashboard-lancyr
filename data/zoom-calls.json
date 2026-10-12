@@ -1,10 +1,10 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T10:10:47Z",
-  "totaalInbound": 10,
-  "totaalGemist": 3,
+  "generated_at": "2026-10-12T10:20:52Z",
+  "totaalInbound": 11,
+  "totaalGemist": 4,
   "terugGebeld": 0,
-  "nietTerugGebeld": 3,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31637398933",
@@ -24,6 +24,13 @@
       "nummer": "+31637610444",
       "naam": "Onbekend",
       "tijd": "12:00",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31615504975",
+      "naam": "Onbekend",
+      "tijd": "12:05",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -47,6 +54,13 @@
       "nummer": "+31637610444",
       "naam": "Onbekend",
       "tijd": "12:00",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31615504975",
+      "naam": "Onbekend",
+      "tijd": "12:05",
       "callResult": "overflowed",
       "teruggebeld": false
     }
