@@ -1,12 +1,28 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T09:01:18Z",
-  "totaalInbound": 4,
-  "totaalGemist": 0,
+  "generated_at": "2026-10-12T09:10:44Z",
+  "totaalInbound": 5,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31637398933",
+      "naam": "Onbekend",
+      "tijd": "11:05",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31637398933",
+      "naam": "Onbekend",
+      "tijd": "11:05",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {
     "Dewi Verver": {
       "beantwoord": 4,

@@ -4843,14 +4843,30 @@
         "uitgaand": 3
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31637398933",
+        "teruggebeld": false,
+        "tijd": "11:05"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-12",
-    "generated_at": "2026-10-12T09:01:18Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-10-12T09:10:44Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31637398933",
+        "teruggebeld": false,
+        "tijd": "11:05"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 4
+    "totaalGemist": 1,
+    "totaalInbound": 5
   }
 }
