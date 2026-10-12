@@ -1,18 +1,33 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T07:20:42Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-10-12T07:30:51Z",
+  "tickets": [
+    {
+      "ticketNumber": "2858",
+      "tijd": "09:27",
+      "titel": "Vrijstelling van concurrentie- en relatiebeding",
+      "klant": "V. Schrieks",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014579001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Phone": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 27,
-    "inDeWacht": 17,
+    "totaalOpen": 28,
+    "inDeWacht": 18,
     "statusBreakdown": {
+      "In de wacht": 18,
       "Open": 10,
-      "Gesloten": 685,
-      "In de wacht": 17
+      "Gesloten": 685
     },
     "capBereikt": false
   },
@@ -232,6 +247,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014564001"
+    },
+    {
+      "ticketNumber": "2858",
+      "titel": "Vrijstelling van concurrentie- en relatiebeding",
+      "klant": "V. Schrieks",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014579001"
     }
   ]
 }
