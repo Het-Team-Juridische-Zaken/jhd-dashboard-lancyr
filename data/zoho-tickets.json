@@ -1,92 +1,17 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T17:32:23Z",
-  "tickets": [
-    {
-      "ticketNumber": "2851",
-      "tijd": "13:17",
-      "titel": "Wachten op belafspraak",
-      "klant": "H.W. deLeeuw",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014541001",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2852",
-      "tijd": "13:22",
-      "titel": "Fwd: Verzoek beoordeling huurprijswijzigingsbeding Stadgenoot",
-      "klant": "R.H.K. Tevreden",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014550001",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2853",
-      "tijd": "14:08",
-      "titel": "2844 Nieuw dossier ",
-      "klant": "Schade Particulier | Nedvol",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530057",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2854",
-      "tijd": "14:21",
-      "titel": "2830 Dossier bestaat al ",
-      "klant": "Schade Particulier | Nedvol",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530107",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2855",
-      "tijd": "16:09",
-      "titel": "FW: 84230117_Roerdink. Een vraag stellen",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014550055",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2856",
-      "tijd": "17:07",
-      "titel": "FW: 84213359_Cheng Vraag over juridisch conflict met gerechtsdeurwaarder",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014542033",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Email": 6
-  },
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T05:01:02Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 6,
+    "nieuweVandaag": 0,
     "geslotenVandaag": 0,
-    "totaalOpen": 26,
+    "totaalOpen": 27,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 9,
-      "Gesloten": 687,
+      "Open": 10,
+      "Gesloten": 685,
       "In de wacht": 17
     },
     "capBereikt": false
@@ -299,6 +224,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-09",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014541001"
+    },
+    {
+      "ticketNumber": "2857",
+      "titel": "FW: Adreswijziging polis 5607-8114706",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-10",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014564001"
     }
   ]
 }
