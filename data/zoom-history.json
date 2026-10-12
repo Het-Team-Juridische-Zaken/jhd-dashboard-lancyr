@@ -4871,12 +4871,26 @@
         "nummer": "+31615504975",
         "teruggebeld": false,
         "tijd": "12:05"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31684920668",
+        "teruggebeld": false,
+        "tijd": "12:22"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31614870130",
+        "teruggebeld": false,
+        "tijd": "12:24"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-12",
-    "generated_at": "2026-10-12T10:20:52Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-12T10:30:51Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -4905,10 +4919,24 @@
         "nummer": "+31615504975",
         "teruggebeld": false,
         "tijd": "12:05"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31684920668",
+        "teruggebeld": false,
+        "tijd": "12:22"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31614870130",
+        "teruggebeld": false,
+        "tijd": "12:24"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 11
+    "totaalGemist": 6,
+    "totaalInbound": 13
   }
 }
