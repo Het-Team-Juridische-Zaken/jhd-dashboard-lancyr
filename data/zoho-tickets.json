@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T13:10:47Z",
+  "generated_at": "2026-10-12T13:20:49Z",
   "tickets": [
     {
       "ticketNumber": "2858",
@@ -37,19 +37,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014594001",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2861",
+      "tijd": "15:11",
+      "titel": "Conflict met dakdekker",
+      "klant": "W.H. Fahner",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014605013",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 3
+    "Phone": 4
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
+    "nieuweVandaag": 4,
     "geslotenVandaag": 1,
-    "totaalOpen": 29,
-    "inDeWacht": 19,
+    "totaalOpen": 30,
+    "inDeWacht": 20,
     "statusBreakdown": {
-      "In de wacht": 19,
+      "In de wacht": 20,
       "Open": 10,
       "Gesloten": 686
     },
@@ -271,6 +283,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014564001"
+    },
+    {
+      "ticketNumber": "2861",
+      "titel": "Conflict met dakdekker",
+      "klant": "W.H. Fahner",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014605013"
     },
     {
       "ticketNumber": "2860",

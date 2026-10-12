@@ -372,13 +372,13 @@
   "2026-10-12": {
     "capBereikt": false,
     "geslotenVandaag": 1,
-    "inDeWacht": 19,
-    "nieuweVandaag": 3,
+    "inDeWacht": 20,
+    "nieuweVandaag": 4,
     "statusBreakdown": {
       "Gesloten": 686,
-      "In de wacht": 19,
+      "In de wacht": 20,
       "Open": 10
     },
-    "totaalOpen": 29
+    "totaalOpen": 30
   }
 }
