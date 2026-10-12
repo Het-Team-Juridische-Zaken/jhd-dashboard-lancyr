@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T16:50:49Z",
+  "generated_at": "2026-10-12T21:24:18Z",
   "tickets": [
     {
       "ticketNumber": "2858",
@@ -120,10 +120,10 @@
     "nieuweVandaag": 9,
     "geslotenVandaag": 1,
     "totaalOpen": 35,
-    "inDeWacht": 22,
+    "inDeWacht": 21,
     "statusBreakdown": {
-      "In de wacht": 22,
-      "Open": 13,
+      "Open": 14,
+      "In de wacht": 21,
       "Gesloten": 686
     },
     "capBereikt": false
@@ -213,7 +213,7 @@
       "ticketNumber": "2699",
       "titel": "FW: 84190257_Schiphuis: Beroep op rechtsbijstandverzekering",
       "klant": "R.B. Schiphuis",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-09-08",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013871009"
     },
