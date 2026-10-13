@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T07:40:43Z",
+  "generated_at": "2026-10-13T07:50:48Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,11 +8,11 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 3,
     "totaalOpen": 32,
-    "inDeWacht": 25,
+    "inDeWacht": 24,
     "statusBreakdown": {
-      "In de wacht": 25,
-      "Gesloten": 689,
-      "Open": 7
+      "Open": 8,
+      "In de wacht": 24,
+      "Gesloten": 689
     },
     "capBereikt": false
   },
@@ -173,7 +173,7 @@
       "ticketNumber": "2851",
       "titel": "Wachten op belafspraak",
       "klant": "H.W. deLeeuw",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-09",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014541001"
     },
