@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T16:50:43Z",
+  "generated_at": "2026-10-13T19:26:03Z",
   "tickets": [
     {
       "ticketNumber": "2867",
@@ -48,11 +48,11 @@
     "nieuweVandaag": 3,
     "geslotenVandaag": 21,
     "totaalOpen": 18,
-    "inDeWacht": 10,
+    "inDeWacht": 9,
     "statusBreakdown": {
-      "Open": 8,
+      "Open": 9,
       "Gesloten": 706,
-      "In de wacht": 10
+      "In de wacht": 9
     },
     "capBereikt": false
   },
@@ -133,7 +133,7 @@
       "ticketNumber": "2838",
       "titel": "Belafspraak 7 oktober 9:30 uur",
       "klant": "I. Sluiter-Mahabir",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-07",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014480013"
     },
