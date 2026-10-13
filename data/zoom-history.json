@@ -5157,12 +5157,19 @@
         "nummer": "+31647965964",
         "teruggebeld": false,
         "tijd": "17:27"
+      },
+      {
+        "callResult": "no_answer",
+        "naam": "Onbekend",
+        "nummer": "+31647965964",
+        "teruggebeld": false,
+        "tijd": "18:11"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T16:10:55Z",
-    "nietTerugGebeld": 19,
+    "generated_at": "2026-10-13T16:20:46Z",
+    "nietTerugGebeld": 20,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5296,10 +5303,17 @@
         "nummer": "+31647965964",
         "teruggebeld": false,
         "tijd": "17:27"
+      },
+      {
+        "callResult": "no_answer",
+        "naam": "Onbekend",
+        "nummer": "+31647965964",
+        "teruggebeld": false,
+        "tijd": "18:11"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 22,
-    "totaalInbound": 27
+    "totaalGemist": 23,
+    "totaalInbound": 28
   }
 }
