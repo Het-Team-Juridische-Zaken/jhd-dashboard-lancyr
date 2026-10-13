@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T08:40:46Z",
-  "totaalInbound": 7,
-  "totaalGemist": 5,
+  "generated_at": "2026-10-13T08:50:42Z",
+  "totaalInbound": 9,
+  "totaalGemist": 7,
   "terugGebeld": 0,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 7,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31657999015",
@@ -38,6 +38,20 @@
       "nummer": "+31642150667",
       "naam": "Onbekend",
       "tijd": "10:02",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31302410530",
+      "naam": "Onbekend",
+      "tijd": "10:38",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31618733039",
+      "naam": "Onbekend",
+      "tijd": "10:45",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -75,6 +89,20 @@
       "nummer": "+31642150667",
       "naam": "Onbekend",
       "tijd": "10:02",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31302410530",
+      "naam": "Onbekend",
+      "tijd": "10:38",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31618733039",
+      "naam": "Onbekend",
+      "tijd": "10:45",
       "callResult": "abandoned",
       "teruggebeld": false
     }
