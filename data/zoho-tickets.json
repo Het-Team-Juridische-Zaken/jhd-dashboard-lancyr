@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T13:50:48Z",
+  "generated_at": "2026-10-13T14:01:13Z",
   "tickets": [
     {
       "ticketNumber": "2867",
@@ -34,13 +34,13 @@
   "brandmeesterCount": 1,
   "ticketStats": {
     "nieuweVandaag": 2,
-    "geslotenVandaag": 19,
-    "totaalOpen": 18,
+    "geslotenVandaag": 20,
+    "totaalOpen": 17,
     "inDeWacht": 12,
     "statusBreakdown": {
-      "Open": 6,
+      "Gesloten": 706,
       "In de wacht": 12,
-      "Gesloten": 705
+      "Open": 5
     },
     "capBereikt": false
   },
@@ -156,14 +156,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-09",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530107"
-    },
-    {
-      "ticketNumber": "2858",
-      "titel": "Vrijstelling van concurrentie- en relatiebeding",
-      "klant": "V. Schrieks",
-      "status": "Open",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014579001"
     },
     {
       "ticketNumber": "2863",
