@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T09:01:05Z",
-  "totaalInbound": 9,
-  "totaalGemist": 7,
+  "generated_at": "2026-10-13T09:10:43Z",
+  "totaalInbound": 10,
+  "totaalGemist": 8,
   "terugGebeld": 0,
-  "nietTerugGebeld": 7,
+  "nietTerugGebeld": 8,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31657999015",
@@ -53,6 +53,13 @@
       "naam": "Onbekend",
       "tijd": "10:45",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31687344718",
+      "naam": "Onbekend",
+      "tijd": "11:01",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -104,6 +111,13 @@
       "naam": "Onbekend",
       "tijd": "10:45",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31687344718",
+      "naam": "Onbekend",
+      "tijd": "11:01",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
