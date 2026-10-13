@@ -385,12 +385,12 @@
     "capBereikt": false,
     "geslotenVandaag": 3,
     "inDeWacht": 24,
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "statusBreakdown": {
       "Gesloten": 689,
       "In de wacht": 24,
-      "Open": 8
+      "Open": 9
     },
-    "totaalOpen": 32
+    "totaalOpen": 33
   }
 }
