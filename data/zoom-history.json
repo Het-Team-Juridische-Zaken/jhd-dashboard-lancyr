@@ -4999,8 +4999,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 3,
-        "gesprekstijdSec": 394,
-        "uitgaand": 0
+        "gesprekstijdSec": 506,
+        "uitgaand": 1
       }
     },
     "alleGemistNummers": [
@@ -5092,14 +5092,14 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31611495020",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "13:07"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31647965964",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "13:15"
       },
       {
@@ -5133,8 +5133,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T13:01:08Z",
-    "nietTerugGebeld": 18,
+    "generated_at": "2026-10-13T13:11:19Z",
+    "nietTerugGebeld": 16,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5223,20 +5223,6 @@
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
-        "nummer": "+31611495020",
-        "teruggebeld": false,
-        "tijd": "13:07"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31647965964",
-        "teruggebeld": false,
-        "tijd": "13:15"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
         "nummer": "+31616783000",
         "teruggebeld": false,
         "tijd": "13:35"
@@ -5263,7 +5249,7 @@
         "tijd": "14:50"
       }
     ],
-    "terugGebeld": 0,
+    "terugGebeld": 2,
     "totaalGemist": 18,
     "totaalInbound": 21
   }

@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T13:01:08Z",
+  "generated_at": "2026-10-13T13:11:19Z",
   "totaalInbound": 21,
   "totaalGemist": 18,
-  "terugGebeld": 0,
-  "nietTerugGebeld": 18,
+  "terugGebeld": 2,
+  "nietTerugGebeld": 16,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31657999015",
@@ -87,20 +87,6 @@
       "nummer": "+31687153791",
       "naam": "Onbekend",
       "tijd": "12:14",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31611495020",
-      "naam": "Onbekend",
-      "tijd": "13:07",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31647965964",
-      "naam": "Onbekend",
-      "tijd": "13:15",
       "callResult": "abandoned",
       "teruggebeld": false
     },
@@ -223,14 +209,14 @@
       "naam": "Onbekend",
       "tijd": "13:07",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31647965964",
       "naam": "Onbekend",
       "tijd": "13:15",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31616783000",
@@ -264,8 +250,8 @@
   "agenten": {
     "Dewi Verver": {
       "beantwoord": 3,
-      "uitgaand": 0,
-      "gesprekstijdSec": 394
+      "uitgaand": 1,
+      "gesprekstijdSec": 506
     }
   },
   "beantwoordZonderAgent": 0
