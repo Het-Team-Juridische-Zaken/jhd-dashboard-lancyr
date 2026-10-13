@@ -1,18 +1,18 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T06:40:36Z",
+  "generated_at": "2026-10-13T06:50:37Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 2,
-    "totaalOpen": 33,
-    "inDeWacht": 22,
+    "geslotenVandaag": 3,
+    "totaalOpen": 32,
+    "inDeWacht": 25,
     "statusBreakdown": {
-      "Open": 11,
-      "Gesloten": 688,
-      "In de wacht": 22
+      "Gesloten": 689,
+      "In de wacht": 25,
+      "Open": 7
     },
     "capBereikt": false
   },
@@ -114,14 +114,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013972024"
     },
     {
-      "ticketNumber": "2759",
-      "titel": "Juridische bijstand schadeclaim fietsongeval moeder",
-      "klant": "L.A. van derNiet",
-      "status": "Open",
-      "aangemaakt": "2026-09-21",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014153001"
-    },
-    {
       "ticketNumber": "2750",
       "titel": "Locatieverbod BSO en bezwaarprocedure met Simone de Ruiter",
       "klant": "W. Heemskerk",
@@ -157,7 +149,7 @@
       "ticketNumber": "2838",
       "titel": "Belafspraak 7 oktober 9:30 uur",
       "klant": "I. Sluiter-Mahabir",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-07",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014480013"
     },
@@ -173,9 +165,17 @@
       "ticketNumber": "2850",
       "titel": "FW: Belafspraak Ida Hogervorst_ Account onbekend",
       "klant": "De juridische helpdesk",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-08",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530001"
+    },
+    {
+      "ticketNumber": "2851",
+      "titel": "Wachten op belafspraak",
+      "klant": "H.W. deLeeuw",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-09",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014541001"
     },
     {
       "ticketNumber": "2852",
@@ -216,14 +216,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-09",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530057"
-    },
-    {
-      "ticketNumber": "2851",
-      "titel": "Wachten op belafspraak",
-      "klant": "H.W. deLeeuw",
-      "status": "Open",
-      "aangemaakt": "2026-10-09",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014541001"
     },
     {
       "ticketNumber": "2865",
