@@ -5031,12 +5031,19 @@
         "nummer": "+31646898200",
         "teruggebeld": false,
         "tijd": "09:58"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31642150667",
+        "teruggebeld": false,
+        "tijd": "10:02"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T08:01:00Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-13T08:10:44Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5065,10 +5072,17 @@
         "nummer": "+31646898200",
         "teruggebeld": false,
         "tijd": "09:58"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31642150667",
+        "teruggebeld": false,
+        "tijd": "10:02"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 6
+    "totaalGemist": 5,
+    "totaalInbound": 7
   }
 }
