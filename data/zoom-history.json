@@ -5003,14 +5003,30 @@
         "uitgaand": 0
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31657999015",
+        "teruggebeld": false,
+        "tijd": "09:02"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T07:10:46Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-10-13T07:20:47Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31657999015",
+        "teruggebeld": false,
+        "tijd": "09:02"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 1
+    "totaalGemist": 1,
+    "totaalInbound": 2
   }
 }
