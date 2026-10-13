@@ -1,13 +1,13 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T12:40:43Z",
+  "generated_at": "2026-10-13T12:50:46Z",
   "tickets": [
     {
       "ticketNumber": "2867",
       "tijd": "11:12",
       "titel": "Re: Uw nieuwe factuur en polisgegevens | Uw relatienummer 84285638",
       "klant": "H. Altellawi",
-      "status": "Open",
+      "status": "Gesloten",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014648001",
@@ -34,13 +34,13 @@
   "brandmeesterCount": 1,
   "ticketStats": {
     "nieuweVandaag": 2,
-    "geslotenVandaag": 8,
-    "totaalOpen": 29,
-    "inDeWacht": 20,
+    "geslotenVandaag": 20,
+    "totaalOpen": 17,
+    "inDeWacht": 11,
     "statusBreakdown": {
-      "Gesloten": 694,
-      "Open": 9,
-      "In de wacht": 20
+      "Gesloten": 706,
+      "In de wacht": 11,
+      "Open": 6
     },
     "capBereikt": false
   },
@@ -70,14 +70,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000012410001"
     },
     {
-      "ticketNumber": "2459",
-      "titel": "autoverzekering",
-      "klant": "H. Chait",
-      "status": "In de wacht",
-      "aangemaakt": "2026-07-20",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000012642001"
-    },
-    {
       "ticketNumber": "2482",
       "titel": "FW: Schade melden casco motorrijtuig versie 2/0917 (i-frame) afgerond door DM Spreekmeester () polisnr.: 5607-3266224",
       "klant": "Intake Schade | Lancyr",
@@ -94,68 +86,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013207089"
     },
     {
-      "ticketNumber": "2611",
-      "titel": "Fwd: Finale aanmaning factuur 2026270",
-      "klant": "Biedonk",
-      "status": "In de wacht",
-      "aangemaakt": "2026-08-19",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013539038"
-    },
-    {
-      "ticketNumber": "2617",
-      "titel": "FW: 84195663_ Biemans: Een vraag stellen",
-      "klant": "R.C.M. Biemans",
-      "status": "In de wacht",
-      "aangemaakt": "2026-08-19",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013555001"
-    },
-    {
-      "ticketNumber": "2674",
-      "titel": "Rechtsbijstandsverzekering — polisblad niet ontvangen",
-      "klant": "J.M. Scholten",
-      "status": "In de wacht",
-      "aangemaakt": "2026-08-31",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013692026"
-    },
-    {
-      "ticketNumber": "2696",
-      "titel": "FW: 84195328_Volp: Bestelling: [C0009FT9FD] retourzending 109767186",
-      "klant": "C.K.N. Volp",
-      "status": "In de wacht",
-      "aangemaakt": "2026-09-07",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013803182"
-    },
-    {
       "ticketNumber": "2699",
       "titel": "FW: 84190257_Schiphuis: Beroep op rechtsbijstandverzekering",
       "klant": "R.B. Schiphuis",
       "status": "Open",
       "aangemaakt": "2026-09-08",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013871009"
-    },
-    {
-      "ticketNumber": "2721",
-      "titel": "FW: Een vraag stellen",
-      "klant": "De juridische helpdesk",
-      "status": "In de wacht",
-      "aangemaakt": "2026-09-11",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013972024"
-    },
-    {
-      "ticketNumber": "2750",
-      "titel": "Locatieverbod BSO en bezwaarprocedure met Simone de Ruiter",
-      "klant": "W. Heemskerk",
-      "status": "In de wacht",
-      "aangemaakt": "2026-09-21",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014108001"
-    },
-    {
-      "ticketNumber": "2830",
-      "titel": "FW: 84204424_Zuilhof: Een vraag stellen: geschil gemeente dakterras",
-      "klant": "J.C. Zuilhof",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014439023"
     },
     {
       "ticketNumber": "2833",
@@ -166,28 +102,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014426020"
     },
     {
-      "ticketNumber": "2824",
-      "titel": "VSO",
-      "klant": "M.G. Gowda",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014427001"
-    },
-    {
       "ticketNumber": "2838",
       "titel": "Belafspraak 7 oktober 9:30 uur",
       "klant": "I. Sluiter-Mahabir",
       "status": "In de wacht",
       "aangemaakt": "2026-10-07",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014480013"
-    },
-    {
-      "ticketNumber": "2844",
-      "titel": "Nieuw schadenummer nodig [D3076310_I74076211]",
-      "klant": "H.A.G. Kamperman",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-07",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014493031"
     },
     {
       "ticketNumber": "2850",
@@ -230,12 +150,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530107"
     },
     {
-      "ticketNumber": "2853",
-      "titel": "2844 Nieuw dossier ",
-      "klant": "Schade Particulier | Nedvol",
-      "status": "Open",
-      "aangemaakt": "2026-10-09",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530057"
+      "ticketNumber": "2863",
+      "titel": "Vraag over Zicht Plan GrandOptical",
+      "klant": "I. Sluiter-Mahabir",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597022"
     },
     {
       "ticketNumber": "2865",
@@ -244,14 +164,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
-    },
-    {
-      "ticketNumber": "2863",
-      "titel": "FW: 84198791_Sluiter-Mahabir: Vraag over Zicht Plan GrandOptical",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597022"
     },
     {
       "ticketNumber": "2860",
@@ -268,14 +180,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014579001"
-    },
-    {
-      "ticketNumber": "2867",
-      "titel": "Re: Uw nieuwe factuur en polisgegevens | Uw relatienummer 84285638",
-      "klant": "H. Altellawi",
-      "status": "Open",
-      "aangemaakt": "2026-10-13",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014648001"
     }
   ]
 }
