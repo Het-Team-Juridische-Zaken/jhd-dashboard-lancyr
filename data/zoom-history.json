@@ -5066,12 +5066,19 @@
         "nummer": "+31628497633",
         "teruggebeld": false,
         "tijd": "11:23"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31651146485",
+        "teruggebeld": false,
+        "tijd": "11:36"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T09:40:49Z",
-    "nietTerugGebeld": 9,
+    "generated_at": "2026-10-13T09:50:52Z",
+    "nietTerugGebeld": 10,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5135,10 +5142,17 @@
         "nummer": "+31628497633",
         "teruggebeld": false,
         "tijd": "11:23"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31651146485",
+        "teruggebeld": false,
+        "tijd": "11:36"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 9,
-    "totaalInbound": 11
+    "totaalGemist": 10,
+    "totaalInbound": 12
   }
 }
