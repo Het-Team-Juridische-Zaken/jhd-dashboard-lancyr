@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T11:01:05Z",
+  "generated_at": "2026-10-13T11:10:49Z",
   "tickets": [
     {
       "ticketNumber": "2867",
@@ -13,20 +13,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014648001",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2868",
+      "tijd": "13:02",
+      "titel": "Conflict met verhuurder",
+      "klant": "E.E. Koster",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014650013",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 1
+    "Email": 1,
+    "Phone": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 3,
-    "totaalOpen": 33,
+    "totaalOpen": 34,
     "inDeWacht": 23,
     "statusBreakdown": {
-      "Open": 10,
       "In de wacht": 23,
+      "Open": 11,
       "Gesloten": 689
     },
     "capBereikt": false
@@ -233,6 +246,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530057"
     },
     {
+      "ticketNumber": "2862",
+      "titel": "Conflict met plaatsing zonnepanelen",
+      "klant": "S.J. van Poelje",
+      "status": "Open",
+      "aangemaakt": "2026-10-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014585051"
+    },
+    {
       "ticketNumber": "2866",
       "titel": "conflict met rabobank",
       "klant": "P.C.G. Thole",
@@ -257,14 +278,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597022"
     },
     {
-      "ticketNumber": "2862",
-      "titel": "Conflict met plaatsing zonnepanelen",
-      "klant": "S.J. van Poelje",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014585051"
-    },
-    {
       "ticketNumber": "2861",
       "titel": "Conflict met dakdekker",
       "klant": "W.H. Fahner",
@@ -287,6 +300,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014579001"
+    },
+    {
+      "ticketNumber": "2868",
+      "titel": "Conflict met verhuurder",
+      "klant": "E.E. Koster",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-13",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014650013"
     },
     {
       "ticketNumber": "2867",

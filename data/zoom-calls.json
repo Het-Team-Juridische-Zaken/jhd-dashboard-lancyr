@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T11:01:07Z",
-  "totaalInbound": 14,
-  "totaalGemist": 12,
+  "generated_at": "2026-10-13T11:10:53Z",
+  "totaalInbound": 16,
+  "totaalGemist": 13,
   "terugGebeld": 0,
-  "nietTerugGebeld": 12,
+  "nietTerugGebeld": 13,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31657999015",
@@ -87,6 +87,13 @@
       "nummer": "+31687153791",
       "naam": "Onbekend",
       "tijd": "12:14",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31611495020",
+      "naam": "Onbekend",
+      "tijd": "13:07",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -175,13 +182,20 @@
       "tijd": "12:14",
       "callResult": "abandoned",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31611495020",
+      "naam": "Onbekend",
+      "tijd": "13:07",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 2,
+      "beantwoord": 3,
       "uitgaand": 0,
-      "gesprekstijdSec": 116
+      "gesprekstijdSec": 394
     }
   },
   "beantwoordZonderAgent": 0
