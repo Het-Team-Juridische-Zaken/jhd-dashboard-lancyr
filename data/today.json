@@ -1,23 +1,23 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T15:31:39Z",
+  "generated_at": "2026-10-13T15:41:24Z",
   "drukte": "matig",
   "gesprekken": 5,
   "stats": {
-    "opgelost": 0,
-    "brandmeester": 4,
+    "opgelost": 1,
+    "brandmeester": 3,
     "afkoop": 0,
-    "terugbel": 1,
+    "terugbel": 0,
     "geenDekking": 0,
-    "verkeerdNummer": 0
+    "verkeerdNummer": 1
   },
-  "score": 5.8,
+  "score": 4.8,
   "conversations": [
     {
       "tijd": "12:56",
       "titel": "VVE-geschil en daklek reparatie met Evelien Foster",
       "personen": "Verzekerde: E.E. Koster · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Evelien Foster belt met een VVE-geschil en daklek: haar VVE-medegenoot weigert bijdrage aan opstelverzekering en onderhoud, waardoor haar dak lek is geraakt. De medewerker (Davy van HTJZ) verifieert haar identiteit via postcode en verwijst haar expliciet door naar Brandmeester voor rechtsbijstand bij deze ingewikkelde woningsituatie.",
+      "samenvatting": "Beller Evelien Foster heeft een VVE-geschil met medeeigenaar boven (weigering bijdrage opstelverzekering) en een daklek in haar aanbouw die ontstaan is door verwaarlozing van het gemeenschappelijk dak van de buur. De beller is geverifieerd via postcode (9717 JD) en het systeem herkent haar automatisch. De medewerker heeft geen inhoudelijk juridisch advies gegeven maar heeft de zaak direct doorverwezen naar Brandmeester (rechtsbijstandsverzekering) wegens de complexiteit van het VVE-geschil en aansprakelijkheidskwestie.",
       "tags": [
         [
           "tag-huur",
@@ -38,20 +38,20 @@
       "tijd": "15:07",
       "titel": "Zaaksoverdracht naar Brandmeester en verzekeringsvragen",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Beller belt terug naar aanleiding van een eerdere zaaksoverdracht naar Brandmeester en heeft twee vragen: (1) wat betekent de uitspraak dat Lancyr niet meer bevoegd is na aanmelding bij Brandmeester, en (2) of hij een lek-expert moet inschakelen. De medewerker legt uit dat Brandmeester nu de zaak volledig overneemt en adviseert de vervolgvraag over de lek-expert ook met Brandmeester te bespreken. De beller is niet geverifieerd in het systeem; er is beperkt inhoudelijk juridisch advies gegeven (vooral procedurele uitleg en routering naar Brandmeester).",
+      "samenvatting": "De beller belt terug naar aanleiding van een eerder e-mailbericht van Lancyr over overdracht naar Brandmeester. De medewerker bevestigt dat de zaak naar Brandmeester is overgedragen en dat deze nu volledig bevoegd is; verdere vragen over de zaak (bijv. lek-expert inschakelen) worden doorverwezen naar Brandmeester. De beller is niet geverifieerd in het systeem en er is geen inhoudelijk juridisch advies gegeven, alleen procedurele uitleg over de overdracht.",
       "tags": [
         [
-          "tag-bouw",
-          "Bouwrecht"
+          "tag-overig",
+          "Routering"
         ]
       ],
       "uitkomst": [
-        "outcome-brandmeester",
-        "Doorverwezen naar Brandmeester"
+        "outcome-verkeerd",
+        "Verkeerd nummer"
       ],
       "terugbel": false,
-      "verkeerdVerbonden": false,
-      "rechtsbijstandVerwijzing": true,
+      "verkeerdVerbonden": true,
+      "rechtsbijstandVerwijzing": false,
       "adviesGegeven": false,
       "identiteitGeverifieerd": false
     },
@@ -59,7 +59,7 @@
       "tijd": "15:10",
       "titel": "Consumentengeschil doorsturen naar Brandmeester",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Beller belt met vragen over een consumentengeschil dat door een eerdere collega ten onrechte onder 'vermogen en belastingen' is gecategoriseerd in plaats van 'consumentenrecht'. De beller is niet geverifieerd (geen Zoho-match, geen naam/adres/polisnummer-controle in transcript). Medewerker Davy geeft geen inhoudelijk advies maar verwijst de zaak direct door naar Brandmeester voor verdere behandeling.",
+      "samenvatting": "Beller belt over een consumentengeschil dat eerder foutief is gekwalificeerd als vermogenszaak door een collega. De medewerker Davy heeft de beller niet geverifieerd (geen Zoho-match, geen expliciete verificatie in transcript) en heeft geen inhoudelijk juridisch advies gegeven, maar heeft de zaak direct doorverwezen naar Brandmeester (de partijjurist) voor verdere behandeling.",
       "tags": [
         [
           "tag-consument",
@@ -80,32 +80,32 @@
       "tijd": "15:14",
       "titel": "Unife-verzekering: weigering vergoeding spoedeisende opname België",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Beller meldt dat Unife een spoedeisende opname in België niet vergoedt met beroep op een alarmcentrale-voorwaarde. De identiteit is geverifieerd via postcode en huisnummer (2806 JS, huisnummer 9). De medewerker heeft inhoudelijk juridisch advies gegeven: een formele schriftelijke aanvraag aan Unife met reactietermijn van 14 werkdagen, waarna terugbellen mogelijk is voor verdere stappen.",
+      "samenvatting": "Beller is verzekerd bij Unife (geen Lancyr-polis) en heeft een geschil over niet-vergoeding van een spoedeisende opname in België. De medewerker heeft de beller niet geverifieerd in het Lancyr-systeem (geen Zoho-match, postcode-lookup onvolledig), maar gaf wel inhoudelijk juridisch advies: een schriftelijke aanvraag naar Unife sturen met reactietermijn van veertien werkdagen om Unife in gebreken te stellen. De beller werd niet doorverwezen naar rechtsbijstand, maar geadviseerd om na reactie terug te bellen.",
       "tags": [
         [
-          "tag-consument",
-          "Consumentenrecht"
+          "tag-overig",
+          "Verzekeringsrecht"
         ]
       ],
       "uitkomst": [
-        "outcome-terugbel",
-        "Terugbellen"
+        "outcome-opgelost",
+        "Telefonisch opgelost"
       ],
       "terugbel": true,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": false,
       "adviesGegeven": true,
-      "identiteitGeverifieerd": true
+      "identiteitGeverifieerd": false
     },
     {
       "tijd": "15:17",
       "titel": "Lekkage en schadevergoeding buurman – doorverwijzing naar jurist",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Beller belt na drie gemiste belafspraken over een lekkagekwestie met de buurman waarbij schadevergoeding en herstel ter discussie staan. De medewerker heeft de beller niet geverifieerd (geen Zoho-match en geen verificatiepoging in transcript), maar heeft wel inhoudelijk advies gegeven over de situatie en vervolgens de zaak doorverwezen naar Brandmeester (rechtsbijstand) omdat de situatie ingewikkelder en groter is geworden.",
+      "samenvatting": "Beller belt om vervolgstap na eerdere contact over lekkageschade van buurman. Beller is NIET geverifieerd (geen Zoho-match, geen verificatiepoging in gesprek). Medewerker geeft geen inhoudelijk juridisch advies, maar verwijst de zaak direct door naar Brandmeester omdat de situatie ingewikkelder is geworden.",
       "tags": [
         [
-          "tag-huur",
-          "Huurrecht"
+          "tag-bouw",
+          "Bouwrecht"
         ]
       ],
       "uitkomst": [
@@ -115,38 +115,47 @@
       "terugbel": false,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
-      "adviesGegeven": true,
+      "adviesGegeven": false,
       "identiteitGeverifieerd": false
     }
   ],
   "acties": [],
   "analyse": {
     "goed": [
-      "12:56 VVE-geschil: identiteit correct geverifieerd via postcode voordat doorverwijzing",
-      "15:14 Unife-verzekering: identiteit geverifieerd (postcode + huisnummer), inhoudelijk juridisch advies gegeven met concrete deadline (14 werkdagen reactietermijn)",
-      "15:14 Unife-verzekering: duidelijk vervolgplan afgesproken (schriftelijke aanvraag + terugbellen na deadline)",
-      "Alle doorverwijzingen naar Brandmeester zijn passend en goed gedocumenteerd"
+      "12:56 VVE-geschil: Identiteit correct geverifieerd via postcode (9717 JD) en automatische systeemherkenning",
+      "12:56 VVE-geschil: Juiste inschatting van complexiteit; zaak doelgericht doorverwezen naar Brandmeester in plaats van onvoldoende advies ter plekke",
+      "15:10 Consumentengeschil: Terecht geen inhoudelijk advies gegeven zonder verificatie; directe doorverwijzing naar Brandmeester was passend",
+      "Geen verstrekkingslijnbreuk bij gesprekken waar advies_gegeven=false én identiteit_geverifieerd=false, omdat geen inhoudelijk advies is gegeven"
     ],
     "beter": [
-      "15:07 Zaaksoverdracht Brandmeester: beller NIET geverifieerd in systeem voordat inhoudelijk advies werd gegeven (procedurele uitleg over Lancyr-bevoegdheid en lek-expert). Verificatie moet altijd eerst plaatsvinden, ook bij doorverwijzingen",
-      "15:10 Consumentengeschil: beller NIET geverifieerd (geen Zoho-match, geen naam/adres/polisnummer-controle). Hoewel geen inhoudelijk advies is gegeven, moet verificatie standaard aan het begin van elk gesprek plaatsvinden voordat routing beslissingen worden genomen",
-      "15:17 Lekkage buurman: kritieke fout – beller NIET geverifieerd maar WEL inhoudelijk juridisch advies gegeven over schadevergoeding en herstelplicht voordat doorverwijzing. Dit schendt de verificatienorm. Bovendien: herhaalcontact (drie gemiste afspraken) – vervolgplan had explicieter moeten zijn met concrete deadline",
-      "15:17 Lekkage buurman: schadevergoeding ter discussie maar geen dekkingscontrole (franchise EUR 250) vastgelegd in het gesprek"
+      "15:07 Zaaksoverdracht: Beller belt terug over dezelfde zaak (VVE/daklek van 12:56) maar is NIET geverifieerd – dit is een herhaalcontact zonder identiteitscontrole. Procedure: voordat mededelingen over zaaksstatus worden gedaan, dient beller opnieuw geverifieerd te worden",
+      "15:14 Unife-verzekering: KRITIEK – Identiteit niet geverifieerd (geen Zoho-match, postcode-lookup onvolledig) maar wel inhoudelijk juridisch advies gegeven (reactietermijn 14 werkdagen, schriftelijke aanvraag). Dit schendt de basisnorm dat polis+identiteit vooraf moeten worden gecontroleerd. Beller heeft geen Lancyr-polis; verificatieslag is hier nog essentiëler",
+      "15:14 Unife-verzekering: Geen concrete vervolgdeadline afgesproken ('na reactie terug te bellen' is vaag); beller had een duidelijke deadline moeten krijgen (bijv. 'bel na 16 januari terug')",
+      "15:17 Lekkage buurman: Beller is NIET geverifieerd ondanks dat dit een herhaalcontact is (vervolgstap na eerdere contact). Verificatiepoging ontbreekt volledig. Hoewel doorverwijzing naar Brandmeester passend is, diende eerst identiteit vastgesteld te worden",
+      "15:17 Lekkage buurman: Geen concrete vervolgdeadline afgesproken voor Brandmeester-overdracht"
     ]
   },
   "verkeerdVerbonden": {
-    "aantal": 0,
-    "percentage": 0.0
+    "aantal": 1,
+    "percentage": 20.0
   },
-  "rechtsbijstandVerwijzingen": 4,
+  "rechtsbijstandVerwijzingen": 3,
   "categorieen": [
     [
       "Huurrecht",
-      2
+      1
+    ],
+    [
+      "Routering",
+      1
     ],
     [
       "Consumentenrecht",
-      2
+      1
+    ],
+    [
+      "Verzekeringsrecht",
+      1
     ],
     [
       "Bouwrecht",
