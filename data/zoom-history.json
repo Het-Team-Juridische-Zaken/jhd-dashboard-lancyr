@@ -5108,12 +5108,19 @@
         "nummer": "+31616783000",
         "teruggebeld": false,
         "tijd": "13:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31637398933",
+        "teruggebeld": false,
+        "tijd": "13:54"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T12:01:06Z",
-    "nietTerugGebeld": 15,
+    "generated_at": "2026-10-13T12:10:50Z",
+    "nietTerugGebeld": 16,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5219,10 +5226,17 @@
         "nummer": "+31616783000",
         "teruggebeld": false,
         "tijd": "13:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31637398933",
+        "teruggebeld": false,
+        "tijd": "13:54"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 15,
-    "totaalInbound": 18
+    "totaalGemist": 16,
+    "totaalInbound": 19
   }
 }

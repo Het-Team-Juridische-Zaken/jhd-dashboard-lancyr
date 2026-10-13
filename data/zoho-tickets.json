@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T12:01:04Z",
+  "generated_at": "2026-10-13T12:10:46Z",
   "tickets": [
     {
       "ticketNumber": "2867",
@@ -36,10 +36,10 @@
     "nieuweVandaag": 2,
     "geslotenVandaag": 3,
     "totaalOpen": 34,
-    "inDeWacht": 22,
+    "inDeWacht": 21,
     "statusBreakdown": {
-      "Open": 12,
-      "In de wacht": 22,
+      "Open": 13,
+      "In de wacht": 21,
       "Gesloten": 689
     },
     "capBereikt": false
@@ -246,6 +246,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530057"
     },
     {
+      "ticketNumber": "2861",
+      "titel": "Conflict met dakdekker",
+      "klant": "W.H. Fahner",
+      "status": "Open",
+      "aangemaakt": "2026-10-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014605013"
+    },
+    {
       "ticketNumber": "2862",
       "titel": "Conflict met plaatsing zonnepanelen",
       "klant": "S.J. van Poelje",
@@ -276,14 +284,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597022"
-    },
-    {
-      "ticketNumber": "2861",
-      "titel": "Conflict met dakdekker",
-      "klant": "W.H. Fahner",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014605013"
     },
     {
       "ticketNumber": "2860",
