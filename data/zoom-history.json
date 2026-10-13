@@ -5059,12 +5059,19 @@
         "nummer": "+31687344718",
         "teruggebeld": false,
         "tijd": "11:01"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31628497633",
+        "teruggebeld": false,
+        "tijd": "11:23"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T09:20:43Z",
-    "nietTerugGebeld": 8,
+    "generated_at": "2026-10-13T09:31:04Z",
+    "nietTerugGebeld": 9,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5121,10 +5128,17 @@
         "nummer": "+31687344718",
         "teruggebeld": false,
         "tijd": "11:01"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31628497633",
+        "teruggebeld": false,
+        "tijd": "11:23"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 8,
-    "totaalInbound": 10
+    "totaalGemist": 9,
+    "totaalInbound": 11
   }
 }
