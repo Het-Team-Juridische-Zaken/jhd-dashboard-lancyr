@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T14:20:43Z",
+  "generated_at": "2026-10-13T14:30:59Z",
   "tickets": [
     {
       "ticketNumber": "2867",
@@ -34,12 +34,12 @@
   "brandmeesterCount": 1,
   "ticketStats": {
     "nieuweVandaag": 2,
-    "geslotenVandaag": 19,
-    "totaalOpen": 18,
+    "geslotenVandaag": 21,
+    "totaalOpen": 17,
     "inDeWacht": 11,
     "statusBreakdown": {
-      "Open": 7,
-      "Gesloten": 705,
+      "Open": 6,
+      "Gesloten": 706,
       "In de wacht": 11
     },
     "capBereikt": false
@@ -102,6 +102,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013871009"
     },
     {
+      "ticketNumber": "2782",
+      "titel": "Waterschade naastpand: stappenplan en deskundigenonderzoek",
+      "klant": "M. deFeijter",
+      "status": "Open",
+      "aangemaakt": "2026-09-25",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014299001"
+    },
+    {
       "ticketNumber": "2833",
       "titel": "Rechtsbijstandverzekering elektrische fiets moeder Gaarthuis",
       "klant": "J.M.T. Gaarthuis",
@@ -156,22 +164,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-09",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530107"
-    },
-    {
-      "ticketNumber": "2863",
-      "titel": "Vraag over Zicht Plan GrandOptical",
-      "klant": "I. Sluiter-Mahabir",
-      "status": "Open",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597022"
-    },
-    {
-      "ticketNumber": "2862",
-      "titel": "Conflict met plaatsing zonnepanelen",
-      "klant": "S.J. van Poelje",
-      "status": "Open",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014585051"
     },
     {
       "ticketNumber": "2865",
