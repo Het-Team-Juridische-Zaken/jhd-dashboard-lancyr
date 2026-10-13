@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T12:50:46Z",
+  "generated_at": "2026-10-13T13:01:05Z",
   "tickets": [
     {
       "ticketNumber": "2867",
@@ -25,22 +25,34 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014650013",
       "channel": "Phone",
       "doorgezetBrandmeester": true
+    },
+    {
+      "ticketNumber": "2869",
+      "tijd": "14:59",
+      "titel": "Fwd: Vivian en Senne Duifhuis",
+      "klant": "S.K. Cheng",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652021",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 1,
+    "Email": 2,
     "Phone": 1
   },
   "brandmeesterCount": 1,
   "ticketStats": {
-    "nieuweVandaag": 2,
-    "geslotenVandaag": 20,
-    "totaalOpen": 17,
+    "nieuweVandaag": 3,
+    "geslotenVandaag": 19,
+    "totaalOpen": 19,
     "inDeWacht": 11,
     "statusBreakdown": {
-      "Gesloten": 706,
-      "In de wacht": 11,
-      "Open": 6
+      "Open": 8,
+      "Gesloten": 705,
+      "In de wacht": 11
     },
     "capBereikt": false
   },
@@ -68,6 +80,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-07-08",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000012410001"
+    },
+    {
+      "ticketNumber": "2459",
+      "titel": "autoverzekering",
+      "klant": "H. Chait",
+      "status": "Open",
+      "aangemaakt": "2026-07-20",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000012642001"
     },
     {
       "ticketNumber": "2482",
@@ -180,6 +200,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014579001"
+    },
+    {
+      "ticketNumber": "2869",
+      "titel": "Fwd: Vivian en Senne Duifhuis",
+      "klant": "S.K. Cheng",
+      "status": "Open",
+      "aangemaakt": "2026-10-13",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652021"
     }
   ]
 }

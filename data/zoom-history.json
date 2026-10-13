@@ -5115,12 +5115,26 @@
         "nummer": "+31637398933",
         "teruggebeld": false,
         "tijd": "13:54"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640843511",
+        "teruggebeld": false,
+        "tijd": "14:47"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31614558128",
+        "teruggebeld": false,
+        "tijd": "14:50"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T12:50:51Z",
-    "nietTerugGebeld": 16,
+    "generated_at": "2026-10-13T13:01:08Z",
+    "nietTerugGebeld": 18,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5233,10 +5247,24 @@
         "nummer": "+31637398933",
         "teruggebeld": false,
         "tijd": "13:54"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640843511",
+        "teruggebeld": false,
+        "tijd": "14:47"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31614558128",
+        "teruggebeld": false,
+        "tijd": "14:50"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 16,
-    "totaalInbound": 19
+    "totaalGemist": 18,
+    "totaalInbound": 21
   }
 }
