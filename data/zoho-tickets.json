@@ -1,18 +1,18 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T06:30:49Z",
+  "generated_at": "2026-10-13T06:40:36Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 0,
-    "totaalOpen": 35,
-    "inDeWacht": 21,
+    "geslotenVandaag": 2,
+    "totaalOpen": 33,
+    "inDeWacht": 22,
     "statusBreakdown": {
-      "Open": 14,
-      "In de wacht": 21,
-      "Gesloten": 686
+      "Open": 11,
+      "Gesloten": 688,
+      "In de wacht": 22
     },
     "capBereikt": false
   },
@@ -226,12 +226,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014541001"
     },
     {
-      "ticketNumber": "2857",
-      "titel": "FW: Adreswijziging polis 5607-8114706",
+      "ticketNumber": "2865",
+      "titel": "FW: U kunt ook de rechtsbijstand laten aanmelden bij Waarborgfonds",
       "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-10",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014564001"
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
     },
     {
       "ticketNumber": "2866",
@@ -240,22 +240,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014576026"
-    },
-    {
-      "ticketNumber": "2865",
-      "titel": "FW: U kunt ook de rechtsbijstand laten aanmelden bij Waarborgfonds",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
-    },
-    {
-      "ticketNumber": "2864",
-      "titel": "FW: Vervolgvraag 84198791_Sluiter-Mahabir: Vraag over Zicht Plan GrandOptical",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014563001"
     },
     {
       "ticketNumber": "2863",

@@ -383,14 +383,14 @@
   },
   "2026-10-13": {
     "capBereikt": false,
-    "geslotenVandaag": 0,
-    "inDeWacht": 21,
+    "geslotenVandaag": 2,
+    "inDeWacht": 22,
     "nieuweVandaag": 0,
     "statusBreakdown": {
-      "Gesloten": 686,
-      "In de wacht": 21,
-      "Open": 14
+      "Gesloten": 688,
+      "In de wacht": 22,
+      "Open": 11
     },
-    "totaalOpen": 35
+    "totaalOpen": 33
   }
 }
