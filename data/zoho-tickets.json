@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T10:10:40Z",
+  "generated_at": "2026-10-13T10:20:48Z",
   "tickets": [
     {
       "ticketNumber": "2867",
@@ -23,10 +23,10 @@
     "nieuweVandaag": 1,
     "geslotenVandaag": 3,
     "totaalOpen": 33,
-    "inDeWacht": 24,
+    "inDeWacht": 23,
     "statusBreakdown": {
-      "Open": 9,
-      "In de wacht": 24,
+      "Open": 10,
+      "In de wacht": 23,
       "Gesloten": 689
     },
     "capBereikt": false
@@ -233,20 +233,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530057"
     },
     {
+      "ticketNumber": "2866",
+      "titel": "conflict met rabobank",
+      "klant": "P.C.G. Thole",
+      "status": "Open",
+      "aangemaakt": "2026-10-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014576026"
+    },
+    {
       "ticketNumber": "2865",
       "titel": "FW: U kunt ook de rechtsbijstand laten aanmelden bij Waarborgfonds",
       "klant": "De juridische helpdesk",
       "status": "In de wacht",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
-    },
-    {
-      "ticketNumber": "2866",
-      "titel": "conflict met rabobank",
-      "klant": "P.C.G. Thole",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014576026"
     },
     {
       "ticketNumber": "2863",

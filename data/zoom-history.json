@@ -5073,12 +5073,26 @@
         "nummer": "+31651146485",
         "teruggebeld": false,
         "tijd": "11:36"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653122388",
+        "teruggebeld": false,
+        "tijd": "12:09"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31687153791",
+        "teruggebeld": false,
+        "tijd": "12:14"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T10:10:43Z",
-    "nietTerugGebeld": 10,
+    "generated_at": "2026-10-13T10:20:51Z",
+    "nietTerugGebeld": 12,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5149,10 +5163,24 @@
         "nummer": "+31651146485",
         "teruggebeld": false,
         "tijd": "11:36"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653122388",
+        "teruggebeld": false,
+        "tijd": "12:09"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31687153791",
+        "teruggebeld": false,
+        "tijd": "12:14"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 10,
-    "totaalInbound": 12
+    "totaalGemist": 12,
+    "totaalInbound": 14
   }
 }
