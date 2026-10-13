@@ -5143,12 +5143,26 @@
         "nummer": "+31648411136",
         "teruggebeld": false,
         "tijd": "15:55"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31647965964",
+        "teruggebeld": false,
+        "tijd": "17:24"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31647965964",
+        "teruggebeld": false,
+        "tijd": "17:27"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T15:20:52Z",
-    "nietTerugGebeld": 17,
+    "generated_at": "2026-10-13T15:31:08Z",
+    "nietTerugGebeld": 19,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5268,10 +5282,24 @@
         "nummer": "+31648411136",
         "teruggebeld": false,
         "tijd": "15:55"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31647965964",
+        "teruggebeld": false,
+        "tijd": "17:24"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31647965964",
+        "teruggebeld": false,
+        "tijd": "17:27"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 20,
-    "totaalInbound": 25
+    "totaalGemist": 22,
+    "totaalInbound": 27
   }
 }
