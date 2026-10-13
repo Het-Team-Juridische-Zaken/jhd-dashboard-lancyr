@@ -1,9 +1,9 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T13:11:19Z",
-  "totaalInbound": 21,
-  "totaalGemist": 18,
-  "terugGebeld": 2,
+  "generated_at": "2026-10-13T13:20:52Z",
+  "totaalInbound": 23,
+  "totaalGemist": 19,
+  "terugGebeld": 3,
   "nietTerugGebeld": 16,
   "nietTerugGebeldNummers": [
     {
@@ -98,13 +98,6 @@
       "teruggebeld": false
     },
     {
-      "nummer": "+31637398933",
-      "naam": "Onbekend",
-      "tijd": "13:54",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
       "nummer": "+31640843511",
       "naam": "Onbekend",
       "tijd": "14:47",
@@ -116,6 +109,13 @@
       "naam": "Onbekend",
       "tijd": "14:50",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31647965964",
+      "naam": "Onbekend",
+      "tijd": "15:14",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -230,7 +230,7 @@
       "naam": "Onbekend",
       "tijd": "13:54",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31640843511",
@@ -245,13 +245,20 @@
       "tijd": "14:50",
       "callResult": "overflowed",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31647965964",
+      "naam": "Onbekend",
+      "tijd": "15:14",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 3,
-      "uitgaand": 1,
-      "gesprekstijdSec": 506
+      "beantwoord": 4,
+      "uitgaand": 2,
+      "gesprekstijdSec": 874
     }
   },
   "beantwoordZonderAgent": 0
