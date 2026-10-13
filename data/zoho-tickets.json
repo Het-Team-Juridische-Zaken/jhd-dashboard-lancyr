@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T12:30:56Z",
+  "generated_at": "2026-10-13T12:40:43Z",
   "tickets": [
     {
       "ticketNumber": "2867",
@@ -19,28 +19,28 @@
       "tijd": "13:02",
       "titel": "Conflict met verhuurder",
       "klant": "E.E. Koster",
-      "status": "Open",
+      "status": "Gesloten",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014650013",
       "channel": "Phone",
-      "doorgezetBrandmeester": false
+      "doorgezetBrandmeester": true
     }
   ],
   "channelCounts": {
     "Email": 1,
     "Phone": 1
   },
-  "brandmeesterCount": 0,
+  "brandmeesterCount": 1,
   "ticketStats": {
     "nieuweVandaag": 2,
-    "geslotenVandaag": 3,
-    "totaalOpen": 34,
+    "geslotenVandaag": 8,
+    "totaalOpen": 29,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 14,
-      "In de wacht": 20,
-      "Gesloten": 689
+      "Gesloten": 694,
+      "Open": 9,
+      "In de wacht": 20
     },
     "capBereikt": false
   },
@@ -198,14 +198,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530001"
     },
     {
-      "ticketNumber": "2852",
-      "titel": "Fwd: Verzoek beoordeling huurprijswijzigingsbeding Stadgenoot",
-      "klant": "R.H.K. Tevreden",
-      "status": "Open",
-      "aangemaakt": "2026-10-09",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014550001"
-    },
-    {
       "ticketNumber": "2851",
       "titel": "Wachten op belafspraak",
       "klant": "H.W. deLeeuw",
@@ -246,30 +238,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530057"
     },
     {
-      "ticketNumber": "2861",
-      "titel": "Conflict met dakdekker",
-      "klant": "W.H. Fahner",
-      "status": "Open",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014605013"
-    },
-    {
-      "ticketNumber": "2862",
-      "titel": "Conflict met plaatsing zonnepanelen",
-      "klant": "S.J. van Poelje",
-      "status": "Open",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014585051"
-    },
-    {
-      "ticketNumber": "2866",
-      "titel": "conflict met rabobank",
-      "klant": "P.C.G. Thole",
-      "status": "Open",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014576026"
-    },
-    {
       "ticketNumber": "2865",
       "titel": "FW: U kunt ook de rechtsbijstand laten aanmelden bij Waarborgfonds",
       "klant": "De juridische helpdesk",
@@ -300,14 +268,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014579001"
-    },
-    {
-      "ticketNumber": "2868",
-      "titel": "Conflict met verhuurder",
-      "klant": "E.E. Koster",
-      "status": "Open",
-      "aangemaakt": "2026-10-13",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014650013"
     },
     {
       "ticketNumber": "2867",
