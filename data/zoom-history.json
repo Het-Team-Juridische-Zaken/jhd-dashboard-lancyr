@@ -4996,15 +4996,21 @@
     "totaalInbound": 25
   },
   "2026-10-13": {
-    "agenten": {},
+    "agenten": {
+      "Dewi Verver": {
+        "beantwoord": 1,
+        "gesprekstijdSec": 80,
+        "uitgaand": 0
+      }
+    },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T07:01:05Z",
+    "generated_at": "2026-10-13T07:10:46Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalInbound": 1
   }
 }
