@@ -1,16 +1,37 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T07:50:49Z",
-  "totaalInbound": 2,
-  "totaalGemist": 1,
+  "generated_at": "2026-10-13T08:01:00Z",
+  "totaalInbound": 6,
+  "totaalGemist": 4,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31657999015",
       "naam": "Onbekend",
       "tijd": "09:02",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31302410530",
+      "naam": "Onbekend",
+      "tijd": "09:53",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646898200",
+      "naam": "Onbekend",
+      "tijd": "09:57",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646898200",
+      "naam": "Onbekend",
+      "tijd": "09:58",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -21,13 +42,34 @@
       "tijd": "09:02",
       "callResult": "overflowed",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31302410530",
+      "naam": "Onbekend",
+      "tijd": "09:53",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646898200",
+      "naam": "Onbekend",
+      "tijd": "09:57",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646898200",
+      "naam": "Onbekend",
+      "tijd": "09:58",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 1,
+      "beantwoord": 2,
       "uitgaand": 0,
-      "gesprekstijdSec": 80
+      "gesprekstijdSec": 116
     }
   },
   "beantwoordZonderAgent": 0
