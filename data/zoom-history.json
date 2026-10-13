@@ -5101,12 +5101,19 @@
         "nummer": "+31647965964",
         "teruggebeld": false,
         "tijd": "13:15"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31616783000",
+        "teruggebeld": false,
+        "tijd": "13:35"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T11:31:20Z",
-    "nietTerugGebeld": 14,
+    "generated_at": "2026-10-13T11:40:51Z",
+    "nietTerugGebeld": 15,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5205,10 +5212,17 @@
         "nummer": "+31647965964",
         "teruggebeld": false,
         "tijd": "13:15"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31616783000",
+        "teruggebeld": false,
+        "tijd": "13:35"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 14,
-    "totaalInbound": 17
+    "totaalGemist": 15,
+    "totaalInbound": 18
   }
 }
