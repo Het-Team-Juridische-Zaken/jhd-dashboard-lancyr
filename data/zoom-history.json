@@ -5373,12 +5373,19 @@
         "nummer": "+31685429973",
         "teruggebeld": false,
         "tijd": "13:53"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31685469327",
+        "teruggebeld": false,
+        "tijd": "14:11"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-14",
-    "generated_at": "2026-10-14T12:10:48Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-10-14T12:20:47Z",
+    "nietTerugGebeld": 8,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -5428,10 +5435,17 @@
         "nummer": "+31685429973",
         "teruggebeld": false,
         "tijd": "13:53"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31685469327",
+        "teruggebeld": false,
+        "tijd": "14:11"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 7,
-    "totaalInbound": 16
+    "totaalGemist": 8,
+    "totaalInbound": 17
   }
 }
