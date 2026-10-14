@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T13:50:47Z",
-  "totaalInbound": 22,
-  "totaalGemist": 13,
+  "generated_at": "2026-10-14T14:01:10Z",
+  "totaalInbound": 23,
+  "totaalGemist": 14,
   "terugGebeld": 0,
-  "nietTerugGebeld": 13,
+  "nietTerugGebeld": 14,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31647965964",
@@ -95,6 +95,13 @@
       "naam": "Onbekend",
       "tijd": "15:42",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31614870130",
+      "naam": "Onbekend",
+      "tijd": "15:48",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -188,6 +195,13 @@
       "naam": "Onbekend",
       "tijd": "15:42",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31614870130",
+      "naam": "Onbekend",
+      "tijd": "15:48",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
