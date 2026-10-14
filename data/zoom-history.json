@@ -5394,12 +5394,19 @@
         "nummer": "+31355260222",
         "teruggebeld": false,
         "tijd": "14:20"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31611398744",
+        "teruggebeld": false,
+        "tijd": "14:34"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-14",
-    "generated_at": "2026-10-14T12:31:05Z",
-    "nietTerugGebeld": 10,
+    "generated_at": "2026-10-14T12:40:50Z",
+    "nietTerugGebeld": 11,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -5470,10 +5477,17 @@
         "nummer": "+31355260222",
         "teruggebeld": false,
         "tijd": "14:20"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31611398744",
+        "teruggebeld": false,
+        "tijd": "14:34"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 10,
-    "totaalInbound": 19
+    "totaalGemist": 11,
+    "totaalInbound": 20
   }
 }

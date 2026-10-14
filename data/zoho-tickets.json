@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T12:31:02Z",
+  "generated_at": "2026-10-14T12:40:46Z",
   "tickets": [
     {
       "ticketNumber": "2871",
@@ -61,8 +61,8 @@
     "totaalOpen": 20,
     "inDeWacht": 16,
     "statusBreakdown": {
-      "Open": 4,
       "In de wacht": 16,
+      "Open": 4,
       "Gesloten": 707
     },
     "capBereikt": false
@@ -197,6 +197,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644105"
     },
     {
+      "ticketNumber": "2871",
+      "titel": "Vraag omtrent polisblad",
+      "klant": "G.B.J.M. Jonk",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013"
+    },
+    {
       "ticketNumber": "2874",
       "titel": "Aansprakelijk stellen",
       "klant": "Y. Verwijs",
@@ -211,14 +219,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646111"
-    },
-    {
-      "ticketNumber": "2871",
-      "titel": "Vraag omtrent polisblad",
-      "klant": "G.B.J.M. Jonk",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013"
     },
     {
       "ticketNumber": "2872",

@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T12:31:05Z",
-  "totaalInbound": 19,
-  "totaalGemist": 10,
+  "generated_at": "2026-10-14T12:40:50Z",
+  "totaalInbound": 20,
+  "totaalGemist": 11,
   "terugGebeld": 0,
-  "nietTerugGebeld": 10,
+  "nietTerugGebeld": 11,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31647965964",
@@ -73,6 +73,13 @@
       "nummer": "+31355260222",
       "naam": "Onbekend",
       "tijd": "14:20",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31611398744",
+      "naam": "Onbekend",
+      "tijd": "14:34",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -145,6 +152,13 @@
       "nummer": "+31355260222",
       "naam": "Onbekend",
       "tijd": "14:20",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31611398744",
+      "naam": "Onbekend",
+      "tijd": "14:34",
       "callResult": "abandoned",
       "teruggebeld": false
     }
