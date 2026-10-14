@@ -1,33 +1,57 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T09:20:46Z",
+  "generated_at": "2026-10-14T09:30:53Z",
   "tickets": [
     {
       "ticketNumber": "2871",
       "tijd": "11:13",
       "titel": "Vraag omtrent polisblad",
       "klant": "G.B.J.M. Jonk",
-      "status": "Open",
+      "status": "In de wacht",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2872",
+      "tijd": "11:24",
+      "titel": "Aansprakelijk stellen fokker",
+      "klant": "A. Bergs",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646039",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2873",
+      "tijd": "11:29",
+      "titel": "Conflict met huurder",
+      "klant": "C.H.O. Lissenberg",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646111",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 1
+    "Phone": 3
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
+    "nieuweVandaag": 3,
     "geslotenVandaag": 1,
-    "totaalOpen": 19,
-    "inDeWacht": 10,
+    "totaalOpen": 21,
+    "inDeWacht": 13,
     "statusBreakdown": {
-      "Open": 9,
+      "In de wacht": 13,
       "Gesloten": 706,
-      "In de wacht": 10
+      "Open": 8
     },
     "capBereikt": false
   },
@@ -177,12 +201,28 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644105"
     },
     {
+      "ticketNumber": "2873",
+      "titel": "Conflict met huurder",
+      "klant": "C.H.O. Lissenberg",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646111"
+    },
+    {
       "ticketNumber": "2871",
       "titel": "Vraag omtrent polisblad",
       "klant": "G.B.J.M. Jonk",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013"
+    },
+    {
+      "ticketNumber": "2872",
+      "titel": "Aansprakelijk stellen fokker",
+      "klant": "A. Bergs",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646039"
     }
   ]
 }

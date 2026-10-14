@@ -396,13 +396,13 @@
   "2026-10-14": {
     "capBereikt": false,
     "geslotenVandaag": 1,
-    "inDeWacht": 10,
-    "nieuweVandaag": 1,
+    "inDeWacht": 13,
+    "nieuweVandaag": 3,
     "statusBreakdown": {
       "Gesloten": 706,
-      "In de wacht": 10,
-      "Open": 9
+      "In de wacht": 13,
+      "Open": 8
     },
-    "totaalOpen": 19
+    "totaalOpen": 21
   }
 }

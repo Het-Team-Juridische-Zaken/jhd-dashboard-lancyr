@@ -5319,19 +5319,19 @@
   "2026-10-14": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 5,
-        "gesprekstijdSec": 980,
+        "beantwoord": 7,
+        "gesprekstijdSec": 1480,
         "uitgaand": 1
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-14",
-    "generated_at": "2026-10-14T09:20:48Z",
+    "generated_at": "2026-10-14T09:30:54Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 5
+    "totaalInbound": 7
   }
 }
