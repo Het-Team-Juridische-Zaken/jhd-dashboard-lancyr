@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T13:40:47Z",
-  "totaalInbound": 20,
-  "totaalGemist": 11,
+  "generated_at": "2026-10-14T13:50:47Z",
+  "totaalInbound": 22,
+  "totaalGemist": 13,
   "terugGebeld": 0,
-  "nietTerugGebeld": 11,
+  "nietTerugGebeld": 13,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31647965964",
@@ -80,6 +80,20 @@
       "nummer": "+31611398744",
       "naam": "Onbekend",
       "tijd": "14:34",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31687586799",
+      "naam": "Onbekend",
+      "tijd": "15:41",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646898200",
+      "naam": "Onbekend",
+      "tijd": "15:42",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -159,6 +173,20 @@
       "nummer": "+31611398744",
       "naam": "Onbekend",
       "tijd": "14:34",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31687586799",
+      "naam": "Onbekend",
+      "tijd": "15:41",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646898200",
+      "naam": "Onbekend",
+      "tijd": "15:42",
       "callResult": "abandoned",
       "teruggebeld": false
     }

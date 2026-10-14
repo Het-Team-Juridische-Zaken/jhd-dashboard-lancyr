@@ -5401,12 +5401,26 @@
         "nummer": "+31611398744",
         "teruggebeld": false,
         "tijd": "14:34"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31687586799",
+        "teruggebeld": false,
+        "tijd": "15:41"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646898200",
+        "teruggebeld": false,
+        "tijd": "15:42"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-14",
-    "generated_at": "2026-10-14T13:40:47Z",
-    "nietTerugGebeld": 11,
+    "generated_at": "2026-10-14T13:50:47Z",
+    "nietTerugGebeld": 13,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -5484,10 +5498,24 @@
         "nummer": "+31611398744",
         "teruggebeld": false,
         "tijd": "14:34"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31687586799",
+        "teruggebeld": false,
+        "tijd": "15:41"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646898200",
+        "teruggebeld": false,
+        "tijd": "15:42"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 11,
-    "totaalInbound": 20
+    "totaalGemist": 13,
+    "totaalInbound": 22
   }
 }
