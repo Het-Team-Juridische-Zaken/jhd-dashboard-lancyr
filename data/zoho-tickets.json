@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T14:01:07Z",
+  "generated_at": "2026-10-14T14:10:52Z",
   "tickets": [
     {
       "ticketNumber": "2871",
@@ -49,20 +49,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014650103",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2875",
+      "tijd": "16:10",
+      "titel": "Overleg",
+      "klant": "Martijn Rengers",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014645140",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 4
+    "Phone": 4,
+    "Email": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 4,
+    "nieuweVandaag": 5,
     "geslotenVandaag": 3,
-    "totaalOpen": 20,
+    "totaalOpen": 21,
     "inDeWacht": 16,
     "statusBreakdown": {
+      "Open": 5,
       "In de wacht": 16,
-      "Open": 4,
       "Gesloten": 707
     },
     "capBereikt": false
@@ -195,6 +208,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-13",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644105"
+    },
+    {
+      "ticketNumber": "2875",
+      "titel": "Overleg",
+      "klant": "Martijn Rengers",
+      "status": "Open",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014645140"
     },
     {
       "ticketNumber": "2871",

@@ -5422,12 +5422,19 @@
         "nummer": "+31614870130",
         "teruggebeld": false,
         "tijd": "15:48"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31614870130",
+        "teruggebeld": false,
+        "tijd": "15:55"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-14",
-    "generated_at": "2026-10-14T14:01:10Z",
-    "nietTerugGebeld": 14,
+    "generated_at": "2026-10-14T14:10:55Z",
+    "nietTerugGebeld": 15,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -5526,10 +5533,17 @@
         "nummer": "+31614870130",
         "teruggebeld": false,
         "tijd": "15:48"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31614870130",
+        "teruggebeld": false,
+        "tijd": "15:55"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 14,
-    "totaalInbound": 23
+    "totaalGemist": 15,
+    "totaalInbound": 24
   }
 }
