@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T11:50:47Z",
-  "totaalInbound": 15,
-  "totaalGemist": 6,
+  "generated_at": "2026-10-14T12:01:11Z",
+  "totaalInbound": 16,
+  "totaalGemist": 7,
   "terugGebeld": 0,
-  "nietTerugGebeld": 6,
+  "nietTerugGebeld": 7,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31647965964",
@@ -45,6 +45,13 @@
       "nummer": "+31639377050",
       "naam": "Onbekend",
       "tijd": "13:14",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31685429973",
+      "naam": "Onbekend",
+      "tijd": "13:53",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -89,6 +96,13 @@
       "nummer": "+31639377050",
       "naam": "Onbekend",
       "tijd": "13:14",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31685429973",
+      "naam": "Onbekend",
+      "tijd": "13:53",
       "callResult": "abandoned",
       "teruggebeld": false
     }
