@@ -1,18 +1,18 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T08:50:47Z",
+  "generated_at": "2026-10-14T09:01:10Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 0,
-    "totaalOpen": 19,
+    "geslotenVandaag": 1,
+    "totaalOpen": 18,
     "inDeWacht": 10,
     "statusBreakdown": {
-      "Open": 9,
-      "In de wacht": 10,
-      "Gesloten": 705
+      "Gesloten": 706,
+      "Open": 8,
+      "In de wacht": 10
     },
     "capBereikt": false
   },
@@ -128,14 +128,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-09",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014541001"
-    },
-    {
-      "ticketNumber": "2855",
-      "titel": "FW: 84230117_Roerdink. Een vraag stellen",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-09",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014550055"
     },
     {
       "ticketNumber": "2854",
