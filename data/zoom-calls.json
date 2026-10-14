@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T08:40:50Z",
-  "totaalInbound": 2,
+  "generated_at": "2026-10-14T08:50:48Z",
+  "totaalInbound": 3,
   "totaalGemist": 0,
   "terugGebeld": 0,
   "nietTerugGebeld": 0,
@@ -9,9 +9,9 @@
   "alleGemistNummers": [],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 2,
+      "beantwoord": 3,
       "uitgaand": 0,
-      "gesprekstijdSec": 300
+      "gesprekstijdSec": 415
     }
   },
   "beantwoordZonderAgent": 0
