@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T12:01:08Z",
+  "generated_at": "2026-10-14T12:10:45Z",
   "tickets": [
     {
       "ticketNumber": "2871",
@@ -59,11 +59,11 @@
     "nieuweVandaag": 4,
     "geslotenVandaag": 3,
     "totaalOpen": 20,
-    "inDeWacht": 17,
+    "inDeWacht": 16,
     "statusBreakdown": {
-      "In de wacht": 17,
-      "Gesloten": 707,
-      "Open": 3
+      "Open": 4,
+      "In de wacht": 16,
+      "Gesloten": 707
     },
     "capBereikt": false
   },
@@ -192,7 +192,7 @@
       "ticketNumber": "2870",
       "titel": "Fwd: Nichalin Martina en Senne Duifhuis",
       "klant": "N. Martina",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-13",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644105"
     },
