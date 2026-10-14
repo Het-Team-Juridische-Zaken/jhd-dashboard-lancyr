@@ -1,52 +1,12 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T19:26:03Z",
-  "tickets": [
-    {
-      "ticketNumber": "2867",
-      "tijd": "11:12",
-      "titel": "Re: Uw nieuwe factuur en polisgegevens | Uw relatienummer 84285638",
-      "klant": "H. Altellawi",
-      "status": "Gesloten",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014648001",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2868",
-      "tijd": "13:02",
-      "titel": "Conflict met verhuurder",
-      "klant": "E.E. Koster",
-      "status": "Gesloten",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014650013",
-      "channel": "Phone",
-      "doorgezetBrandmeester": true
-    },
-    {
-      "ticketNumber": "2870",
-      "tijd": "17:09",
-      "titel": "Fwd: Nichalin Martina en Senne Duifhuis",
-      "klant": "N. Martina",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644105",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Email": 2,
-    "Phone": 1
-  },
-  "brandmeesterCount": 1,
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T05:00:57Z",
+  "tickets": [],
+  "channelCounts": {},
+  "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
-    "geslotenVandaag": 21,
+    "nieuweVandaag": 0,
+    "geslotenVandaag": 0,
     "totaalOpen": 18,
     "inDeWacht": 9,
     "statusBreakdown": {
