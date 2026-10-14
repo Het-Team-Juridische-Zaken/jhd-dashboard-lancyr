@@ -5319,19 +5319,49 @@
   "2026-10-14": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 7,
-        "gesprekstijdSec": 1480,
+        "beantwoord": 8,
+        "gesprekstijdSec": 1573,
         "uitgaand": 1
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31647965964",
+        "teruggebeld": false,
+        "tijd": "11:46"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31647965964",
+        "teruggebeld": false,
+        "tijd": "11:47"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-14",
-    "generated_at": "2026-10-14T09:40:51Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-10-14T09:50:47Z",
+    "nietTerugGebeld": 2,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31647965964",
+        "teruggebeld": false,
+        "tijd": "11:46"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31647965964",
+        "teruggebeld": false,
+        "tijd": "11:47"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 7
+    "totaalGemist": 2,
+    "totaalInbound": 10
   }
 }

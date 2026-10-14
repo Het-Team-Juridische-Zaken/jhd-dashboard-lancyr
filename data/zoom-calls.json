@@ -1,17 +1,47 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T09:40:51Z",
-  "totaalInbound": 7,
-  "totaalGemist": 0,
+  "generated_at": "2026-10-14T09:50:47Z",
+  "totaalInbound": 10,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 2,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31647965964",
+      "naam": "Onbekend",
+      "tijd": "11:46",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31647965964",
+      "naam": "Onbekend",
+      "tijd": "11:47",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31647965964",
+      "naam": "Onbekend",
+      "tijd": "11:46",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31647965964",
+      "naam": "Onbekend",
+      "tijd": "11:47",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 7,
+      "beantwoord": 8,
       "uitgaand": 1,
-      "gesprekstijdSec": 1480
+      "gesprekstijdSec": 1573
     }
   },
   "beantwoordZonderAgent": 0
