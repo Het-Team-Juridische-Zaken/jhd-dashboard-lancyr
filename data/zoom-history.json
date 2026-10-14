@@ -5317,15 +5317,21 @@
     "totaalInbound": 28
   },
   "2026-10-14": {
-    "agenten": {},
+    "agenten": {
+      "Dewi Verver": {
+        "beantwoord": 1,
+        "gesprekstijdSec": 226,
+        "uitgaand": 0
+      }
+    },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-14",
-    "generated_at": "2026-10-14T07:30:54Z",
+    "generated_at": "2026-10-14T07:40:41Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalInbound": 1
   }
 }
