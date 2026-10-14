@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T09:54:00Z",
+  "generated_at": "2026-10-14T10:01:14Z",
   "tickets": [
     {
       "ticketNumber": "2871",
@@ -45,13 +45,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 3,
-    "geslotenVandaag": 1,
-    "totaalOpen": 21,
-    "inDeWacht": 13,
+    "geslotenVandaag": 3,
+    "totaalOpen": 19,
+    "inDeWacht": 16,
     "statusBreakdown": {
-      "In de wacht": 13,
-      "Gesloten": 706,
-      "Open": 8
+      "In de wacht": 16,
+      "Gesloten": 708,
+      "Open": 3
     },
     "capBereikt": false
   },
@@ -121,14 +121,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013871009"
     },
     {
-      "ticketNumber": "2782",
-      "titel": "Waterschade naastpand: stappenplan en deskundigenonderzoek",
-      "klant": "M. deFeijter",
-      "status": "Open",
-      "aangemaakt": "2026-09-25",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014299001"
-    },
-    {
       "ticketNumber": "2833",
       "titel": "Rechtsbijstandverzekering elektrische fiets moeder Gaarthuis",
       "klant": "J.M.T. Gaarthuis",
@@ -153,18 +145,10 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530001"
     },
     {
-      "ticketNumber": "2856",
-      "titel": "Vraag over juridisch conflict met gerechtsdeurwaarder",
-      "klant": "S.K. Cheng",
-      "status": "Open",
-      "aangemaakt": "2026-10-09",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014542033"
-    },
-    {
       "ticketNumber": "2851",
       "titel": "Wachten op belafspraak",
       "klant": "H.W. deLeeuw",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-09",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014541001"
     },
@@ -177,6 +161,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530107"
     },
     {
+      "ticketNumber": "2860",
+      "titel": "Conflict met acommodatie in Frankrijk",
+      "klant": "D. Ramharakh",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014594001"
+    },
+    {
       "ticketNumber": "2865",
       "titel": "FW: U kunt ook de rechtsbijstand laten aanmelden bij Waarborgfonds",
       "klant": "De juridische helpdesk",
@@ -185,18 +177,10 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
     },
     {
-      "ticketNumber": "2860",
-      "titel": "Conflict met acommodatie in Frankrijk",
-      "klant": "D. Ramharakh",
-      "status": "Open",
-      "aangemaakt": "2026-10-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014594001"
-    },
-    {
       "ticketNumber": "2870",
       "titel": "Fwd: Nichalin Martina en Senne Duifhuis",
       "klant": "N. Martina",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-13",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644105"
     },
