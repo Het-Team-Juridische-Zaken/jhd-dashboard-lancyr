@@ -1,17 +1,32 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T09:10:41Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-10-14T09:20:46Z",
+  "tickets": [
+    {
+      "ticketNumber": "2871",
+      "tijd": "11:13",
+      "titel": "Vraag omtrent polisblad",
+      "klant": "G.B.J.M. Jonk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Phone": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 1,
-    "totaalOpen": 18,
+    "totaalOpen": 19,
     "inDeWacht": 10,
     "statusBreakdown": {
+      "Open": 9,
       "Gesloten": 706,
-      "Open": 8,
       "In de wacht": 10
     },
     "capBereikt": false
@@ -160,6 +175,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-13",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644105"
+    },
+    {
+      "ticketNumber": "2871",
+      "titel": "Vraag omtrent polisblad",
+      "klant": "G.B.J.M. Jonk",
+      "status": "Open",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013"
     }
   ]
 }
