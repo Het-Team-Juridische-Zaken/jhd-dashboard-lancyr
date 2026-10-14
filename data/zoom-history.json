@@ -5352,12 +5352,26 @@
         "nummer": "+31655082289",
         "teruggebeld": false,
         "tijd": "12:06"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31639377050",
+        "teruggebeld": false,
+        "tijd": "13:10"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31639377050",
+        "teruggebeld": false,
+        "tijd": "13:14"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-14",
-    "generated_at": "2026-10-14T11:10:51Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-14T11:20:47Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -5386,10 +5400,24 @@
         "nummer": "+31655082289",
         "teruggebeld": false,
         "tijd": "12:06"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31639377050",
+        "teruggebeld": false,
+        "tijd": "13:10"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31639377050",
+        "teruggebeld": false,
+        "tijd": "13:14"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 13
+    "totaalGemist": 6,
+    "totaalInbound": 15
   }
 }
