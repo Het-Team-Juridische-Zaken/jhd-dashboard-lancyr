@@ -1,22 +1,30 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T16:50:41Z",
+  "generated_at": "2026-10-15T18:24:29Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
     "geslotenVandaag": 0,
-    "totaalOpen": 23,
+    "totaalOpen": 24,
     "inDeWacht": 12,
     "statusBreakdown": {
-      "Open": 11,
+      "Open": 12,
       "In de wacht": 12,
       "Gesloten": 706
     },
     "capBereikt": false
   },
   "openTickets": [
+    {
+      "ticketNumber": "136",
+      "titel": "FW: 84229972_Vlodrop: Melding, verzoek rechtsbijstand",
+      "klant": "A.M.W. vanVlodrop",
+      "status": "Open",
+      "aangemaakt": "2025-03-13",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000003420678"
+    },
     {
       "ticketNumber": "2220",
       "titel": "FW: 84229772_Wongsodrono: tickets evenement WAVY",
