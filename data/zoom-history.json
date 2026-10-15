@@ -5548,14 +5548,44 @@
   },
   "2026-10-15": {
     "agenten": {},
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31636418170",
+        "teruggebeld": false,
+        "tijd": "09:51"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31636418170",
+        "teruggebeld": false,
+        "tijd": "09:52"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-15",
-    "generated_at": "2026-10-15T07:50:45Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-10-15T08:01:00Z",
+    "nietTerugGebeld": 2,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31636418170",
+        "teruggebeld": false,
+        "tijd": "09:51"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31636418170",
+        "teruggebeld": false,
+        "tijd": "09:52"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalGemist": 2,
+    "totaalInbound": 2
   }
 }

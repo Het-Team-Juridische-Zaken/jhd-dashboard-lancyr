@@ -1,12 +1,42 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T07:50:45Z",
-  "totaalInbound": 0,
-  "totaalGemist": 0,
+  "generated_at": "2026-10-15T08:01:00Z",
+  "totaalInbound": 2,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 2,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31636418170",
+      "naam": "Onbekend",
+      "tijd": "09:51",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31636418170",
+      "naam": "Onbekend",
+      "tijd": "09:52",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31636418170",
+      "naam": "Onbekend",
+      "tijd": "09:51",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31636418170",
+      "naam": "Onbekend",
+      "tijd": "09:52",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {},
   "beantwoordZonderAgent": 0
 }
