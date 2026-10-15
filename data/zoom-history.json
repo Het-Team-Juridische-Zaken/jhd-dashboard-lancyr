@@ -5583,12 +5583,19 @@
         "nummer": "+31653835175",
         "teruggebeld": false,
         "tijd": "12:37"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31650566090",
+        "teruggebeld": false,
+        "tijd": "12:54"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-15",
-    "generated_at": "2026-10-15T10:50:42Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-10-15T11:01:04Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -5624,10 +5631,17 @@
         "nummer": "+31653835175",
         "teruggebeld": false,
         "tijd": "12:37"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31650566090",
+        "teruggebeld": false,
+        "tijd": "12:54"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 5,
-    "totaalInbound": 5
+    "totaalGemist": 6,
+    "totaalInbound": 6
   }
 }
