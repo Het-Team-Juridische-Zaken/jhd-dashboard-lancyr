@@ -12,6 +12,15 @@ cd ../dagrapport-klant && cat CHECKLIST.md               # de stappen: GitHub, S
 `create` zet de code klaar met een lege historie, plaatst het logo, embedt de config in `index.html` en maakt een lokale
 git-repo. Wat nog moet worden ingevuld meldt het meteen (of later met `python3 tools/new_client.py check`).
 
+## Gegevens die er nog niet zijn
+Een klantmap hoeft niet compleet te zijn om te bestaan: scripts die nog niet kunnen draaien (Zoom-lijn of Granola-map niet
+ingesteld) slaan zichzelf netjes over, zonder fout en zonder iets weg te schrijven. Zodra je de gegevens hebt:
+```bash
+python3 tools/new_client.py koppel --zoom-did "+31..." --zoom-ext "8.." --granola-map "Naam" --repo "eigenaar/naam" --commit
+```
+Dat zet alles in de config, in `index.html` en in `CHECKLIST.md` (een paar seconden). Weet je het Zoom-nummer niet, draai dan de
+workflow "Diagnose Zoom call history": die toont alle lijnen van het Zoom-account met nummer en extensie.
+
 ## Wat verschilt per klant (alles staat in `client.config.json`)
 Naam en logo, e-mailadressen met toegang (management, domeinen), het team en bijnamen, de Supabase-inlog, de
 Granola-map, de Zoom-wachtrij, de Zoho-regio, hoe de doorverwijzing heet, en de bedrijfsregels voor de AI-analyse
