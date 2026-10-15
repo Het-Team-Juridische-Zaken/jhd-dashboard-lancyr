@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T12:30:53Z",
+  "generated_at": "2026-10-15T12:40:47Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,10 +8,10 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 23,
-    "inDeWacht": 14,
+    "inDeWacht": 12,
     "statusBreakdown": {
-      "Open": 9,
-      "In de wacht": 14,
+      "Open": 11,
+      "In de wacht": 12,
       "Gesloten": 706
     },
     "capBereikt": false
@@ -146,6 +146,22 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644105"
     },
     {
+      "ticketNumber": "2872",
+      "titel": "Aansprakelijk stellen fokker",
+      "klant": "A. Bergs",
+      "status": "Open",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646039"
+    },
+    {
+      "ticketNumber": "2874",
+      "titel": "Aansprakelijk stellen",
+      "klant": "Y. Verwijs",
+      "status": "Open",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014650103"
+    },
+    {
       "ticketNumber": "2875",
       "titel": "Overleg",
       "klant": "Martijn Rengers",
@@ -178,28 +194,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013"
     },
     {
-      "ticketNumber": "2874",
-      "titel": "Aansprakelijk stellen",
-      "klant": "Y. Verwijs",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014650103"
-    },
-    {
       "ticketNumber": "2873",
       "titel": "Conflict met huurder",
       "klant": "C.H.O. Lissenberg",
       "status": "In de wacht",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646111"
-    },
-    {
-      "ticketNumber": "2872",
-      "titel": "Aansprakelijk stellen fokker",
-      "klant": "A. Bergs",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646039"
     }
   ]
 }

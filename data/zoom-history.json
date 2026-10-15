@@ -5604,12 +5604,19 @@
         "nummer": "+31650566090",
         "teruggebeld": false,
         "tijd": "13:10"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640805884",
+        "teruggebeld": false,
+        "tijd": "14:35"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-15",
-    "generated_at": "2026-10-15T12:30:55Z",
-    "nietTerugGebeld": 8,
+    "generated_at": "2026-10-15T12:40:48Z",
+    "nietTerugGebeld": 9,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -5666,10 +5673,17 @@
         "nummer": "+31650566090",
         "teruggebeld": false,
         "tijd": "13:10"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640805884",
+        "teruggebeld": false,
+        "tijd": "14:35"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 8,
-    "totaalInbound": 8
+    "totaalGemist": 9,
+    "totaalInbound": 9
   }
 }

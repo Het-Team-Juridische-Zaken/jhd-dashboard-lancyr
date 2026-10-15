@@ -408,12 +408,12 @@
   "2026-10-15": {
     "capBereikt": false,
     "geslotenVandaag": 0,
-    "inDeWacht": 14,
+    "inDeWacht": 12,
     "nieuweVandaag": 0,
     "statusBreakdown": {
       "Gesloten": 706,
-      "In de wacht": 14,
-      "Open": 9
+      "In de wacht": 12,
+      "Open": 11
     },
     "totaalOpen": 23
   }
