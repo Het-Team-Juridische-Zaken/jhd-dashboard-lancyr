@@ -1,100 +1,12 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T18:58:40Z",
-  "tickets": [
-    {
-      "ticketNumber": "2871",
-      "tijd": "11:13",
-      "titel": "Vraag omtrent polisblad",
-      "klant": "G.B.J.M. Jonk",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2872",
-      "tijd": "11:24",
-      "titel": "Aansprakelijk stellen fokker",
-      "klant": "A. Bergs",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646039",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2873",
-      "tijd": "11:29",
-      "titel": "Conflict met huurder",
-      "klant": "C.H.O. Lissenberg",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646111",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2874",
-      "tijd": "12:05",
-      "titel": "Aansprakelijk stellen",
-      "klant": "Y. Verwijs",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014650103",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2875",
-      "tijd": "16:10",
-      "titel": "Overleg",
-      "klant": "Martijn Rengers",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014645140",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2876",
-      "tijd": "16:14",
-      "titel": "melding – Japanse duizendknoop bij woningaankoop | Verzoek beoordeling rechtsbijstandsdekking Wonen (relatienummer 84236870)",
-      "klant": "N. Martina",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652094",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2877",
-      "tijd": "17:11",
-      "titel": "FW: 84271243_Dulger. Request for legal advice under my legal expenses insurance – Policy 5607-8176947",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014648122",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Phone": 4,
-    "Email": 3
-  },
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T05:01:01Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 7,
-    "geslotenVandaag": 3,
+    "nieuweVandaag": 0,
+    "geslotenVandaag": 0,
     "totaalOpen": 23,
     "inDeWacht": 15,
     "statusBreakdown": {
