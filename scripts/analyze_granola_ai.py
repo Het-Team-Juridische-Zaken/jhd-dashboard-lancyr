@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch Lancyr Juridische Helpdesk meetings from Granola API, analyze each
+"""Fetch klant-helpdesk meetings from Granola API, analyze each
 conversation with the Anthropic API, and generate the full data/today.json
 for the dagrapport dashboard (matching the rich weekData schema).
 
@@ -16,12 +16,16 @@ Design notes / resilience:
 """
 import os
 import re
+import sys
 import json
 import time
 import urllib.request
 import urllib.error
 import urllib.parse
 from datetime import datetime, timezone, timedelta
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from client_config import CFG, NAAM, DV, STAFF_NAMES  # noqa: E402
 
 GRANOLA_TOKEN = os.environ.get('GRANOLA_API_KEY', '')
 ANTHROPIC_KEY = os.environ.get('ANTHROPIC_API_KEY', '')
@@ -34,7 +38,7 @@ ANTHROPIC_KEY = os.environ.get('ANTHROPIC_API_KEY', '')
 # data/today.json overschrijven bij een historische datum).
 GRANOLA_DATE = os.environ.get('GRANOLA_DATE', '').strip()
 
-LANCYR_FOLDER_NAME = 'Lancyr Juridische Helpdesk'
+FOLDER_NAME = CFG['granolaMap']
 GRANOLA_BASE = 'https://public-api.granola.ai/v1'
 ANTHROPIC_MODEL = 'claude-haiku-4-5-20251001'
 OUTPUT_PATH = 'data/today.json'
@@ -52,7 +56,7 @@ GRANOLA_HEADERS = {
 VALID_OUTCOMES = {
     "outcome-opgelost": "Telefonisch opgelost",
     "outcome-terugbel": "Terugbellen",
-    "outcome-brandmeester": "Doorverwezen naar Brandmeester",
+    "outcome-brandmeester": f"Doorverwezen naar {DV}",
     "outcome-afkoop": "Afkoop",
     "outcome-geen-dekking": "Geen dekking",
     "outcome-verkeerd": "Verkeerd nummer",
@@ -70,24 +74,19 @@ def is_internal_meeting(title):
     return bool(INTERNAL_TITLE_RE.search(title or ''))
 
 
-KNOWN_STAFF = {
-    "Senne Duifhuis", "Jackie Stam", "Edgar Stam", "Dewi Verver",
-    "Roelof van Beijnum", "Wouter Toonen", "Rowan Ros",
-}
+KNOWN_STAFF = set(STAFF_NAMES)
 
-ANALYZE_SYSTEM_PROMPT = """Je bent een juridische kwaliteitsanalist voor de Lancyr Juridische Helpdesk van HTJZ.
+_ANALYZE_TEMPLATE = """Je bent een juridische kwaliteitsanalist voor de {{KLANT}} Juridische Helpdesk van HTJZ.
 
 Achtergrond:
-- Eerstelijns telefonisch juridisch advies voor verzekerden van Lancyr.
+- Eerstelijns telefonisch juridisch advies voor verzekerden van {{KLANT}}.
 - Altijd eerst polis + identiteit verifieren.
-- Bij consumentenzaken: franchise EUR 250 - schade <= EUR 250 = geen dekking.
-- Bouwzaken met grote schade (>EUR 5.000) -> verplicht doorverwijzen naar Brandmeester.
-- Arbeidsconflicten -> altijd doorverwijzen naar Brandmeester.
+{{BEDRIJFSREGELS}}
 
 Categoriseer het gesprek in EXACT een van deze 6 paren (class, label):
 ["outcome-opgelost","Telefonisch opgelost"]
 ["outcome-terugbel","Terugbellen"]
-["outcome-brandmeester","Doorverwezen naar Brandmeester"]
+["outcome-brandmeester","Doorverwezen naar {{DV}}"]
 ["outcome-afkoop","Afkoop"]
 ["outcome-geen-dekking","Geen dekking"]
 ["outcome-verkeerd","Verkeerd nummer"]
@@ -100,15 +99,14 @@ de beller zat simpelweg niet bij de juiste helpdesk.
 Tags (rechtsgebied): gebruik ["tag-arbeidsrecht","Arbeidsrecht"], ["tag-consument","Consumentenrecht"], ["tag-bouw","Bouwrecht"], ["tag-huur","Huurrecht"], ["tag-bestuursrecht","Bestuursrecht"], of ["tag-overig","<specifiek rechtsgebied>"] als geen van de vaste categorieen past. BELANGRIJK: als je "verkeerd_verbonden" hieronder op true zet, gebruik dan ALTIJD exact ["tag-overig","Routering"] als tag -- gebruik in dat geval NOOIT een specifiek label zoals "Autoverzekering" of "Verzekeringsadministratie", ook al ging het gesprek inhoudelijk over autoverzekering. Reden: het rechtsgebied-onderwerp is bij een verkeerd-verbonden gesprek niet relevant (er was geen juridische vraag), en een consistent label voorkomt dat dezelfde soort gesprekken in de rapportage als losse, verschillende categorieen verschijnen.
 
 Bepaal ook drie extra booleans, ONAFHANKELIJK van de uitkomst hierboven:
-- "verkeerd_verbonden": true ALLEEN als de beller HELEMAAL GEEN inhoudelijk juridische vraag heeft -- het onderwerp hoort simpelweg niet bij een juridische helpdesk (bijvoorbeeld een autoverzekeringsvraag, een premievraag, een schadeclaim-callcenter, of een compleet verkeerd doorverbonden nummer) -- en de beller daarom wordt doorverwezen naar iemand anders, een andere afdeling, een ander telefoonnummer, of moet terugbellen en een andere keuzemenu-optie kiezen. BELANGRIJKE UITZONDERING: een doorverwijzing naar Brandmeester/rechtsbijstand (rechtsbijstand_verwijzing) is GEEN verkeerd_verbonden, ook niet als de eerste medewerker zelf geen inhoudelijk advies gaf -- de beller was daar namelijk wel degelijk aan het juiste adres (de juridische helpdesk), en Lancyr heeft zelf professioneel beoordeeld dat de zaak voor verdere behandeling naar rechtsbijstand moet. Dat is een gewenste, correcte triage-uitkomst. Bij twijfel: false.
+- "verkeerd_verbonden": true ALLEEN als de beller HELEMAAL GEEN inhoudelijk juridische vraag heeft -- het onderwerp hoort simpelweg niet bij een juridische helpdesk (bijvoorbeeld een autoverzekeringsvraag, een premievraag, een schadeclaim-callcenter, of een compleet verkeerd doorverbonden nummer) -- en de beller daarom wordt doorverwezen naar iemand anders, een andere afdeling, een ander telefoonnummer, of moet terugbellen en een andere keuzemenu-optie kiezen. BELANGRIJKE UITZONDERING: een doorverwijzing naar {{DV}}/rechtsbijstand (rechtsbijstand_verwijzing) is GEEN verkeerd_verbonden, ook niet als de eerste medewerker zelf geen inhoudelijk advies gaf -- de beller was daar namelijk wel degelijk aan het juiste adres (de juridische helpdesk), en {{KLANT}} heeft zelf professioneel beoordeeld dat de zaak voor verdere behandeling naar rechtsbijstand moet. Dat is een gewenste, correcte triage-uitkomst. Bij twijfel: false.
 - "rechtsbijstand_verwijzing": true ALLEEN als de medewerker de beller expliciet doorverwijst naar de rechtsbijstandsafdeling/rechtsbijstandsverzekering voor verdere behandeling van de zaak (dus niet zomaar "u heeft rechtsbijstand", maar een daadwerkelijke doorverwijzing/overdracht). Bij twijfel: false.
 - "advies_gegeven": true ALLEEN als de medewerker daadwerkelijk inhoudelijk juridisch advies of een concrete juridische uitleg heeft gegeven over de zaak. BELANGRIJK: als de medewerker de beller NIET kon verifieren (niet gevonden in het systeem op naam/adres/polisnummer) en daarom bewust GEEN advies heeft gegeven maar in plaats daarvan om verificatiedocumenten heeft gevraagd en een vervolgcontact heeft afgesproken, is dit false -- en dat is GEEN fout maar juist correct, voorzichtig handelen. Zet dit niet automatisch op true alleen omdat er een juridisch onderwerp is besproken.
 - "identiteit_geverifieerd": true als de medewerker de beller op enig moment tijdens het gesprek heeft gevonden/bevestigd in het systeem (bijvoorbeeld via postcode, huisnummer, adres, polisnummer of naam) -- ook als dat pas halverwege het gesprek gebeurt, vroeg in het gesprek gebeurt is voldoende, het hoeft niet aan het begin te zijn. BELANGRIJK: als onderaan dit bericht "Systeeminfo" staat met een gekoppelde Zoho-contactpersoon, betekent dit dat het systeem de beller AUTOMATISCH heeft herkend op telefoonnummer (koppeling met polis/klantdossier) -- zet dan identiteit_geverifieerd op true, OOK ALS dit nergens expliciet in het transcript wordt besproken. Zet identiteit_geverifieerd alleen op false als er geen Zoho-contactmatch is EN er ook in het transcript geen enkele verificatiepoging (naam/adres/postcode/polisnummer) is gedaan. Let op: "dekkingscontrole" / franchise-controle (EUR 250) is alleen relevant bij zaken met een concreet schadebedrag (bijv. schadeclaims). Bij geschillen over rechten, hinder of gebruik zonder schadebedrag (bijv. burenrecht, onrechtmatige hinder, huurrecht) is de franchise NIET van toepassing en mag dit niet als ontbrekend kwaliteitspunt worden genoemd.
 
 Bepaal ook welke HTJZ-medewerker het gesprek daadwerkelijk voerde:
 - "medewerker": de naam van de medewerker die de beller te woord staat, EXACT een van
-  ["Senne Duifhuis", "Jackie Stam", "Edgar Stam", "Dewi Verver", "Roelof van Beijnum",
-  "Wouter Toonen", "Rowan Ros"], gebaseerd op zelfintroductie ("u spreekt met ...", "dit is
+  [{{STAFF_LIJST}}], gebaseerd op zelfintroductie ("u spreekt met ...", "dit is
   ... van HTJZ") of andere duidelijke aanwijzingen in het transcript zelf. BELANGRIJK: de
   metadata van de opname (wie de notitie heeft aangemaakt/bezit in het opnamesysteem) is
   GEEN betrouwbare bron voor wie het gesprek voerde -- gebruik ALLEEN de inhoud van het
@@ -121,20 +119,35 @@ Geef ALLEEN geldige JSON terug, geen andere tekst, in dit exacte formaat:
 {"samenvatting": "max 3 zinnen, feitelijk en concreet, en vermeld expliciet of en wanneer de beller is geverifieerd en of er wel of geen inhoudelijk advies is gegeven", "tags": [["tag-x","Label"]], "uitkomst": ["outcome-x","Label"], "terugbel": true of false, "verkeerd_verbonden": true of false, "rechtsbijstand_verwijzing": true of false, "advies_gegeven": true of false, "identiteit_geverifieerd": true of false, "medewerker": "<naam of Onbekend>", "intern_overleg": true of false}
 """
 
-DAY_SYSTEM_PROMPT = """Je bent een juridische kwaliteitsanalist voor de Lancyr Juridische Helpdesk van HTJZ.
+_DAY_TEMPLATE = """Je bent een juridische kwaliteitsanalist voor de {{KLANT}} Juridische Helpdesk van HTJZ.
 
-Kwaliteitsnormen: altijd polis+identiteit verifieren, dekkingscontrole (franchise EUR 250) vastleggen, deadlines altijd concreet benoemen, let op herhaalcontact (klant belt vandaag al eerder over hetzelfde onderwerp).
+Kwaliteitsnormen: altijd polis+identiteit verifieren, {{DAG_NORM}}deadlines altijd concreet benoemen, let op herhaalcontact (klant belt vandaag al eerder over hetzelfde onderwerp).
 
 Je krijgt een lijst van alle gesprekken van vandaag (tijd, titel, samenvatting, uitkomst, advies_gegeven, identiteit_geverifieerd). Beoordeel de dag als geheel en verwijs in elk punt naar het specifieke gesprek (tijdstip + onderwerp).
 
 BELANGRIJKE CORRECTIES:
 1. Als "advies_gegeven" false is voor een gesprek, betekent dit dat de medewerker de beller niet kon verifieren in het systeem en daarom TERECHT geen advies heeft gegeven, maar om verificatiedocumenten heeft gevraagd en een vervolgcontact heeft afgesproken. Beoordeel dit NIET als een verificatiefout ("polis/identiteit niet gecontroleerd voordat advies werd gegeven") -- dat is een contradictie, er is immers geen advies gegeven. Beoordeel in dat geval alleen of de medewerker een duidelijk vervolgplan en waar mogelijk een concrete deadline heeft afgesproken voor het gesprek zelf.
 2. Als "identiteit_geverifieerd" true is, is de beller door de medewerker gevonden/bevestigd in het systeem -- noem dan NIET als kritiekpunt dat polis/identiteit niet gecontroleerd zou zijn, ook niet als dat verderop in het gesprek gebeurde in plaats van meteen aan het begin.
-3. De "dekkingscontrole" / franchise-norm (EUR 250) geldt alleen bij zaken met een concreet schadebedrag (schadeclaims). Noem dit NIET als ontbrekend kwaliteitspunt bij geschillen over rechten, hinder of gebruik zonder schadebedrag (bijv. burenrecht, onrechtmatige hinder, huurrecht).
+{{DAG_CORRECTIE}}
 
 Geef ALLEEN geldige JSON terug in dit exacte formaat:
 {"score": 7.2, "goed": ["...", "..."], "beter": ["...", "..."]}
 """
+
+def _render_prompt(t):
+    pr = CFG.get('prompt', {})
+    t = (t.replace('{{KLANT}}', NAAM).replace('{{DV}}', DV)
+          .replace('{{BEDRIJFSREGELS}}', pr.get('bedrijfsregels', ''))
+          .replace('{{STAFF_LIJST}}', ', '.join('"%s"' % n for n in STAFF_NAMES))
+          .replace('{{DAG_NORM}}', pr.get('dagNorm', '')))
+    corr = pr.get('dagCorrectie', '')
+    t = t.replace('\n{{DAG_CORRECTIE}}\n', ('\n' + corr + '\n') if corr else '\n')
+    return t
+
+
+ANALYZE_SYSTEM_PROMPT = _render_prompt(_ANALYZE_TEMPLATE)
+DAY_SYSTEM_PROMPT = _render_prompt(_DAY_TEMPLATE)
+
 
 
 def anthropic_call(system, user_content, max_tokens=800, retries=2):
@@ -228,9 +241,9 @@ def get_note_detail(note_id):
         raise
 
 
-def is_lancyr_note(detail):
+def is_client_note(detail):
     for folder in (detail.get('folder_membership') or []):
-        if LANCYR_FOLDER_NAME in folder.get('name', ''):
+        if FOLDER_NAME in folder.get('name', ''):
             return True
     return False
 
@@ -393,7 +406,7 @@ def main():
         if not detail:
             print(f"  SKIP (404): {title}")
             continue
-        if not is_lancyr_note(detail):
+        if not is_client_note(detail):
             continue
         if is_internal_meeting(title):
             print(f"  SKIP (intern overleg): {title}")
@@ -475,7 +488,7 @@ def main():
         # verwijzing (rechtsbijstand_verwijzing) ook verkeerd_verbonden zou
         # zijn was FOUT -- gebruiker corrigeerde dit expliciet: bij een
         # Brandmeester-verwijzing was de beller wel degelijk bij de juiste
-        # afdeling (Lancyr besliste zelf tot doorverwijzing voor verdere
+        # afdeling (de klant besliste zelf tot doorverwijzing voor verdere
         # behandeling). Dat is dus GEEN verkeerd_verbonden. Zie de
         # bijgewerkte prompt-definitie hierboven voor het echte criterium
         # (geen inhoudelijk juridische vraag, bijv. autoverzekering/premie).
@@ -571,7 +584,7 @@ def main():
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    print(f"\nSaved {len(conversations)} Lancyr entries (score {score}) to {output_path}")
+    print(f"\nSaved {len(conversations)} entries (score {score}) to {output_path}")
 
 
 if __name__ == '__main__':

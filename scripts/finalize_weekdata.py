@@ -9,7 +9,7 @@ laptop aan staat). Dit script draait in .github/workflows/update-dagrapport.yml
 op elke cron-run, dus de hele keten (Zoho/Zoom/Granola-analyse + permanente
 weekData-historie) draait voortaan volledig op GitHub's servers.
 
-Zelfde veilige aanpak als tools/lancyr_safe_update.py: leest, valideert met
+Veilige aanpak: leest, valideert met
 Node.js voor EN na de wijziging, schrijft alleen bij succes. Idempotent --
 overschrijft gewoon dezelfde dag opnieuw als hij al bestaat.
 """
@@ -24,7 +24,7 @@ INDEX_PATH = 'index.html'
 JS_RUNTIME = os.environ.get('JS_RUNTIME', 'node')  # override naar 'bun' etc. voor lokaal testen
 
 
-def validate_weekdata(html_content):
+def validate_weekdata(html_content, require_nonempty=True):
     """Extraheer en valideer het weekData-blok met Node.js. Gooit exception bij fout."""
     idx_wd = html_content.find('const weekData = {')
     idx_mo = html_content.find('const MANUAL_OUTCOMES')
@@ -32,9 +32,9 @@ def validate_weekdata(html_content):
         raise ValueError('weekData of MANUAL_OUTCOMES niet gevonden!')
 
     wd_block = html_content[idx_wd:idx_mo]
-    test_js = wd_block + """
+    test_js = 'const REQUIRE_NONEMPTY = ' + ('true' if require_nonempty else 'false') + ';\n' + wd_block + """
 const keys = Object.keys(weekData);
-if (keys.length === 0) throw new Error('weekData leeg!');
+if (REQUIRE_NONEMPTY && keys.length === 0) throw new Error('weekData leeg!');
 for (const k of keys) {
   const d = weekData[k];
   if (typeof d.gesprekken !== 'number') throw new Error('gesprekken missing in ' + k);
@@ -117,6 +117,8 @@ def upsert(content, date_key_raw, entry_json):
             sep = ','
         elif body_before_close.endswith('},'):
             sep = ''
+        elif body_before_close.endswith('{'):
+            sep = ''  # lege weekData (nieuwe klant): dit wordt de eerste dag
         else:
             raise ValueError(f'Onverwacht einde vorige entry: {body_before_close[-80:]!r}')
 
@@ -141,7 +143,8 @@ def main():
         content = f.read()
 
     print('Stap 1: valideer huidige index.html...')
-    validate_weekdata(content)
+    # Een nieuwe klant begint met een lege weekData; dat is geldig.
+    validate_weekdata(content, require_nonempty=False)
 
     entry_json = build_entry(day)
     new_content = upsert(content, date_key, entry_json)

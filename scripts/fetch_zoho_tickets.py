@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fetch today's tickets from the Zoho Desk "HTJZ | Lancyr" portal and write
+Fetch today's tickets from the Zoho Desk Zoho Desk-portal van de klant and write
 data/zoho-tickets.json for the dagrapport dashboard.
 
 Requires: ZOHO_CLIENT_ID, ZOHO_CLIENT_SECRET, ZOHO_REFRESH_TOKEN, ZOHO_ORG_ID
@@ -8,18 +8,25 @@ environment variables. Runs entirely on GitHub's servers (no dependency on
 any local machine).
 """
 import os
+import sys
 import json
 import urllib.request
 import urllib.parse
 from datetime import datetime, timezone, timedelta
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from client_config import CFG  # noqa: E402
 
 CLIENT_ID = os.environ.get('ZOHO_CLIENT_ID', '')
 CLIENT_SECRET = os.environ.get('ZOHO_CLIENT_SECRET', '')
 REFRESH_TOKEN = os.environ.get('ZOHO_REFRESH_TOKEN', '')
 ORG_ID = os.environ.get('ZOHO_ORG_ID', '')
 
-DESK_BASE = 'https://desk.zoho.eu/api/v1'
-ACCOUNTS_URL = 'https://accounts.zoho.eu/oauth/v2/token'
+ZOHO_REGIO = CFG.get('zoho', {}).get('regio', 'eu')
+DESK_BASE = f'https://desk.zoho.{ZOHO_REGIO}/api/v1'
+ACCOUNTS_URL = f'https://accounts.zoho.{ZOHO_REGIO}/oauth/v2/token'
+# Domein van de doorverwijs-intake (uitgaande mail naar dit domein = doorgezet). Leeg = niet detecteren.
+DOORVERWIJS_MAILDOMEIN = (CFG.get('doorverwijzing', {}).get('mailDomein') or '').lower()
 OUTPUT_PATH = 'data/zoho-tickets.json'
 HISTORY_PATH = 'data/zoho-ticket-history.json'
 AMS_OFFSET = timedelta(hours=2)
@@ -39,11 +46,11 @@ def get_access_token():
 
 def fetch_ticket_threads(access_token, ticket_id):
     """Haalt de e-mailthreads van een ticket op. Het customFields-vinkje
-    "Doorgezet naar BrandMR" bleek onbetrouwbaar (0 van 30 gecontroleerde
+    "Doorgezet naar doorverwijzing" bleek onbetrouwbaar (0 van 30 gecontroleerde
     tickets stond op waar, ook een geval dat aantoonbaar wel was doorgezet).
-    Het echte signaal is een uitgaande e-mail naar de BrandMR-intake --
+    Het echte signaal is een uitgaande e-mail naar de doorverwijs-intake --
     bevestigd op ticket #2542 (4 aug 2026): een thread met direction='out'
-    naar intake@brandmr.nl met het vaste sjabloon."""
+    naar de doorverwijs-intake met het vaste sjabloon."""
     url = f"{DESK_BASE}/tickets/{ticket_id}/threads"
     req = urllib.request.Request(url, headers={
         'Authorization': f'Zoho-oauthtoken {access_token}',
@@ -59,12 +66,12 @@ def fetch_ticket_threads(access_token, ticket_id):
 
 def is_doorgezet_naar_brandmeester(threads):
     """Feit, geen AI-inschatting: True als er een uitgaande e-mail is naar
-    de BrandMR-intake (bevestigd patroon op ticket #2542)."""
+    de doorverwijs-intake (bevestigd patroon op ticket #2542)."""
     for th in threads:
         if th.get('direction') != 'out':
             continue
         to_field = (th.get('to') or '').lower()
-        if 'brandmr.nl' in to_field:
+        if DOORVERWIJS_MAILDOMEIN and DOORVERWIJS_MAILDOMEIN in to_field:
             return True
     return False
 
@@ -270,10 +277,10 @@ def main():
         if not klant:
             klant = t.get('email') or 'Onbekend'
 
-        # "Doorgezet naar BrandMR" is een feit (geen AI-inschatting), maar
+        # "Doorgezet naar doorverwijzing" is een feit (geen AI-inschatting), maar
         # NIET via het onbetrouwbare customFields-vinkje -- via de e-mail-
         # threads van het ticket (zie fetch_ticket_threads hierboven).
-        threads = fetch_ticket_threads(access_token, t.get('id'))
+        threads = fetch_ticket_threads(access_token, t.get('id')) if DOORVERWIJS_MAILDOMEIN else []
         doorgezet_brandmeester = is_doorgezet_naar_brandmeester(threads)
 
         entries.append({

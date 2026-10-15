@@ -1,0 +1,150 @@
+{
+  "_leesmij": "Klantconfiguratie. Dit bestand is de ENIGE plek met klantspecifieke waarden; het dashboard (index.html, blok CLIENT) en de scripts in scripts/ lezen het. Na een wijziging: python3 tools/new_client.py --sync-config. Zie KLANT-AANMAKEN.md.",
+  "id": "lancyr",
+  "naam": "Lancyr",
+  "titel": "Lancyr · Dagrapport — HTJZ",
+  "artifactNaam": "Lancyr Dagrapport",
+  "botNaam": "Lancyr Bot",
+  "footerOperator": "HTJZ &middot; Het Team Juridische Zaken",
+  "klantLogo": {
+    "src": "https://www.lancyr.nl/wp-content/uploads/2025/04/Logo-primair.jpg",
+    "alt": "Lancyr",
+    "hoogte": 22
+  },
+  "loginLogoHtml": "<svg viewBox=\"0 0 130 32\" width=\"105\" height=\"26\" xmlns=\"http://www.w3.org/2000/svg\">\n          <text x=\"0\" y=\"26\" fill=\"#2D1760\" font-size=\"27\" font-weight=\"800\" font-family=\"Poppins,sans-serif\" letter-spacing=\"-0.5\">LANCYR</text>\n          <text x=\"103\" y=\"26\" fill=\"#8C6FBD\" font-size=\"24\" font-weight=\"700\" font-family=\"Poppins,sans-serif\">+</text>\n        </svg>",
+  "avatars": [
+    {
+      "naam": "Jackie Stam",
+      "initialen": "JS",
+      "kleur": ""
+    },
+    {
+      "naam": "Senne Duifhuis",
+      "initialen": "SD",
+      "kleur": "#8a7356"
+    },
+    {
+      "naam": "Wouter Toonen",
+      "initialen": "WT",
+      "kleur": "#6b8f71"
+    }
+  ],
+  "pagesUrl": "https://lancyrjhd.github.io/dagelijks-overzicht/",
+  "repo": {
+    "owner": "LancyrJHD",
+    "naam": "dagelijks-overzicht"
+  },
+  "supabase": {
+    "url": "https://xqnektwpnnbwirmdidbd.supabase.co",
+    "anonKey": "sb_publishable_Yub_Wyg9Z6arQZR9_zLZHw_SFwU0Dj7"
+  },
+  "gemisteOproepenDomeinen": [
+    "htjz.nl"
+  ],
+  "medewerkerDomeinen": [
+    "htjz.nl",
+    "juridische-check.nl"
+  ],
+  "managementEmails": [
+    "jackiestam@htjz.nl",
+    "edgarstam@htjz.nl",
+    "edgarstam@me.com",
+    "monikaboomgaard@htjz.nl",
+    "s.bakker@nedvol.nl"
+  ],
+  "team": [
+    {
+      "naam": "Senne Duifhuis",
+      "email": "senneduifhuis@htjz.nl"
+    },
+    {
+      "naam": "Jackie Stam",
+      "email": "jackiestam@htjz.nl"
+    },
+    {
+      "naam": "Edgar Stam",
+      "email": "edgarstam@htjz.nl"
+    },
+    {
+      "naam": "Dewi Verver",
+      "email": "dewiverver@htjz.nl"
+    },
+    {
+      "naam": "Roelof van Beijnum",
+      "email": "roelofvanbeijnum@htjz.nl"
+    },
+    {
+      "naam": "Wouter Toonen",
+      "email": "woutertoonen@htjz.nl"
+    },
+    {
+      "naam": "Rowan Ros",
+      "email": "rowanros@htjz.nl"
+    }
+  ],
+  "aliassen": {
+    "senna": "Senne Duifhuis",
+    "senne": "Senne Duifhuis",
+    "davy": "Dewi Verver",
+    "dd": "Dewi Verver"
+  },
+  "doorverwijzing": {
+    "naam": "Brandmeester",
+    "toelichting": " (rechtsbijstand)",
+    "zohoLabel": "BrandMR",
+    "mailDomein": "brandmr.nl"
+  },
+  "topMedewerkerLabel": "Brandmeester van de dag",
+  "weekNormen": {
+    "doorverwijzing": 9,
+    "gesprekken": 35
+  },
+  "doorverwijzingHistorie": {
+    "vorige-week": {
+      "brandmeester": 4,
+      "totaal": 26,
+      "periode": "3-7 aug 2026"
+    },
+    "deze-week": {
+      "brandmeester": 3,
+      "totaal": 16,
+      "periode": "10-15 aug 2026"
+    }
+  },
+  "verkeerdVerbondenBackfill": {
+    "2026-08-05": [
+      "11:30",
+      "12:48",
+      "13:36"
+    ],
+    "2026-08-07": [
+      "13:23"
+    ],
+    "2026-08-10": [
+      "11:56"
+    ],
+    "2026-08-11": [
+      "13:17"
+    ],
+    "2026-08-13": [
+      "12:37"
+    ],
+    "2026-08-14": [
+      "13:14",
+      "15:51"
+    ]
+  },
+  "granolaMap": "Lancyr Juridische Helpdesk",
+  "zoom": {
+    "queueDid": "+31294799077",
+    "queueExt": "807"
+  },
+  "prompt": {
+    "bedrijfsregels": "- Bij consumentenzaken: franchise EUR 250 - schade <= EUR 250 = geen dekking.\n- Bouwzaken met grote schade (>EUR 5.000) -> verplicht doorverwijzen naar Brandmeester.\n- Arbeidsconflicten -> altijd doorverwijzen naar Brandmeester.",
+    "dagNorm": "dekkingscontrole (franchise EUR 250) vastleggen, ",
+    "dagCorrectie": "3. De \"dekkingscontrole\" / franchise-norm (EUR 250) geldt alleen bij zaken met een concreet schadebedrag (schadeclaims). Noem dit NIET als ontbrekend kwaliteitspunt bij geschillen over rechten, hinder of gebruik zonder schadebedrag (bijv. burenrecht, onrechtmatige hinder, huurrecht)."
+  },
+  "zoho": {
+    "regio": "eu"
+  }
+}

@@ -27,18 +27,18 @@ stilzwijgend wordt genegeerd. Controleer bij twijfel de Zoom-telefonielog
 zelf.
 
 BEVINDING 25 aug 2026 (casus 06 28047869, 10:41, 24 aug): het TOP-LEVEL
-call_result kan "answered" tonen terwijl de Lancyr-wachtrij zelf de oproep
+call_result kan "answered" tonen terwijl de klant-wachtrij zelf de oproep
 nooit heeft laten opnemen -- de Zoom-app toonde deze call terecht als
-"Missed for Lancyr Juridische Helpdesk". Oorzaak: het EERSTE segment van
+"Missed for klant-helpdesk". Oorzaak: het EERSTE segment van
 het call path (event "incoming") had "result": "overflowed" -- de oproep
 liep over naar een andere bestemming die 'm elders wel oppakte, waardoor
 het top-level call_result "answered" werd. Dat weerspiegelt het
-EINDRESULTAAT van de hele oproep, niet het resultaat van de Lancyr-wachtrij
+EINDRESULTAAT van de hele oproep, niet het resultaat van de klant-wachtrij
 specifiek. Vereist scope phone:read:call_log:admin (25 aug 2026
 toegevoegd). Dit script haalt daarom nu voor elke inbound oproep die
 top-level nog NIET als gemist geldt, alsnog het call path op en
 controleert het resultaat van het eerste ("incoming") segment -- dat is,
-omdat 'logs' al gefilterd is op callee_did_number == LANCYR_QUEUE_DID,
+omdat 'logs' al gefilterd is op callee_did_number == QUEUE_DID,
 gegarandeerd het moment dat de oproep DEZE wachtrij binnenkwam (geen
 verwarring met de andere wachtrij "HTJZ - Juridische Helpdesk" mogelijk).
 Zie de classificatielogica in main() voor de implementatie.
@@ -49,12 +49,16 @@ phone:read:call_log:admin). Optioneel: ZOOM_DATE (YYYY-MM-DD) om een
 andere dag dan vandaag op te halen.
 """
 import os
+import sys
 import json
 import base64
 import urllib.request
 import urllib.parse
 import urllib.error
 from datetime import datetime, timezone, timedelta
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from client_config import CFG, staff_by_local  # noqa: E402
 
 ACCOUNT_ID = os.environ.get('ZOOM_ACCOUNT_ID', '')
 CLIENT_ID = os.environ.get('ZOOM_CLIENT_ID', '')
@@ -86,25 +90,20 @@ AMS_OFFSET = timedelta(hours=2)
 HANDLED_RESULTS = {'answered', 'connected'}
 
 # BEVINDING 25 aug 2026: dit Zoom-account heeft meerdere wachtrijen op
-# dezelfde helpdesk-afdeling (o.a. "Lancyr Juridische Helpdesk", ext 807,
-# +31294799077 EN "HTJZ - Juridische Helpdesk", ext 811, +318002300743).
+# dezelfde helpdesk-afdeling (o.a. "klant-helpdesk", ext 807,
+# <wachtrij-nummer> EN "HTJZ - Juridische Helpdesk", ext 811, <ander-nummer>).
 # Zonder filter haalt get_call_history() ALLE wachtrijen van het account
-# op, waardoor een oproep die nooit de Lancyr-lijn heeft bereikt (bewezen
+# op, waardoor een oproep die nooit de klant-lijn heeft bereikt (bewezen
 # geval: +31433514571, voicemail op ext 811 op 24 aug) toch als "gemiste
-# Lancyr-oproep" werd gerapporteerd. Daarom nu expliciet filteren op de
-# Lancyr-lijn, voor zowel inbound (callee) als outbound (caller = onze
+# klant-oproep" werd gerapporteerd. Daarom nu expliciet filteren op de
+# klant-lijn, voor zowel inbound (callee) als outbound (caller = onze
 # queue-DID bij een agent die terugbelt).
-LANCYR_QUEUE_DID = '+31294799077'
-LANCYR_QUEUE_EXT = '807'
+QUEUE_DID = CFG['zoom']['queueDid']
+QUEUE_EXT = CFG['zoom']['queueExt']
 
 # Medewerkers, op basis van het lokale deel van het e-mailadres (Zoom gebruikt
 # soms @juridische-check.nl, soms @htjz.nl) -> naam zoals in het dashboard.
-STAFF_BY_LOCAL = {
-    'senneduifhuis': 'Senne Duifhuis', 'jackiestam': 'Jackie Stam',
-    'edgarstam': 'Edgar Stam', 'dewiverver': 'Dewi Verver',
-    'roelofvanbeijnum': 'Roelof van Beijnum', 'woutertoonen': 'Wouter Toonen',
-    'rowanros': 'Rowan Ros',
-}
+STAFF_BY_LOCAL = staff_by_local()
 
 
 def staff_name(name, email):
@@ -219,7 +218,7 @@ def main():
         print("--- EINDE DIAGNOSE-ONLY (data/zoom-calls.json NIET geschreven) ---")
         return
 
-    # Filter op de Lancyr Juridische Helpdesk-lijn (zie BEVINDING 25 aug 2026
+    # Filter op de klant-helpdesk-lijn (zie BEVINDING 25 aug 2026
     # hierboven). Alles hierna (result_counts, queue_counts, missed/outbound)
     # werkt bewust op de GEFILTERDE lijst.
     ongefilterd_totaal = len(logs)
@@ -227,13 +226,13 @@ def main():
         log for log in logs
         if (
             (log.get("direction") or "").lower() == "inbound"
-            and log.get("callee_did_number") == LANCYR_QUEUE_DID
+            and log.get("callee_did_number") == QUEUE_DID
         ) or (
             (log.get("direction") or "").lower() == "outbound"
-            and log.get("caller_did_number") == LANCYR_QUEUE_DID
+            and log.get("caller_did_number") == QUEUE_DID
         )
     ]
-    print(f"Gefilterd op Lancyr Juridische Helpdesk-lijn ({LANCYR_QUEUE_DID}): "
+    print(f"Gefilterd op klant-helpdesk-lijn ({QUEUE_DID}): "
           f"{len(logs)} van {ongefilterd_totaal} opgehaalde records blijven over.")
 
     # Lichte, blijvende diagnose: welke call_result-waarden komen vandaag
@@ -251,9 +250,9 @@ def main():
     # binnenkomende oproepen vandaag binnen? Een gebruiker meldde een
     # "gemiste oproep" te zien voor een nummer dat volgens hen nooit heeft
     # gebeld -- mogelijke oorzaak: dit account heeft meerdere wachtrijen
-    # (bv. een algemene HTJZ-lijn naast de specifieke Lancyr-helpdesklijn)
+    # (bv. een algemene HTJZ-lijn naast de specifieke klant-helpdesklijn)
     # en dit script haalt nu ALLE wachtrijen van het account op, niet
-    # gefilterd op de Lancyr-helpdesk.
+    # gefilterd op de klant-helpdesk.
     queue_counts = {}
     for log in logs:
         if (log.get('direction') or '').lower() == 'inbound':
@@ -264,12 +263,12 @@ def main():
         print(f"  {key}: {count}")
 
     # BEVINDING 25 aug 2026: top-level call_result "answered" is niet
-    # genoeg bewijs dat de Lancyr-wachtrij zelf de oproep heeft laten
+    # genoeg bewijs dat de klant-wachtrij zelf de oproep heeft laten
     # opnemen (zie docstring bovenaan -- casus 06 28047869, 24 aug). Voor
     # elke inbound oproep die hier nog niet als gemist geldt, wordt daarom
     # het call path opgehaald en het resultaat van het EERSTE ("incoming")
     # segment gecontroleerd. Omdat 'logs' hierboven al gefilterd is op
-    # callee_did_number == LANCYR_QUEUE_DID, is dat eerste segment
+    # callee_did_number == QUEUE_DID, is dat eerste segment
     # gegarandeerd het moment waarop de oproep DEZE wachtrij binnenkwam --
     # geen risico op verwarring met de andere wachtrij op dezelfde
     # afdelingsnaam ("HTJZ - Juridische Helpdesk"). Volumecheck 25 aug
@@ -343,7 +342,7 @@ def main():
                 log['_classificatie_reden'] = reden
                 if queue_result:
                     # Toon in het dashboard het WERKELIJKE resultaat van de
-                    # Lancyr-wachtrij (bv. "overflowed"), niet het
+                    # klant-wachtrij (bv. "overflowed"), niet het
                     # top-level call_result ("answered") dat hier
                     # misleidend zou zijn voor een oproep die als gemist
                     # wordt getoond.
@@ -360,7 +359,7 @@ def main():
 
     if queue_overflow_count:
         print(f"Wachtrij-overflow gedetecteerd bij {queue_overflow_count} oproep(en): "
-              f"top-level 'beantwoord', maar de Lancyr-wachtrij zelf kreeg de oproep "
+              f"top-level 'beantwoord', maar de klant-wachtrij zelf kreeg de oproep "
               f"niet afgehandeld (nu alsnog als gemist geteld).")
 
     def called_back(missed_call):
