@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T11:20:46Z",
+  "generated_at": "2026-10-15T11:30:51Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -12,7 +12,7 @@
     "statusBreakdown": {
       "Open": 9,
       "In de wacht": 14,
-      "Gesloten": 707
+      "Gesloten": 706
     },
     "capBereikt": false
   },
