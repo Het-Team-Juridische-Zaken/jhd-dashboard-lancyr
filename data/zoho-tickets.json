@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T06:50:43Z",
+  "generated_at": "2026-10-15T07:01:04Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,10 +8,10 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 23,
-    "inDeWacht": 15,
+    "inDeWacht": 14,
     "statusBreakdown": {
-      "Open": 8,
-      "In de wacht": 15,
+      "Open": 9,
+      "In de wacht": 14,
       "Gesloten": 707
     },
     "capBereikt": false
@@ -125,7 +125,7 @@
       "ticketNumber": "2860",
       "titel": "Conflict met acommodatie in Frankrijk",
       "klant": "D. Ramharakh",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014594001"
     },
