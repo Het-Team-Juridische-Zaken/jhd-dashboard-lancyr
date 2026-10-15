@@ -5576,12 +5576,19 @@
         "nummer": "+31617692222",
         "teruggebeld": false,
         "tijd": "10:33"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31653835175",
+        "teruggebeld": false,
+        "tijd": "12:37"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-15",
-    "generated_at": "2026-10-15T10:30:58Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-15T10:40:44Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -5610,10 +5617,17 @@
         "nummer": "+31617692222",
         "teruggebeld": false,
         "tijd": "10:33"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31653835175",
+        "teruggebeld": false,
+        "tijd": "12:37"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 4
+    "totaalGemist": 5,
+    "totaalInbound": 5
   }
 }

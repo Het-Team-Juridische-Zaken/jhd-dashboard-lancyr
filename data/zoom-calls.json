@@ -1,10 +1,10 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T10:30:58Z",
-  "totaalInbound": 4,
-  "totaalGemist": 4,
+  "generated_at": "2026-10-15T10:40:44Z",
+  "totaalInbound": 5,
+  "totaalGemist": 5,
   "terugGebeld": 0,
-  "nietTerugGebeld": 4,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31636418170",
@@ -32,6 +32,13 @@
       "naam": "Onbekend",
       "tijd": "10:33",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31653835175",
+      "naam": "Onbekend",
+      "tijd": "12:37",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -62,6 +69,13 @@
       "naam": "Onbekend",
       "tijd": "10:33",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31653835175",
+      "naam": "Onbekend",
+      "tijd": "12:37",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
