@@ -5737,12 +5737,19 @@
         "nummer": "+31637610444",
         "teruggebeld": false,
         "tijd": "11:26"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31655795701",
+        "teruggebeld": false,
+        "tijd": "11:39"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-16",
-    "generated_at": "2026-10-16T09:40:44Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-16T09:50:44Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -5764,10 +5771,17 @@
         "nummer": "+31637610444",
         "teruggebeld": false,
         "tijd": "11:26"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31655795701",
+        "teruggebeld": false,
+        "tijd": "11:39"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 3
+    "totaalGemist": 4,
+    "totaalInbound": 4
   }
 }

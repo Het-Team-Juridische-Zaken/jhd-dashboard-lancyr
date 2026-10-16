@@ -1,10 +1,10 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T09:40:44Z",
-  "totaalInbound": 3,
-  "totaalGemist": 3,
+  "generated_at": "2026-10-16T09:50:44Z",
+  "totaalInbound": 4,
+  "totaalGemist": 4,
   "terugGebeld": 0,
-  "nietTerugGebeld": 3,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31645150751",
@@ -24,6 +24,13 @@
       "nummer": "+31637610444",
       "naam": "Onbekend",
       "tijd": "11:26",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31655795701",
+      "naam": "Onbekend",
+      "tijd": "11:39",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -47,6 +54,13 @@
       "nummer": "+31637610444",
       "naam": "Onbekend",
       "tijd": "11:26",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31655795701",
+      "naam": "Onbekend",
+      "tijd": "11:39",
       "callResult": "abandoned",
       "teruggebeld": false
     }
