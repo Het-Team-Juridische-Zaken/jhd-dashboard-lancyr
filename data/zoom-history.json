@@ -5716,14 +5716,30 @@
   },
   "2026-10-16": {
     "agenten": {},
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31645150751",
+        "teruggebeld": false,
+        "tijd": "10:25"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-16",
-    "generated_at": "2026-10-16T08:20:45Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-10-16T08:30:55Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31645150751",
+        "teruggebeld": false,
+        "tijd": "10:25"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalGemist": 1,
+    "totaalInbound": 1
   }
 }

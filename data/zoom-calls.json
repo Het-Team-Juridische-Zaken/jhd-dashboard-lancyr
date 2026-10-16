@@ -1,12 +1,28 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T08:20:45Z",
-  "totaalInbound": 0,
-  "totaalGemist": 0,
+  "generated_at": "2026-10-16T08:30:55Z",
+  "totaalInbound": 1,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31645150751",
+      "naam": "Onbekend",
+      "tijd": "10:25",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31645150751",
+      "naam": "Onbekend",
+      "tijd": "10:25",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {},
   "beantwoordZonderAgent": 0
 }
