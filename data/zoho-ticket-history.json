@@ -423,10 +423,10 @@
     "inDeWacht": 12,
     "nieuweVandaag": 0,
     "statusBreakdown": {
-      "Gesloten": 701,
+      "Gesloten": 700,
       "In de wacht": 12,
-      "Open": 14
+      "Open": 15
     },
-    "totaalOpen": 26
+    "totaalOpen": 27
   }
 }
