@@ -1,18 +1,18 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T11:20:43Z",
+  "generated_at": "2026-10-16T11:30:49Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
     "geslotenVandaag": 0,
-    "totaalOpen": 25,
+    "totaalOpen": 26,
     "inDeWacht": 12,
     "statusBreakdown": {
-      "Open": 13,
+      "Open": 14,
       "In de wacht": 12,
-      "Gesloten": 705
+      "Gesloten": 701
     },
     "capBereikt": false
   },
@@ -24,6 +24,14 @@
       "status": "Open",
       "aangemaakt": "2025-03-13",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000003420678"
+    },
+    {
+      "ticketNumber": "1787",
+      "titel": "Verkeerd aangelegde internetkabel",
+      "klant": "C.G.M. vanSassen",
+      "status": "Open",
+      "aangemaakt": "2026-02-23",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000009776012"
     },
     {
       "ticketNumber": "2220",
