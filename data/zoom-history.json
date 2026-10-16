@@ -5723,12 +5723,26 @@
         "nummer": "+31645150751",
         "teruggebeld": false,
         "tijd": "10:25"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31637610444",
+        "teruggebeld": false,
+        "tijd": "11:25"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31637610444",
+        "teruggebeld": false,
+        "tijd": "11:26"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-16",
-    "generated_at": "2026-10-16T09:20:47Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-10-16T09:27:33Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -5736,10 +5750,24 @@
         "nummer": "+31645150751",
         "teruggebeld": false,
         "tijd": "10:25"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31637610444",
+        "teruggebeld": false,
+        "tijd": "11:25"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31637610444",
+        "teruggebeld": false,
+        "tijd": "11:26"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 1
+    "totaalGemist": 3,
+    "totaalInbound": 3
   }
 }
