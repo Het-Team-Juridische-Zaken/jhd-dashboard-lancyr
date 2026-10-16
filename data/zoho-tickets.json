@@ -1,16 +1,31 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T13:40:47Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-10-16T13:50:42Z",
+  "tickets": [
+    {
+      "ticketNumber": "2878",
+      "tijd": "15:44",
+      "titel": "Nieuwe melding, afsplister [D3076943_I74357557]",
+      "klant": "BrandMR Intake",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Email": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 27,
+    "totaalOpen": 28,
     "inDeWacht": 12,
     "statusBreakdown": {
-      "Open": 15,
+      "Open": 16,
       "In de wacht": 12,
       "Gesloten": 700
     },
@@ -232,6 +247,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646111"
+    },
+    {
+      "ticketNumber": "2878",
+      "titel": "Nieuwe melding, afsplister [D3076943_I74357557]",
+      "klant": "BrandMR Intake",
+      "status": "Open",
+      "aangemaakt": "2026-10-16",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
     }
   ]
 }
