@@ -5883,11 +5883,17 @@
     "totaalInbound": 11
   },
   "2026-10-19": {
-    "agenten": {},
+    "agenten": {
+      "Dewi Verver": {
+        "beantwoord": 0,
+        "gesprekstijdSec": 396,
+        "uitgaand": 1
+      }
+    },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-19",
-    "generated_at": "2026-10-19T07:30:51Z",
+    "generated_at": "2026-10-19T07:40:47Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,

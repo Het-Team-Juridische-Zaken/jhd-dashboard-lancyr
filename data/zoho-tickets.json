@@ -1,16 +1,43 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T07:30:51Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-10-19T07:40:46Z",
+  "tickets": [
+    {
+      "ticketNumber": "2879",
+      "tijd": "09:36",
+      "titel": "FW: 84208397 (Mulder, M.H.A. Amaha): Verzoek om juridisch advies inzake huwelijk, huwelijkse voorwaarden en internationale partnerrelatie",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699001",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2880",
+      "tijd": "09:40",
+      "titel": "FW: 84226217_vd Oetelaar: geschil met dienstverlener",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699056",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Email": 2
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 0,
-    "totaalOpen": 28,
+    "totaalOpen": 30,
     "inDeWacht": 12,
     "statusBreakdown": {
-      "Open": 16,
+      "Open": 18,
       "In de wacht": 12,
       "Gesloten": 697
     },
@@ -240,6 +267,22 @@
       "status": "Open",
       "aangemaakt": "2026-10-16",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
+    },
+    {
+      "ticketNumber": "2880",
+      "titel": "FW: 84226217_vd Oetelaar: geschil met dienstverlener",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-19",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699056"
+    },
+    {
+      "ticketNumber": "2879",
+      "titel": "FW: 84208397 (Mulder, M.H.A. Amaha): Verzoek om juridisch advies inzake huwelijk, huwelijkse voorwaarden en internationale partnerrelatie",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-19",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699001"
     }
   ]
 }
