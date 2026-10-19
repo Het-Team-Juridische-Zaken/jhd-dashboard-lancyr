@@ -5904,12 +5904,19 @@
         "nummer": "+31645599926",
         "teruggebeld": false,
         "tijd": "12:02"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31645599926",
+        "teruggebeld": false,
+        "tijd": "12:24"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-19",
-    "generated_at": "2026-10-19T10:28:06Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-10-19T10:31:01Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5924,10 +5931,17 @@
         "nummer": "+31645599926",
         "teruggebeld": false,
         "tijd": "12:02"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31645599926",
+        "teruggebeld": false,
+        "tijd": "12:24"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 9
+    "totaalGemist": 3,
+    "totaalInbound": 10
   }
 }
