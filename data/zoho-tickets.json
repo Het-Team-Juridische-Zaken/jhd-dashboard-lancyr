@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T08:20:50Z",
+  "generated_at": "2026-10-19T08:31:01Z",
   "tickets": [
     {
       "ticketNumber": "2879",
@@ -25,19 +25,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699056",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2881",
+      "tijd": "10:23",
+      "titel": "houdgreep BrandMr; relatienr. 84233704",
+      "klant": "F. Sanou",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722001",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 2
+    "Email": 3
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
+    "nieuweVandaag": 3,
     "geslotenVandaag": 0,
-    "totaalOpen": 30,
+    "totaalOpen": 31,
     "inDeWacht": 12,
     "statusBreakdown": {
-      "Open": 18,
+      "Open": 19,
       "In de wacht": 12,
       "Gesloten": 697
     },
@@ -267,6 +279,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-16",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
+    },
+    {
+      "ticketNumber": "2881",
+      "titel": "houdgreep BrandMr; relatienr. 84233704",
+      "klant": "F. Sanou",
+      "status": "Open",
+      "aangemaakt": "2026-10-19",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722001"
     },
     {
       "ticketNumber": "2880",

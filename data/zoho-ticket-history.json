@@ -433,12 +433,12 @@
     "capBereikt": false,
     "geslotenVandaag": 0,
     "inDeWacht": 12,
-    "nieuweVandaag": 2,
+    "nieuweVandaag": 3,
     "statusBreakdown": {
       "Gesloten": 697,
       "In de wacht": 12,
-      "Open": 18
+      "Open": 19
     },
-    "totaalOpen": 30
+    "totaalOpen": 31
   }
 }
