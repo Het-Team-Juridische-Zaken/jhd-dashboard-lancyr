@@ -5890,14 +5890,30 @@
         "uitgaand": 3
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31628522566",
+        "teruggebeld": false,
+        "tijd": "10:48"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-19",
-    "generated_at": "2026-10-19T08:50:50Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-10-19T09:01:10Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31628522566",
+        "teruggebeld": false,
+        "tijd": "10:48"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 3
+    "totaalGemist": 1,
+    "totaalInbound": 4
   }
 }

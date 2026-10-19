@@ -1,12 +1,28 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T08:50:50Z",
-  "totaalInbound": 3,
-  "totaalGemist": 0,
+  "generated_at": "2026-10-19T09:01:10Z",
+  "totaalInbound": 4,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31628522566",
+      "naam": "Onbekend",
+      "tijd": "10:48",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31628522566",
+      "naam": "Onbekend",
+      "tijd": "10:48",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {
     "Dewi Verver": {
       "beantwoord": 3,
