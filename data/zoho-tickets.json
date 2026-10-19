@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T10:01:07Z",
+  "generated_at": "2026-10-19T10:10:45Z",
   "tickets": [
     {
       "ticketNumber": "2879",
@@ -37,20 +37,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722001",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2882",
+      "tijd": "12:09",
+      "titel": "Conflict met juridisch adviesbureau",
+      "klant": "A.J.H. Arling",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014731020",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 3
+    "Email": 3,
+    "Phone": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
+    "nieuweVandaag": 4,
     "geslotenVandaag": 0,
-    "totaalOpen": 31,
-    "inDeWacht": 12,
+    "totaalOpen": 32,
+    "inDeWacht": 13,
     "statusBreakdown": {
+      "In de wacht": 13,
       "Open": 19,
-      "In de wacht": 12,
       "Gesloten": 697
     },
     "capBereikt": false
@@ -279,6 +292,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-16",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
+    },
+    {
+      "ticketNumber": "2882",
+      "titel": "Conflict met juridisch adviesbureau",
+      "klant": "A.J.H. Arling",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-19",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014731020"
     },
     {
       "ticketNumber": "2881",

@@ -1,16 +1,23 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T10:01:09Z",
-  "totaalInbound": 5,
-  "totaalGemist": 1,
+  "generated_at": "2026-10-19T10:10:47Z",
+  "totaalInbound": 7,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31628522566",
       "naam": "Onbekend",
       "tijd": "10:48",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31645599926",
+      "naam": "Onbekend",
+      "tijd": "12:02",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -21,13 +28,20 @@
       "tijd": "10:48",
       "callResult": "overflowed",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31645599926",
+      "naam": "Onbekend",
+      "tijd": "12:02",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 4,
-      "uitgaand": 5,
-      "gesprekstijdSec": 1939
+      "beantwoord": 5,
+      "uitgaand": 6,
+      "gesprekstijdSec": 2410
     }
   },
   "beantwoordZonderAgent": 0
