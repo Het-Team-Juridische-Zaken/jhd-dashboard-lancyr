@@ -5885,8 +5885,8 @@
   "2026-10-19": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 10,
-        "gesprekstijdSec": 4054,
+        "beantwoord": 11,
+        "gesprekstijdSec": 4234,
         "uitgaand": 9
       }
     },
@@ -5918,12 +5918,19 @@
         "nummer": "+31645599926",
         "teruggebeld": false,
         "tijd": "12:36"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31655082289",
+        "teruggebeld": false,
+        "tijd": "15:38"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-19",
-    "generated_at": "2026-10-19T13:40:44Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-19T13:50:54Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5952,10 +5959,17 @@
         "nummer": "+31645599926",
         "teruggebeld": false,
         "tijd": "12:36"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31655082289",
+        "teruggebeld": false,
+        "tijd": "15:38"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 14
+    "totaalGemist": 5,
+    "totaalInbound": 16
   }
 }
