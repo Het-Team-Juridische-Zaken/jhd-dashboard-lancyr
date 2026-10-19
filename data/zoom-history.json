@@ -5911,12 +5911,19 @@
         "nummer": "+31645599926",
         "teruggebeld": false,
         "tijd": "12:24"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31645599926",
+        "teruggebeld": false,
+        "tijd": "12:36"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-19",
-    "generated_at": "2026-10-19T10:31:01Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-19T10:40:57Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -5938,10 +5945,17 @@
         "nummer": "+31645599926",
         "teruggebeld": false,
         "tijd": "12:24"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31645599926",
+        "teruggebeld": false,
+        "tijd": "12:36"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 10
+    "totaalGemist": 4,
+    "totaalInbound": 11
   }
 }
