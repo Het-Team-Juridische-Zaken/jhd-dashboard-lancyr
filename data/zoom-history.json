@@ -5886,8 +5886,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 3,
-        "gesprekstijdSec": 1418,
-        "uitgaand": 3
+        "gesprekstijdSec": 1543,
+        "uitgaand": 4
       }
     },
     "alleGemistNummers": [
@@ -5901,7 +5901,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-19",
-    "generated_at": "2026-10-19T09:01:10Z",
+    "generated_at": "2026-10-19T09:10:51Z",
     "nietTerugGebeld": 1,
     "nietTerugGebeldNummers": [
       {
