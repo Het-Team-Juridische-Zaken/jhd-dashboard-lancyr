@@ -1,33 +1,45 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T08:30:55Z",
+  "generated_at": "2026-10-20T08:40:55Z",
   "tickets": [
     {
       "ticketNumber": "2884",
       "tijd": "09:12",
-      "titel": "FW: 84206939_Verwijs: SVP contact opnemen ",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
+      "titel": "SVP contact opnemen",
+      "klant": "Y. Verwijs",
+      "status": "Gesloten",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722056",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2885",
+      "tijd": "10:34",
+      "titel": "Stopzetten auto verzekering N-775-BR",
+      "klant": "Prive Mail Rick Welvaart",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699148",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 1
+    "Email": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
-    "geslotenVandaag": 0,
-    "totaalOpen": 34,
-    "inDeWacht": 14,
+    "nieuweVandaag": 2,
+    "geslotenVandaag": 2,
+    "totaalOpen": 33,
+    "inDeWacht": 13,
     "statusBreakdown": {
       "Open": 20,
-      "In de wacht": 14,
-      "Gesloten": 697
+      "Gesloten": 699,
+      "In de wacht": 13
     },
     "capBereikt": false
   },
@@ -209,14 +221,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646039"
     },
     {
-      "ticketNumber": "2874",
-      "titel": "Aansprakelijk stellen",
-      "klant": "Y. Verwijs",
-      "status": "Open",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014650103"
-    },
-    {
       "ticketNumber": "2877",
       "titel": "FW: 84271243_Dulger. Request for legal advice under my legal expenses insurance – Policy 5607-8176947",
       "klant": "De juridische helpdesk",
@@ -257,20 +261,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
     },
     {
+      "ticketNumber": "2882",
+      "titel": "Conflict met juridisch adviesbureau",
+      "klant": "A.J.H. Arling",
+      "status": "Open",
+      "aangemaakt": "2026-10-19",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014731020"
+    },
+    {
       "ticketNumber": "2883",
       "titel": "Conflict met bedrijf met mogelijk schade aan privevermogen",
       "klant": "M. Oldenburg",
       "status": "In de wacht",
       "aangemaakt": "2026-10-19",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014733002"
-    },
-    {
-      "ticketNumber": "2882",
-      "titel": "Conflict met juridisch adviesbureau",
-      "klant": "A.J.H. Arling",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-19",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014731020"
     },
     {
       "ticketNumber": "2881",
@@ -297,12 +301,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699001"
     },
     {
-      "ticketNumber": "2884",
-      "titel": "FW: 84206939_Verwijs: SVP contact opnemen ",
-      "klant": "De juridische helpdesk",
+      "ticketNumber": "2885",
+      "titel": "Stopzetten auto verzekering N-775-BR",
+      "klant": "Prive Mail Rick Welvaart",
       "status": "Open",
       "aangemaakt": "2026-10-20",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722056"
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699148"
     }
   ]
 }

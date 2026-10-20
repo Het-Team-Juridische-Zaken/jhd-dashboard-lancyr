@@ -5973,7 +5973,13 @@
     "totaalInbound": 18
   },
   "2026-10-20": {
-    "agenten": {},
+    "agenten": {
+      "Leyla Pereira": {
+        "beantwoord": 1,
+        "gesprekstijdSec": 329,
+        "uitgaand": 2
+      }
+    },
     "alleGemistNummers": [
       {
         "callResult": "abandoned",
@@ -5993,21 +5999,21 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31643087323",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:57"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31620791457",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "10:22"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-20",
-    "generated_at": "2026-10-20T08:30:56Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-20T08:40:56Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6022,24 +6028,10 @@
         "nummer": "+31683246538",
         "teruggebeld": false,
         "tijd": "09:35"
-      },
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31643087323",
-        "teruggebeld": false,
-        "tijd": "09:57"
-      },
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31620791457",
-        "teruggebeld": false,
-        "tijd": "10:22"
       }
     ],
-    "terugGebeld": 0,
+    "terugGebeld": 2,
     "totaalGemist": 4,
-    "totaalInbound": 4
+    "totaalInbound": 5
   }
 }
