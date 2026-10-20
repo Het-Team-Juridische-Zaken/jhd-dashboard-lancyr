@@ -6043,12 +6043,26 @@
         "nummer": "+31644895970",
         "teruggebeld": false,
         "tijd": "15:40"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31628943608",
+        "teruggebeld": false,
+        "tijd": "16:12"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646898200",
+        "teruggebeld": false,
+        "tijd": "16:30"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-20",
-    "generated_at": "2026-10-20T14:20:53Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-10-20T14:31:02Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6084,10 +6098,24 @@
         "nummer": "+31644895970",
         "teruggebeld": false,
         "tijd": "15:40"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31628943608",
+        "teruggebeld": false,
+        "tijd": "16:12"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646898200",
+        "teruggebeld": false,
+        "tijd": "16:30"
       }
     ],
     "terugGebeld": 4,
-    "totaalGemist": 9,
-    "totaalInbound": 12
+    "totaalGemist": 11,
+    "totaalInbound": 14
   }
 }

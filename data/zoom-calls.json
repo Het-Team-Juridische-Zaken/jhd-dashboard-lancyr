@@ -1,10 +1,10 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T14:20:53Z",
-  "totaalInbound": 12,
-  "totaalGemist": 9,
+  "generated_at": "2026-10-20T14:31:02Z",
+  "totaalInbound": 14,
+  "totaalGemist": 11,
   "terugGebeld": 4,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 7,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31687953903",
@@ -39,6 +39,20 @@
       "naam": "Onbekend",
       "tijd": "15:40",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31628943608",
+      "naam": "Onbekend",
+      "tijd": "16:12",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646898200",
+      "naam": "Onbekend",
+      "tijd": "16:30",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -104,6 +118,20 @@
       "naam": "Onbekend",
       "tijd": "15:40",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31628943608",
+      "naam": "Onbekend",
+      "tijd": "16:12",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646898200",
+      "naam": "Onbekend",
+      "tijd": "16:30",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],

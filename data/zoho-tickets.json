@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T14:20:50Z",
+  "generated_at": "2026-10-20T14:30:59Z",
   "tickets": [
     {
       "ticketNumber": "2884",
@@ -60,11 +60,11 @@
     "nieuweVandaag": 4,
     "geslotenVandaag": 3,
     "totaalOpen": 35,
-    "inDeWacht": 13,
+    "inDeWacht": 12,
     "statusBreakdown": {
+      "Open": 23,
       "Gesloten": 697,
-      "Open": 22,
-      "In de wacht": 13
+      "In de wacht": 12
     },
     "capBereikt": false
   },
@@ -238,6 +238,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644105"
     },
     {
+      "ticketNumber": "2876",
+      "titel": "melding – Japanse duizendknoop bij woningaankoop | Verzoek beoordeling rechtsbijstandsdekking Wonen (relatienummer 84236870)",
+      "klant": "N. Martina",
+      "status": "Open",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652094"
+    },
+    {
       "ticketNumber": "2875",
       "titel": "Overleg",
       "klant": "Martijn Rengers",
@@ -260,14 +268,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014648122"
-    },
-    {
-      "ticketNumber": "2876",
-      "titel": "melding – Japanse duizendknoop bij woningaankoop | Verzoek beoordeling rechtsbijstandsdekking Wonen (relatienummer 84236870)",
-      "klant": "N. Martina",
-      "status": "Open",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652094"
     },
     {
       "ticketNumber": "2871",
@@ -294,20 +294,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
     },
     {
+      "ticketNumber": "2883",
+      "titel": "Conflict met bedrijf met mogelijk schade aan privevermogen",
+      "klant": "M. Oldenburg",
+      "status": "Open",
+      "aangemaakt": "2026-10-19",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014733002"
+    },
+    {
       "ticketNumber": "2882",
       "titel": "Conflict met juridisch adviesbureau",
       "klant": "A.J.H. Arling",
       "status": "Open",
       "aangemaakt": "2026-10-19",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014731020"
-    },
-    {
-      "ticketNumber": "2883",
-      "titel": "Conflict met bedrijf met mogelijk schade aan privevermogen",
-      "klant": "M. Oldenburg",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-19",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014733002"
     },
     {
       "ticketNumber": "2881",

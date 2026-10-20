@@ -444,12 +444,12 @@
   "2026-10-20": {
     "capBereikt": false,
     "geslotenVandaag": 3,
-    "inDeWacht": 13,
+    "inDeWacht": 12,
     "nieuweVandaag": 4,
     "statusBreakdown": {
       "Gesloten": 697,
-      "In de wacht": 13,
-      "Open": 22
+      "In de wacht": 12,
+      "Open": 23
     },
     "totaalOpen": 35
   }
