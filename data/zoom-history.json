@@ -6036,12 +6036,19 @@
         "nummer": "+31206903016",
         "teruggebeld": false,
         "tijd": "14:20"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31644895970",
+        "teruggebeld": false,
+        "tijd": "15:40"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-20",
-    "generated_at": "2026-10-20T13:40:45Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-20T13:50:52Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6070,10 +6077,17 @@
         "nummer": "+31206903016",
         "teruggebeld": false,
         "tijd": "14:20"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31644895970",
+        "teruggebeld": false,
+        "tijd": "15:40"
       }
     ],
     "terugGebeld": 4,
-    "totaalGemist": 8,
-    "totaalInbound": 11
+    "totaalGemist": 9,
+    "totaalInbound": 12
   }
 }
