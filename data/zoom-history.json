@@ -5995,12 +5995,19 @@
         "nummer": "+31643087323",
         "teruggebeld": false,
         "tijd": "09:57"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31620791457",
+        "teruggebeld": false,
+        "tijd": "10:22"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-20",
-    "generated_at": "2026-10-20T08:20:45Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-20T08:30:56Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6022,10 +6029,17 @@
         "nummer": "+31643087323",
         "teruggebeld": false,
         "tijd": "09:57"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31620791457",
+        "teruggebeld": false,
+        "tijd": "10:22"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 3
+    "totaalGemist": 4,
+    "totaalInbound": 4
   }
 }

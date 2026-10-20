@@ -1,10 +1,10 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T08:20:45Z",
-  "totaalInbound": 3,
-  "totaalGemist": 3,
+  "generated_at": "2026-10-20T08:30:56Z",
+  "totaalInbound": 4,
+  "totaalGemist": 4,
   "terugGebeld": 0,
-  "nietTerugGebeld": 3,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31687953903",
@@ -24,6 +24,13 @@
       "nummer": "+31643087323",
       "naam": "Onbekend",
       "tijd": "09:57",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31620791457",
+      "naam": "Onbekend",
+      "tijd": "10:22",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -47,6 +54,13 @@
       "nummer": "+31643087323",
       "naam": "Onbekend",
       "tijd": "09:57",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31620791457",
+      "naam": "Onbekend",
+      "tijd": "10:22",
       "callResult": "overflowed",
       "teruggebeld": false
     }
