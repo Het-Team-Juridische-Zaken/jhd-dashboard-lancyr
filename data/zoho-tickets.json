@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T12:20:42Z",
+  "generated_at": "2026-10-20T12:31:03Z",
   "tickets": [
     {
       "ticketNumber": "2884",
@@ -25,19 +25,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699148",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2886",
+      "tijd": "14:29",
+      "titel": "Fwd: Aansprakelijkstelling verkeersongeval 11 september 2026, uw verzekerde ZT-718-V [D20161151_I73734594]",
+      "klant": "S.L. Soedamah",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 2
+    "Email": 3
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
+    "nieuweVandaag": 3,
     "geslotenVandaag": 2,
-    "totaalOpen": 34,
+    "totaalOpen": 35,
     "inDeWacht": 13,
     "statusBreakdown": {
-      "Open": 21,
+      "Open": 22,
       "Gesloten": 696,
       "In de wacht": 13
     },
@@ -307,6 +319,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-19",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699001"
+    },
+    {
+      "ticketNumber": "2886",
+      "titel": "Fwd: Aansprakelijkstelling verkeersongeval 11 september 2026, uw verzekerde ZT-718-V [D20161151_I73734594]",
+      "klant": "S.L. Soedamah",
+      "status": "Open",
+      "aangemaakt": "2026-10-20",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060"
     },
     {
       "ticketNumber": "2885",

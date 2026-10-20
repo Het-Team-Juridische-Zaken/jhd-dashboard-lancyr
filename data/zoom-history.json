@@ -5976,8 +5976,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 3,
-        "gesprekstijdSec": 638,
-        "uitgaand": 3
+        "gesprekstijdSec": 787,
+        "uitgaand": 4
       }
     },
     "alleGemistNummers": [
@@ -6029,12 +6029,19 @@
         "nummer": "+31621482593",
         "teruggebeld": true,
         "tijd": "12:45"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31206903016",
+        "teruggebeld": false,
+        "tijd": "14:20"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-20",
-    "generated_at": "2026-10-20T12:20:44Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-20T12:31:05Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6056,10 +6063,17 @@
         "nummer": "+31557601777",
         "teruggebeld": false,
         "tijd": "12:08"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31206903016",
+        "teruggebeld": false,
+        "tijd": "14:20"
       }
     ],
     "terugGebeld": 4,
-    "totaalGemist": 7,
-    "totaalInbound": 10
+    "totaalGemist": 8,
+    "totaalInbound": 11
   }
 }
