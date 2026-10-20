@@ -6008,12 +6008,19 @@
         "nummer": "+31620791457",
         "teruggebeld": true,
         "tijd": "10:22"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31557601777",
+        "teruggebeld": false,
+        "tijd": "12:08"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-20",
-    "generated_at": "2026-10-20T10:10:48Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-10-20T10:20:50Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6028,10 +6035,17 @@
         "nummer": "+31683246538",
         "teruggebeld": false,
         "tijd": "09:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31557601777",
+        "teruggebeld": false,
+        "tijd": "12:08"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 4,
-    "totaalInbound": 6
+    "totaalGemist": 5,
+    "totaalInbound": 7
   }
 }
