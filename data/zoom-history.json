@@ -5981,12 +5981,19 @@
         "nummer": "+31687953903",
         "teruggebeld": false,
         "tijd": "09:16"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31683246538",
+        "teruggebeld": false,
+        "tijd": "09:35"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-20",
-    "generated_at": "2026-10-20T07:30:59Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-10-20T07:40:47Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -5994,10 +6001,17 @@
         "nummer": "+31687953903",
         "teruggebeld": false,
         "tijd": "09:16"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31683246538",
+        "teruggebeld": false,
+        "tijd": "09:35"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 1
+    "totaalGemist": 2,
+    "totaalInbound": 2
   }
 }
