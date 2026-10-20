@@ -6055,14 +6055,14 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31646898200",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "16:30"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-20",
-    "generated_at": "2026-10-20T14:31:02Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-10-20T14:40:52Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6105,16 +6105,9 @@
         "nummer": "+31628943608",
         "teruggebeld": false,
         "tijd": "16:12"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31646898200",
-        "teruggebeld": false,
-        "tijd": "16:30"
       }
     ],
-    "terugGebeld": 4,
+    "terugGebeld": 5,
     "totaalGemist": 11,
     "totaalInbound": 14
   }
