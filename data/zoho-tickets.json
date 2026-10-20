@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T08:50:50Z",
+  "generated_at": "2026-10-20T09:01:01Z",
   "tickets": [
     {
       "ticketNumber": "2884",
@@ -34,11 +34,11 @@
   "ticketStats": {
     "nieuweVandaag": 2,
     "geslotenVandaag": 2,
-    "totaalOpen": 33,
+    "totaalOpen": 34,
     "inDeWacht": 13,
     "statusBreakdown": {
-      "Open": 20,
-      "Gesloten": 699,
+      "Open": 21,
+      "Gesloten": 698,
       "In de wacht": 13
     },
     "capBereikt": false
@@ -147,6 +147,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014426020"
+    },
+    {
+      "ticketNumber": "2842",
+      "titel": "VVE-onderzoekskosten en aansprakelijkheid met Josty Verhulst",
+      "klant": "J. Verhulst",
+      "status": "Open",
+      "aangemaakt": "2026-10-07",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014511001"
     },
     {
       "ticketNumber": "2838",
