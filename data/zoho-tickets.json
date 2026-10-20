@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T12:40:48Z",
+  "generated_at": "2026-10-20T12:50:51Z",
   "tickets": [
     {
       "ticketNumber": "2884",
@@ -37,20 +37,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2887",
+      "tijd": "14:45",
+      "titel": "Onjuiste installatie meterkast",
+      "klant": "I.G.M. deJong",
+      "status": "Gesloten",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014737025",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 3
+    "Email": 3,
+    "Phone": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
-    "geslotenVandaag": 2,
+    "nieuweVandaag": 4,
+    "geslotenVandaag": 3,
     "totaalOpen": 35,
     "inDeWacht": 13,
     "statusBreakdown": {
+      "Gesloten": 697,
       "Open": 22,
-      "Gesloten": 696,
       "In de wacht": 13
     },
     "capBereikt": false
