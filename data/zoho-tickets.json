@@ -1,18 +1,33 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T07:10:47Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-10-20T07:20:41Z",
+  "tickets": [
+    {
+      "ticketNumber": "2884",
+      "tijd": "09:12",
+      "titel": "FW: 84206939_Verwijs: SVP contact opnemen ",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722056",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Email": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 33,
+    "totaalOpen": 34,
     "inDeWacht": 14,
     "statusBreakdown": {
+      "Open": 20,
       "In de wacht": 14,
-      "Gesloten": 697,
-      "Open": 19
+      "Gesloten": 697
     },
     "capBereikt": false
   },
@@ -280,6 +295,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-19",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699001"
+    },
+    {
+      "ticketNumber": "2884",
+      "titel": "FW: 84206939_Verwijs: SVP contact opnemen ",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-20",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722056"
     }
   ]
 }
