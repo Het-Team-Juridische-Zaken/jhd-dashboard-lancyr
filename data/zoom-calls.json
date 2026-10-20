@@ -1,10 +1,10 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T11:10:44Z",
+  "generated_at": "2026-10-20T11:20:51Z",
   "totaalInbound": 9,
   "totaalGemist": 7,
-  "terugGebeld": 2,
-  "nietTerugGebeld": 5,
+  "terugGebeld": 4,
+  "nietTerugGebeld": 3,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31687953903",
@@ -25,20 +25,6 @@
       "naam": "Onbekend",
       "tijd": "12:08",
       "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31621482593",
-      "naam": "Onbekend",
-      "tijd": "12:23",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31621482593",
-      "naam": "Onbekend",
-      "tijd": "12:45",
-      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -83,21 +69,21 @@
       "naam": "Onbekend",
       "tijd": "12:23",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31621482593",
       "naam": "Onbekend",
       "tijd": "12:45",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     }
   ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 2,
-      "uitgaand": 2,
-      "gesprekstijdSec": 443
+      "uitgaand": 3,
+      "gesprekstijdSec": 580
     }
   },
   "beantwoordZonderAgent": 0
