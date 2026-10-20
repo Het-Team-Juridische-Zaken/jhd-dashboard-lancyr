@@ -1,10 +1,10 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T10:40:53Z",
-  "totaalInbound": 8,
-  "totaalGemist": 6,
+  "generated_at": "2026-10-20T10:50:47Z",
+  "totaalInbound": 9,
+  "totaalGemist": 7,
   "terugGebeld": 2,
-  "nietTerugGebeld": 4,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31687953903",
@@ -31,6 +31,13 @@
       "nummer": "+31621482593",
       "naam": "Onbekend",
       "tijd": "12:23",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31621482593",
+      "naam": "Onbekend",
+      "tijd": "12:45",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -75,6 +82,13 @@
       "nummer": "+31621482593",
       "naam": "Onbekend",
       "tijd": "12:23",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31621482593",
+      "naam": "Onbekend",
+      "tijd": "12:45",
       "callResult": "abandoned",
       "teruggebeld": false
     }

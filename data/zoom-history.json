@@ -6022,12 +6022,19 @@
         "nummer": "+31621482593",
         "teruggebeld": false,
         "tijd": "12:23"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31621482593",
+        "teruggebeld": false,
+        "tijd": "12:45"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-20",
-    "generated_at": "2026-10-20T10:40:53Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-20T10:50:47Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6056,10 +6063,17 @@
         "nummer": "+31621482593",
         "teruggebeld": false,
         "tijd": "12:23"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31621482593",
+        "teruggebeld": false,
+        "tijd": "12:45"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 6,
-    "totaalInbound": 8
+    "totaalGemist": 7,
+    "totaalInbound": 9
   }
 }
