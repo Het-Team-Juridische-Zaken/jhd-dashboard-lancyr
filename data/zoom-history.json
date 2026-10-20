@@ -5988,12 +5988,19 @@
         "nummer": "+31683246538",
         "teruggebeld": false,
         "tijd": "09:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643087323",
+        "teruggebeld": false,
+        "tijd": "09:57"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-20",
-    "generated_at": "2026-10-20T08:10:42Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-10-20T08:20:45Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6008,10 +6015,17 @@
         "nummer": "+31683246538",
         "teruggebeld": false,
         "tijd": "09:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643087323",
+        "teruggebeld": false,
+        "tijd": "09:57"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 2
+    "totaalGemist": 3,
+    "totaalInbound": 3
   }
 }
