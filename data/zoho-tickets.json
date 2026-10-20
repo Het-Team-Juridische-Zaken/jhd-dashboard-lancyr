@@ -1,75 +1,11 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T17:04:17Z",
-  "tickets": [
-    {
-      "ticketNumber": "2879",
-      "tijd": "09:36",
-      "titel": "FW: 84208397 (Mulder, M.H.A. Amaha): Verzoek om juridisch advies inzake huwelijk, huwelijkse voorwaarden en internationale partnerrelatie",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699001",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2880",
-      "tijd": "09:40",
-      "titel": "FW: 84226217_vd Oetelaar: geschil met dienstverlener",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699056",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2881",
-      "tijd": "10:23",
-      "titel": "houdgreep BrandMr; relatienr. 84233704",
-      "klant": "F. Sanou",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722001",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2882",
-      "tijd": "12:09",
-      "titel": "Conflict met juridisch adviesbureau",
-      "klant": "A.J.H. Arling",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014731020",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2883",
-      "tijd": "14:40",
-      "titel": "Conflict met bedrijf met mogelijk schade aan privevermogen",
-      "klant": "M. Oldenburg",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014733002",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Email": 3,
-    "Phone": 2
-  },
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T05:01:02Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 5,
+    "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 33,
     "inDeWacht": 14,

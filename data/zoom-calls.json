@@ -1,90 +1,12 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T17:04:22Z",
-  "totaalInbound": 18,
-  "totaalGemist": 5,
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T05:01:02Z",
+  "totaalInbound": 0,
+  "totaalGemist": 0,
   "terugGebeld": 0,
-  "nietTerugGebeld": 5,
-  "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31628522566",
-      "naam": "Onbekend",
-      "tijd": "10:48",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31645599926",
-      "naam": "Onbekend",
-      "tijd": "12:02",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31645599926",
-      "naam": "Onbekend",
-      "tijd": "12:24",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31645599926",
-      "naam": "Onbekend",
-      "tijd": "12:36",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31655082289",
-      "naam": "Onbekend",
-      "tijd": "15:38",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    }
-  ],
-  "alleGemistNummers": [
-    {
-      "nummer": "+31628522566",
-      "naam": "Onbekend",
-      "tijd": "10:48",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31645599926",
-      "naam": "Onbekend",
-      "tijd": "12:02",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31645599926",
-      "naam": "Onbekend",
-      "tijd": "12:24",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31645599926",
-      "naam": "Onbekend",
-      "tijd": "12:36",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31655082289",
-      "naam": "Onbekend",
-      "tijd": "15:38",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    }
-  ],
-  "agenten": {
-    "Dewi Verver": {
-      "beantwoord": 13,
-      "uitgaand": 9,
-      "gesprekstijdSec": 4457
-    }
-  },
+  "nietTerugGebeld": 0,
+  "nietTerugGebeldNummers": [],
+  "alleGemistNummers": [],
+  "agenten": {},
   "beantwoordZonderAgent": 0
 }
