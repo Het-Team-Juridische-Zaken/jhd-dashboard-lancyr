@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T12:11:07Z",
+  "generated_at": "2026-10-21T12:20:56Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
@@ -11,13 +11,13 @@
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 4.8,
+  "score": 3.8,
   "conversations": [
     {
       "tijd": "11:07",
       "titel": "Zijactiviteiten en contractuele vereisten met Brandmeester",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Beller heeft vragen over zijactiviteiten en contractuele vereisten bij zijn werkgever (softwareontwikkeling, trainingen). De medewerker heeft geen inhoudelijk juridisch advies gegeven, maar heeft de zaak direct doorverwezen naar Brandmeester (rechtsbijstandsverzekering) voor contractanalyse. De beller is niet geverifieerd in het systeem.",
+      "samenvatting": "Beller belt over zijactiviteiten en contractuele vereisten in zijn arbeidscontract. De medewerker heeft geen inhoudelijk advies gegeven, maar de zaak direct doorverwezen naar Brandmeester (rechtsbijstand) voor gedetailleerde contractanalyse. Identiteit is niet geverifieerd (geen Zoho-match en geen verificatiestappen in transcript).",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -38,7 +38,7 @@
       "tijd": "11:31",
       "titel": "Wendy Bunnig en Dewi",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Wendy Bunnig belt over geschillen met een bouwbedrijf dat kunststofkozijnen plaatste: beschadiging van een historisch ornament en niet-nakoming van afspraken over hergebruik van materialen (EUR 5.000). De beller heeft reeds een formele ingebrekenstelling verzonden met reactietermijn van 14 dagen (14 oktober). De medewerker adviseert af te wachten tot na deze termijn en biedt dan doorverwijzing naar Brandmeester aan. Identiteit is niet geverifieerd (geen Zoho-match, geen verificatie in transcript), maar inhoudelijk advies is gegeven (stappenplan en doorverwijzingsvoorstel).",
+      "samenvatting": "Wendy Bunnig belde naar aanleiding van een afspraak over problemen met kunststofkozijnplaatsing: beschadigde historische ornamenten en weggegooid herbruikmateriaal zonder vergoeding. De medewerker (Davy) verifieerde de beller niet expliciet in het systeem, gaf geen inhoudelijk juridisch advies maar adviseerde afwachten van reactie op de reeds door de beller verzonden formele ingebrekenstelling (14 oktober, termijn 14 dagen), en beloofde doorverwijzing naar Brandmeester indien geen reactie. Terugbellen afgesproken.",
       "tags": [
         [
           "tag-bouw",
@@ -52,19 +52,19 @@
       "terugbel": true,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
-      "adviesGegeven": true,
+      "adviesGegeven": false,
       "identiteitGeverifieerd": false
     }
   ],
   "acties": [],
   "analyse": {
     "goed": [
-      "11:07 – Zijactiviteiten: Juiste doorverwijzing naar Brandmeester voor contractanalyse waar juridische expertise nodig is",
-      "11:31 – Wendy Bunnig: Helder stappenplan gegeven (afwachten reactietermijn 14 oktober, dan Brandmeester), passend bij de ernst van het geschil"
+      "11:07 – Brandmeester-zaak: juiste triage naar rechtsbijstand voor complexe contractanalyse (zijactiviteiten en contractuele vereisten)",
+      "11:31 – Wendy Bunnig/Dewi-zaak: zinvol vervolgtraject uitgezet (monitoren ingebrekenstelling 14 oktober met 14-daagse termijn, escalatie naar Brandmeester bij geen reactie)"
     ],
     "beter": [
-      "11:07 – Zijactiviteiten: Beller niet geverifieerd voordat doorverwijzing plaatsvond; geen concrete vervolgdeadline of vervolgafspraak vastgelegd (wanneer neemt Brandmeester contact op?)",
-      "11:31 – Wendy Bunnig: KRITIEK – Identiteit niet geverifieerd in systeem, maar inhoudelijk advies wel gegeven (stappenplan + doorverwijzing). Dit schendt de basisnorm: polis + identiteit moeten altijd vooraf worden gecontroleerd. De medewerker had eerst moeten verifiëren alvorens advies te geven. Voorts ontbreekt een concrete vervolgdeadline: wanneer precies moet de beller terugbellen (welke datum na 14 oktober)?"
+      "11:07 – Brandmeester-zaak: identiteit NIET geverifieerd voordat doorverwijzing plaatsvond. Geen verificatiestappen in transcript; concrete deadline/vervolgafspraak ontbreekt",
+      "11:31 – Wendy Bunnig/Dewi-zaak: identiteit NIET geverifieerd in systeem (geen Zoho-match genoemd, geen expliciete verificatiestap). Ondanks afspraak over terugbellen: geen concrete datum/tijd vastgelegd voor vervolgcontact"
     ]
   },
   "verkeerdVerbonden": {
