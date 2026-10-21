@@ -6140,12 +6140,19 @@
         "nummer": "+31610840615",
         "teruggebeld": false,
         "tijd": "10:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31622491866",
+        "teruggebeld": false,
+        "tijd": "11:22"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-21",
-    "generated_at": "2026-10-21T09:20:44Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-21T09:30:52Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6167,10 +6174,17 @@
         "nummer": "+31610840615",
         "teruggebeld": false,
         "tijd": "10:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31622491866",
+        "teruggebeld": false,
+        "tijd": "11:22"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 4
+    "totaalGemist": 4,
+    "totaalInbound": 5
   }
 }
