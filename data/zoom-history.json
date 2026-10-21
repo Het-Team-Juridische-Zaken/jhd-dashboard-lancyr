@@ -6154,12 +6154,19 @@
         "nummer": "+31646898200",
         "teruggebeld": false,
         "tijd": "11:55"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31646898200",
+        "teruggebeld": false,
+        "tijd": "12:07"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-21",
-    "generated_at": "2026-10-21T10:10:43Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-10-21T10:20:41Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6195,10 +6202,17 @@
         "nummer": "+31646898200",
         "teruggebeld": false,
         "tijd": "11:55"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31646898200",
+        "teruggebeld": false,
+        "tijd": "12:07"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 5,
-    "totaalInbound": 6
+    "totaalGemist": 6,
+    "totaalInbound": 7
   }
 }

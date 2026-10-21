@@ -1,18 +1,18 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T10:10:42Z",
+  "generated_at": "2026-10-21T10:20:40Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 11,
-    "totaalOpen": 24,
+    "geslotenVandaag": 10,
+    "totaalOpen": 25,
     "inDeWacht": 20,
     "statusBreakdown": {
+      "Open": 5,
       "In de wacht": 20,
-      "Gesloten": 708,
-      "Open": 4
+      "Gesloten": 707
     },
     "capBereikt": false
   },
@@ -136,6 +136,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
+    },
+    {
+      "ticketNumber": "2876",
+      "titel": "melding – Japanse duizendknoop bij woningaankoop | Verzoek beoordeling rechtsbijstandsdekking Wonen (relatienummer 84236870)",
+      "klant": "N. Martina",
+      "status": "Open",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652094"
     },
     {
       "ticketNumber": "2877",
