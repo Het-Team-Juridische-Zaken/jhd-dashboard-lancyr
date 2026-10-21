@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T09:10:48Z",
+  "generated_at": "2026-10-21T09:20:43Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,11 +8,11 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 11,
     "totaalOpen": 24,
-    "inDeWacht": 19,
+    "inDeWacht": 20,
     "statusBreakdown": {
-      "In de wacht": 19,
+      "In de wacht": 20,
       "Gesloten": 708,
-      "Open": 5
+      "Open": 4
     },
     "capBereikt": false
   },
@@ -138,20 +138,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
     },
     {
+      "ticketNumber": "2877",
+      "titel": "Request for legal advice under my legal expenses insurance – Policy 5607-8176947",
+      "klant": "B. Dulger",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014648122"
+    },
+    {
       "ticketNumber": "2875",
       "titel": "Overleg",
       "klant": "Martijn Rengers",
       "status": "Open",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014645140"
-    },
-    {
-      "ticketNumber": "2877",
-      "titel": "FW: 84271243_Dulger. Request for legal advice under my legal expenses insurance – Policy 5607-8176947",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014648122"
     },
     {
       "ticketNumber": "2871",
