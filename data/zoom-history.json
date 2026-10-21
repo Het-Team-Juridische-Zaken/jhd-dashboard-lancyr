@@ -6173,7 +6173,7 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31652091097",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "14:18"
       },
       {
@@ -6182,11 +6182,18 @@
         "nummer": "+31655082289",
         "teruggebeld": false,
         "tijd": "14:20"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31622777747",
+        "teruggebeld": false,
+        "tijd": "14:37"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-21",
-    "generated_at": "2026-10-21T12:41:04Z",
+    "generated_at": "2026-10-21T12:50:44Z",
     "nietTerugGebeld": 8,
     "nietTerugGebeldNummers": [
       {
@@ -6232,22 +6239,22 @@
         "tijd": "12:25"
       },
       {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31652091097",
-        "teruggebeld": false,
-        "tijd": "14:18"
-      },
-      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31655082289",
         "teruggebeld": false,
         "tijd": "14:20"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31622777747",
+        "teruggebeld": false,
+        "tijd": "14:37"
       }
     ],
-    "terugGebeld": 1,
-    "totaalGemist": 9,
-    "totaalInbound": 10
+    "terugGebeld": 2,
+    "totaalGemist": 10,
+    "totaalInbound": 11
   }
 }

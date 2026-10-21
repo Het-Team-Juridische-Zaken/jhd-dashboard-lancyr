@@ -1,9 +1,9 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T12:41:04Z",
-  "totaalInbound": 10,
-  "totaalGemist": 9,
-  "terugGebeld": 1,
+  "generated_at": "2026-10-21T12:50:44Z",
+  "totaalInbound": 11,
+  "totaalGemist": 10,
+  "terugGebeld": 2,
   "nietTerugGebeld": 8,
   "nietTerugGebeldNummers": [
     {
@@ -49,17 +49,17 @@
       "teruggebeld": false
     },
     {
-      "nummer": "+31652091097",
-      "naam": "Onbekend",
-      "tijd": "14:18",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
       "nummer": "+31655082289",
       "naam": "Onbekend",
       "tijd": "14:20",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31622777747",
+      "naam": "Onbekend",
+      "tijd": "14:37",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -118,13 +118,20 @@
       "naam": "Onbekend",
       "tijd": "14:18",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31655082289",
       "naam": "Onbekend",
       "tijd": "14:20",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31622777747",
+      "naam": "Onbekend",
+      "tijd": "14:37",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
