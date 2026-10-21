@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T08:40:42Z",
+  "generated_at": "2026-10-21T08:50:42Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -10,9 +10,9 @@
     "totaalOpen": 25,
     "inDeWacht": 18,
     "statusBreakdown": {
+      "Open": 7,
       "In de wacht": 18,
-      "Gesloten": 707,
-      "Open": 7
+      "Gesloten": 707
     },
     "capBereikt": false
   },
@@ -178,6 +178,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
     },
     {
+      "ticketNumber": "2879",
+      "titel": "FW: 84208397 (Mulder, M.H.A. Amaha): Verzoek om juridisch advies inzake huwelijk, huwelijkse voorwaarden en internationale partnerrelatie",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-19",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699001"
+    },
+    {
       "ticketNumber": "2880",
       "titel": "geschil met dienstverlener",
       "klant": "R. Oetelaar",
@@ -192,14 +200,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-19",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722001"
-    },
-    {
-      "ticketNumber": "2879",
-      "titel": "FW: 84208397 (Mulder, M.H.A. Amaha): Verzoek om juridisch advies inzake huwelijk, huwelijkse voorwaarden en internationale partnerrelatie",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-19",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699001"
     },
     {
       "ticketNumber": "2885",

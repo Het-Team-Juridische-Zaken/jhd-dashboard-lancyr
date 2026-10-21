@@ -6115,8 +6115,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 0,
-        "gesprekstijdSec": 303,
-        "uitgaand": 2
+        "gesprekstijdSec": 974,
+        "uitgaand": 3
       }
     },
     "alleGemistNummers": [
@@ -6133,12 +6133,19 @@
         "nummer": "+31628943608",
         "teruggebeld": false,
         "tijd": "10:32"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31610840615",
+        "teruggebeld": false,
+        "tijd": "10:44"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-21",
-    "generated_at": "2026-10-21T08:40:43Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-10-21T08:50:43Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6153,10 +6160,17 @@
         "nummer": "+31628943608",
         "teruggebeld": false,
         "tijd": "10:32"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31610840615",
+        "teruggebeld": false,
+        "tijd": "10:44"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 2
+    "totaalGemist": 3,
+    "totaalInbound": 3
   }
 }
