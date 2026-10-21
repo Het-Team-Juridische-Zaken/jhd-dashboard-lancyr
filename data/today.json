@@ -1,23 +1,23 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T13:11:06Z",
+  "generated_at": "2026-10-21T13:21:01Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
     "opgelost": 0,
-    "brandmeester": 1,
+    "brandmeester": 2,
     "afkoop": 0,
-    "terugbel": 1,
+    "terugbel": 0,
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 5.1,
+  "score": 4.8,
   "conversations": [
     {
       "tijd": "11:07",
       "titel": "Zijactiviteiten en contractuele vereisten met Brandmeester",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Beller heeft vragen over zijactiviteiten en contractuele vereisten voor werknemers. De medewerker heeft geen inhoudelijk juridisch advies gegeven, maar heeft de beller direct doorverwezen naar Brandmeester (rechtsbijstand) voor grondige contractanalyse. De beller is niet geverifieerd in het systeem.",
+      "samenvatting": "Beller heeft vragen over zijactiviteiten en contractuele vereisten in zijn arbeidsrelatie (disclosure-verplichtingen, toegestane activiteiten). De medewerker heeft de beller niet geverifieerd in het systeem (geen Zoho-match en geen verificatiepoging in transcript), maar heeft gelijk erkend dat dit een arbeidsrecht-zaak is en heeft de beller doorverwezen naar Brandmeester (rechtsbijstandsafdeling) voor grondige contractanalyse. Geen inhoudelijk juridisch advies gegeven door de eerstelijns medewerker.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -38,7 +38,7 @@
       "tijd": "11:31",
       "titel": "Wendy Bunnig en Dewi",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Wendy Bunnig belt over een geschil met een aannemer over kunststofkozijnen-plaatsing: een historisch ornament is beschadigd en materialen zijn niet hergebruikt volgens afspraak (EUR 5.000 compensatie). De beller heeft al een formele ingebrekenstelling met 14-daagse reactietermijn (verzonden 14 oktober) verstuurd. De medewerker adviseert om de reactietermijn af te wachten en bij niet-reageren naar Brandmeester door te verwijzen voor rechtsbijstand. De beller is niet expliciet geverifieerd in het systeem, en er is primair advies gegeven (afwachten + doorverwijzingsvoorwaarde).",
+      "samenvatting": "Wendy Bunnig belt over een geschil met een aannemer over defecte kunststofkozijnplaatsing (kapot historisch ornament, niet-naleving subsidieafspraak). De beller is niet geverifieerd in het systeem. De medewerker geeft tactisch advies (wachten op reactie van aannemer na formele ingebrekenstelling van 14 oktober) en kondigt doorverwijzing naar Brandmeester aan indien geen reactie.",
       "tags": [
         [
           "tag-bouw",
@@ -46,8 +46,8 @@
         ]
       ],
       "uitkomst": [
-        "outcome-terugbel",
-        "Terugbellen"
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
       ],
       "terugbel": true,
       "verkeerdVerbonden": false,
@@ -59,13 +59,13 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "11:07 - Zijactiviteiten/contractuele vereisten: Medewerker heeft correct erkend dat dit buiten de scope valt en direct naar Brandmeester doorverwezen zonder onbevoegd advies te geven.",
-      "11:31 - Kunststofkozijnen-geschil: Medewerker heeft een helder vervolgplan gegeven (reactietermijn afwachten, daarna naar Brandmeester) met concrete deadline (14-daagse termijn sinds 14 oktober)."
+      "11:07 – Arbeidsrecht-zaak correct herkend en direct doorverwezen naar Brandmeester zonder ongefundeerd advies te geven",
+      "11:31 – Duidelijk vervolgplan opgesteld: wachten op aannemer-reactie tot na 14 oktober, dan escalatie naar Brandmeester indien nodig"
     ],
     "beter": [
-      "11:31 - Kunststofkozijnen-geschil: KRITIEK - Advies is gegeven (11:31, EUR 5.000 schadebedrag) zonder dat identiteit is geverifieerd. Polis en identiteit moeten VOOR advies worden gecontroleerd volgens kwaliteitsnorm, vooral bij een substantieel schadebedrag.",
-      "11:31 - Kunststofkozijnen-geschil: KRITIEK - Dekkingscontrole ontbreekt. Bij een EUR 5.000 schadeclaim moet minimaal zijn gecontroleerd of de franchise (EUR 250) doorbroken wordt en of deze zaak onder de dekking valt voordat advies wordt gegeven.",
-      "11:07 - Zijactiviteiten: Hoewel doorverwijzing correct is, ontbreekt een concrete vervolgdeadline/contactafspraak voor het gesprek zelf (wanneer belt klant terug, wie is contactpunt bij Brandmeester?)."
+      "11:31 – KRITIEK: Identiteit van Wendy Bunnig niet geverifieerd voordat juridisch advies (tactische aanbeveling omtrent ingebrekenstelling) werd gegeven. Polis/identiteit moet altijd eerst worden gecontroleerd",
+      "11:07 – Bij doorverwijzing naar Brandmeester geen concrete deadline of vervolgcontactmoment afgesproken voor verdere handling",
+      "11:31 – Dekkingscontrole (franchise EUR 250) niet vastgelegd, ondanks dat dit een potentiële schadeclaim betreft (defecte kozijnen, ornament, subsidieafspraak)"
     ]
   },
   "verkeerdVerbonden": {
