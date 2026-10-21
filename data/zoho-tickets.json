@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T13:20:44Z",
+  "generated_at": "2026-10-21T13:31:01Z",
   "tickets": [
     {
       "ticketNumber": "2888",
@@ -25,20 +25,32 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2890",
+      "tijd": "15:30",
+      "titel": "HSCH2606127 Nieuw dossier ",
+      "klant": "Tim Arga",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014789060",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
     "Phone": 1,
-    "Email": 1
+    "Email": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
+    "nieuweVandaag": 3,
     "geslotenVandaag": 10,
-    "totaalOpen": 27,
+    "totaalOpen": 28,
     "inDeWacht": 19,
     "statusBreakdown": {
-      "Open": 8,
+      "Open": 9,
       "In de wacht": 19,
       "Gesloten": 704
     },
@@ -244,6 +256,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-20",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060"
+    },
+    {
+      "ticketNumber": "2890",
+      "titel": "HSCH2606127 Nieuw dossier ",
+      "klant": "Tim Arga",
+      "status": "Open",
+      "aangemaakt": "2026-10-21",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014789060"
     },
     {
       "ticketNumber": "2889",

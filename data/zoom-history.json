@@ -6114,8 +6114,8 @@
   "2026-10-21": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 2716,
+        "beantwoord": 3,
+        "gesprekstijdSec": 2885,
         "uitgaand": 8
       }
     },
@@ -6193,7 +6193,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-21",
-    "generated_at": "2026-10-21T13:20:46Z",
+    "generated_at": "2026-10-21T13:31:03Z",
     "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
@@ -6248,6 +6248,6 @@
     ],
     "terugGebeld": 3,
     "totaalGemist": 10,
-    "totaalInbound": 12
+    "totaalInbound": 13
   }
 }

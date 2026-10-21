@@ -1,13 +1,13 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T13:21:01Z",
+  "generated_at": "2026-10-21T13:31:19Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
     "opgelost": 0,
-    "brandmeester": 2,
+    "brandmeester": 1,
     "afkoop": 0,
-    "terugbel": 0,
+    "terugbel": 1,
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
@@ -17,7 +17,7 @@
       "tijd": "11:07",
       "titel": "Zijactiviteiten en contractuele vereisten met Brandmeester",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Beller heeft vragen over zijactiviteiten en contractuele vereisten in zijn arbeidsrelatie (disclosure-verplichtingen, toegestane activiteiten). De medewerker heeft de beller niet geverifieerd in het systeem (geen Zoho-match en geen verificatiepoging in transcript), maar heeft gelijk erkend dat dit een arbeidsrecht-zaak is en heeft de beller doorverwezen naar Brandmeester (rechtsbijstandsafdeling) voor grondige contractanalyse. Geen inhoudelijk juridisch advies gegeven door de eerstelijns medewerker.",
+      "samenvatting": "Beller heeft vragen over zijactiviteiten en contractuele vereisten in zijn arbeidsovereenkomst (disclosure, toegestane activiteiten, definities). De medewerker heeft de beller niet geverifieerd in het systeem (geen Zoho-match). Er is geen inhoudelijk juridisch advies gegeven; in plaats daarvan is de zaak direct doorverwezen naar Brandmeester (rechtsbijstand) voor contractanalyse en verdere begeleiding.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -38,7 +38,7 @@
       "tijd": "11:31",
       "titel": "Wendy Bunnig en Dewi",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Wendy Bunnig belt over een geschil met een aannemer over defecte kunststofkozijnplaatsing (kapot historisch ornament, niet-naleving subsidieafspraak). De beller is niet geverifieerd in het systeem. De medewerker geeft tactisch advies (wachten op reactie van aannemer na formele ingebrekenstelling van 14 oktober) en kondigt doorverwijzing naar Brandmeester aan indien geen reactie.",
+      "samenvatting": "Beller Wendy Bunnig belde voor vervolgafspraak over kunststofkozijnplaatsing met beschadigde historische ornamenten en verloren subsidie (€5.000). Beller is niet geverifieerd in het systeem (geen Zoho-match, geen naamverificatie in transcript). Medewerker gaf inhoudelijk advies: wacht 14 dagen op reactie naar ingebrekenstelling van 14 oktober, en bel terug indien geen respons voor doorverwijzing naar Brandmeester.",
       "tags": [
         [
           "tag-bouw",
@@ -46,8 +46,8 @@
         ]
       ],
       "uitkomst": [
-        "outcome-brandmeester",
-        "Doorverwezen naar Brandmeester"
+        "outcome-terugbel",
+        "Terugbellen"
       ],
       "terugbel": true,
       "verkeerdVerbonden": false,
@@ -59,13 +59,13 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "11:07 – Arbeidsrecht-zaak correct herkend en direct doorverwezen naar Brandmeester zonder ongefundeerd advies te geven",
-      "11:31 – Duidelijk vervolgplan opgesteld: wachten op aannemer-reactie tot na 14 oktober, dan escalatie naar Brandmeester indien nodig"
+      "11:07 Brandmeester-zaak: juiste doorverwijzing naar rechtsbijstand voor contractanalyse wanneer verificatie niet mogelijk was",
+      "11:07 Brandmeester-zaak: geen onverantwoord advies gegeven zonder verificatie"
     ],
     "beter": [
-      "11:31 – KRITIEK: Identiteit van Wendy Bunnig niet geverifieerd voordat juridisch advies (tactische aanbeveling omtrent ingebrekenstelling) werd gegeven. Polis/identiteit moet altijd eerst worden gecontroleerd",
-      "11:07 – Bij doorverwijzing naar Brandmeester geen concrete deadline of vervolgcontactmoment afgesproken voor verdere handling",
-      "11:31 – Dekkingscontrole (franchise EUR 250) niet vastgelegd, ondanks dat dit een potentiële schadeclaim betreft (defecte kozijnen, ornament, subsidieafspraak)"
+      "11:31 Wendy Bunnig: KRITIEK – identiteit niet geverifieerd in Zoho-systeem, maar wel inhoudelijk juridisch advies gegeven (14-dagenperiode, vervolgstappen) zonder verificatie. Dit schenden de kwaliteitsnorm. Medewerker had dezelfde procedure als bij 11:07 moeten volgen: verificatiedocumenten opvragen en vervolgafspraak maken zonder inhoudelijk advies",
+      "11:31 Wendy Bunnig: vervolgafspraak was niet concreet genoeg – 'bel terug indien geen respons' is vaag. Concrete deadline ontbreekt (bijv. 'bel op 28 oktober terug')",
+      "11:31 Wendy Bunnig: dekkingscontrole franchise (EUR 250) niet vastgelegd – schadebedrag van €5.000 (verloren subsidie) vereist deze controle voordat juridisch advies wordt gegeven"
     ]
   },
   "verkeerdVerbonden": {
