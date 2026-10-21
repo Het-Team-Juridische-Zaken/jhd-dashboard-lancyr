@@ -6161,12 +6161,19 @@
         "nummer": "+31646898200",
         "teruggebeld": false,
         "tijd": "12:07"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31639377050",
+        "teruggebeld": false,
+        "tijd": "12:25"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-21",
-    "generated_at": "2026-10-21T10:31:01Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-10-21T10:40:46Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6209,10 +6216,17 @@
         "nummer": "+31646898200",
         "teruggebeld": false,
         "tijd": "12:07"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31639377050",
+        "teruggebeld": false,
+        "tijd": "12:25"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 7
+    "totaalGemist": 7,
+    "totaalInbound": 8
   }
 }
