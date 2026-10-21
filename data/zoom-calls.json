@@ -1,10 +1,10 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T09:50:45Z",
-  "totaalInbound": 5,
-  "totaalGemist": 4,
+  "generated_at": "2026-10-21T10:01:02Z",
+  "totaalInbound": 6,
+  "totaalGemist": 5,
   "terugGebeld": 0,
-  "nietTerugGebeld": 4,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31658815610",
@@ -31,6 +31,13 @@
       "nummer": "+31622491866",
       "naam": "Onbekend",
       "tijd": "11:22",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646898200",
+      "naam": "Onbekend",
+      "tijd": "11:55",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -61,6 +68,13 @@
       "nummer": "+31622491866",
       "naam": "Onbekend",
       "tijd": "11:22",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646898200",
+      "naam": "Onbekend",
+      "tijd": "11:55",
       "callResult": "abandoned",
       "teruggebeld": false
     }
