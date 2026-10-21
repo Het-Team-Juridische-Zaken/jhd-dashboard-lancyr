@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T13:31:19Z",
+  "generated_at": "2026-10-21T13:41:08Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
@@ -11,13 +11,13 @@
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 4.8,
+  "score": 3.8,
   "conversations": [
     {
       "tijd": "11:07",
       "titel": "Zijactiviteiten en contractuele vereisten met Brandmeester",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Beller heeft vragen over zijactiviteiten en contractuele vereisten in zijn arbeidsovereenkomst (disclosure, toegestane activiteiten, definities). De medewerker heeft de beller niet geverifieerd in het systeem (geen Zoho-match). Er is geen inhoudelijk juridisch advies gegeven; in plaats daarvan is de zaak direct doorverwezen naar Brandmeester (rechtsbijstand) voor contractanalyse en verdere begeleiding.",
+      "samenvatting": "Beller heeft vragen over zijactiviteiten en contractuele vereisten in zijn arbeidsovereenkomst. De medewerker heeft het gesprek niet inhoudelijk afgehandeld, maar heeft de beller direct doorverwezen naar Brandmeester (rechtsbijstandsafdeling) voor verdere behandeling, met de mededeling dat Brandmeester het contract zal controleren en binnen 5 werkdagen zal contact opnemen. De identiteit van de beller is niet geverifieerd in het systeem en er is geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -38,7 +38,7 @@
       "tijd": "11:31",
       "titel": "Wendy Bunnig en Dewi",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Beller Wendy Bunnig belde voor vervolgafspraak over kunststofkozijnplaatsing met beschadigde historische ornamenten en verloren subsidie (€5.000). Beller is niet geverifieerd in het systeem (geen Zoho-match, geen naamverificatie in transcript). Medewerker gaf inhoudelijk advies: wacht 14 dagen op reactie naar ingebrekenstelling van 14 oktober, en bel terug indien geen respons voor doorverwijzing naar Brandmeester.",
+      "samenvatting": "Wendy Bunnig belt over een bouwkwestie met kunststofkozijnplaatsing waarbij een historisch ornament is beschadigd en materialen onterecht zijn weggegooid zonder de afgesproken EUR 5.000 terug te ontvangen. De beller heeft al een formele ingebrekenstelling met 14 dagen reactietermijn (verzonden 14 oktober) naar de aannemer gestuurd. De medewerker adviseert de reactietermijn af te wachten en biedt aan bij non-respons door te verwijzen naar Brandmeester voor verdere juridische bijstand; identiteit van beller is NIET geverifieerd (geen Zoho-match, geen verificatiepoging in transcript), en er is beperkt inhoudelijk juridisch advies gegeven (vooral een afwachtend advies).",
       "tags": [
         [
           "tag-bouw",
@@ -52,20 +52,21 @@
       "terugbel": true,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
-      "adviesGegeven": true,
+      "adviesGegeven": false,
       "identiteitGeverifieerd": false
     }
   ],
   "acties": [],
   "analyse": {
     "goed": [
-      "11:07 Brandmeester-zaak: juiste doorverwijzing naar rechtsbijstand voor contractanalyse wanneer verificatie niet mogelijk was",
-      "11:07 Brandmeester-zaak: geen onverantwoord advies gegeven zonder verificatie"
+      "11:07 – Doorverwijzing naar Brandmeester (rechtsbijstandsafdeling) was juist voor arbeidsrechtelijke vraag over zijactiviteiten en contractuele vereisten; concrete vervolgdeadline van 5 werkdagen werd afgesproken.",
+      "11:31 – Medewerker herkende de ernst van de situatie (beschadigde historische ornamenten, onterecht weggegooid materiaal, EUR 5.000 claim) en bood passend vervolgtraject aan via Brandmeester bij non-respons aannemer."
     ],
     "beter": [
-      "11:31 Wendy Bunnig: KRITIEK – identiteit niet geverifieerd in Zoho-systeem, maar wel inhoudelijk juridisch advies gegeven (14-dagenperiode, vervolgstappen) zonder verificatie. Dit schenden de kwaliteitsnorm. Medewerker had dezelfde procedure als bij 11:07 moeten volgen: verificatiedocumenten opvragen en vervolgafspraak maken zonder inhoudelijk advies",
-      "11:31 Wendy Bunnig: vervolgafspraak was niet concreet genoeg – 'bel terug indien geen respons' is vaag. Concrete deadline ontbreekt (bijv. 'bel op 28 oktober terug')",
-      "11:31 Wendy Bunnig: dekkingscontrole franchise (EUR 250) niet vastgelegd – schadebedrag van €5.000 (verloren subsidie) vereist deze controle voordat juridisch advies wordt gegeven"
+      "11:07 – Identiteit van beller werd niet geverifieerd in het systeem voordat doorverwijzing plaatsvond. Althans voor toekomstige vervolgcontacten zouden verificatiedocumenten moeten worden aangevraagd.",
+      "11:31 – Identiteit van beller (Wendy Bunnig) is niet geverifieerd in Zoho-systeem en geen verificatiepoging ondernomen. Dit moet alsnog gebeuren voordat formeel juridisch advies in vervolgfase wordt gegeven.",
+      "11:31 – Bij een concreet schadebedrag van EUR 5.000 ontbreekt expliciete dekkingscontrole tegen de franchise van EUR 250; deze controle moet plaatsvinden voordat verdere stappen worden ondernomen.",
+      "11:31 – Vervolgdeadline voor Brandmeester-contact is niet concreet benoemd (alleen 'bij non-respons'); een expliciete vervolgdatum had moeten worden afgesproken, bijvoorbeeld voor evaluatie na afloop van de 14-daagse reactietermijn."
     ]
   },
   "verkeerdVerbonden": {
