@@ -1,27 +1,87 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T11:30:54Z",
+  "generated_at": "2026-10-21T11:41:01Z",
   "drukte": "rustig",
-  "gesprekken": 0,
+  "gesprekken": 2,
   "stats": {
     "opgelost": 0,
-    "brandmeester": 0,
+    "brandmeester": 1,
     "afkoop": 0,
-    "terugbel": 0,
+    "terugbel": 1,
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 0,
-  "conversations": [],
+  "score": 4.8,
+  "conversations": [
+    {
+      "tijd": "11:07",
+      "titel": "Zijactiviteiten en contractuele vereisten met Brandmeester",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Een werknemer belt met vragen over zijactiviteiten en de contractuele vereisten rond disclosure daarvan. De medewerker verifieert de beller niet expliciet (geen Zoho-match, geen name/adres/polisnummer-controle in het transcript), geeft geen inhoudelijk juridisch advies, maar verwijst de zaak direct door naar Brandmeester (de rechtsbijstandsafdeling van Lancyr) omdat dit een arbeidsconflict betreft dat vereist dat rechtsbijstand het contract uitgebreid analyseert.",
+      "tags": [
+        [
+          "tag-arbeidsrecht",
+          "Arbeidsrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "11:31",
+      "titel": "Wendy Bunnig en Dewi",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Wendy Bunnig belt over een geschil met een aannemer over kunststofkozijnen: beschadigde historische ornamenten, onvoltooide afwerking en verloren subsidie van €5.000 voor hergebruik materialen. De beller heeft al een formele ingebrekenstelling met 14-daagse reactietermijn (verzonden 14 oktober) opgesteld. De medewerker adviseert af te wachten en belooft doorverwijzing naar Brandmeester (rechtsbijstand) indien de aannemer niet reageert. De beller is niet geverifieerd in het systeem, maar inhoudelijk juridisch advies is gegeven (ingebrekestelling besproken, vervolgstappen uitgelegd).",
+      "tags": [
+        [
+          "tag-bouw",
+          "Bouwrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-terugbel",
+        "Terugbellen"
+      ],
+      "terugbel": true,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    }
+  ],
   "acties": [],
   "analyse": {
-    "goed": [],
-    "beter": []
+    "goed": [
+      "11:07 Zijactiviteiten: Correcte doorverwijzing naar Brandmeester voor arbeidsconflict dat contractanalyse vereist.",
+      "11:31 Wendy Bunnig: Medewerker heeft vervolgstappen helder uitgelegd (wachten op reactie aannemer, dan doorverwijzing naar rechtsbijstand)."
+    ],
+    "beter": [
+      "11:07 Zijactiviteiten: Beller is NIET geverifieerd in het systeem (geen Zoho-match, geen name/adres/polisnummer-controle). Voordat doorverwijzing plaatsvindt, moet identiteit en polisstatus altijd worden vastgesteld.",
+      "11:31 Wendy Bunnig: KRITIEK – Beller is niet geverifieerd, maar inhoudelijk juridisch advies IS gegeven (ingebrekestelling besproken, vervolgstappen uitgelegd). Dit schendt de basisnorm: polis + identiteit moeten altijd eerst worden gecontroleerd voordat advies wordt gegeven.",
+      "11:31 Wendy Bunnig: Dekkingscontrole ontbreekt. Bij een concreet schadebedrag van €5.000 (verloren subsidie) moet worden nagegaan of dit valt binnen de dekking en buiten de franchise van EUR 250.",
+      "11:31 Wendy Bunnig: Geen concrete deadline genoemd voor terugbellen. Wanneer precies belt de medewerker terug? (bijv. 'binnen 2 werkdagen' of 'zodra 14 oktober verstreken is')."
+    ]
   },
   "verkeerdVerbonden": {
     "aantal": 0,
     "percentage": 0.0
   },
-  "rechtsbijstandVerwijzingen": 0,
-  "categorieen": []
+  "rechtsbijstandVerwijzingen": 2,
+  "categorieen": [
+    [
+      "Arbeidsrecht",
+      1
+    ],
+    [
+      "Bouwrecht",
+      1
+    ]
+  ]
 }
