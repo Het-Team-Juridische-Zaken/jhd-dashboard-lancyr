@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T11:50:45Z",
+  "generated_at": "2026-10-21T12:01:08Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,10 +8,10 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 10,
     "totaalOpen": 25,
-    "inDeWacht": 20,
+    "inDeWacht": 18,
     "statusBreakdown": {
-      "Open": 5,
-      "In de wacht": 20,
+      "Open": 7,
+      "In de wacht": 18,
       "Gesloten": 704
     },
     "capBereikt": false
@@ -138,20 +138,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
     },
     {
+      "ticketNumber": "2877",
+      "titel": "Request for legal advice under my legal expenses insurance – Policy 5607-8176947",
+      "klant": "B. Dulger",
+      "status": "Open",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014648122"
+    },
+    {
       "ticketNumber": "2876",
       "titel": "melding – Japanse duizendknoop bij woningaankoop | Verzoek beoordeling rechtsbijstandsdekking Wonen (relatienummer 84236870)",
       "klant": "N. Martina",
       "status": "Open",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652094"
-    },
-    {
-      "ticketNumber": "2877",
-      "titel": "Request for legal advice under my legal expenses insurance – Policy 5607-8176947",
-      "klant": "B. Dulger",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014648122"
     },
     {
       "ticketNumber": "2875",
@@ -189,7 +189,7 @@
       "ticketNumber": "2880",
       "titel": "geschil met dienstverlener",
       "klant": "R. Oetelaar",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-19",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699056"
     },
