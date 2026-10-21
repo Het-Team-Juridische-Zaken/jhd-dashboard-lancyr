@@ -1,18 +1,18 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T08:01:03Z",
+  "generated_at": "2026-10-21T08:10:43Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 6,
-    "totaalOpen": 29,
-    "inDeWacht": 12,
+    "geslotenVandaag": 10,
+    "totaalOpen": 25,
+    "inDeWacht": 17,
     "statusBreakdown": {
-      "Gesloten": 703,
-      "Open": 17,
-      "In de wacht": 12
+      "In de wacht": 17,
+      "Gesloten": 707,
+      "Open": 8
     },
     "capBereikt": false
   },
@@ -85,7 +85,7 @@
       "ticketNumber": "2681",
       "titel": "Rechtsbijstandsverzekering — bed met verkeerde kleuren en ingebrekenstelling",
       "klant": "R. Lutteke",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-09-01",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013756001"
     },
@@ -109,7 +109,7 @@
       "ticketNumber": "2838",
       "titel": "Belafspraak 7 oktober 9:30 uur",
       "klant": "I. Sluiter-Mahabir",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-07",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014480013"
     },
@@ -130,14 +130,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014541001"
     },
     {
-      "ticketNumber": "2854",
-      "titel": "2830 Dossier bestaat al ",
-      "klant": "Schade Particulier | Nedvol",
-      "status": "Open",
-      "aangemaakt": "2026-10-09",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530107"
-    },
-    {
       "ticketNumber": "2865",
       "titel": "FW: U kunt ook de rechtsbijstand laten aanmelden bij Waarborgfonds",
       "klant": "De juridische helpdesk",
@@ -146,36 +138,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
     },
     {
-      "ticketNumber": "2870",
-      "titel": "Fwd: Nichalin Martina en Senne Duifhuis",
-      "klant": "N. Martina",
-      "status": "Open",
-      "aangemaakt": "2026-10-13",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644105"
-    },
-    {
-      "ticketNumber": "2876",
-      "titel": "melding – Japanse duizendknoop bij woningaankoop | Verzoek beoordeling rechtsbijstandsdekking Wonen (relatienummer 84236870)",
-      "klant": "N. Martina",
-      "status": "Open",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652094"
-    },
-    {
       "ticketNumber": "2875",
       "titel": "Overleg",
       "klant": "Martijn Rengers",
       "status": "Open",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014645140"
-    },
-    {
-      "ticketNumber": "2872",
-      "titel": "Aansprakelijk stellen fokker",
-      "klant": "A. Bergs",
-      "status": "Open",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646039"
     },
     {
       "ticketNumber": "2877",
@@ -213,7 +181,7 @@
       "ticketNumber": "2881",
       "titel": "houdgreep BrandMr; relatienr. 84233704",
       "klant": "F. Sanou",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-19",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722001"
     },
@@ -237,7 +205,7 @@
       "ticketNumber": "2885",
       "titel": "Stopzetten auto verzekering N-775-BR",
       "klant": "Prive Mail Rick Welvaart",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-20",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699148"
     },
@@ -245,7 +213,7 @@
       "ticketNumber": "2886",
       "titel": "Fwd: Aansprakelijkstelling verkeersongeval 11 september 2026, uw verzekerde ZT-718-V [D20161151_I73734594]",
       "klant": "S.L. Soedamah",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-20",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060"
     }
