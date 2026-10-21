@@ -1,64 +1,12 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T18:37:36Z",
-  "tickets": [
-    {
-      "ticketNumber": "2884",
-      "tijd": "09:12",
-      "titel": "SVP contact opnemen",
-      "klant": "Y. Verwijs",
-      "status": "Gesloten",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722056",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2885",
-      "tijd": "10:34",
-      "titel": "Stopzetten auto verzekering N-775-BR",
-      "klant": "Prive Mail Rick Welvaart",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699148",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2886",
-      "tijd": "14:29",
-      "titel": "Fwd: Aansprakelijkstelling verkeersongeval 11 september 2026, uw verzekerde ZT-718-V [D20161151_I73734594]",
-      "klant": "S.L. Soedamah",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2887",
-      "tijd": "14:45",
-      "titel": "Onjuiste installatie meterkast",
-      "klant": "I.G.M. deJong",
-      "status": "Gesloten",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014737025",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Email": 3,
-    "Phone": 1
-  },
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T05:00:59Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 4,
-    "geslotenVandaag": 3,
+    "nieuweVandaag": 0,
+    "geslotenVandaag": 0,
     "totaalOpen": 35,
     "inDeWacht": 12,
     "statusBreakdown": {
