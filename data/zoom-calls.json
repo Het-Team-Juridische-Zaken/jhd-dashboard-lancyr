@@ -1,18 +1,11 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T12:01:10Z",
+  "generated_at": "2026-10-21T12:10:46Z",
   "totaalInbound": 8,
   "totaalGemist": 7,
-  "terugGebeld": 0,
-  "nietTerugGebeld": 7,
+  "terugGebeld": 1,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31658815610",
-      "naam": "Onbekend",
-      "tijd": "09:13",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
     {
       "nummer": "+31628943608",
       "naam": "Onbekend",
@@ -62,7 +55,7 @@
       "naam": "Onbekend",
       "tijd": "09:13",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31628943608",
@@ -110,8 +103,8 @@
   "agenten": {
     "Dewi Verver": {
       "beantwoord": 1,
-      "uitgaand": 6,
-      "gesprekstijdSec": 1691
+      "uitgaand": 7,
+      "gesprekstijdSec": 1997
     }
   },
   "beantwoordZonderAgent": 0

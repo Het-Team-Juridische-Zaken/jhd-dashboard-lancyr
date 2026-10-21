@@ -1,17 +1,32 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T12:01:08Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-10-21T12:10:44Z",
+  "tickets": [
+    {
+      "ticketNumber": "2888",
+      "tijd": "14:06",
+      "titel": "VSO checken",
+      "klant": "C.D. Pater",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014776013",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Phone": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 10,
-    "totaalOpen": 25,
-    "inDeWacht": 18,
+    "totaalOpen": 26,
+    "inDeWacht": 19,
     "statusBreakdown": {
+      "In de wacht": 19,
       "Open": 7,
-      "In de wacht": 18,
       "Gesloten": 704
     },
     "capBereikt": false
@@ -216,6 +231,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-20",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060"
+    },
+    {
+      "ticketNumber": "2888",
+      "titel": "VSO checken",
+      "klant": "C.D. Pater",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-21",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014776013"
     }
   ]
 }

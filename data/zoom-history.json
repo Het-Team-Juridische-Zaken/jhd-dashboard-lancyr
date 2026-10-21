@@ -6115,8 +6115,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 1,
-        "gesprekstijdSec": 1691,
-        "uitgaand": 6
+        "gesprekstijdSec": 1997,
+        "uitgaand": 7
       }
     },
     "alleGemistNummers": [
@@ -6124,7 +6124,7 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31658815610",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:13"
       },
       {
@@ -6172,16 +6172,9 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-21",
-    "generated_at": "2026-10-21T12:01:10Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-10-21T12:10:46Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31658815610",
-        "teruggebeld": false,
-        "tijd": "09:13"
-      },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
@@ -6225,7 +6218,7 @@
         "tijd": "12:25"
       }
     ],
-    "terugGebeld": 0,
+    "terugGebeld": 1,
     "totaalGemist": 7,
     "totaalInbound": 8
   }
