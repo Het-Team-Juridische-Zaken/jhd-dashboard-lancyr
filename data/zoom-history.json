@@ -6112,7 +6112,13 @@
     "totaalInbound": 15
   },
   "2026-10-21": {
-    "agenten": {},
+    "agenten": {
+      "Dewi Verver": {
+        "beantwoord": 0,
+        "gesprekstijdSec": 303,
+        "uitgaand": 2
+      }
+    },
     "alleGemistNummers": [
       {
         "callResult": "abandoned",
@@ -6120,12 +6126,19 @@
         "nummer": "+31658815610",
         "teruggebeld": false,
         "tijd": "09:13"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31628943608",
+        "teruggebeld": false,
+        "tijd": "10:32"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-21",
-    "generated_at": "2026-10-21T08:30:56Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-10-21T08:40:43Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6133,10 +6146,17 @@
         "nummer": "+31658815610",
         "teruggebeld": false,
         "tijd": "09:13"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31628943608",
+        "teruggebeld": false,
+        "tijd": "10:32"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 1
+    "totaalGemist": 2,
+    "totaalInbound": 2
   }
 }

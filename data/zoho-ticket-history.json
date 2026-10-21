@@ -456,12 +456,12 @@
   "2026-10-21": {
     "capBereikt": false,
     "geslotenVandaag": 10,
-    "inDeWacht": 17,
+    "inDeWacht": 18,
     "nieuweVandaag": 0,
     "statusBreakdown": {
       "Gesloten": 707,
-      "In de wacht": 17,
-      "Open": 8
+      "In de wacht": 18,
+      "Open": 7
     },
     "totaalOpen": 25
   }

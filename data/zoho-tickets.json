@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T08:30:55Z",
+  "generated_at": "2026-10-21T08:40:42Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,11 +8,11 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 10,
     "totaalOpen": 25,
-    "inDeWacht": 17,
+    "inDeWacht": 18,
     "statusBreakdown": {
-      "In de wacht": 17,
+      "In de wacht": 18,
       "Gesloten": 707,
-      "Open": 8
+      "Open": 7
     },
     "capBereikt": false
   },
@@ -178,20 +178,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
     },
     {
+      "ticketNumber": "2880",
+      "titel": "geschil met dienstverlener",
+      "klant": "R. Oetelaar",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-19",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699056"
+    },
+    {
       "ticketNumber": "2881",
       "titel": "houdgreep BrandMr; relatienr. 84233704",
       "klant": "F. Sanou",
       "status": "In de wacht",
       "aangemaakt": "2026-10-19",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722001"
-    },
-    {
-      "ticketNumber": "2880",
-      "titel": "FW: 84226217_vd Oetelaar: geschil met dienstverlener",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-19",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699056"
     },
     {
       "ticketNumber": "2879",
