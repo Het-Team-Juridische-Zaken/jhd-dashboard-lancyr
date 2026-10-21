@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T09:00:58Z",
+  "generated_at": "2026-10-21T09:10:48Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,11 +8,11 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 11,
     "totaalOpen": 24,
-    "inDeWacht": 18,
+    "inDeWacht": 19,
     "statusBreakdown": {
+      "In de wacht": 19,
       "Gesloten": 708,
-      "In de wacht": 18,
-      "Open": 6
+      "Open": 5
     },
     "capBereikt": false
   },
@@ -21,7 +21,7 @@
       "ticketNumber": "136",
       "titel": "FW: 84229972_Vlodrop: Melding, verzoek rechtsbijstand",
       "klant": "A.M.W. vanVlodrop",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2025-03-13",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000003420678"
     },
