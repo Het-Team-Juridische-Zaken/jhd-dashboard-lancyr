@@ -6168,12 +6168,26 @@
         "nummer": "+31639377050",
         "teruggebeld": false,
         "tijd": "12:25"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31652091097",
+        "teruggebeld": false,
+        "tijd": "14:18"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31655082289",
+        "teruggebeld": false,
+        "tijd": "14:20"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-21",
-    "generated_at": "2026-10-21T12:20:42Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-10-21T12:30:58Z",
+    "nietTerugGebeld": 8,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6216,10 +6230,24 @@
         "nummer": "+31639377050",
         "teruggebeld": false,
         "tijd": "12:25"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31652091097",
+        "teruggebeld": false,
+        "tijd": "14:18"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31655082289",
+        "teruggebeld": false,
+        "tijd": "14:20"
       }
     ],
     "terugGebeld": 1,
-    "totaalGemist": 7,
-    "totaalInbound": 8
+    "totaalGemist": 9,
+    "totaalInbound": 10
   }
 }

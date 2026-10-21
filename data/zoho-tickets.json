@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T12:20:41Z",
+  "generated_at": "2026-10-21T12:30:56Z",
   "tickets": [
     {
       "ticketNumber": "2888",
@@ -13,20 +13,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014776013",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2889",
+      "tijd": "14:24",
+      "titel": "FW: 84195328 (Volp, C.K.N.): Rechtsbijstandverzekering",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 1
+    "Phone": 1,
+    "Email": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 10,
-    "totaalOpen": 26,
+    "totaalOpen": 27,
     "inDeWacht": 19,
     "statusBreakdown": {
+      "Open": 8,
       "In de wacht": 19,
-      "Open": 7,
       "Gesloten": 704
     },
     "capBereikt": false
@@ -231,6 +244,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-20",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060"
+    },
+    {
+      "ticketNumber": "2889",
+      "titel": "FW: 84195328 (Volp, C.K.N.): Rechtsbijstandverzekering",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-21",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
     },
     {
       "ticketNumber": "2888",
