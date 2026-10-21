@@ -1,12 +1,28 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T07:10:44Z",
-  "totaalInbound": 0,
-  "totaalGemist": 0,
+  "generated_at": "2026-10-21T07:20:42Z",
+  "totaalInbound": 1,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31658815610",
+      "naam": "Onbekend",
+      "tijd": "09:13",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31658815610",
+      "naam": "Onbekend",
+      "tijd": "09:13",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {},
   "beantwoordZonderAgent": 0
 }
