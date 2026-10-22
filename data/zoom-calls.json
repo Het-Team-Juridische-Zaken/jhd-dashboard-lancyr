@@ -1,15 +1,22 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T10:10:45Z",
-  "totaalInbound": 8,
-  "totaalGemist": 5,
+  "generated_at": "2026-10-22T10:20:45Z",
+  "totaalInbound": 9,
+  "totaalGemist": 6,
   "terugGebeld": 4,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31613703622",
       "naam": "Onbekend",
       "tijd": "11:48",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31653385091",
+      "naam": "Onbekend",
+      "tijd": "12:08",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -47,6 +54,13 @@
       "nummer": "+31613703622",
       "naam": "Onbekend",
       "tijd": "11:48",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31653385091",
+      "naam": "Onbekend",
+      "tijd": "12:08",
       "callResult": "overflowed",
       "teruggebeld": false
     }

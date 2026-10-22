@@ -6293,12 +6293,19 @@
         "nummer": "+31613703622",
         "teruggebeld": false,
         "tijd": "11:48"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653385091",
+        "teruggebeld": false,
+        "tijd": "12:08"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-22",
-    "generated_at": "2026-10-22T10:10:45Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-10-22T10:20:45Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6306,10 +6313,17 @@
         "nummer": "+31613703622",
         "teruggebeld": false,
         "tijd": "11:48"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653385091",
+        "teruggebeld": false,
+        "tijd": "12:08"
       }
     ],
     "terugGebeld": 4,
-    "totaalGemist": 5,
-    "totaalInbound": 8
+    "totaalGemist": 6,
+    "totaalInbound": 9
   }
 }
