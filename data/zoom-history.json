@@ -6254,8 +6254,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 1,
-        "gesprekstijdSec": 89,
-        "uitgaand": 1
+        "gesprekstijdSec": 480,
+        "uitgaand": 2
       }
     },
     "alleGemistNummers": [
@@ -6270,52 +6270,30 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31642277897",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:38"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31642277897",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:56"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31642277897",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:58"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-22",
-    "generated_at": "2026-10-22T08:10:40Z",
-    "nietTerugGebeld": 3,
-    "nietTerugGebeldNummers": [
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31642277897",
-        "teruggebeld": false,
-        "tijd": "09:38"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31642277897",
-        "teruggebeld": false,
-        "tijd": "09:56"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31642277897",
-        "teruggebeld": false,
-        "tijd": "09:58"
-      }
-    ],
-    "terugGebeld": 1,
+    "generated_at": "2026-10-22T08:20:42Z",
+    "nietTerugGebeld": 0,
+    "nietTerugGebeldNummers": [],
+    "terugGebeld": 4,
     "totaalGemist": 4,
     "totaalInbound": 5
   }
