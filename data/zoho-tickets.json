@@ -1,16 +1,31 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T10:31:02Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-10-22T10:40:39Z",
+  "tickets": [
+    {
+      "ticketNumber": "2891",
+      "tijd": "12:34",
+      "titel": "Spoedvraag of claim die ik eventueel morgen krijg terecht is. klantnr. : 84184896",
+      "klant": "P. Luijben",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014821001",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Email": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 28,
+    "totaalOpen": 29,
     "inDeWacht": 18,
     "statusBreakdown": {
-      "Open": 10,
+      "Open": 11,
       "In de wacht": 18,
       "Gesloten": 704
     },
@@ -240,6 +255,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-21",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
+    },
+    {
+      "ticketNumber": "2891",
+      "titel": "Spoedvraag of claim die ik eventueel morgen krijg terecht is. klantnr. : 84184896",
+      "klant": "P. Luijben",
+      "status": "Open",
+      "aangemaakt": "2026-10-22",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014821001"
     }
   ]
 }

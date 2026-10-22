@@ -1,10 +1,10 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T10:31:04Z",
-  "totaalInbound": 9,
-  "totaalGemist": 6,
+  "generated_at": "2026-10-22T10:40:40Z",
+  "totaalInbound": 10,
+  "totaalGemist": 7,
   "terugGebeld": 4,
-  "nietTerugGebeld": 2,
+  "nietTerugGebeld": 3,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31613703622",
@@ -18,6 +18,13 @@
       "naam": "Onbekend",
       "tijd": "12:08",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31615142757",
+      "naam": "Onbekend",
+      "tijd": "12:36",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -62,6 +69,13 @@
       "naam": "Onbekend",
       "tijd": "12:08",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31615142757",
+      "naam": "Onbekend",
+      "tijd": "12:36",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
