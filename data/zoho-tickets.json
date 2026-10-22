@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T09:50:43Z",
+  "generated_at": "2026-10-22T10:01:09Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,10 +8,10 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 28,
-    "inDeWacht": 19,
+    "inDeWacht": 18,
     "statusBreakdown": {
-      "In de wacht": 19,
-      "Open": 9,
+      "Open": 10,
+      "In de wacht": 18,
       "Gesloten": 704
     },
     "capBereikt": false
@@ -218,6 +218,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060"
     },
     {
+      "ticketNumber": "2888",
+      "titel": "VSO checken",
+      "klant": "C.D. Pater",
+      "status": "Open",
+      "aangemaakt": "2026-10-21",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014776013"
+    },
+    {
       "ticketNumber": "2890",
       "titel": "HSCH2606127 Nieuw dossier ",
       "klant": "Tim Arga",
@@ -232,14 +240,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-21",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
-    },
-    {
-      "ticketNumber": "2888",
-      "titel": "VSO checken",
-      "klant": "C.D. Pater",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-21",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014776013"
     }
   ]
 }

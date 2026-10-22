@@ -1,11 +1,19 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T09:50:45Z",
-  "totaalInbound": 7,
-  "totaalGemist": 4,
+  "generated_at": "2026-10-22T10:01:11Z",
+  "totaalInbound": 8,
+  "totaalGemist": 5,
   "terugGebeld": 4,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31613703622",
+      "naam": "Onbekend",
+      "tijd": "11:48",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
   "alleGemistNummers": [
     {
       "nummer": "+31681621384",
@@ -34,6 +42,13 @@
       "tijd": "09:58",
       "callResult": "abandoned",
       "teruggebeld": true
+    },
+    {
+      "nummer": "+31613703622",
+      "naam": "Onbekend",
+      "tijd": "11:48",
+      "callResult": "overflowed",
+      "teruggebeld": false
     }
   ],
   "agenten": {

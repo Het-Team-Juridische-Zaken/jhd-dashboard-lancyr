@@ -6286,15 +6286,30 @@
         "nummer": "+31642277897",
         "teruggebeld": true,
         "tijd": "09:58"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31613703622",
+        "teruggebeld": false,
+        "tijd": "11:48"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-22",
-    "generated_at": "2026-10-22T09:50:45Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-10-22T10:01:11Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31613703622",
+        "teruggebeld": false,
+        "tijd": "11:48"
+      }
+    ],
     "terugGebeld": 4,
-    "totaalGemist": 4,
-    "totaalInbound": 7
+    "totaalGemist": 5,
+    "totaalInbound": 8
   }
 }
