@@ -6307,12 +6307,19 @@
         "nummer": "+31615142757",
         "teruggebeld": false,
         "tijd": "12:36"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31619607393",
+        "teruggebeld": false,
+        "tijd": "14:07"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-22",
-    "generated_at": "2026-10-22T12:10:51Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-22T12:20:47Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6334,10 +6341,17 @@
         "nummer": "+31615142757",
         "teruggebeld": false,
         "tijd": "12:36"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31619607393",
+        "teruggebeld": false,
+        "tijd": "14:07"
       }
     ],
     "terugGebeld": 4,
-    "totaalGemist": 7,
-    "totaalInbound": 12
+    "totaalGemist": 8,
+    "totaalInbound": 13
   }
 }
