@@ -1,52 +1,12 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T18:54:41Z",
-  "tickets": [
-    {
-      "ticketNumber": "2888",
-      "tijd": "14:06",
-      "titel": "VSO checken",
-      "klant": "C.D. Pater",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014776013",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2889",
-      "tijd": "14:24",
-      "titel": "FW: 84195328 (Volp, C.K.N.): Rechtsbijstandverzekering",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2890",
-      "tijd": "15:30",
-      "titel": "HSCH2606127 Nieuw dossier ",
-      "klant": "Tim Arga",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014789060",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Phone": 1,
-    "Email": 2
-  },
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T05:01:03Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
-    "geslotenVandaag": 10,
+    "nieuweVandaag": 0,
+    "geslotenVandaag": 0,
     "totaalOpen": 28,
     "inDeWacht": 19,
     "statusBreakdown": {
