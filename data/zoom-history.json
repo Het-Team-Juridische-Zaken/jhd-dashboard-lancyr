@@ -6259,12 +6259,33 @@
         "nummer": "+31681621384",
         "teruggebeld": false,
         "tijd": "09:03"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31642277897",
+        "teruggebeld": false,
+        "tijd": "09:38"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31642277897",
+        "teruggebeld": false,
+        "tijd": "09:56"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31642277897",
+        "teruggebeld": false,
+        "tijd": "09:58"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-22",
-    "generated_at": "2026-10-22T07:50:44Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-10-22T08:01:03Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6272,10 +6293,31 @@
         "nummer": "+31681621384",
         "teruggebeld": false,
         "tijd": "09:03"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31642277897",
+        "teruggebeld": false,
+        "tijd": "09:38"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31642277897",
+        "teruggebeld": false,
+        "tijd": "09:56"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31642277897",
+        "teruggebeld": false,
+        "tijd": "09:58"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 1
+    "totaalGemist": 4,
+    "totaalInbound": 4
   }
 }

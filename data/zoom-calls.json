@@ -1,15 +1,36 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T07:50:44Z",
-  "totaalInbound": 1,
-  "totaalGemist": 1,
+  "generated_at": "2026-10-22T08:01:03Z",
+  "totaalInbound": 4,
+  "totaalGemist": 4,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31681621384",
       "naam": "Onbekend",
       "tijd": "09:03",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31642277897",
+      "naam": "Onbekend",
+      "tijd": "09:38",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31642277897",
+      "naam": "Onbekend",
+      "tijd": "09:56",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31642277897",
+      "naam": "Onbekend",
+      "tijd": "09:58",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -19,6 +40,27 @@
       "nummer": "+31681621384",
       "naam": "Onbekend",
       "tijd": "09:03",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31642277897",
+      "naam": "Onbekend",
+      "tijd": "09:38",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31642277897",
+      "naam": "Onbekend",
+      "tijd": "09:56",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31642277897",
+      "naam": "Onbekend",
+      "tijd": "09:58",
       "callResult": "abandoned",
       "teruggebeld": false
     }
