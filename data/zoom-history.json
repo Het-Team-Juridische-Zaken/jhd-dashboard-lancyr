@@ -6253,8 +6253,8 @@
   "2026-10-22": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 519,
+        "beantwoord": 3,
+        "gesprekstijdSec": 556,
         "uitgaand": 2
       }
     },
@@ -6290,11 +6290,11 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-22",
-    "generated_at": "2026-10-22T08:40:44Z",
+    "generated_at": "2026-10-22T08:50:40Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 4,
     "totaalGemist": 4,
-    "totaalInbound": 6
+    "totaalInbound": 7
   }
 }
