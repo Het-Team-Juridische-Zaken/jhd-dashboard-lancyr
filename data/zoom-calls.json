@@ -1,18 +1,11 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T08:01:03Z",
-  "totaalInbound": 4,
+  "generated_at": "2026-10-22T08:10:40Z",
+  "totaalInbound": 5,
   "totaalGemist": 4,
-  "terugGebeld": 0,
-  "nietTerugGebeld": 4,
+  "terugGebeld": 1,
+  "nietTerugGebeld": 3,
   "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31681621384",
-      "naam": "Onbekend",
-      "tijd": "09:03",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
     {
       "nummer": "+31642277897",
       "naam": "Onbekend",
@@ -41,7 +34,7 @@
       "naam": "Onbekend",
       "tijd": "09:03",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31642277897",
@@ -65,6 +58,12 @@
       "teruggebeld": false
     }
   ],
-  "agenten": {},
+  "agenten": {
+    "Dewi Verver": {
+      "beantwoord": 1,
+      "uitgaand": 1,
+      "gesprekstijdSec": 89
+    }
+  },
   "beantwoordZonderAgent": 0
 }

@@ -6251,13 +6251,19 @@
     "totaalInbound": 14
   },
   "2026-10-22": {
-    "agenten": {},
+    "agenten": {
+      "Dewi Verver": {
+        "beantwoord": 1,
+        "gesprekstijdSec": 89,
+        "uitgaand": 1
+      }
+    },
     "alleGemistNummers": [
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31681621384",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:03"
       },
       {
@@ -6284,16 +6290,9 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-22",
-    "generated_at": "2026-10-22T08:01:03Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-22T08:10:40Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31681621384",
-        "teruggebeld": false,
-        "tijd": "09:03"
-      },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
@@ -6316,8 +6315,8 @@
         "tijd": "09:58"
       }
     ],
-    "terugGebeld": 0,
+    "terugGebeld": 1,
     "totaalGemist": 4,
-    "totaalInbound": 4
+    "totaalInbound": 5
   }
 }
