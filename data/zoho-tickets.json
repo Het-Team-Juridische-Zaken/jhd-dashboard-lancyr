@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T07:00:59Z",
+  "generated_at": "2026-10-22T07:10:43Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -202,20 +202,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722001"
     },
     {
-      "ticketNumber": "2886",
-      "titel": "Fwd: Aansprakelijkstelling verkeersongeval 11 september 2026, uw verzekerde ZT-718-V [D20161151_I73734594]",
-      "klant": "S.L. Soedamah",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-20",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060"
-    },
-    {
       "ticketNumber": "2885",
       "titel": "Stopzetten auto verzekering N-775-BR",
       "klant": "Prive Mail Rick Welvaart",
       "status": "In de wacht",
       "aangemaakt": "2026-10-20",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699148"
+    },
+    {
+      "ticketNumber": "2886",
+      "titel": "Fwd: Aansprakelijkstelling verkeersongeval 11 september 2026, uw verzekerde ZT-718-V [D20161151_I73734594]",
+      "klant": "S.L. Soedamah",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-20",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060"
     },
     {
       "ticketNumber": "2890",
