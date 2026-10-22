@@ -6314,12 +6314,19 @@
         "nummer": "+31619607393",
         "teruggebeld": false,
         "tijd": "14:07"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31681237776",
+        "teruggebeld": false,
+        "tijd": "15:52"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-22",
-    "generated_at": "2026-10-22T13:50:48Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-22T14:01:17Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6348,10 +6355,17 @@
         "nummer": "+31619607393",
         "teruggebeld": false,
         "tijd": "14:07"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31681237776",
+        "teruggebeld": false,
+        "tijd": "15:52"
       }
     ],
     "terugGebeld": 4,
-    "totaalGemist": 8,
-    "totaalInbound": 15
+    "totaalGemist": 9,
+    "totaalInbound": 16
   }
 }

@@ -1,10 +1,10 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T13:50:48Z",
-  "totaalInbound": 15,
-  "totaalGemist": 8,
+  "generated_at": "2026-10-22T14:01:17Z",
+  "totaalInbound": 16,
+  "totaalGemist": 9,
   "terugGebeld": 4,
-  "nietTerugGebeld": 4,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31613703622",
@@ -31,6 +31,13 @@
       "nummer": "+31619607393",
       "naam": "Onbekend",
       "tijd": "14:07",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31681237776",
+      "naam": "Onbekend",
+      "tijd": "15:52",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -89,6 +96,13 @@
       "nummer": "+31619607393",
       "naam": "Onbekend",
       "tijd": "14:07",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31681237776",
+      "naam": "Onbekend",
+      "tijd": "15:52",
       "callResult": "overflowed",
       "teruggebeld": false
     }
