@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T11:01:10Z",
+  "generated_at": "2026-10-23T11:10:48Z",
   "totaalInbound": 11,
   "totaalGemist": 6,
-  "terugGebeld": 1,
-  "nietTerugGebeld": 5,
+  "terugGebeld": 2,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31622777747",
@@ -25,13 +25,6 @@
       "naam": "Onbekend",
       "tijd": "10:05",
       "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31681237776",
-      "naam": "Onbekend",
-      "tijd": "12:23",
-      "callResult": "abandoned",
       "teruggebeld": false
     },
     {
@@ -76,7 +69,7 @@
       "naam": "Onbekend",
       "tijd": "12:23",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31685249723",
@@ -89,8 +82,8 @@
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 5,
-      "uitgaand": 2,
-      "gesprekstijdSec": 550
+      "uitgaand": 3,
+      "gesprekstijdSec": 638
     }
   },
   "beantwoordZonderAgent": 0
