@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T14:20:50Z",
+  "generated_at": "2026-10-23T14:27:22Z",
   "tickets": [
     {
       "ticketNumber": "2893",
@@ -43,7 +43,7 @@
       "tijd": "13:49",
       "titel": "Arbeidsrechtelijke bijstand bij ziekte",
       "klant": "K. Artan",
-      "status": "Open",
+      "status": "In de wacht",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001",
@@ -55,7 +55,7 @@
       "tijd": "14:12",
       "titel": "Werkafspraken GGD Amsterdam en terugwerkende kracht",
       "klant": "M. Ben Said",
-      "status": "Open",
+      "status": "In de wacht",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014878001",
@@ -96,11 +96,11 @@
     "nieuweVandaag": 7,
     "geslotenVandaag": 6,
     "totaalOpen": 27,
-    "inDeWacht": 19,
+    "inDeWacht": 21,
     "statusBreakdown": {
+      "In de wacht": 21,
       "Gesloten": 713,
-      "Open": 8,
-      "In de wacht": 19
+      "Open": 6
     },
     "capBereikt": false
   },
@@ -298,20 +298,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
     },
     {
-      "ticketNumber": "2896",
-      "titel": "Arbeidsrechtelijke bijstand bij ziekte",
-      "klant": "K. Artan",
-      "status": "Open",
-      "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
-    },
-    {
       "ticketNumber": "2897",
       "titel": "Werkafspraken GGD Amsterdam en terugwerkende kracht",
       "klant": "M. Ben Said",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-23",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014878001"
+    },
+    {
+      "ticketNumber": "2896",
+      "titel": "Arbeidsrechtelijke bijstand bij ziekte",
+      "klant": "K. Artan",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-23",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
     },
     {
       "ticketNumber": "2899",
