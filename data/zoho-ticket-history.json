@@ -481,12 +481,12 @@
     "capBereikt": false,
     "geslotenVandaag": 5,
     "inDeWacht": 20,
-    "nieuweVandaag": 5,
+    "nieuweVandaag": 6,
     "statusBreakdown": {
       "Gesloten": 712,
       "In de wacht": 20,
-      "Open": 6
+      "Open": 7
     },
-    "totaalOpen": 26
+    "totaalOpen": 27
   }
 }
