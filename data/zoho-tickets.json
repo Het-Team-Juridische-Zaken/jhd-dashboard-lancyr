@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T13:40:52Z",
+  "generated_at": "2026-10-23T13:50:51Z",
   "tickets": [
     {
       "ticketNumber": "2893",
@@ -73,22 +73,34 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014879001",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2899",
+      "tijd": "15:46",
+      "titel": "Juridische hulp bij arbeidsconflict",
+      "klant": "S. elBojaddaini",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883001",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 2,
+    "Email": 3,
     "Phone": 4
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 6,
-    "geslotenVandaag": 5,
-    "totaalOpen": 27,
+    "nieuweVandaag": 7,
+    "geslotenVandaag": 4,
+    "totaalOpen": 29,
     "inDeWacht": 20,
     "statusBreakdown": {
+      "Open": 9,
       "In de wacht": 20,
-      "Open": 7,
-      "Gesloten": 712
+      "Gesloten": 711
     },
     "capBereikt": false
   },
@@ -284,6 +296,22 @@
       "status": "Open",
       "aangemaakt": "2026-10-21",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
+    },
+    {
+      "ticketNumber": "2891",
+      "titel": "Spoedvraag of claim die ik eventueel morgen krijg terecht is. klantnr. : 84184896",
+      "klant": "P. Luijben",
+      "status": "Open",
+      "aangemaakt": "2026-10-22",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014821001"
+    },
+    {
+      "ticketNumber": "2899",
+      "titel": "Juridische hulp bij arbeidsconflict",
+      "klant": "S. elBojaddaini",
+      "status": "Open",
+      "aangemaakt": "2026-10-23",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883001"
     },
     {
       "ticketNumber": "2898",
