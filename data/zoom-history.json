@@ -6425,12 +6425,19 @@
         "nummer": "+31653385091",
         "teruggebeld": false,
         "tijd": "13:42"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653385091",
+        "teruggebeld": false,
+        "tijd": "13:44"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-23",
-    "generated_at": "2026-10-23T11:50:47Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-23T12:01:15Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6459,10 +6466,17 @@
         "nummer": "+31653385091",
         "teruggebeld": false,
         "tijd": "13:42"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653385091",
+        "teruggebeld": false,
+        "tijd": "13:44"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 7,
-    "totaalInbound": 12
+    "totaalGemist": 8,
+    "totaalInbound": 13
   }
 }
