@@ -6371,8 +6371,8 @@
   "2026-10-23": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 212,
+        "beantwoord": 4,
+        "gesprekstijdSec": 488,
         "uitgaand": 1
       }
     },
@@ -6408,7 +6408,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-23",
-    "generated_at": "2026-10-23T09:50:46Z",
+    "generated_at": "2026-10-23T10:01:13Z",
     "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
@@ -6435,6 +6435,6 @@
     ],
     "terugGebeld": 1,
     "totaalGemist": 4,
-    "totaalInbound": 6
+    "totaalInbound": 8
   }
 }

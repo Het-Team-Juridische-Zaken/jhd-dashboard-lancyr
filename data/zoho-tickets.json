@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T09:50:45Z",
+  "generated_at": "2026-10-23T10:01:10Z",
   "tickets": [
     {
       "ticketNumber": "2893",
@@ -25,21 +25,34 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846009",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2895",
+      "tijd": "12:00",
+      "titel": "Opnieuw beoordelen zaak door BrandMr",
+      "klant": "E.J.L. Heijnen",
+      "status": "Gesloten",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014865001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 2
+    "Email": 2,
+    "Phone": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
-    "geslotenVandaag": 0,
+    "nieuweVandaag": 3,
+    "geslotenVandaag": 1,
     "totaalOpen": 28,
     "inDeWacht": 18,
     "statusBreakdown": {
+      "Gesloten": 709,
       "Open": 10,
-      "In de wacht": 18,
-      "Gesloten": 708
+      "In de wacht": 18
     },
     "capBereikt": false
   },
