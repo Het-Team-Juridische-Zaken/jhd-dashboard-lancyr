@@ -1,118 +1,12 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T18:49:01Z",
-  "totaalInbound": 16,
-  "totaalGemist": 9,
-  "terugGebeld": 4,
-  "nietTerugGebeld": 5,
-  "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31613703622",
-      "naam": "Onbekend",
-      "tijd": "11:48",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31653385091",
-      "naam": "Onbekend",
-      "tijd": "12:08",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31615142757",
-      "naam": "Onbekend",
-      "tijd": "12:36",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31619607393",
-      "naam": "Onbekend",
-      "tijd": "14:07",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31681237776",
-      "naam": "Onbekend",
-      "tijd": "15:52",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    }
-  ],
-  "alleGemistNummers": [
-    {
-      "nummer": "+31681621384",
-      "naam": "Onbekend",
-      "tijd": "09:03",
-      "callResult": "abandoned",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "+31642277897",
-      "naam": "Onbekend",
-      "tijd": "09:38",
-      "callResult": "overflowed",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "+31642277897",
-      "naam": "Onbekend",
-      "tijd": "09:56",
-      "callResult": "abandoned",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "+31642277897",
-      "naam": "Onbekend",
-      "tijd": "09:58",
-      "callResult": "abandoned",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "+31613703622",
-      "naam": "Onbekend",
-      "tijd": "11:48",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31653385091",
-      "naam": "Onbekend",
-      "tijd": "12:08",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31615142757",
-      "naam": "Onbekend",
-      "tijd": "12:36",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31619607393",
-      "naam": "Onbekend",
-      "tijd": "14:07",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31681237776",
-      "naam": "Onbekend",
-      "tijd": "15:52",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    }
-  ],
-  "agenten": {
-    "Dewi Verver": {
-      "beantwoord": 7,
-      "uitgaand": 2,
-      "gesprekstijdSec": 2279
-    }
-  },
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T05:00:59Z",
+  "totaalInbound": 0,
+  "totaalGemist": 0,
+  "terugGebeld": 0,
+  "nietTerugGebeld": 0,
+  "nietTerugGebeldNummers": [],
+  "alleGemistNummers": [],
+  "agenten": {},
   "beantwoordZonderAgent": 0
 }

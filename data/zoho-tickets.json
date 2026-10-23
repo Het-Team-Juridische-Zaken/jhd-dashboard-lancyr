@@ -1,40 +1,12 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T18:48:58Z",
-  "tickets": [
-    {
-      "ticketNumber": "2891",
-      "tijd": "12:34",
-      "titel": "Spoedvraag of claim die ik eventueel morgen krijg terecht is. klantnr. : 84184896",
-      "klant": "P. Luijben",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014821001",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2892",
-      "tijd": "14:45",
-      "titel": "Aansprakelijk stellen fout notaris",
-      "klant": "J.J. Bergakker",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014804003",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Email": 1,
-    "Phone": 1
-  },
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T05:00:58Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
-    "geslotenVandaag": 4,
+    "nieuweVandaag": 0,
+    "geslotenVandaag": 0,
     "totaalOpen": 26,
     "inDeWacht": 18,
     "statusBreakdown": {
