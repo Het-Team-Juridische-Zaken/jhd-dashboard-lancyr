@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T14:01:15Z",
+  "generated_at": "2026-10-23T14:10:46Z",
   "tickets": [
     {
       "ticketNumber": "2893",
@@ -98,9 +98,9 @@
     "totaalOpen": 28,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Gesloten": 712,
       "Open": 8,
-      "In de wacht": 20
+      "In de wacht": 20,
+      "Gesloten": 712
     },
     "capBereikt": false
   },
@@ -298,6 +298,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
     },
     {
+      "ticketNumber": "2896",
+      "titel": "Arbeidsrechtelijke bijstand bij ziekte",
+      "klant": "K. Artan",
+      "status": "Open",
+      "aangemaakt": "2026-10-23",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
+    },
+    {
       "ticketNumber": "2899",
       "titel": "Juridische hulp bij arbeidsconflict",
       "klant": "S. elBojaddaini",
@@ -312,14 +320,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-23",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014879001"
-    },
-    {
-      "ticketNumber": "2896",
-      "titel": "Arbeidsrechtelijke bijstand bij ziekte",
-      "klant": "K. Artan",
-      "status": "Open",
-      "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
     },
     {
       "ticketNumber": "2897",
