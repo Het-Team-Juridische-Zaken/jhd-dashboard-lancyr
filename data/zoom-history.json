@@ -6370,14 +6370,44 @@
   },
   "2026-10-23": {
     "agenten": {},
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31622777747",
+        "teruggebeld": false,
+        "tijd": "09:38"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31612126242",
+        "teruggebeld": false,
+        "tijd": "09:39"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-23",
-    "generated_at": "2026-10-23T07:30:54Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-10-23T07:40:45Z",
+    "nietTerugGebeld": 2,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31622777747",
+        "teruggebeld": false,
+        "tijd": "09:38"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31612126242",
+        "teruggebeld": false,
+        "tijd": "09:39"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalGemist": 2,
+    "totaalInbound": 2
   }
 }
