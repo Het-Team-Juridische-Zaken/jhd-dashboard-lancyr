@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T14:10:46Z",
+  "generated_at": "2026-10-23T14:20:50Z",
   "tickets": [
     {
       "ticketNumber": "2893",
@@ -67,7 +67,7 @@
       "tijd": "14:49",
       "titel": "Afkoop RB 5607-3265889",
       "klant": "R.B. Schiphuis",
-      "status": "In de wacht",
+      "status": "Gesloten",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014879001",
@@ -94,13 +94,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 7,
-    "geslotenVandaag": 5,
-    "totaalOpen": 28,
-    "inDeWacht": 20,
+    "geslotenVandaag": 6,
+    "totaalOpen": 27,
+    "inDeWacht": 19,
     "statusBreakdown": {
+      "Gesloten": 713,
       "Open": 8,
-      "In de wacht": 20,
-      "Gesloten": 712
+      "In de wacht": 19
     },
     "capBereikt": false
   },
@@ -306,28 +306,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
     },
     {
-      "ticketNumber": "2899",
-      "titel": "Juridische hulp bij arbeidsconflict",
-      "klant": "S. elBojaddaini",
-      "status": "Open",
-      "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883001"
-    },
-    {
-      "ticketNumber": "2898",
-      "titel": "Afkoop RB 5607-3265889",
-      "klant": "R.B. Schiphuis",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014879001"
-    },
-    {
       "ticketNumber": "2897",
       "titel": "Werkafspraken GGD Amsterdam en terugwerkende kracht",
       "klant": "M. Ben Said",
       "status": "Open",
       "aangemaakt": "2026-10-23",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014878001"
+    },
+    {
+      "ticketNumber": "2899",
+      "titel": "Juridische hulp bij arbeidsconflict",
+      "klant": "S. elBojaddaini",
+      "status": "Open",
+      "aangemaakt": "2026-10-23",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883001"
     }
   ]
 }
