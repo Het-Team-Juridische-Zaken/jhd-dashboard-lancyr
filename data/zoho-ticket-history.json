@@ -480,12 +480,12 @@
   "2026-10-23": {
     "capBereikt": false,
     "geslotenVandaag": 5,
-    "inDeWacht": 20,
+    "inDeWacht": 19,
     "nieuweVandaag": 6,
     "statusBreakdown": {
       "Gesloten": 712,
-      "In de wacht": 20,
-      "Open": 7
+      "In de wacht": 19,
+      "Open": 8
     },
     "totaalOpen": 27
   }

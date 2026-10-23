@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T12:50:45Z",
+  "generated_at": "2026-10-23T13:01:12Z",
   "tickets": [
     {
       "ticketNumber": "2893",
@@ -43,7 +43,7 @@
       "tijd": "13:49",
       "titel": "Arbeidsrechtelijke bijstand bij ziekte",
       "klant": "K. Artan",
-      "status": "In de wacht",
+      "status": "Open",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001",
@@ -55,7 +55,7 @@
       "tijd": "14:12",
       "titel": "Werkafspraken GGD Amsterdam en terugwerkende kracht",
       "klant": "M. Ben Said",
-      "status": "In de wacht",
+      "status": "Open",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014878001",
@@ -67,7 +67,7 @@
       "tijd": "14:49",
       "titel": "Afkoop RB 5607-3265889",
       "klant": "R.B. Schiphuis",
-      "status": "Open",
+      "status": "In de wacht",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014879001",
@@ -84,11 +84,11 @@
     "nieuweVandaag": 6,
     "geslotenVandaag": 5,
     "totaalOpen": 27,
-    "inDeWacht": 20,
+    "inDeWacht": 19,
     "statusBreakdown": {
-      "Open": 7,
-      "Gesloten": 712,
-      "In de wacht": 20
+      "In de wacht": 19,
+      "Open": 8,
+      "Gesloten": 712
     },
     "capBereikt": false
   },
@@ -289,25 +289,25 @@
       "ticketNumber": "2898",
       "titel": "Afkoop RB 5607-3265889",
       "klant": "R.B. Schiphuis",
-      "status": "Open",
-      "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014879001"
-    },
-    {
-      "ticketNumber": "2897",
-      "titel": "Werkafspraken GGD Amsterdam en terugwerkende kracht",
-      "klant": "M. Ben Said",
       "status": "In de wacht",
       "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014878001"
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014879001"
     },
     {
       "ticketNumber": "2896",
       "titel": "Arbeidsrechtelijke bijstand bij ziekte",
       "klant": "K. Artan",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-23",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
+    },
+    {
+      "ticketNumber": "2897",
+      "titel": "Werkafspraken GGD Amsterdam en terugwerkende kracht",
+      "klant": "M. Ben Said",
+      "status": "Open",
+      "aangemaakt": "2026-10-23",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014878001"
     }
   ]
 }
