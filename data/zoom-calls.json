@@ -1,9 +1,9 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T13:20:49Z",
-  "totaalInbound": 16,
-  "totaalGemist": 9,
-  "terugGebeld": 5,
+  "generated_at": "2026-10-23T13:31:08Z",
+  "totaalInbound": 17,
+  "totaalGemist": 10,
+  "terugGebeld": 6,
   "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
@@ -30,7 +30,7 @@
     {
       "nummer": "+31626139477",
       "naam": "Onbekend",
-      "tijd": "15:04",
+      "tijd": "15:26",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -97,14 +97,21 @@
       "naam": "Onbekend",
       "tijd": "15:04",
       "callResult": "abandoned",
+      "teruggebeld": true
+    },
+    {
+      "nummer": "+31626139477",
+      "naam": "Onbekend",
+      "tijd": "15:26",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 7,
-      "uitgaand": 6,
-      "gesprekstijdSec": 1588
+      "uitgaand": 7,
+      "gesprekstijdSec": 1943
     }
   },
   "beantwoordZonderAgent": 0
