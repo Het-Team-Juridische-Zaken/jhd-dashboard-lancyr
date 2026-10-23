@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T14:27:22Z",
+  "generated_at": "2026-10-23T14:31:02Z",
   "tickets": [
     {
       "ticketNumber": "2893",
@@ -98,9 +98,9 @@
     "totaalOpen": 27,
     "inDeWacht": 21,
     "statusBreakdown": {
+      "Open": 6,
       "In de wacht": 21,
-      "Gesloten": 713,
-      "Open": 6
+      "Gesloten": 713
     },
     "capBereikt": false
   },
@@ -298,6 +298,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
     },
     {
+      "ticketNumber": "2899",
+      "titel": "Juridische hulp bij arbeidsconflict",
+      "klant": "S. elBojaddaini",
+      "status": "Open",
+      "aangemaakt": "2026-10-23",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883001"
+    },
+    {
       "ticketNumber": "2897",
       "titel": "Werkafspraken GGD Amsterdam en terugwerkende kracht",
       "klant": "M. Ben Said",
@@ -312,14 +320,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-23",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
-    },
-    {
-      "ticketNumber": "2899",
-      "titel": "Juridische hulp bij arbeidsconflict",
-      "klant": "S. elBojaddaini",
-      "status": "Open",
-      "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883001"
     }
   ]
 }
