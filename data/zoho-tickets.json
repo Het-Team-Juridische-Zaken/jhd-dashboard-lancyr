@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T08:30:55Z",
+  "generated_at": "2026-10-23T08:40:44Z",
   "tickets": [
     {
       "ticketNumber": "2893",
@@ -13,21 +13,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014849001",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2894",
+      "tijd": "10:38",
+      "titel": "FW: Aangemelde case rechtsbijstand verzekering",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846009",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 1
+    "Email": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 0,
-    "totaalOpen": 27,
+    "totaalOpen": 28,
     "inDeWacht": 18,
     "statusBreakdown": {
-      "Open": 9,
-      "Gesloten": 708,
-      "In de wacht": 18
+      "Open": 10,
+      "In de wacht": 18,
+      "Gesloten": 708
     },
     "capBereikt": false
   },
@@ -239,6 +251,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-22",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014821001"
+    },
+    {
+      "ticketNumber": "2894",
+      "titel": "FW: Aangemelde case rechtsbijstand verzekering",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-23",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846009"
     },
     {
       "ticketNumber": "2893",
