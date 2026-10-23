@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T12:10:48Z",
+  "generated_at": "2026-10-23T12:20:51Z",
   "tickets": [
     {
       "ticketNumber": "2893",
@@ -49,20 +49,32 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2897",
+      "tijd": "14:12",
+      "titel": "Werkafspraken GGD Amsterdam en terugwerkende kracht",
+      "klant": "M. Ben Said",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014878001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
     "Email": 2,
-    "Phone": 2
+    "Phone": 3
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 4,
+    "nieuweVandaag": 5,
     "geslotenVandaag": 4,
-    "totaalOpen": 26,
-    "inDeWacht": 19,
+    "totaalOpen": 27,
+    "inDeWacht": 20,
     "statusBreakdown": {
-      "In de wacht": 19,
+      "In de wacht": 20,
       "Open": 7,
       "Gesloten": 711
     },
@@ -268,6 +280,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-22",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014821001"
+    },
+    {
+      "ticketNumber": "2897",
+      "titel": "Werkafspraken GGD Amsterdam en terugwerkende kracht",
+      "klant": "M. Ben Said",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-23",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014878001"
     },
     {
       "ticketNumber": "2896",
