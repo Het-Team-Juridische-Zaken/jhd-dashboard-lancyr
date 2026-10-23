@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T10:10:45Z",
+  "generated_at": "2026-10-23T10:20:42Z",
   "tickets": [
     {
       "ticketNumber": "2893",
@@ -19,7 +19,7 @@
       "tijd": "10:38",
       "titel": "FW: Aangemelde case rechtsbijstand verzekering",
       "klant": "De juridische helpdesk",
-      "status": "Open",
+      "status": "Gesloten",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846009",
@@ -46,13 +46,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 3,
-    "geslotenVandaag": 1,
-    "totaalOpen": 28,
+    "geslotenVandaag": 3,
+    "totaalOpen": 26,
     "inDeWacht": 18,
     "statusBreakdown": {
-      "Open": 10,
-      "Gesloten": 709,
-      "In de wacht": 18
+      "Gesloten": 711,
+      "In de wacht": 18,
+      "Open": 8
     },
     "capBereikt": false
   },
@@ -250,28 +250,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
     },
     {
-      "ticketNumber": "2892",
-      "titel": "Aansprakelijk stellen fout notaris",
-      "klant": "J.J. Bergakker",
-      "status": "Open",
-      "aangemaakt": "2026-10-22",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014804003"
-    },
-    {
       "ticketNumber": "2891",
       "titel": "Spoedvraag of claim die ik eventueel morgen krijg terecht is. klantnr. : 84184896",
       "klant": "P. Luijben",
       "status": "Open",
       "aangemaakt": "2026-10-22",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014821001"
-    },
-    {
-      "ticketNumber": "2894",
-      "titel": "FW: Aangemelde case rechtsbijstand verzekering",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846009"
     },
     {
       "ticketNumber": "2893",
