@@ -1,13 +1,13 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T11:40:41Z",
+  "generated_at": "2026-10-23T11:50:45Z",
   "tickets": [
     {
       "ticketNumber": "2893",
       "tijd": "09:56",
       "titel": "FW: Nieuwe juridische vraag ",
       "klant": "De juridische helpdesk",
-      "status": "Open",
+      "status": "Gesloten",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014849001",
@@ -37,22 +37,34 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014865001",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2896",
+      "tijd": "13:49",
+      "titel": "Arbeidsrechtelijke bijstand bij ziekte",
+      "klant": "K. Artan",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
     "Email": 2,
-    "Phone": 1
+    "Phone": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
-    "geslotenVandaag": 3,
+    "nieuweVandaag": 4,
+    "geslotenVandaag": 4,
     "totaalOpen": 26,
-    "inDeWacht": 18,
+    "inDeWacht": 19,
     "statusBreakdown": {
-      "Open": 8,
-      "Gesloten": 710,
-      "In de wacht": 18
+      "Gesloten": 711,
+      "In de wacht": 19,
+      "Open": 7
     },
     "capBereikt": false
   },
@@ -258,12 +270,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014821001"
     },
     {
-      "ticketNumber": "2893",
-      "titel": "FW: Nieuwe juridische vraag ",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
+      "ticketNumber": "2896",
+      "titel": "Arbeidsrechtelijke bijstand bij ziekte",
+      "klant": "K. Artan",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014849001"
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
     }
   ]
 }

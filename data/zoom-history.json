@@ -6372,8 +6372,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 5,
-        "gesprekstijdSec": 663,
-        "uitgaand": 4
+        "gesprekstijdSec": 1055,
+        "uitgaand": 5
       }
     },
     "alleGemistNummers": [
@@ -6388,7 +6388,7 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31612126242",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:39"
       },
       {
@@ -6418,11 +6418,18 @@
         "nummer": "+31685249723",
         "teruggebeld": false,
         "tijd": "12:59"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31653385091",
+        "teruggebeld": false,
+        "tijd": "13:42"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-23",
-    "generated_at": "2026-10-23T11:40:43Z",
+    "generated_at": "2026-10-23T11:50:47Z",
     "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
@@ -6431,13 +6438,6 @@
         "nummer": "+31622777747",
         "teruggebeld": false,
         "tijd": "09:38"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31612126242",
-        "teruggebeld": false,
-        "tijd": "09:39"
       },
       {
         "callResult": "overflowed",
@@ -6452,10 +6452,17 @@
         "nummer": "+31685249723",
         "teruggebeld": false,
         "tijd": "12:59"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31653385091",
+        "teruggebeld": false,
+        "tijd": "13:42"
       }
     ],
-    "terugGebeld": 2,
-    "totaalGemist": 6,
-    "totaalInbound": 11
+    "terugGebeld": 3,
+    "totaalGemist": 7,
+    "totaalInbound": 12
   }
 }
