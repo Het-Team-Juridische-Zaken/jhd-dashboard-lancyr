@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T12:20:51Z",
+  "generated_at": "2026-10-23T12:30:57Z",
   "tickets": [
     {
       "ticketNumber": "2893",
@@ -70,13 +70,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 5,
-    "geslotenVandaag": 4,
-    "totaalOpen": 27,
+    "geslotenVandaag": 5,
+    "totaalOpen": 26,
     "inDeWacht": 20,
     "statusBreakdown": {
+      "Gesloten": 712,
       "In de wacht": 20,
-      "Open": 7,
-      "Gesloten": 711
+      "Open": 6
     },
     "capBereikt": false
   },
@@ -272,14 +272,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-21",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
-    },
-    {
-      "ticketNumber": "2891",
-      "titel": "Spoedvraag of claim die ik eventueel morgen krijg terecht is. klantnr. : 84184896",
-      "klant": "P. Luijben",
-      "status": "Open",
-      "aangemaakt": "2026-10-22",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014821001"
     },
     {
       "ticketNumber": "2897",

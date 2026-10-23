@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T12:20:54Z",
+  "generated_at": "2026-10-23T12:30:59Z",
   "totaalInbound": 14,
   "totaalGemist": 8,
-  "terugGebeld": 3,
-  "nietTerugGebeld": 5,
+  "terugGebeld": 5,
+  "nietTerugGebeld": 3,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31622777747",
@@ -25,20 +25,6 @@
       "naam": "Onbekend",
       "tijd": "12:59",
       "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31653385091",
-      "naam": "Onbekend",
-      "tijd": "13:42",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31653385091",
-      "naam": "Onbekend",
-      "tijd": "13:44",
-      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -90,21 +76,21 @@
       "naam": "Onbekend",
       "tijd": "13:42",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31653385091",
       "naam": "Onbekend",
       "tijd": "13:44",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     }
   ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 6,
-      "uitgaand": 5,
-      "gesprekstijdSec": 1349
+      "uitgaand": 6,
+      "gesprekstijdSec": 1548
     }
   },
   "beantwoordZonderAgent": 0

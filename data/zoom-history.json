@@ -6372,8 +6372,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 6,
-        "gesprekstijdSec": 1349,
-        "uitgaand": 5
+        "gesprekstijdSec": 1548,
+        "uitgaand": 6
       }
     },
     "alleGemistNummers": [
@@ -6423,21 +6423,21 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31653385091",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "13:42"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31653385091",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "13:44"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-23",
-    "generated_at": "2026-10-23T12:20:54Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-10-23T12:30:59Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6459,23 +6459,9 @@
         "nummer": "+31685249723",
         "teruggebeld": false,
         "tijd": "12:59"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31653385091",
-        "teruggebeld": false,
-        "tijd": "13:42"
-      },
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31653385091",
-        "teruggebeld": false,
-        "tijd": "13:44"
       }
     ],
-    "terugGebeld": 3,
+    "terugGebeld": 5,
     "totaalGemist": 8,
     "totaalInbound": 14
   }
