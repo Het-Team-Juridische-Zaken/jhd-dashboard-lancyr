@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T13:01:15Z",
-  "totaalInbound": 14,
-  "totaalGemist": 8,
+  "generated_at": "2026-10-23T13:10:53Z",
+  "totaalInbound": 15,
+  "totaalGemist": 9,
   "terugGebeld": 5,
-  "nietTerugGebeld": 3,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31622777747",
@@ -24,6 +24,13 @@
       "nummer": "+31685249723",
       "naam": "Onbekend",
       "tijd": "12:59",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31626139477",
+      "naam": "Onbekend",
+      "tijd": "15:04",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -84,6 +91,13 @@
       "tijd": "13:44",
       "callResult": "overflowed",
       "teruggebeld": true
+    },
+    {
+      "nummer": "+31626139477",
+      "naam": "Onbekend",
+      "tijd": "15:04",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {

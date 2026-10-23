@@ -6432,12 +6432,19 @@
         "nummer": "+31653385091",
         "teruggebeld": true,
         "tijd": "13:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31626139477",
+        "teruggebeld": false,
+        "tijd": "15:04"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-23",
-    "generated_at": "2026-10-23T13:01:15Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-23T13:10:53Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6459,10 +6466,17 @@
         "nummer": "+31685249723",
         "teruggebeld": false,
         "tijd": "12:59"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31626139477",
+        "teruggebeld": false,
+        "tijd": "15:04"
       }
     ],
     "terugGebeld": 5,
-    "totaalGemist": 8,
-    "totaalInbound": 14
+    "totaalGemist": 9,
+    "totaalInbound": 15
   }
 }
