@@ -6446,12 +6446,19 @@
         "nummer": "+31626139477",
         "teruggebeld": false,
         "tijd": "15:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31682127220",
+        "teruggebeld": false,
+        "tijd": "15:27"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-23",
-    "generated_at": "2026-10-23T13:31:08Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-23T13:41:05Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6480,10 +6487,17 @@
         "nummer": "+31626139477",
         "teruggebeld": false,
         "tijd": "15:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31682127220",
+        "teruggebeld": false,
+        "tijd": "15:27"
       }
     ],
     "terugGebeld": 6,
-    "totaalGemist": 10,
-    "totaalInbound": 17
+    "totaalGemist": 11,
+    "totaalInbound": 18
   }
 }
