@@ -1,16 +1,31 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T07:50:42Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-10-23T08:01:06Z",
+  "tickets": [
+    {
+      "ticketNumber": "2893",
+      "tijd": "09:56",
+      "titel": "FW: Nieuwe juridische vraag ",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014849001",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Email": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 26,
+    "totaalOpen": 27,
     "inDeWacht": 18,
     "statusBreakdown": {
-      "Open": 8,
+      "Open": 9,
       "Gesloten": 708,
       "In de wacht": 18
     },
@@ -224,6 +239,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-22",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014821001"
+    },
+    {
+      "ticketNumber": "2893",
+      "titel": "FW: Nieuwe juridische vraag ",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-23",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014849001"
     }
   ]
 }
