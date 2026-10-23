@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T09:10:45Z",
-  "totaalInbound": 3,
-  "totaalGemist": 3,
+  "generated_at": "2026-10-23T09:20:45Z",
+  "totaalInbound": 4,
+  "totaalGemist": 4,
   "terugGebeld": 0,
-  "nietTerugGebeld": 3,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31622777747",
@@ -24,6 +24,13 @@
       "nummer": "+31622777747",
       "naam": "Onbekend",
       "tijd": "10:05",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31681237776",
+      "naam": "Onbekend",
+      "tijd": "11:04",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -47,6 +54,13 @@
       "nummer": "+31622777747",
       "naam": "Onbekend",
       "tijd": "10:05",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31681237776",
+      "naam": "Onbekend",
+      "tijd": "11:04",
       "callResult": "overflowed",
       "teruggebeld": false
     }

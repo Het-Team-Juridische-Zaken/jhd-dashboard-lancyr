@@ -6391,12 +6391,19 @@
         "nummer": "+31622777747",
         "teruggebeld": false,
         "tijd": "10:05"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31681237776",
+        "teruggebeld": false,
+        "tijd": "11:04"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-23",
-    "generated_at": "2026-10-23T09:10:45Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-23T09:20:45Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6418,10 +6425,17 @@
         "nummer": "+31622777747",
         "teruggebeld": false,
         "tijd": "10:05"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31681237776",
+        "teruggebeld": false,
+        "tijd": "11:04"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 3
+    "totaalGemist": 4,
+    "totaalInbound": 4
   }
 }
