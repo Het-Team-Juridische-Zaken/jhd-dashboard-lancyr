@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T14:40:52Z",
+  "generated_at": "2026-10-26T14:50:44Z",
   "tickets": [
     {
       "ticketNumber": "2901",
@@ -19,7 +19,7 @@
       "tijd": "15:15",
       "titel": "SPOED - conflict met verhuurder",
       "klant": "F. Jonkman",
-      "status": "In de wacht",
+      "status": "Open",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014903001",
@@ -48,10 +48,10 @@
     "nieuweVandaag": 3,
     "geslotenVandaag": 0,
     "totaalOpen": 30,
-    "inDeWacht": 23,
+    "inDeWacht": 22,
     "statusBreakdown": {
-      "Open": 7,
-      "In de wacht": 23,
+      "Open": 8,
+      "In de wacht": 22,
       "Gesloten": 711
     },
     "capBereikt": false
@@ -274,20 +274,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
     },
     {
+      "ticketNumber": "2902",
+      "titel": "SPOED - conflict met verhuurder",
+      "klant": "F. Jonkman",
+      "status": "Open",
+      "aangemaakt": "2026-10-26",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014903001"
+    },
+    {
       "ticketNumber": "2903",
       "titel": "FW: 84189177 (Stijnen, P.): 5607-3264947 Rechtszekerheid Lancyr Rechtsbijstand Particulier",
       "klant": "De juridische helpdesk",
       "status": "Open",
       "aangemaakt": "2026-10-26",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883054"
-    },
-    {
-      "ticketNumber": "2902",
-      "titel": "SPOED - conflict met verhuurder",
-      "klant": "F. Jonkman",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-26",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014903001"
     },
     {
       "ticketNumber": "2901",
