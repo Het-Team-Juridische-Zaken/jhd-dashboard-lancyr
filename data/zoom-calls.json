@@ -1,10 +1,10 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T11:10:48Z",
-  "totaalInbound": 12,
-  "totaalGemist": 3,
+  "generated_at": "2026-10-26T11:20:46Z",
+  "totaalInbound": 13,
+  "totaalGemist": 4,
   "terugGebeld": 0,
-  "nietTerugGebeld": 3,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31686279857",
@@ -24,6 +24,13 @@
       "nummer": "+31643048289",
       "naam": "Onbekend",
       "tijd": "12:48",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31681130818",
+      "naam": "Onbekend",
+      "tijd": "13:12",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -47,6 +54,13 @@
       "nummer": "+31643048289",
       "naam": "Onbekend",
       "tijd": "12:48",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31681130818",
+      "naam": "Onbekend",
+      "tijd": "13:12",
       "callResult": "overflowed",
       "teruggebeld": false
     }
