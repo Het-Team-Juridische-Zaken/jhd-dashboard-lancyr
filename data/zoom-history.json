@@ -6496,19 +6496,35 @@
   "2026-10-26": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 7,
-        "gesprekstijdSec": 1100,
+        "beantwoord": 8,
+        "gesprekstijdSec": 1187,
         "uitgaand": 1
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31686279857",
+        "teruggebeld": false,
+        "tijd": "11:59"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-26",
-    "generated_at": "2026-10-26T10:01:07Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-10-26T10:10:43Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31686279857",
+        "teruggebeld": false,
+        "tijd": "11:59"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 7
+    "totaalGemist": 1,
+    "totaalInbound": 9
   }
 }
