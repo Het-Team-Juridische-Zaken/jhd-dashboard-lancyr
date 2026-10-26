@@ -6508,12 +6508,19 @@
         "nummer": "+31686279857",
         "teruggebeld": false,
         "tijd": "11:59"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31611773610",
+        "teruggebeld": false,
+        "tijd": "12:25"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-26",
-    "generated_at": "2026-10-26T10:20:52Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-10-26T10:30:56Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6521,10 +6528,17 @@
         "nummer": "+31686279857",
         "teruggebeld": false,
         "tijd": "11:59"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31611773610",
+        "teruggebeld": false,
+        "tijd": "12:25"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 10
+    "totaalGemist": 2,
+    "totaalInbound": 11
   }
 }
