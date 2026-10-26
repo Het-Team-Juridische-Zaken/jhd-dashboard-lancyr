@@ -1,18 +1,45 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T13:10:43Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-10-26T13:20:46Z",
+  "tickets": [
+    {
+      "ticketNumber": "2901",
+      "tijd": "15:13",
+      "titel": "VSO check",
+      "klant": "J.M. Melis",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014896025",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2902",
+      "tijd": "15:15",
+      "titel": "SPOED - conflict met verhuurder",
+      "klant": "F. Jonkman",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014903001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Phone": 2
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 0,
-    "totaalOpen": 27,
-    "inDeWacht": 22,
+    "totaalOpen": 29,
+    "inDeWacht": 23,
     "statusBreakdown": {
-      "In de wacht": 22,
-      "Gesloten": 711,
-      "Open": 5
+      "In de wacht": 23,
+      "Open": 6,
+      "Gesloten": 711
     },
     "capBereikt": false
   },
@@ -232,6 +259,22 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-23",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
+    },
+    {
+      "ticketNumber": "2902",
+      "titel": "SPOED - conflict met verhuurder",
+      "klant": "F. Jonkman",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-26",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014903001"
+    },
+    {
+      "ticketNumber": "2901",
+      "titel": "VSO check",
+      "klant": "J.M. Melis",
+      "status": "Open",
+      "aangemaakt": "2026-10-26",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014896025"
     }
   ]
 }

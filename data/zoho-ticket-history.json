@@ -492,13 +492,13 @@
   "2026-10-26": {
     "capBereikt": false,
     "geslotenVandaag": 0,
-    "inDeWacht": 22,
-    "nieuweVandaag": 0,
+    "inDeWacht": 23,
+    "nieuweVandaag": 2,
     "statusBreakdown": {
       "Gesloten": 711,
-      "In de wacht": 22,
-      "Open": 5
+      "In de wacht": 23,
+      "Open": 6
     },
-    "totaalOpen": 27
+    "totaalOpen": 29
   }
 }
