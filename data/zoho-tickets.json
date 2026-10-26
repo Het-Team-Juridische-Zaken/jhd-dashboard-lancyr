@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T16:10:46Z",
+  "generated_at": "2026-10-26T16:20:47Z",
   "tickets": [
     {
       "ticketNumber": "2901",
@@ -37,20 +37,32 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883054",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2904",
+      "tijd": "18:11",
+      "titel": "FW: 84185540 (Boshuis-Cordang, M.L.): terugbel verzoek / terugbel afspraak maken",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880045",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
     "Phone": 2,
-    "Email": 1
+    "Email": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
+    "nieuweVandaag": 4,
     "geslotenVandaag": 0,
-    "totaalOpen": 30,
+    "totaalOpen": 31,
     "inDeWacht": 22,
     "statusBreakdown": {
-      "Open": 8,
+      "Open": 9,
       "In de wacht": 22,
       "Gesloten": 711
     },
@@ -272,6 +284,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-23",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
+    },
+    {
+      "ticketNumber": "2904",
+      "titel": "FW: 84185540 (Boshuis-Cordang, M.L.): terugbel verzoek / terugbel afspraak maken",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-26",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880045"
     },
     {
       "ticketNumber": "2902",
