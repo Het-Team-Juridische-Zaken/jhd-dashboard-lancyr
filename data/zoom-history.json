@@ -6515,12 +6515,19 @@
         "nummer": "+31611773610",
         "teruggebeld": false,
         "tijd": "12:25"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643048289",
+        "teruggebeld": false,
+        "tijd": "12:48"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-26",
-    "generated_at": "2026-10-26T10:50:45Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-10-26T11:01:17Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6535,10 +6542,17 @@
         "nummer": "+31611773610",
         "teruggebeld": false,
         "tijd": "12:25"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643048289",
+        "teruggebeld": false,
+        "tijd": "12:48"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 11
+    "totaalGemist": 3,
+    "totaalInbound": 12
   }
 }
