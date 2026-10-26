@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T14:20:44Z",
+  "generated_at": "2026-10-26T14:30:55Z",
   "tickets": [
     {
       "ticketNumber": "2901",
@@ -25,20 +25,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014903001",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2903",
+      "tijd": "16:24",
+      "titel": "FW: 84189177 (Stijnen, P.): 5607-3264947 Rechtszekerheid Lancyr Rechtsbijstand Particulier",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883054",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 2
+    "Phone": 2,
+    "Email": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
+    "nieuweVandaag": 3,
     "geslotenVandaag": 0,
-    "totaalOpen": 29,
+    "totaalOpen": 30,
     "inDeWacht": 23,
     "statusBreakdown": {
+      "Open": 7,
       "In de wacht": 23,
-      "Open": 6,
       "Gesloten": 711
     },
     "capBereikt": false
@@ -259,6 +272,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-23",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
+    },
+    {
+      "ticketNumber": "2903",
+      "titel": "FW: 84189177 (Stijnen, P.): 5607-3264947 Rechtszekerheid Lancyr Rechtsbijstand Particulier",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-26",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883054"
     },
     {
       "ticketNumber": "2902",
