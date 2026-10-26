@@ -1,105 +1,17 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T18:35:07Z",
-  "tickets": [
-    {
-      "ticketNumber": "2893",
-      "tijd": "09:56",
-      "titel": "FW: Nieuwe juridische vraag ",
-      "klant": "De juridische helpdesk",
-      "status": "Gesloten",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014849001",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2894",
-      "tijd": "10:38",
-      "titel": "FW: Aangemelde case rechtsbijstand verzekering",
-      "klant": "De juridische helpdesk",
-      "status": "Gesloten",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846009",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2895",
-      "tijd": "12:00",
-      "titel": "Opnieuw beoordelen zaak door BrandMr",
-      "klant": "E.J.L. Heijnen",
-      "status": "Gesloten",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014865001",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2896",
-      "tijd": "13:49",
-      "titel": "Arbeidsrechtelijke bijstand bij ziekte",
-      "klant": "K. Artan",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2897",
-      "tijd": "14:12",
-      "titel": "Werkafspraken GGD Amsterdam en terugwerkende kracht",
-      "klant": "M. Ben Said",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014878001",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2898",
-      "tijd": "14:49",
-      "titel": "Afkoop RB 5607-3265889",
-      "klant": "R.B. Schiphuis",
-      "status": "Gesloten",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014879001",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2899",
-      "tijd": "15:46",
-      "titel": "Juridische hulp bij arbeidsconflict",
-      "klant": "S. elBojaddaini",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883001",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Email": 3,
-    "Phone": 4
-  },
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T06:00:56Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 7,
-    "geslotenVandaag": 6,
+    "nieuweVandaag": 0,
+    "geslotenVandaag": 0,
     "totaalOpen": 27,
     "inDeWacht": 22,
     "statusBreakdown": {
       "In de wacht": 22,
-      "Gesloten": 713,
+      "Gesloten": 711,
       "Open": 5
     },
     "capBereikt": false
