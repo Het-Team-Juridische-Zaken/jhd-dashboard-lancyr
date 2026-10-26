@@ -1,10 +1,10 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T13:50:48Z",
-  "totaalInbound": 17,
-  "totaalGemist": 5,
+  "generated_at": "2026-10-26T14:01:12Z",
+  "totaalInbound": 18,
+  "totaalGemist": 6,
   "terugGebeld": 0,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31686279857",
@@ -39,6 +39,13 @@
       "naam": "Onbekend",
       "tijd": "14:24",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31647804081",
+      "naam": "Onbekend",
+      "tijd": "15:46",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -76,6 +83,13 @@
       "naam": "Onbekend",
       "tijd": "14:24",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31647804081",
+      "naam": "Onbekend",
+      "tijd": "15:46",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],

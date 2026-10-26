@@ -6536,12 +6536,19 @@
         "nummer": "+31620655729",
         "teruggebeld": false,
         "tijd": "14:24"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31647804081",
+        "teruggebeld": false,
+        "tijd": "15:46"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-26",
-    "generated_at": "2026-10-26T13:50:48Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-10-26T14:01:12Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6577,10 +6584,17 @@
         "nummer": "+31620655729",
         "teruggebeld": false,
         "tijd": "14:24"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31647804081",
+        "teruggebeld": false,
+        "tijd": "15:46"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 5,
-    "totaalInbound": 17
+    "totaalGemist": 6,
+    "totaalInbound": 18
   }
 }
