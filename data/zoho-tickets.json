@@ -1,63 +1,11 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T17:50:44Z",
-  "tickets": [
-    {
-      "ticketNumber": "2901",
-      "tijd": "15:13",
-      "titel": "VSO check",
-      "klant": "J.M. Melis",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014896025",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2902",
-      "tijd": "15:15",
-      "titel": "SPOED - conflict met verhuurder",
-      "klant": "F. Jonkman",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014903001",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2903",
-      "tijd": "16:24",
-      "titel": "FW: 84189177 (Stijnen, P.): 5607-3264947 Rechtszekerheid Lancyr Rechtsbijstand Particulier",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883054",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2904",
-      "tijd": "18:11",
-      "titel": "FW: 84185540 (Boshuis-Cordang, M.L.): terugbel verzoek / terugbel afspraak maken",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880045",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Phone": 2,
-    "Email": 2
-  },
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T06:01:04Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 4,
+    "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 31,
     "inDeWacht": 22,

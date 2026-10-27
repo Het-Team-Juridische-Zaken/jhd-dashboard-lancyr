@@ -1,104 +1,12 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T17:50:49Z",
-  "totaalInbound": 18,
-  "totaalGemist": 6,
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T06:01:04Z",
+  "totaalInbound": 0,
+  "totaalGemist": 0,
   "terugGebeld": 0,
-  "nietTerugGebeld": 6,
-  "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31686279857",
-      "naam": "Onbekend",
-      "tijd": "11:59",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31611773610",
-      "naam": "Onbekend",
-      "tijd": "12:25",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31643048289",
-      "naam": "Onbekend",
-      "tijd": "12:48",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31681130818",
-      "naam": "Onbekend",
-      "tijd": "13:12",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31620655729",
-      "naam": "Onbekend",
-      "tijd": "14:24",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31647804081",
-      "naam": "Onbekend",
-      "tijd": "15:46",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    }
-  ],
-  "alleGemistNummers": [
-    {
-      "nummer": "+31686279857",
-      "naam": "Onbekend",
-      "tijd": "11:59",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31611773610",
-      "naam": "Onbekend",
-      "tijd": "12:25",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31643048289",
-      "naam": "Onbekend",
-      "tijd": "12:48",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31681130818",
-      "naam": "Onbekend",
-      "tijd": "13:12",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31620655729",
-      "naam": "Onbekend",
-      "tijd": "14:24",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31647804081",
-      "naam": "Onbekend",
-      "tijd": "15:46",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    }
-  ],
-  "agenten": {
-    "Dewi Verver": {
-      "beantwoord": 12,
-      "uitgaand": 1,
-      "gesprekstijdSec": 1700
-    }
-  },
+  "nietTerugGebeld": 0,
+  "nietTerugGebeldNummers": [],
+  "alleGemistNummers": [],
+  "agenten": {},
   "beantwoordZonderAgent": 0
 }
