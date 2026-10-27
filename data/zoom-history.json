@@ -6601,8 +6601,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 3,
-        "gesprekstijdSec": 1070,
-        "uitgaand": 0
+        "gesprekstijdSec": 1140,
+        "uitgaand": 1
       }
     },
     "alleGemistNummers": [
@@ -6668,11 +6668,18 @@
         "nummer": "+31625266466",
         "teruggebeld": false,
         "tijd": "14:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31612322376",
+        "teruggebeld": true,
+        "tijd": "15:13"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-27",
-    "generated_at": "2026-10-27T13:10:48Z",
+    "generated_at": "2026-10-27T13:20:49Z",
     "nietTerugGebeld": 9,
     "nietTerugGebeldNummers": [
       {
@@ -6739,8 +6746,8 @@
         "tijd": "14:44"
       }
     ],
-    "terugGebeld": 0,
-    "totaalGemist": 9,
-    "totaalInbound": 12
+    "terugGebeld": 1,
+    "totaalGemist": 10,
+    "totaalInbound": 13
   }
 }
