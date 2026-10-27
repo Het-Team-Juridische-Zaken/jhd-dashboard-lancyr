@@ -1,10 +1,10 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T13:31:02Z",
-  "totaalInbound": 13,
-  "totaalGemist": 10,
+  "generated_at": "2026-10-27T13:40:42Z",
+  "totaalInbound": 15,
+  "totaalGemist": 11,
   "terugGebeld": 1,
-  "nietTerugGebeld": 9,
+  "nietTerugGebeld": 10,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31655838877",
@@ -66,6 +66,13 @@
       "nummer": "+31625266466",
       "naam": "Onbekend",
       "tijd": "14:44",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31641666122",
+      "naam": "Onbekend",
+      "tijd": "15:35",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -140,13 +147,20 @@
       "tijd": "15:13",
       "callResult": "abandoned",
       "teruggebeld": true
+    },
+    {
+      "nummer": "+31641666122",
+      "naam": "Onbekend",
+      "tijd": "15:35",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 3,
+      "beantwoord": 4,
       "uitgaand": 1,
-      "gesprekstijdSec": 1140
+      "gesprekstijdSec": 1443
     }
   },
   "beantwoordZonderAgent": 0
