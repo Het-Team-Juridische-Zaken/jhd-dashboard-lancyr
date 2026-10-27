@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T14:10:48Z",
+  "generated_at": "2026-10-27T14:20:58Z",
   "tickets": [
     {
       "ticketNumber": "2906",
@@ -49,19 +49,55 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846086",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2911",
+      "tijd": "16:12",
+      "titel": "FW: Polis afschrijving Antoniou",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846141",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2910",
+      "tijd": "16:12",
+      "titel": "FW: Uw relatienummer 84283777-Antoniou",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883208",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2912",
+      "tijd": "16:14",
+      "titel": "FW: 84231791 (Hendriks, I.M.): SPOED – Aanvraag juridische bijstand conflict (Waadi art. 9a?) / Startdatum 02-11-2026 en boetedreiging",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880315",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 4
+    "Email": 7
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 4,
+    "nieuweVandaag": 7,
     "geslotenVandaag": 5,
-    "totaalOpen": 30,
+    "totaalOpen": 33,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 10,
+      "Open": 13,
       "Gesloten": 714,
       "In de wacht": 20
     },
@@ -275,6 +311,30 @@
       "status": "Open",
       "aangemaakt": "2026-10-26",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883054"
+    },
+    {
+      "ticketNumber": "2912",
+      "titel": "FW: 84231791 (Hendriks, I.M.): SPOED – Aanvraag juridische bijstand conflict (Waadi art. 9a?) / Startdatum 02-11-2026 en boetedreiging",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-27",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880315"
+    },
+    {
+      "ticketNumber": "2911",
+      "titel": "FW: Polis afschrijving Antoniou",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-27",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846141"
+    },
+    {
+      "ticketNumber": "2910",
+      "titel": "FW: Uw relatienummer 84283777-Antoniou",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-27",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883208"
     },
     {
       "ticketNumber": "2909",
