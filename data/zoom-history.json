@@ -6647,12 +6647,19 @@
         "nummer": "+31641109707",
         "teruggebeld": false,
         "tijd": "13:23"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31618291519",
+        "teruggebeld": false,
+        "tijd": "14:11"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-27",
-    "generated_at": "2026-10-27T12:10:48Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-10-27T12:20:50Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6695,10 +6702,17 @@
         "nummer": "+31641109707",
         "teruggebeld": false,
         "tijd": "13:23"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31618291519",
+        "teruggebeld": false,
+        "tijd": "14:11"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 9
+    "totaalGemist": 7,
+    "totaalInbound": 10
   }
 }
