@@ -1,10 +1,10 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T12:40:47Z",
-  "totaalInbound": 11,
-  "totaalGemist": 8,
+  "generated_at": "2026-10-27T12:50:48Z",
+  "totaalInbound": 12,
+  "totaalGemist": 9,
   "terugGebeld": 0,
-  "nietTerugGebeld": 8,
+  "nietTerugGebeld": 9,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31655838877",
@@ -59,6 +59,13 @@
       "nummer": "+31638540463",
       "naam": "Onbekend",
       "tijd": "14:39",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31625266466",
+      "naam": "Onbekend",
+      "tijd": "14:44",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -117,6 +124,13 @@
       "nummer": "+31638540463",
       "naam": "Onbekend",
       "tijd": "14:39",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31625266466",
+      "naam": "Onbekend",
+      "tijd": "14:44",
       "callResult": "abandoned",
       "teruggebeld": false
     }
