@@ -1,10 +1,10 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T10:10:35Z",
-  "totaalInbound": 5,
-  "totaalGemist": 2,
+  "generated_at": "2026-10-27T10:20:42Z",
+  "totaalInbound": 6,
+  "totaalGemist": 3,
   "terugGebeld": 0,
-  "nietTerugGebeld": 2,
+  "nietTerugGebeld": 3,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31655838877",
@@ -17,6 +17,13 @@
       "nummer": "+31615861440",
       "naam": "Onbekend",
       "tijd": "10:07",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31640808895",
+      "naam": "Onbekend",
+      "tijd": "12:09",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -33,6 +40,13 @@
       "nummer": "+31615861440",
       "naam": "Onbekend",
       "tijd": "10:07",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31640808895",
+      "naam": "Onbekend",
+      "tijd": "12:09",
       "callResult": "overflowed",
       "teruggebeld": false
     }

@@ -6619,12 +6619,19 @@
         "nummer": "+31615861440",
         "teruggebeld": false,
         "tijd": "10:07"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640808895",
+        "teruggebeld": false,
+        "tijd": "12:09"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-27",
-    "generated_at": "2026-10-27T10:10:35Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-10-27T10:20:42Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6639,10 +6646,17 @@
         "nummer": "+31615861440",
         "teruggebeld": false,
         "tijd": "10:07"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640808895",
+        "teruggebeld": false,
+        "tijd": "12:09"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 5
+    "totaalGemist": 3,
+    "totaalInbound": 6
   }
 }
