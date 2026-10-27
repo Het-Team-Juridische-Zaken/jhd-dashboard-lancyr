@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T13:20:47Z",
+  "generated_at": "2026-10-27T13:30:59Z",
   "tickets": [
     {
       "ticketNumber": "2906",
@@ -25,21 +25,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883131",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2908",
+      "tijd": "15:21",
+      "titel": "FW: 84212325_PH de Vries: Inhoudelijke beoordeling casus op polis 5607-8126868",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880260",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 2
+    "Email": 3
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
+    "nieuweVandaag": 3,
     "geslotenVandaag": 5,
-    "totaalOpen": 28,
+    "totaalOpen": 29,
     "inDeWacht": 21,
     "statusBreakdown": {
+      "Open": 8,
       "Gesloten": 714,
-      "In de wacht": 21,
-      "Open": 7
+      "In de wacht": 21
     },
     "capBereikt": false
   },
@@ -251,6 +263,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-26",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883054"
+    },
+    {
+      "ticketNumber": "2908",
+      "titel": "FW: 84212325_PH de Vries: Inhoudelijke beoordeling casus op polis 5607-8126868",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-27",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880260"
     },
     {
       "ticketNumber": "2907",
