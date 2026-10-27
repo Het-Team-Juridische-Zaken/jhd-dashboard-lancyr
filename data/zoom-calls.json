@@ -1,10 +1,10 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T11:20:50Z",
-  "totaalInbound": 8,
-  "totaalGemist": 5,
+  "generated_at": "2026-10-27T11:31:05Z",
+  "totaalInbound": 9,
+  "totaalGemist": 6,
   "terugGebeld": 0,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31655838877",
@@ -39,6 +39,13 @@
       "naam": "Onbekend",
       "tijd": "12:56",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31641109707",
+      "naam": "Onbekend",
+      "tijd": "13:23",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -76,6 +83,13 @@
       "naam": "Onbekend",
       "tijd": "12:56",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31641109707",
+      "naam": "Onbekend",
+      "tijd": "13:23",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
