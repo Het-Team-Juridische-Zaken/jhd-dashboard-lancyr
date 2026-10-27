@@ -6654,12 +6654,19 @@
         "nummer": "+31618291519",
         "teruggebeld": false,
         "tijd": "14:11"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31638540463",
+        "teruggebeld": false,
+        "tijd": "14:39"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-27",
-    "generated_at": "2026-10-27T12:31:02Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-10-27T12:40:47Z",
+    "nietTerugGebeld": 8,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6709,10 +6716,17 @@
         "nummer": "+31618291519",
         "teruggebeld": false,
         "tijd": "14:11"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31638540463",
+        "teruggebeld": false,
+        "tijd": "14:39"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 7,
-    "totaalInbound": 10
+    "totaalGemist": 8,
+    "totaalInbound": 11
   }
 }

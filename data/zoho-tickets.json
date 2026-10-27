@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T12:30:59Z",
+  "generated_at": "2026-10-27T12:40:45Z",
   "tickets": [
     {
       "ticketNumber": "2906",
@@ -19,7 +19,7 @@
       "tijd": "13:01",
       "titel": "FW: Juridische hulpvraag voor schadenummer: 2605882",
       "klant": "De juridische helpdesk",
-      "status": "Open",
+      "status": "In de wacht",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883131",
@@ -33,13 +33,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 2,
-    "geslotenVandaag": 0,
-    "totaalOpen": 33,
-    "inDeWacht": 20,
+    "geslotenVandaag": 5,
+    "totaalOpen": 28,
+    "inDeWacht": 21,
     "statusBreakdown": {
-      "Open": 13,
-      "In de wacht": 20,
-      "Gesloten": 709
+      "Gesloten": 714,
+      "In de wacht": 21,
+      "Open": 7
     },
     "capBereikt": false
   },
@@ -237,52 +237,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
     },
     {
-      "ticketNumber": "2897",
-      "titel": "Werkafspraken GGD Amsterdam en terugwerkende kracht",
-      "klant": "M. Ben Said",
-      "status": "Open",
-      "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014878001"
-    },
-    {
-      "ticketNumber": "2899",
-      "titel": "Juridische hulp bij arbeidsconflict",
-      "klant": "S. elBojaddaini",
-      "status": "Open",
-      "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883001"
-    },
-    {
       "ticketNumber": "2896",
       "titel": "Arbeidsrechtelijke bijstand bij ziekte",
       "klant": "K. Artan",
       "status": "In de wacht",
       "aangemaakt": "2026-10-23",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
-    },
-    {
-      "ticketNumber": "2901",
-      "titel": "VSO check",
-      "klant": "J.M. Melis",
-      "status": "Open",
-      "aangemaakt": "2026-10-26",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014896025"
-    },
-    {
-      "ticketNumber": "2904",
-      "titel": "FW: 84185540 (Boshuis-Cordang, M.L.): terugbel verzoek / terugbel afspraak maken",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-26",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880045"
-    },
-    {
-      "ticketNumber": "2902",
-      "titel": "SPOED - conflict met verhuurder",
-      "klant": "F. Jonkman",
-      "status": "Open",
-      "aangemaakt": "2026-10-26",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014903001"
     },
     {
       "ticketNumber": "2903",
@@ -296,7 +256,7 @@
       "ticketNumber": "2907",
       "titel": "FW: Juridische hulpvraag voor schadenummer: 2605882",
       "klant": "De juridische helpdesk",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-27",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883131"
     },

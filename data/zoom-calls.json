@@ -1,10 +1,10 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T12:31:02Z",
-  "totaalInbound": 10,
-  "totaalGemist": 7,
+  "generated_at": "2026-10-27T12:40:47Z",
+  "totaalInbound": 11,
+  "totaalGemist": 8,
   "terugGebeld": 0,
-  "nietTerugGebeld": 7,
+  "nietTerugGebeld": 8,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31655838877",
@@ -52,6 +52,13 @@
       "nummer": "+31618291519",
       "naam": "Onbekend",
       "tijd": "14:11",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31638540463",
+      "naam": "Onbekend",
+      "tijd": "14:39",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -103,6 +110,13 @@
       "nummer": "+31618291519",
       "naam": "Onbekend",
       "tijd": "14:11",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31638540463",
+      "naam": "Onbekend",
+      "tijd": "14:39",
       "callResult": "abandoned",
       "teruggebeld": false
     }
