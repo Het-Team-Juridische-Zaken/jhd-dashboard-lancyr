@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T13:40:40Z",
+  "generated_at": "2026-10-27T13:50:48Z",
   "tickets": [
     {
       "ticketNumber": "2906",
@@ -37,21 +37,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880260",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2909",
+      "tijd": "15:45",
+      "titel": "FW: 84202191 (Hueskes, W.H.) Motorschade - productiefout",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846086",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 3
+    "Email": 4
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
+    "nieuweVandaag": 4,
     "geslotenVandaag": 5,
-    "totaalOpen": 29,
-    "inDeWacht": 21,
+    "totaalOpen": 30,
+    "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 8,
+      "Open": 10,
       "Gesloten": 714,
-      "In de wacht": 21
+      "In de wacht": 20
     },
     "capBereikt": false
   },
@@ -252,7 +264,7 @@
       "ticketNumber": "2896",
       "titel": "Arbeidsrechtelijke bijstand bij ziekte",
       "klant": "K. Artan",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-23",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
     },
@@ -263,6 +275,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-26",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883054"
+    },
+    {
+      "ticketNumber": "2909",
+      "titel": "FW: 84202191 (Hueskes, W.H.) Motorschade - productiefout",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-27",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846086"
     },
     {
       "ticketNumber": "2908",
