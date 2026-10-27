@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T11:01:04Z",
+  "generated_at": "2026-10-27T11:10:40Z",
   "tickets": [
     {
       "ticketNumber": "2906",
@@ -13,19 +13,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880183",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2907",
+      "tijd": "13:01",
+      "titel": "FW: Juridische hulpvraag voor schadenummer: 2605882",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883131",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 1
+    "Email": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 0,
-    "totaalOpen": 32,
+    "totaalOpen": 33,
     "inDeWacht": 21,
     "statusBreakdown": {
-      "Open": 11,
+      "Open": 12,
       "In de wacht": 21,
       "Gesloten": 711
     },
@@ -279,6 +291,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-26",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883054"
+    },
+    {
+      "ticketNumber": "2907",
+      "titel": "FW: Juridische hulpvraag voor schadenummer: 2605882",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-27",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883131"
     },
     {
       "ticketNumber": "2906",

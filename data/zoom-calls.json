@@ -1,10 +1,10 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T11:01:06Z",
-  "totaalInbound": 7,
-  "totaalGemist": 4,
+  "generated_at": "2026-10-27T11:10:42Z",
+  "totaalInbound": 8,
+  "totaalGemist": 5,
   "terugGebeld": 0,
-  "nietTerugGebeld": 4,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31655838877",
@@ -31,6 +31,13 @@
       "nummer": "+31630848953",
       "naam": "Onbekend",
       "tijd": "12:45",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31611277634",
+      "naam": "Onbekend",
+      "tijd": "12:56",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -61,6 +68,13 @@
       "nummer": "+31630848953",
       "naam": "Onbekend",
       "tijd": "12:45",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31611277634",
+      "naam": "Onbekend",
+      "tijd": "12:56",
       "callResult": "overflowed",
       "teruggebeld": false
     }
