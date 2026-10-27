@@ -504,12 +504,12 @@
   "2026-10-27": {
     "capBereikt": false,
     "geslotenVandaag": 0,
-    "inDeWacht": 21,
+    "inDeWacht": 20,
     "nieuweVandaag": 2,
     "statusBreakdown": {
       "Gesloten": 709,
-      "In de wacht": 21,
-      "Open": 12
+      "In de wacht": 20,
+      "Open": 13
     },
     "totaalOpen": 33
   }
