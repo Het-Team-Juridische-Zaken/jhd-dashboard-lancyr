@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T09:50:42Z",
+  "generated_at": "2026-10-27T10:01:00Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -234,6 +234,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014875001"
     },
     {
+      "ticketNumber": "2901",
+      "titel": "VSO check",
+      "klant": "J.M. Melis",
+      "status": "Open",
+      "aangemaakt": "2026-10-26",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014896025"
+    },
+    {
       "ticketNumber": "2904",
       "titel": "FW: 84185540 (Boshuis-Cordang, M.L.): terugbel verzoek / terugbel afspraak maken",
       "klant": "De juridische helpdesk",
@@ -256,14 +264,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-26",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883054"
-    },
-    {
-      "ticketNumber": "2901",
-      "titel": "VSO check",
-      "klant": "J.M. Melis",
-      "status": "Open",
-      "aangemaakt": "2026-10-26",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014896025"
     }
   ]
 }
