@@ -6606,12 +6606,19 @@
         "nummer": "+31655838877",
         "teruggebeld": false,
         "tijd": "10:02"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31615861440",
+        "teruggebeld": false,
+        "tijd": "10:07"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-27",
-    "generated_at": "2026-10-27T08:10:39Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-10-27T08:20:54Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -6619,10 +6626,17 @@
         "nummer": "+31655838877",
         "teruggebeld": false,
         "tijd": "10:02"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31615861440",
+        "teruggebeld": false,
+        "tijd": "10:07"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 1
+    "totaalGemist": 2,
+    "totaalInbound": 2
   }
 }
