@@ -6768,14 +6768,14 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 1,
-        "gesprekstijdSec": 700,
-        "uitgaand": 3
+        "gesprekstijdSec": 1129,
+        "uitgaand": 4
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-28",
-    "generated_at": "2026-10-28T09:01:03Z",
+    "generated_at": "2026-10-28T09:10:44Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,

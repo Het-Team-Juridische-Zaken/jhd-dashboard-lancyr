@@ -1,17 +1,17 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T09:01:02Z",
+  "generated_at": "2026-10-28T09:10:43Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 1,
-    "totaalOpen": 32,
+    "geslotenVandaag": 2,
+    "totaalOpen": 31,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 12,
-      "Gesloten": 715,
+      "Gesloten": 716,
+      "Open": 11,
       "In de wacht": 20
     },
     "capBereikt": false
@@ -208,14 +208,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-21",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014789060"
-    },
-    {
-      "ticketNumber": "2903",
-      "titel": "FW: 84189177 (Stijnen, P.): 5607-3264947 Rechtszekerheid Lancyr Rechtsbijstand Particulier",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-26",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883054"
     },
     {
       "ticketNumber": "2912",
