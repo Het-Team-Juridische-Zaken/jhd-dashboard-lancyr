@@ -6767,19 +6767,49 @@
   "2026-10-28": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 4,
-        "gesprekstijdSec": 1951,
+        "beantwoord": 5,
+        "gesprekstijdSec": 2177,
         "uitgaand": 12
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612131962",
+        "teruggebeld": false,
+        "tijd": "13:38"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31684843177",
+        "teruggebeld": false,
+        "tijd": "13:38"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-28",
-    "generated_at": "2026-10-28T11:40:47Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-10-28T11:50:41Z",
+    "nietTerugGebeld": 2,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612131962",
+        "teruggebeld": false,
+        "tijd": "13:38"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31684843177",
+        "teruggebeld": false,
+        "tijd": "13:38"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 4
+    "totaalGemist": 2,
+    "totaalInbound": 7
   }
 }
