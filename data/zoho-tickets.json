@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T14:50:47Z",
+  "generated_at": "2026-10-28T15:01:10Z",
   "tickets": [
     {
       "ticketNumber": "2913",
@@ -34,13 +34,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 2,
-    "geslotenVandaag": 6,
-    "totaalOpen": 29,
+    "geslotenVandaag": 7,
+    "totaalOpen": 28,
     "inDeWacht": 21,
     "statusBreakdown": {
-      "Gesloten": 719,
+      "Gesloten": 720,
       "In de wacht": 21,
-      "Open": 8
+      "Open": 7
     },
     "capBereikt": false
   },
@@ -212,14 +212,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-21",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
-    },
-    {
-      "ticketNumber": "2890",
-      "titel": "HSCH2606127 Nieuw dossier ",
-      "klant": "Tim Arga",
-      "status": "Open",
-      "aangemaakt": "2026-10-21",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014789060"
     },
     {
       "ticketNumber": "2908",
