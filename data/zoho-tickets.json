@@ -1,18 +1,18 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T09:30:51Z",
+  "generated_at": "2026-10-28T09:40:48Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 3,
-    "totaalOpen": 30,
+    "geslotenVandaag": 4,
+    "totaalOpen": 29,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 10,
+      "Gesloten": 718,
       "In de wacht": 20,
-      "Gesloten": 717
+      "Open": 9
     },
     "capBereikt": false
   },
@@ -200,14 +200,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-21",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014789060"
-    },
-    {
-      "ticketNumber": "2906",
-      "titel": "Geschil hondenverkoop: terugbetaling en juridische stappen",
-      "klant": "M.S. Eveleens",
-      "status": "Open",
-      "aangemaakt": "2026-10-27",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880183"
     },
     {
       "ticketNumber": "2912",
