@@ -1,30 +1,22 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T09:20:43Z",
+  "generated_at": "2026-10-28T09:30:51Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 2,
-    "totaalOpen": 31,
+    "geslotenVandaag": 3,
+    "totaalOpen": 30,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 11,
+      "Open": 10,
       "In de wacht": 20,
-      "Gesloten": 716
+      "Gesloten": 717
     },
     "capBereikt": false
   },
   "openTickets": [
-    {
-      "ticketNumber": "136",
-      "titel": "Brandschade vakantieappartement Texel en VVE-geschil met Annemarieke",
-      "klant": "A.M.W. vanVlodrop",
-      "status": "Open",
-      "aangemaakt": "2025-03-13",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000003420678"
-    },
     {
       "ticketNumber": "1787",
       "titel": "Verkeerd aangelegde internetkabel",
@@ -197,7 +189,7 @@
       "ticketNumber": "2889",
       "titel": "FW: 84195328 (Volp, C.K.N.): Rechtsbijstandverzekering",
       "klant": "De juridische helpdesk",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-21",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
     },
@@ -213,7 +205,7 @@
       "ticketNumber": "2906",
       "titel": "Geschil hondenverkoop: terugbetaling en juridische stappen",
       "klant": "M.S. Eveleens",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-27",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880183"
     },
