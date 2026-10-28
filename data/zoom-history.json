@@ -6835,12 +6835,19 @@
         "nummer": "+31641717606",
         "teruggebeld": false,
         "tijd": "16:33"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31684310613",
+        "teruggebeld": false,
+        "tijd": "18:10"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-28",
-    "generated_at": "2026-10-28T16:10:44Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-10-28T16:20:45Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6876,10 +6883,17 @@
         "nummer": "+31641717606",
         "teruggebeld": false,
         "tijd": "16:33"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31684310613",
+        "teruggebeld": false,
+        "tijd": "18:10"
       }
     ],
     "terugGebeld": 4,
-    "totaalGemist": 9,
-    "totaalInbound": 15
+    "totaalGemist": 10,
+    "totaalInbound": 16
   }
 }

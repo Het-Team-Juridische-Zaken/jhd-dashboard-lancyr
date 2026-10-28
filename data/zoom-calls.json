@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T16:10:44Z",
-  "totaalInbound": 15,
-  "totaalGemist": 9,
+  "generated_at": "2026-10-28T16:20:45Z",
+  "totaalInbound": 16,
+  "totaalGemist": 10,
   "terugGebeld": 4,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31612131962",
@@ -39,6 +39,13 @@
       "naam": "Onbekend",
       "tijd": "16:33",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31684310613",
+      "naam": "Onbekend",
+      "tijd": "18:10",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -104,6 +111,13 @@
       "naam": "Onbekend",
       "tijd": "16:33",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31684310613",
+      "naam": "Onbekend",
+      "tijd": "18:10",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
