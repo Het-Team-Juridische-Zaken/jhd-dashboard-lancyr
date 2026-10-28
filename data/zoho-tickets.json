@@ -1,18 +1,33 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T11:50:40Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-10-28T12:01:07Z",
+  "tickets": [
+    {
+      "ticketNumber": "2913",
+      "tijd": "13:55",
+      "titel": "FW: 84217114 (Carrilho, R.A.): Verzoek om spoedadvies – intrekking leaseauto door werkgever (relatienummer 84217114)",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014947003",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Email": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 4,
-    "totaalOpen": 29,
+    "totaalOpen": 30,
     "inDeWacht": 21,
     "statusBreakdown": {
+      "Open": 9,
       "In de wacht": 21,
-      "Gesloten": 717,
-      "Open": 8
+      "Gesloten": 717
     },
     "capBereikt": false
   },
@@ -248,6 +263,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-27",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883131"
+    },
+    {
+      "ticketNumber": "2913",
+      "titel": "FW: 84217114 (Carrilho, R.A.): Verzoek om spoedadvies – intrekking leaseauto door werkgever (relatienummer 84217114)",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-28",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014947003"
     }
   ]
 }
