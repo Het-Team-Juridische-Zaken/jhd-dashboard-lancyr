@@ -6768,8 +6768,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 5,
-        "gesprekstijdSec": 2177,
-        "uitgaand": 12
+        "gesprekstijdSec": 2536,
+        "uitgaand": 14
       }
     },
     "alleGemistNummers": [
@@ -6812,21 +6812,35 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31623228438",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "16:07"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31641717606",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "16:28"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31641717606",
+        "teruggebeld": true,
+        "tijd": "16:31"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31641717606",
+        "teruggebeld": false,
+        "tijd": "16:33"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-28",
-    "generated_at": "2026-10-28T14:31:01Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-10-28T14:40:51Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6866,20 +6880,13 @@
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
-        "nummer": "+31623228438",
-        "teruggebeld": false,
-        "tijd": "16:07"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
         "nummer": "+31641717606",
         "teruggebeld": false,
-        "tijd": "16:28"
+        "tijd": "16:33"
       }
     ],
-    "terugGebeld": 0,
-    "totaalGemist": 7,
-    "totaalInbound": 12
+    "terugGebeld": 3,
+    "totaalGemist": 9,
+    "totaalInbound": 14
   }
 }
