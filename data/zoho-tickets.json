@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T09:10:43Z",
+  "generated_at": "2026-10-28T09:20:43Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -10,9 +10,9 @@
     "totaalOpen": 31,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Gesloten": 716,
       "Open": 11,
-      "In de wacht": 20
+      "In de wacht": 20,
+      "Gesloten": 716
     },
     "capBereikt": false
   },
@@ -21,7 +21,7 @@
       "ticketNumber": "136",
       "titel": "Brandschade vakantieappartement Texel en VVE-geschil met Annemarieke",
       "klant": "A.M.W. vanVlodrop",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2025-03-13",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000003420678"
     },
@@ -210,6 +210,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014789060"
     },
     {
+      "ticketNumber": "2906",
+      "titel": "Geschil hondenverkoop: terugbetaling en juridische stappen",
+      "klant": "M.S. Eveleens",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-27",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880183"
+    },
+    {
       "ticketNumber": "2912",
       "titel": "FW: 84231791 (Hendriks, I.M.): SPOED – Aanvraag juridische bijstand conflict (Waadi art. 9a?) / Startdatum 02-11-2026 en boetedreiging",
       "klant": "De juridische helpdesk",
@@ -256,14 +264,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-27",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883131"
-    },
-    {
-      "ticketNumber": "2906",
-      "titel": "FW: Bel afspraak: relatienummer 84183271",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-27",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880183"
     }
   ]
 }
