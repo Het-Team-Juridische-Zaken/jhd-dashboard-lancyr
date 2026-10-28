@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T08:50:55Z",
+  "generated_at": "2026-10-28T09:01:02Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -10,8 +10,8 @@
     "totaalOpen": 32,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Gesloten": 715,
       "Open": 12,
+      "Gesloten": 715,
       "In de wacht": 20
     },
     "capBereikt": false
@@ -194,20 +194,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060"
     },
     {
-      "ticketNumber": "2890",
-      "titel": "HSCH2606127 Nieuw dossier ",
-      "klant": "Tim Arga",
-      "status": "Open",
-      "aangemaakt": "2026-10-21",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014789060"
-    },
-    {
       "ticketNumber": "2889",
       "titel": "FW: 84195328 (Volp, C.K.N.): Rechtsbijstandverzekering",
       "klant": "De juridische helpdesk",
       "status": "Open",
       "aangemaakt": "2026-10-21",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
+    },
+    {
+      "ticketNumber": "2890",
+      "titel": "HSCH2606127 Nieuw dossier ",
+      "klant": "Tim Arga",
+      "status": "Open",
+      "aangemaakt": "2026-10-21",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014789060"
     },
     {
       "ticketNumber": "2903",
