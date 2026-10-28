@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T15:40:54Z",
-  "totaalInbound": 14,
+  "generated_at": "2026-10-28T15:50:51Z",
+  "totaalInbound": 15,
   "totaalGemist": 9,
-  "terugGebeld": 3,
-  "nietTerugGebeld": 6,
+  "terugGebeld": 4,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31612131962",
@@ -25,13 +25,6 @@
       "naam": "Onbekend",
       "tijd": "14:04",
       "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31684310613",
-      "naam": "Onbekend",
-      "tijd": "14:26",
-      "callResult": "overflowed",
       "teruggebeld": false
     },
     {
@@ -76,7 +69,7 @@
       "naam": "Onbekend",
       "tijd": "14:26",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31657524667",
@@ -116,9 +109,9 @@
   ],
   "agenten": {
     "Leyla Pereira": {
-      "beantwoord": 5,
-      "uitgaand": 15,
-      "gesprekstijdSec": 2542
+      "beantwoord": 6,
+      "uitgaand": 17,
+      "gesprekstijdSec": 2846
     }
   },
   "beantwoordZonderAgent": 0

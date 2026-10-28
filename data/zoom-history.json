@@ -6767,9 +6767,9 @@
   "2026-10-28": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 5,
-        "gesprekstijdSec": 2542,
-        "uitgaand": 15
+        "beantwoord": 6,
+        "gesprekstijdSec": 2846,
+        "uitgaand": 17
       }
     },
     "alleGemistNummers": [
@@ -6798,7 +6798,7 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31684310613",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "14:26"
       },
       {
@@ -6839,8 +6839,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-28",
-    "generated_at": "2026-10-28T15:40:54Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-10-28T15:50:51Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6866,13 +6866,6 @@
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
-        "nummer": "+31684310613",
-        "teruggebeld": false,
-        "tijd": "14:26"
-      },
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
         "nummer": "+31657524667",
         "teruggebeld": false,
         "tijd": "15:48"
@@ -6885,8 +6878,8 @@
         "tijd": "16:33"
       }
     ],
-    "terugGebeld": 3,
+    "terugGebeld": 4,
     "totaalGemist": 9,
-    "totaalInbound": 14
+    "totaalInbound": 15
   }
 }
