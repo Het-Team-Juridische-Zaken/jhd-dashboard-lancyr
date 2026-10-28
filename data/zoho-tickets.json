@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T14:40:47Z",
+  "generated_at": "2026-10-28T14:50:47Z",
   "tickets": [
     {
       "ticketNumber": "2913",
@@ -13,19 +13,32 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014947003",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2914",
+      "tijd": "16:44",
+      "titel": "Audi-garantie en schadeclaim – eerste contact met garage",
+      "klant": "E.J. Maalderink",
+      "status": "Gesloten",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014955001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 1
+    "Email": 1,
+    "Phone": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
-    "geslotenVandaag": 5,
+    "nieuweVandaag": 2,
+    "geslotenVandaag": 6,
     "totaalOpen": 29,
     "inDeWacht": 21,
     "statusBreakdown": {
-      "Gesloten": 718,
+      "Gesloten": 719,
       "In de wacht": 21,
       "Open": 8
     },
