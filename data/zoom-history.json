@@ -6793,12 +6793,19 @@
         "nummer": "+31638302030",
         "teruggebeld": false,
         "tijd": "14:04"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31684310613",
+        "teruggebeld": false,
+        "tijd": "14:26"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-28",
-    "generated_at": "2026-10-28T12:30:58Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-28T12:40:46Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6820,10 +6827,17 @@
         "nummer": "+31638302030",
         "teruggebeld": false,
         "tijd": "14:04"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31684310613",
+        "teruggebeld": false,
+        "tijd": "14:26"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 8
+    "totaalGemist": 4,
+    "totaalInbound": 9
   }
 }
