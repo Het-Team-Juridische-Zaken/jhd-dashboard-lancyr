@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T14:10:51Z",
-  "totaalInbound": 10,
-  "totaalGemist": 5,
+  "generated_at": "2026-10-28T14:20:44Z",
+  "totaalInbound": 11,
+  "totaalGemist": 6,
   "terugGebeld": 0,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31612131962",
@@ -38,6 +38,13 @@
       "nummer": "+31657524667",
       "naam": "Onbekend",
       "tijd": "15:48",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31623228438",
+      "naam": "Onbekend",
+      "tijd": "16:07",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -75,6 +82,13 @@
       "nummer": "+31657524667",
       "naam": "Onbekend",
       "tijd": "15:48",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31623228438",
+      "naam": "Onbekend",
+      "tijd": "16:07",
       "callResult": "overflowed",
       "teruggebeld": false
     }
