@@ -6800,12 +6800,19 @@
         "nummer": "+31684310613",
         "teruggebeld": false,
         "tijd": "14:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31657524667",
+        "teruggebeld": false,
+        "tijd": "15:48"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-28",
-    "generated_at": "2026-10-28T13:50:46Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-28T14:01:11Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6834,10 +6841,17 @@
         "nummer": "+31684310613",
         "teruggebeld": false,
         "tijd": "14:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31657524667",
+        "teruggebeld": false,
+        "tijd": "15:48"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 9
+    "totaalGemist": 5,
+    "totaalInbound": 10
   }
 }
