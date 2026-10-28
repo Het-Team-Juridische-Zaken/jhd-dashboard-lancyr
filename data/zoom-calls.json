@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T14:20:44Z",
-  "totaalInbound": 11,
-  "totaalGemist": 6,
+  "generated_at": "2026-10-28T14:31:01Z",
+  "totaalInbound": 12,
+  "totaalGemist": 7,
   "terugGebeld": 0,
-  "nietTerugGebeld": 6,
+  "nietTerugGebeld": 7,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31612131962",
@@ -46,6 +46,13 @@
       "naam": "Onbekend",
       "tijd": "16:07",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31641717606",
+      "naam": "Onbekend",
+      "tijd": "16:28",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -90,6 +97,13 @@
       "naam": "Onbekend",
       "tijd": "16:07",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31641717606",
+      "naam": "Onbekend",
+      "tijd": "16:28",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
