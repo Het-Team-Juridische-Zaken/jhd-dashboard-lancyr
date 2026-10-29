@@ -29,10 +29,10 @@
       "kleur": "#6b8f71"
     }
   ],
-  "pagesUrl": "https://lancyrjhd.github.io/dagelijks-overzicht/",
+  "pagesUrl": "https://het-team-juridische-zaken.github.io/jhd-dashboard-lancyr/",
   "repo": {
-    "owner": "LancyrJHD",
-    "naam": "dagelijks-overzicht"
+    "owner": "Het-Team-Juridische-Zaken",
+    "naam": "jhd-dashboard-lancyr"
   },
   "supabase": {
     "url": "https://xqnektwpnnbwirmdidbd.supabase.co",
