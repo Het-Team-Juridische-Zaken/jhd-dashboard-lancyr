@@ -6946,12 +6946,26 @@
         "nummer": "+31611773610",
         "teruggebeld": false,
         "tijd": "14:59"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640412490",
+        "teruggebeld": false,
+        "tijd": "15:52"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640412490",
+        "teruggebeld": false,
+        "tijd": "16:00"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-29",
-    "generated_at": "2026-10-29T13:49:01Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-10-29T14:14:24Z",
+    "nietTerugGebeld": 8,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6994,10 +7008,24 @@
         "nummer": "+31611773610",
         "teruggebeld": false,
         "tijd": "14:59"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640412490",
+        "teruggebeld": false,
+        "tijd": "15:52"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640412490",
+        "teruggebeld": false,
+        "tijd": "16:00"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 12
+    "totaalGemist": 8,
+    "totaalInbound": 14
   }
 }
