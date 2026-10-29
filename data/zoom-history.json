@@ -6925,12 +6925,19 @@
         "nummer": "+31611277634",
         "teruggebeld": false,
         "tijd": "11:44"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31622222942",
+        "teruggebeld": false,
+        "tijd": "13:15"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-29",
-    "generated_at": "2026-10-29T11:20:45Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-29T11:30:58Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6952,10 +6959,17 @@
         "nummer": "+31611277634",
         "teruggebeld": false,
         "tijd": "11:44"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31622222942",
+        "teruggebeld": false,
+        "tijd": "13:15"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 9
+    "totaalGemist": 4,
+    "totaalInbound": 10
   }
 }

@@ -1,10 +1,10 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T11:20:45Z",
-  "totaalInbound": 9,
-  "totaalGemist": 3,
+  "generated_at": "2026-10-29T11:30:58Z",
+  "totaalInbound": 10,
+  "totaalGemist": 4,
   "terugGebeld": 0,
-  "nietTerugGebeld": 3,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+46735394217",
@@ -24,6 +24,13 @@
       "nummer": "+31611277634",
       "naam": "Onbekend",
       "tijd": "11:44",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31622222942",
+      "naam": "Onbekend",
+      "tijd": "13:15",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -47,6 +54,13 @@
       "nummer": "+31611277634",
       "naam": "Onbekend",
       "tijd": "11:44",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31622222942",
+      "naam": "Onbekend",
+      "tijd": "13:15",
       "callResult": "overflowed",
       "teruggebeld": false
     }
