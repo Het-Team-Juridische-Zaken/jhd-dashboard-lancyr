@@ -1,40 +1,12 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T17:50:48Z",
-  "tickets": [
-    {
-      "ticketNumber": "2913",
-      "tijd": "13:55",
-      "titel": "Leaseauto beëindiging en functiewijziging",
-      "klant": "R.A. Carrilho",
-      "status": "Gesloten",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014947003",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2914",
-      "tijd": "16:44",
-      "titel": "Audi-garantie en schadeclaim – eerste contact met garage",
-      "klant": "E.J. Maalderink",
-      "status": "Gesloten",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014955001",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Email": 1,
-    "Phone": 1
-  },
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T06:01:00Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
-    "geslotenVandaag": 8,
+    "nieuweVandaag": 0,
+    "geslotenVandaag": 0,
     "totaalOpen": 27,
     "inDeWacht": 22,
     "statusBreakdown": {

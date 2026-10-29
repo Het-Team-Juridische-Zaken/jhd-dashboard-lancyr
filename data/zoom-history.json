@@ -6895,5 +6895,17 @@
     "terugGebeld": 4,
     "totaalGemist": 10,
     "totaalInbound": 16
+  },
+  "2026-10-29": {
+    "agenten": {},
+    "alleGemistNummers": [],
+    "beantwoordZonderAgent": 0,
+    "date": "2026-10-29",
+    "generated_at": "2026-10-29T06:01:00Z",
+    "nietTerugGebeld": 0,
+    "nietTerugGebeldNummers": [],
+    "terugGebeld": 0,
+    "totaalGemist": 0,
+    "totaalInbound": 0
   }
 }
