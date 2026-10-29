@@ -6932,12 +6932,19 @@
         "nummer": "+31622222942",
         "teruggebeld": false,
         "tijd": "13:15"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31617869024",
+        "teruggebeld": false,
+        "tijd": "14:13"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-29",
-    "generated_at": "2026-10-29T12:10:50Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-29T12:20:43Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6966,10 +6973,17 @@
         "nummer": "+31622222942",
         "teruggebeld": false,
         "tijd": "13:15"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31617869024",
+        "teruggebeld": false,
+        "tijd": "14:13"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 10
+    "totaalGemist": 5,
+    "totaalInbound": 11
   }
 }
