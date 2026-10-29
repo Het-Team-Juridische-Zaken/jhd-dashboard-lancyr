@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-12",
+  "kandidaten": 11,
+  "generated_at": "2026-10-29T14:55:14Z",
+  "drukte": "druk",
+  "gesprekken": 11,
+  "stats": {
+    "opgelost": 3,
+    "brandmeester": 6,
+    "afkoop": 0,
+    "terugbel": 0,
+    "geenDekking": 0,
+    "verkeerdNummer": 2
+  },
+  "score": 5.1,
+  "conversations": [
+    {
+      "tijd": "09:20",
+      "titel": "Concurrentiebeding na faillissement Axel met Brandmeester",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Ronald van Wezel belt over een concurrentie- en relatiebeding in zijn arbeidsovereenkomst na het faillissement van zijn werkgever Axel (sinds 11 augustus). De medewerker verifieert de beller via adresgegevens (postcode 4421 EV, huisnummer 8) en vindt hem in het systeem onder de polis van zijn vriendin. De medewerker geeft inhoudelijk advies dat bij faillissement weinig gewicht aan concurrentiebedingen wordt gehangen, maar verwijst de zaak vervolgens naar Brandmeester voor verdere begeleiding, wat correct is voor een arbeidsconflict.",
+      "tags": [
+        [
+          "tag-arbeidsrecht",
+          "Arbeidsrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": true
+    },
+    {
+      "tijd": "09:30",
+      "titel": "Ingebreken stelling tegen Lumex voor warmtepomp en zonnepanelen",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Mevrouw Bijlhout uit Borne heeft een rechtsbijstandsverzekering en heeft problemen met leverancier Lumex die warmtepompen en zonnepanelen niet levert en niet reageert op contact. De medewerker geeft concrete juridisch advies over het versturen van een ingebreken stelling met een termijn van veertien werkdagen, zonder concrete schadebedragen in de vordering te benoemen. De beller is niet geverifieerd in het systeem (geen Zoho-match), maar de medewerker geeft wel inhoudelijk juridisch advies.",
+      "tags": [
+        [
+          "tag-overig",
+          "Contractenrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-opgelost",
+        "Telefonisch opgelost"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "10:09",
+      "titel": "Autoverzekeringsvraag doorverwezen naar juiste afdeling",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Mevrouw Willem belde de juridische helpdesk met een vraag over autoverzekering (administratie rond stopzetting oude polis). De medewerker herkende dat dit een autoverzekeringsvraag is die niet onder juridische rechtsbijstand valt en verwees de beller correct door naar de autoverzekeringscallcenter (toets 3). De beller is niet geverifieerd en er is geen inhoudelijk juridisch advies gegeven.",
+      "tags": [
+        [
+          "tag-overig",
+          "Routering"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-verkeerd",
+        "Verkeerd nummer"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": true,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "10:46",
+      "titel": "Huurgeschil en flexibele huurpilot doorverwijzing naar Brandmeester",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller belt over een huurgeschil met vragen over een flexibele huurpilot. De medewerker beoordeelt dat de zaak te complex is voor telefonische behandeling en verwijst de beller door naar Brandmeester (rechtsbijstandsafdeling). De identiteit van de beller is niet expliciet geverifieerd in het gesprek (geen Zoho-match, geen naam/adres/polisnummer-controle), maar de medewerker geeft wel het advies dat de zaak onder de polis valt en dat Brandmeester binnen vijf werkdagen contact zal opnemen.",
+      "tags": [
+        [
+          "tag-huur",
+          "Huurrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "11:02",
+      "titel": "Letselschadezaak Kirti: advocaatwissel en vrije advocaatkeuze",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Kirti belt over een letselschadezaak van haar man (aangereden vorig jaar met hersenschudding), die via Lancyr naar Brandmeester is doorverwezen. Zij is ontevreden over de behandeling bij Brandmeester (lange wachttijden, wisselende juristen, geen contact) en wil overstappen naar een ander advocatenkantoor. De medewerker geeft haar inhoudelijk juridisch advies over de mogelijkheid van vrije advocaatkeuze: zij moet dit verzoeken bij Brandmeester, die vervolgens de dekking beoordeelt en een kostenplafond vaststelt, waarna zij kosten bij een ander advocaat kan maken en declareren. De beller is niet geverifieerd in het systeem.",
+      "tags": [
+        [
+          "tag-arbeidsrecht",
+          "Arbeidsrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-opgelost",
+        "Telefonisch opgelost"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "11:44",
+      "titel": "Reïntegratietraject: plan van aanpak en juridische positie",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller belt zonder verificatie in het systeem over een arbeidsconflict: reïntegratietraject na ziekte waarbij manager een plan van aanpak opstelt met onduidelijke gevolgen (spoor 1/2) zonder goede informatie. Medewerker geeft inhoudelijk juridisch advies over reïntegratieverplichtingen, de leidende rol van de bedrijfsarts, en het recht op informatie, en adviseert beller om schriftelijk (per mail) met werkgever in gesprek te gaan en indien nodig terug te bellen. Beller wordt niet geverifieerd maar krijgt wel advies; uitkomst is telefonisch opgelost met terugbelmogelijkheid.",
+      "tags": [
+        [
+          "tag-arbeidsrecht",
+          "Arbeidsrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-opgelost",
+        "Telefonisch opgelost"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "11:56",
+      "titel": "Mediation voorbereiding en rechtsbijstand met Brandmeester",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Verzekerde belt voor advies over begeleiding bij aanstaande mediation (27 oktober) naar aanleiding van arbeidsconflict en ziekteverzuim met arbo-begeleiding. Medewerker geeft inhoudelijk advies over mogelijke vaststellingsovereenkomsten en verwijst de verzekerde expliciet door naar Brandmeester voor rechtsbijstand en begeleiding bij de mediation. Identiteit is niet geverifieerd via naamcheck/adres/polisnummer in het transcript, maar e-mailadres wordt genoteerd en medewerker geeft aan dit in het systeem te hebben staan.",
+      "tags": [
+        [
+          "tag-arbeidsrecht",
+          "Arbeidsrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "14:58",
+      "titel": "Dakwerkzaamheden Van Steen: gebreken en onafgewerkte werkzaamheden met Henk en Wilma",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Henk en Wilma belden voor een geplande afspraak over dakwerkzaamheden van Van Steen Dakdekkers (ongeveer EUR 30.000). Het werk is naar hun mening gebrekkig uitgevoerd en deels onafgemaakt (slechte afwerkingen, losse shingles, onvolledige aansluitingen, niet-nagekomen afspraken). De identiteit van de bellers is NIET geverifieerd in het systeem. De medewerker heeft geen inhoudelijk juridisch advies gegeven, maar heeft de zaak direct doorverwezen naar Brandmeester (rechtsbijstand) voor verdere behandeling, met vermelding dat de bellers een eerder contact (advocaat Ilias Kadaar) hebben gehad.",
+      "tags": [
+        [
+          "tag-bouw",
+          "Bouwrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "15:41",
+      "titel": "Zonnepanelen schadeclaim en doorverwijzing naar Brandmeester",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller Saring van Poeien belt over een eerdere zaak waarbij zonnepanelen dakschade hebben veroorzaakt (lekkages, scheuren in plafond). De medewerker heeft de beller niet geverifieerd in het systeem en geen inhoudelijk juridisch advies gegeven, maar heeft de zaak direct doorverwezen naar Brandmeester (rechtsbijstandsverzekering) voor verdere behandeling, waarbij de beller binnen vijf werkdagen contact zal ontvangen.",
+      "tags": [
+        [
+          "tag-bouw",
+          "Bouwrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "16:02",
+      "titel": "Rechtsbijstandverzekering afsluiten via website",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller belt de juridische helpdesk met een vraag over het afsluiten van rechtsbijstandsverzekering via de website. De medewerker geeft geen inhoudelijk juridisch advies maar verwijst de beller door naar de website van Lancyr voor zelfservice. De beller is niet geverifieerd.",
+      "tags": [
+        [
+          "tag-overig",
+          "Routering"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-verkeerd",
+        "Verkeerd nummer"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": true,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "16:37",
+      "titel": "Rabobank/Klimaatroute isolatieregeling – termijnverwarring en geschilbemiddeling",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller heeft een geschil met Rabobank/Klimaatroute over termijnverwarring bij een isolatieregeling (EUR 1.000 subsidie). Er zijn tegenstrijdige informatie gegeven: eerst deadline 31 december, daarna twee jaar vanaf inspectiedatum (15 oktober) versus rapportdatum (24 oktober). De medewerker heeft de beller niet geverifieerd (geen Zoho-match, geen naam/adres/polisnummer gecontroleerd) maar heeft wel inhoudelijk advies gegeven door het geschil als ingewikkeld in te schatten en daarom door te verwijzen naar Brandmeester voor verdere rechtsbijstandsbehandeling.",
+      "tags": [
+        [
+          "tag-consument",
+          "Consumentenrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    }
+  ],
+  "acties": [],
+  "analyse": {
+    "goed": [
+      "09:20 Concurrentiebeding: identiteit correct geverifieerd via adresgegevens, inhoudelijk advies gegeven, passende doorverwijzing naar Brandmeester voor arbeidsconflict",
+      "10:09 Autoverzekering: medewerker herkende correct dat dit geen juridische zaak is en verwees door naar juiste afdeling (autoverzekeringscallcenter)",
+      "09:30 Lumex warmtepomp: concrete juridische aanwijzing gegeven (ingebreken stelling met veertien werkdagen termijn) passend voor contractueel geschil",
+      "11:44 Reïntegratietraject: inhoudelijk advies gegeven over reïntegratieverplichtingen en bedrijfsarts rol, met schriftelijk vervolgplan"
+    ],
+    "beter": [
+      "09:30 Lumex warmtepomp: KRITIEK – identiteit NIET geverifieerd in systeem, maar wel inhoudelijk juridisch advies gegeven. Dit schendt de basisnorm dat polis+identiteit altijd vooraf moet worden gecontroleerd voordat advies wordt gegeven",
+      "10:46 Huurgeschil: identiteit NIET geverifieerd, maar wel advies gegeven dat zaak onder polis valt. Medewerker diende eerst verificatie in Zoho uit te voeren voordat dekking kon worden bevestigd. Geen concrete deadline afgesproken voor Brandmeester-vervolgcontact (enkel 'vijf werkdagen')",
+      "11:02 Letselschadezaak Kirti: identiteit NIET geverifieerd, maar wel uitgebreid juridisch advies gegeven over vrije advocaatkeuze en kostenplafonds. Basisnorm verificatie vooraf niet nageleefd",
+      "11:56 Mediation voorbereiding: identiteit NIET geverifieerd (medewerker stelt alleen dat e-mailadres 'in het systeem staat'), maar wel inhoudelijk advies gegeven. Geen concrete deadline afgesproken voor Brandmeester-vervolgcontact",
+      "14:58 Dakwerkzaamheden Van Steen (EUR 30.000 schadezaak): identiteit NIET geverifieerd. Geen dekkingscontrole / franchise (EUR 250) vastgelegd voordat doorverwijzing. Medewerker had eerst verzekering moeten controleren en schadebedrag tegen franchise moeten toetsen",
+      "15:41 Zonnepanelen schadeclaim: identiteit NIET geverifieerd. Geen dekkingscontrole / franchise (EUR 250) vastgelegd voor dakschadeclaim. Geen concrete deadline afgesproken voor Brandmeester-vervolgcontact",
+      "16:37 Rabobank/Klimaatroute isolatie (EUR 1.000 subsidie): identiteit NIET geverifieerd, maar wel inhoudelijk advies gegeven over geschilbemiddeling. Basisnorm verificatie vooraf niet nageleefd. Geen concrete deadline afgesproken voor Brandmeester-vervolgcontact",
+      "Herhaalcontactrisico: mevrouw Bijlhout (09:30 Lumex) niet geverifieerd maar advies gegeven – risico dat zij opnieuw belt zonder controle in systeem"
+    ]
+  },
+  "verkeerdVerbonden": {
+    "aantal": 2,
+    "percentage": 18.2
+  },
+  "rechtsbijstandVerwijzingen": 6,
+  "categorieen": [
+    [
+      "Arbeidsrecht",
+      4
+    ],
+    [
+      "Routering",
+      2
+    ],
+    [
+      "Bouwrecht",
+      2
+    ],
+    [
+      "Contractenrecht",
+      1
+    ],
+    [
+      "Huurrecht",
+      1
+    ],
+    [
+      "Consumentenrecht",
+      1
+    ]
+  ]
+}

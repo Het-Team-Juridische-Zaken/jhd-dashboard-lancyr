@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-14",
+  "kandidaten": 5,
+  "generated_at": "2026-10-29T14:53:54Z",
+  "drukte": "matig",
+  "gesprekken": 5,
+  "stats": {
+    "opgelost": 0,
+    "brandmeester": 2,
+    "afkoop": 0,
+    "terugbel": 1,
+    "geenDekking": 0,
+    "verkeerdNummer": 2
+  },
+  "score": 5.1,
+  "conversations": [
+    {
+      "tijd": "10:46",
+      "titel": "Werkverzekeringsopzegging van klant",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller belt naar juridische helpdesk maar heeft een verzekeringadministratieve vraag (opzegging werkverzekeringsbeleid). De medewerker geeft instructies om zelf online op te zeggen via de website. De beller is niet geverifieerd in het systeem en er is geen inhoudelijk juridisch advies gegeven.",
+      "tags": [
+        [
+          "tag-overig",
+          "Routering"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-verkeerd",
+        "Verkeerd nummer"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": true,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "10:52",
+      "titel": "Letselschadeclaim en smartegeld via ANWB-verzekering",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller informeert naar afhandeling van letselschadeclaim en smartegeldvergoeding via ANWB-verzekering na ongeval met zijn vrouw. Identiteit is niet geverifieerd (geen Zoho-match, geen naam/adres/polisnummer bevestigd in transcript). Medewerker geeft inhoudelijk advies: eerst informatie inwinnen bij ANWB zelf, polis-voorwaarden raadplegen, en eventueel terugbellen als ANWB weigert; specifiek advies om smartegeld-aanvraag uit te stellen totdat reeds toegezegde behandeling (bijv. fysiotherapie) is afgerond.",
+      "tags": [
+        [
+          "tag-consument",
+          "Consumentenrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-terugbel",
+        "Terugbellen"
+      ],
+      "terugbel": true,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "11:09",
+      "titel": "Reisbijstandsverzekering polis-informatie met Astrid van Leeuwen",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Astrid van Leeuwen van ARA Rechtsbijstand belt met vragen over polis-informatie van een reisbijstandsverzekering (ARGS-bijstand uitgebreid 2026, polisnummer 5607818953). De beller is niet geverifieerd via het Lancyr-systeem (geen Zoho-match, geen identiteitscontrole in het gesprek). De medewerker gaf geen inhoudelijk advies maar stuurde de vraag door naar een collega met verzoek om polis-informatie per e-mail te versturen.",
+      "tags": [
+        [
+          "tag-overig",
+          "Routering"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-verkeerd",
+        "Verkeerd nummer"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": true,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "11:20",
+      "titel": "Claimhulp puppy en doorverwijzing naar Brandmeester",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller Joep Saton belt over een claimprocedure voor veterinaire kosten (operatie puppy met genetisch defect). De medewerker verifieerde de beller via postcode en naam (Annebergs) en verwees hem expliciet door naar Brandmeester (rechtsbijstandspartner) voor verdere begeleiding en aansprakelijkstelling van de fokker. Geen inhoudelijk juridisch advies gegeven door de medewerker zelf.",
+      "tags": [
+        [
+          "tag-consument",
+          "Consumentenrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": true
+    },
+    {
+      "tijd": "11:24",
+      "titel": "Huurder niet-betaling bedrijfspand en doorverwijzing naar Brandmeester",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller (Mr. Mert) belt met een vraag over een huurder die niet betaalt voor een bedrijfspand. De medewerker verifieert de beller via postcode (3136 CZ) en huisnummer (23) en constateert dat de beller particulier verzekerd is, niet voor zakelijke zaken. De medewerker geeft inhoudelijk advies over de contractverplichting en verwijst de beller vervolgens door naar Brandmeester (rechtsbijstand) voor verdere juridische bijstand.",
+      "tags": [
+        [
+          "tag-huur",
+          "Huurrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": true
+    }
+  ],
+  "acties": [],
+  "analyse": {
+    "goed": [
+      "10:46 Werkverzekeringsopzegging: Medewerker herkende correct dat dit een administratieve vraag was buiten het juridische domein en gaf geen onjuist advies.",
+      "11:20 Puppy-claim: Medewerker verifieerde identiteit correct via postcode en naam en verwees passend door naar Brandmeester zonder onnodig advies.",
+      "11:24 Huurder niet-betaling: Medewerker verifieerde identiteit via postcode en huisnummer, constateerde correct dat zakelijke zaken buiten de particuliere dekking vielen, en verwees door naar Brandmeester."
+    ],
+    "beter": [
+      "10:52 Letselschadeclaim ANWB: KRITIEK - Identiteit is niet geverifieerd (geen Zoho-match, geen bevestiging naam/adres/polisnummer in transcript) maar medewerker gaf wel inhoudelijk juridisch advies (strategie smartegeld, timing, polis-voorwaarden). Dit schoendt de basisnorm: polis+identiteit altijd verifiëren VOORDAT advies wordt gegeven.",
+      "11:09 Reisbijstandsverzekering: Hoewel medewerker geen advies gaf, was doorverwijzing zonder identiteitsverificatie ook niet ideaal. Bij volgende contact dient beller te worden geverifieerd.",
+      "Geen dekkingscontrole (franchise EUR 250) vastgelegd in 10:52 letselschadeclaim ondanks concreet schadebedrag (ongeval, fysiotherapie, smartegeld) – franchiseclarifcatie ontbreekt."
+    ]
+  },
+  "verkeerdVerbonden": {
+    "aantal": 2,
+    "percentage": 40.0
+  },
+  "rechtsbijstandVerwijzingen": 2,
+  "categorieen": [
+    [
+      "Routering",
+      2
+    ],
+    [
+      "Consumentenrecht",
+      2
+    ],
+    [
+      "Huurrecht",
+      1
+    ]
+  ]
+}
