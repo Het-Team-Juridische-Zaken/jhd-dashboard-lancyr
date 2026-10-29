@@ -1,10 +1,10 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T13:01:09Z",
-  "totaalInbound": 11,
-  "totaalGemist": 5,
+  "generated_at": "2026-10-29T13:10:49Z",
+  "totaalInbound": 12,
+  "totaalGemist": 6,
   "terugGebeld": 0,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+46735394217",
@@ -38,6 +38,13 @@
       "nummer": "+31617869024",
       "naam": "Onbekend",
       "tijd": "14:13",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31611773610",
+      "naam": "Onbekend",
+      "tijd": "14:59",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -75,6 +82,13 @@
       "nummer": "+31617869024",
       "naam": "Onbekend",
       "tijd": "14:13",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31611773610",
+      "naam": "Onbekend",
+      "tijd": "14:59",
       "callResult": "abandoned",
       "teruggebeld": false
     }

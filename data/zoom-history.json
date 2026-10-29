@@ -6939,12 +6939,19 @@
         "nummer": "+31617869024",
         "teruggebeld": false,
         "tijd": "14:13"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31611773610",
+        "teruggebeld": false,
+        "tijd": "14:59"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-29",
-    "generated_at": "2026-10-29T13:01:09Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-10-29T13:10:49Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6980,10 +6987,17 @@
         "nummer": "+31617869024",
         "teruggebeld": false,
         "tijd": "14:13"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31611773610",
+        "teruggebeld": false,
+        "tijd": "14:59"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 5,
-    "totaalInbound": 11
+    "totaalGemist": 6,
+    "totaalInbound": 12
   }
 }
