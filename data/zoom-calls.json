@@ -1,16 +1,23 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T08:20:45Z",
-  "totaalInbound": 1,
-  "totaalGemist": 1,
+  "generated_at": "2026-10-29T08:30:56Z",
+  "totaalInbound": 3,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+46735394217",
       "naam": "Onbekend",
       "tijd": "10:04",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31641666122",
+      "naam": "Onbekend",
+      "tijd": "10:29",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -21,13 +28,20 @@
       "tijd": "10:04",
       "callResult": "overflowed",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31641666122",
+      "naam": "Onbekend",
+      "tijd": "10:29",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 0,
+      "beantwoord": 1,
       "uitgaand": 1,
-      "gesprekstijdSec": 261
+      "gesprekstijdSec": 370
     }
   },
   "beantwoordZonderAgent": 0

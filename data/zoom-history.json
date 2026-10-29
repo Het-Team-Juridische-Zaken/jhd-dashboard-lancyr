@@ -6899,8 +6899,8 @@
   "2026-10-29": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 0,
-        "gesprekstijdSec": 261,
+        "beantwoord": 1,
+        "gesprekstijdSec": 370,
         "uitgaand": 1
       }
     },
@@ -6911,12 +6911,19 @@
         "nummer": "+46735394217",
         "teruggebeld": false,
         "tijd": "10:04"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31641666122",
+        "teruggebeld": false,
+        "tijd": "10:29"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-29",
-    "generated_at": "2026-10-29T08:20:45Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-10-29T08:30:56Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6924,10 +6931,17 @@
         "nummer": "+46735394217",
         "teruggebeld": false,
         "tijd": "10:04"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31641666122",
+        "teruggebeld": false,
+        "tijd": "10:29"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 1
+    "totaalGemist": 2,
+    "totaalInbound": 3
   }
 }
