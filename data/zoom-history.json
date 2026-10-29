@@ -6900,8 +6900,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 3,
-        "gesprekstijdSec": 723,
-        "uitgaand": 2
+        "gesprekstijdSec": 1259,
+        "uitgaand": 3
       }
     },
     "alleGemistNummers": [
@@ -6918,12 +6918,19 @@
         "nummer": "+31641666122",
         "teruggebeld": false,
         "tijd": "10:29"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31611277634",
+        "teruggebeld": false,
+        "tijd": "11:44"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-29",
-    "generated_at": "2026-10-29T09:50:42Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-10-29T10:01:00Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -6938,10 +6945,17 @@
         "nummer": "+31641666122",
         "teruggebeld": false,
         "tijd": "10:29"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31611277634",
+        "teruggebeld": false,
+        "tijd": "11:44"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 5
+    "totaalGemist": 3,
+    "totaalInbound": 6
   }
 }

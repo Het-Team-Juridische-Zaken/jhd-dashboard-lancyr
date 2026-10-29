@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T09:50:40Z",
+  "generated_at": "2026-10-29T10:00:58Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -10,8 +10,8 @@
     "totaalOpen": 27,
     "inDeWacht": 22,
     "statusBreakdown": {
-      "In de wacht": 22,
       "Open": 5,
+      "In de wacht": 22,
       "Gesloten": 721
     },
     "capBereikt": false
@@ -186,20 +186,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
     },
     {
-      "ticketNumber": "2908",
-      "titel": "Financieel geschil samenwoning zonder contract",
-      "klant": "P.H. deVries",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-27",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880260"
-    },
-    {
       "ticketNumber": "2912",
       "titel": "FW: 84231791 (Hendriks, I.M.): SPOED – Aanvraag juridische bijstand conflict (Waadi art. 9a?) / Startdatum 02-11-2026 en boetedreiging",
       "klant": "De juridische helpdesk",
       "status": "Open",
       "aangemaakt": "2026-10-27",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880315"
+    },
+    {
+      "ticketNumber": "2908",
+      "titel": "Financieel geschil samenwoning zonder contract",
+      "klant": "P.H. deVries",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-27",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880260"
     },
     {
       "ticketNumber": "2911",
