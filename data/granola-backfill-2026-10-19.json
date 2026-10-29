@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-29T14:45:46Z",
+  "drukte": "druk",
+  "gesprekken": 7,
+  "stats": {
+    "opgelost": 2,
+    "brandmeester": 3,
+    "afkoop": 0,
+    "terugbel": 1,
+    "geenDekking": 0,
+    "verkeerdNummer": 1
+  },
+  "score": 4.8,
+  "conversations": [
+    {
+      "tijd": "09:29",
+      "titel": "Wouter Hueskes en Dewi",
+      "personen": "Verzekerde: anoniem · Dewi Verver",
+      "samenvatting": "Wouter belt over een defecte motor in zijn Mazda (afgebroken bout in motorblok) en wil de reparatiekosten bij Mazda verhalen. De medewerker (Dewi) geeft inhoudelijk juridisch advies: het sterkste standpunt is aan te tonen dat dit een uitzonderlijke productiefout betreft via een deskundigerapport van de garage. Dewi adviseert Wouter om de garage om een schriftelijk oordeel te vragen, dit samen met foto's en diagnostierapport naar Mazda per mail te sturen met een reactietermijn van veertien dagen. Identiteitsverificatie heeft niet plaatsgevonden (geen Zoho-match, geen verificatiepoging in transcript).",
+      "tags": [
+        [
+          "tag-consument",
+          "Consumentenrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-opgelost",
+        "Telefonisch opgelost"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "10:00",
+      "titel": "J.A.A. Penninx en Dewi",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "J.A.A. Penninx belt volgens afspraak in over schadeverhaaldossier. De medewerker Davy (HTJZ) verwijst de zaak direct door naar Brandmeester, de samenwerkende partijjurist, zonder inhoudelijk juridisch advies te geven. Beller bevestigt dat rechtsbijstand in de polis is inbegrepen.",
+      "tags": [
+        [
+          "tag-overig",
+          "Schadeverhaalsrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "10:29",
+      "titel": "Femke Jonkman en Dewi",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller belt over autoproblemen met garantiebreuk; verkoper reageert niet op herstellingsverzoek. Medewerker geeft advies over documentatie (rapport) en verwijst naar Brandmeester voor verdere juridische bijstand bij kostenverhaal. Identiteit niet geverifieerd in systeem, maar inhoudelijk advies gegeven over procedure en rechtsbijstand.",
+      "tags": [
+        [
+          "tag-consument",
+          "Consumentenrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "11:52",
+      "titel": "Rechtsbijstandsverzekering dossier en adresverificatie met Kok",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "De beller (Kok) belt terug over een oude rechtsbijstandszaak uit 2021 die door DAS werd behandeld; de zaak werd gesloten en later heropend, maar DAS en Lancyr verwijzen elkaar door. De medewerker kan de beller niet verifiëren in het systeem (postcode 3941DV en polisnummer 5607-3290-619 leveren geen match op), stelt geen inhoudelijk advies vast mogelijk, en belooft intern na te vragen wat mogelijk is; vervolgcontact per e-mail.",
+      "tags": [
+        [
+          "tag-overig",
+          "Rechtsbijstandsdossier"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-terugbel",
+        "Terugbellen"
+      ],
+      "terugbel": true,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "12:59",
+      "titel": "Harm Rohaan en Dewi",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller belt in op afspraak met vraag over aansprakelijkheid vorige eigenaar voor rioolprobleem (18 meter riool vervangen). Medewerker geeft inhoudelijk juridisch advies: eerst schriftelijk rapport van installateur opvragen, vervolgens vorige eigenaar per e-mail benaderen met 14 werkdagen responstermijn (wat hen automatisch in gebreke stelt), en eventueel later terugbellen bij conflict. Identiteit niet geverifieerd in transcript en geen Zoho-match.",
+      "tags": [
+        [
+          "tag-huur",
+          "Huurrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-opgelost",
+        "Telefonisch opgelost"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "14:31",
+      "titel": "Monique Oldenburg  en Dewi",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Monique Oldenburg belt met een terugbelafspraak over een persoonlijk juridisch geschil voortvloeiend uit een bedrijfsleningkwestie. Zij is niet geverifieerd in het systeem (geen Zoho-match, geen verificatiepoging in het transcript). De medewerker (Dewi) geeft geen inhoudelijk advies maar verwijst de zaak direct door naar Brandmeester (rechtsbijstandsafdeling) voor verdere behandeling, omdat de zaak complex is en documenten moeten worden ingekeken.",
+      "tags": [
+        [
+          "tag-overig",
+          "Contractgeschil / Persoonlijk juridisch geschil"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "15:45",
+      "titel": "Rechtsbijstandsverzekering voor werk: wachttijd en dekkingsvoorwaarden",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Een potentiële klant zonder huidige rechtsbijstandsverzekering belt met vragen over hoe de wachttijd (3 maanden) werkt bij rechtsbijstandsverzekering voor werk. De medewerker geeft uitleg dat conflicten ontstaan vóór afloop van de wachttijd niet gedekt zijn, maar daarna wel. De beller is niet geverifieerd als bestaande verzekerde en ontvangt enkel informatief advies over dekkingsvoorwaarden.",
+      "tags": [
+        [
+          "tag-arbeidsrecht",
+          "Arbeidsrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-verkeerd",
+        "Verkeerd nummer"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": true,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    }
+  ],
+  "acties": [],
+  "analyse": {
+    "goed": [
+      "09:29 Wouter Hueskes: Concreet juridisch advies gegeven met stappenplan (schriftelijk oordeel garage, foto's + rapport naar Mazda, 14-dagen reactietermijn)",
+      "10:00 J.A.A. Penninx: Correcte doorverwijzing naar Brandmeester voor schadeverhaaldossier; rechtsbijstand in polis bevestigd",
+      "11:52 Kok: Juist geweigerd advies te geven omdat verificatie in systeem mislukte; intern navraag beloofd met vervolgcontact per e-mail",
+      "14:31 Monique Oldenburg: Correct geen advies gegeven bij ontbrekende verificatie; rechtstreeks naar Brandmeester verwezen voor complexe zaak"
+    ],
+    "beter": [
+      "09:29 Wouter Hueskes: KRITIEK – Identiteit niet geverifieerd voordat inhoudelijk juridisch advies werd gegeven. Polis en identiteit moeten altijd eerst worden gecontroleerd",
+      "10:29 Femke Jonkman: KRITIEK – Identiteit niet geverifieerd voordat inhoudelijk advies over procedure en kostenverhaal werd gegeven. Kwaliteitsnorm polis+identiteit verificatie niet nageleefd",
+      "12:59 Harm Rohaan: KRITIEK – Identiteit niet geverifieerd voordat inhoudelijk juridisch advies werd gegeven (rapport opvragen, vorige eigenaar benaderen met 14 werkdagen). Verificatie ontbreekt",
+      "15:45 Rechtsbijstandsverzekering werk: Beller is potentiële klant zonder bestaande verzekering en geen verificatie vereist, maar uitkomst 'Verkocht nummer' suggereert dit een miskoppeling is – onduidelijk hoe dit gesprek in deze lijst terechtkwam",
+      "11:52 Kok: Vervolgcontact per e-mail afgesproken maar geen concrete deadline genoemd (bijv. 'binnen 3 werkdagen')"
+    ]
+  },
+  "verkeerdVerbonden": {
+    "aantal": 1,
+    "percentage": 14.3
+  },
+  "rechtsbijstandVerwijzingen": 3,
+  "categorieen": [
+    [
+      "Consumentenrecht",
+      2
+    ],
+    [
+      "Schadeverhaalsrecht",
+      1
+    ],
+    [
+      "Rechtsbijstandsdossier",
+      1
+    ],
+    [
+      "Huurrecht",
+      1
+    ],
+    [
+      "Contractgeschil / Persoonlijk juridisch geschil",
+      1
+    ],
+    [
+      "Arbeidsrecht",
+      1
+    ]
+  ]
+}

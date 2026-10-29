@@ -1,10 +1,10 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T14:40:42Z",
-  "totaalInbound": 14,
-  "totaalGemist": 8,
+  "generated_at": "2026-10-29T14:45:06Z",
+  "totaalInbound": 15,
+  "totaalGemist": 9,
   "terugGebeld": 0,
-  "nietTerugGebeld": 8,
+  "nietTerugGebeld": 9,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+46735394217",
@@ -59,6 +59,13 @@
       "nummer": "+31640412490",
       "naam": "Onbekend",
       "tijd": "16:00",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31613267119",
+      "naam": "Onbekend",
+      "tijd": "16:35",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -117,6 +124,13 @@
       "nummer": "+31640412490",
       "naam": "Onbekend",
       "tijd": "16:00",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31613267119",
+      "naam": "Onbekend",
+      "tijd": "16:35",
       "callResult": "overflowed",
       "teruggebeld": false
     }

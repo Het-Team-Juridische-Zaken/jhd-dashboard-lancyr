@@ -6960,12 +6960,19 @@
         "nummer": "+31640412490",
         "teruggebeld": false,
         "tijd": "16:00"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31613267119",
+        "teruggebeld": false,
+        "tijd": "16:35"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-29",
-    "generated_at": "2026-10-29T14:40:42Z",
-    "nietTerugGebeld": 8,
+    "generated_at": "2026-10-29T14:45:06Z",
+    "nietTerugGebeld": 9,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7022,10 +7029,17 @@
         "nummer": "+31640412490",
         "teruggebeld": false,
         "tijd": "16:00"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31613267119",
+        "teruggebeld": false,
+        "tijd": "16:35"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 8,
-    "totaalInbound": 14
+    "totaalGemist": 9,
+    "totaalInbound": 15
   }
 }
