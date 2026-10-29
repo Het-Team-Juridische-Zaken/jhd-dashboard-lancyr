@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T14:45:06Z",
-  "totaalInbound": 15,
+  "generated_at": "2026-10-29T14:50:44Z",
+  "totaalInbound": 16,
   "totaalGemist": 9,
   "terugGebeld": 0,
   "nietTerugGebeld": 9,
@@ -9,63 +9,63 @@
     {
       "nummer": "+46735394217",
       "naam": "Onbekend",
-      "tijd": "10:04",
+      "tijd": "09:04",
       "callResult": "overflowed",
       "teruggebeld": false
     },
     {
       "nummer": "+31641666122",
       "naam": "Onbekend",
-      "tijd": "10:29",
+      "tijd": "09:29",
       "callResult": "abandoned",
       "teruggebeld": false
     },
     {
       "nummer": "+31611277634",
       "naam": "Onbekend",
-      "tijd": "11:44",
+      "tijd": "10:44",
       "callResult": "overflowed",
       "teruggebeld": false
     },
     {
       "nummer": "+31622222942",
       "naam": "Onbekend",
-      "tijd": "13:15",
+      "tijd": "12:15",
       "callResult": "overflowed",
       "teruggebeld": false
     },
     {
       "nummer": "+31617869024",
       "naam": "Onbekend",
-      "tijd": "14:13",
+      "tijd": "13:13",
       "callResult": "abandoned",
       "teruggebeld": false
     },
     {
       "nummer": "+31611773610",
       "naam": "Onbekend",
-      "tijd": "14:59",
+      "tijd": "13:59",
       "callResult": "abandoned",
       "teruggebeld": false
     },
     {
       "nummer": "+31640412490",
       "naam": "Onbekend",
-      "tijd": "15:52",
+      "tijd": "14:52",
       "callResult": "abandoned",
       "teruggebeld": false
     },
     {
       "nummer": "+31640412490",
       "naam": "Onbekend",
-      "tijd": "16:00",
+      "tijd": "15:00",
       "callResult": "overflowed",
       "teruggebeld": false
     },
     {
       "nummer": "+31613267119",
       "naam": "Onbekend",
-      "tijd": "16:35",
+      "tijd": "15:35",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -74,72 +74,72 @@
     {
       "nummer": "+46735394217",
       "naam": "Onbekend",
-      "tijd": "10:04",
+      "tijd": "09:04",
       "callResult": "overflowed",
       "teruggebeld": false
     },
     {
       "nummer": "+31641666122",
       "naam": "Onbekend",
-      "tijd": "10:29",
+      "tijd": "09:29",
       "callResult": "abandoned",
       "teruggebeld": false
     },
     {
       "nummer": "+31611277634",
       "naam": "Onbekend",
-      "tijd": "11:44",
+      "tijd": "10:44",
       "callResult": "overflowed",
       "teruggebeld": false
     },
     {
       "nummer": "+31622222942",
       "naam": "Onbekend",
-      "tijd": "13:15",
+      "tijd": "12:15",
       "callResult": "overflowed",
       "teruggebeld": false
     },
     {
       "nummer": "+31617869024",
       "naam": "Onbekend",
-      "tijd": "14:13",
+      "tijd": "13:13",
       "callResult": "abandoned",
       "teruggebeld": false
     },
     {
       "nummer": "+31611773610",
       "naam": "Onbekend",
-      "tijd": "14:59",
+      "tijd": "13:59",
       "callResult": "abandoned",
       "teruggebeld": false
     },
     {
       "nummer": "+31640412490",
       "naam": "Onbekend",
-      "tijd": "15:52",
+      "tijd": "14:52",
       "callResult": "abandoned",
       "teruggebeld": false
     },
     {
       "nummer": "+31640412490",
       "naam": "Onbekend",
-      "tijd": "16:00",
+      "tijd": "15:00",
       "callResult": "overflowed",
       "teruggebeld": false
     },
     {
       "nummer": "+31613267119",
       "naam": "Onbekend",
-      "tijd": "16:35",
+      "tijd": "15:35",
       "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 6,
+      "beantwoord": 7,
       "uitgaand": 3,
-      "gesprekstijdSec": 1634
+      "gesprekstijdSec": 1687
     }
   },
   "beantwoordZonderAgent": 0

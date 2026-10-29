@@ -6899,8 +6899,8 @@
   "2026-10-29": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 6,
-        "gesprekstijdSec": 1634,
+        "beantwoord": 7,
+        "gesprekstijdSec": 1687,
         "uitgaand": 3
       }
     },
@@ -6910,68 +6910,68 @@
         "naam": "Onbekend",
         "nummer": "+46735394217",
         "teruggebeld": false,
-        "tijd": "10:04"
+        "tijd": "09:04"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31641666122",
         "teruggebeld": false,
-        "tijd": "10:29"
+        "tijd": "09:29"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31611277634",
         "teruggebeld": false,
-        "tijd": "11:44"
+        "tijd": "10:44"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31622222942",
         "teruggebeld": false,
-        "tijd": "13:15"
+        "tijd": "12:15"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31617869024",
         "teruggebeld": false,
-        "tijd": "14:13"
+        "tijd": "13:13"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31611773610",
         "teruggebeld": false,
-        "tijd": "14:59"
+        "tijd": "13:59"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31640412490",
         "teruggebeld": false,
-        "tijd": "15:52"
+        "tijd": "14:52"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31640412490",
         "teruggebeld": false,
-        "tijd": "16:00"
+        "tijd": "15:00"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31613267119",
         "teruggebeld": false,
-        "tijd": "16:35"
+        "tijd": "15:35"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-29",
-    "generated_at": "2026-10-29T14:45:06Z",
+    "generated_at": "2026-10-29T14:50:44Z",
     "nietTerugGebeld": 9,
     "nietTerugGebeldNummers": [
       {
@@ -6979,67 +6979,67 @@
         "naam": "Onbekend",
         "nummer": "+46735394217",
         "teruggebeld": false,
-        "tijd": "10:04"
+        "tijd": "09:04"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31641666122",
         "teruggebeld": false,
-        "tijd": "10:29"
+        "tijd": "09:29"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31611277634",
         "teruggebeld": false,
-        "tijd": "11:44"
+        "tijd": "10:44"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31622222942",
         "teruggebeld": false,
-        "tijd": "13:15"
+        "tijd": "12:15"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31617869024",
         "teruggebeld": false,
-        "tijd": "14:13"
+        "tijd": "13:13"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31611773610",
         "teruggebeld": false,
-        "tijd": "14:59"
+        "tijd": "13:59"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31640412490",
         "teruggebeld": false,
-        "tijd": "15:52"
+        "tijd": "14:52"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31640412490",
         "teruggebeld": false,
-        "tijd": "16:00"
+        "tijd": "15:00"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31613267119",
         "teruggebeld": false,
-        "tijd": "16:35"
+        "tijd": "15:35"
       }
     ],
     "terugGebeld": 0,
     "totaalGemist": 9,
-    "totaalInbound": 15
+    "totaalInbound": 16
   }
 }
