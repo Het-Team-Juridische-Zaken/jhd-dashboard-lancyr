@@ -528,12 +528,12 @@
   "2026-10-29": {
     "capBereikt": false,
     "geslotenVandaag": 0,
-    "inDeWacht": 22,
+    "inDeWacht": 21,
     "nieuweVandaag": 0,
     "statusBreakdown": {
       "Gesloten": 718,
-      "In de wacht": 22,
-      "Open": 6
+      "In de wacht": 21,
+      "Open": 7
     },
     "totaalOpen": 28
   }
