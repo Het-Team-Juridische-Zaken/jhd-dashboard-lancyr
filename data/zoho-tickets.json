@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T12:20:47Z",
+  "generated_at": "2026-10-30T12:30:53Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -57,12 +57,12 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 4,
-    "geslotenVandaag": 4,
-    "totaalOpen": 30,
+    "geslotenVandaag": 5,
+    "totaalOpen": 29,
     "inDeWacht": 24,
     "statusBreakdown": {
-      "Open": 6,
-      "Gesloten": 721,
+      "Gesloten": 722,
+      "Open": 5,
       "In de wacht": 24
     },
     "capBereikt": false
@@ -171,14 +171,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
-    },
-    {
-      "ticketNumber": "2875",
-      "titel": "Bezwaren tegen zwembad- en huisvestingsplannen camping naast woning",
-      "klant": "M.M.A. Rengers",
-      "status": "Open",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014645140"
     },
     {
       "ticketNumber": "2876",
