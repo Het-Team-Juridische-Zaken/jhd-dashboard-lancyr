@@ -7078,12 +7078,19 @@
         "nummer": "+31626080370",
         "teruggebeld": false,
         "tijd": "14:28"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629415836",
+        "teruggebeld": false,
+        "tijd": "14:37"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-30",
-    "generated_at": "2026-10-30T13:36:31Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-10-30T13:40:54Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7105,10 +7112,17 @@
         "nummer": "+31626080370",
         "teruggebeld": false,
         "tijd": "14:28"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629415836",
+        "teruggebeld": false,
+        "tijd": "14:37"
       }
     ],
     "terugGebeld": 1,
-    "totaalGemist": 4,
-    "totaalInbound": 14
+    "totaalGemist": 5,
+    "totaalInbound": 15
   }
 }
