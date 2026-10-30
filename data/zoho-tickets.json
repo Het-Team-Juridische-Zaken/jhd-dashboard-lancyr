@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T16:01:06Z",
+  "generated_at": "2026-10-30T16:10:47Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -55,7 +55,7 @@
       "tijd": "13:51",
       "titel": "Vakantiewoningen vergunning en burenconflict",
       "klant": "D.J.H. Vullings",
-      "status": "Open",
+      "status": "Gesloten",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014985047",
@@ -82,12 +82,12 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 6,
-    "geslotenVandaag": 8,
-    "totaalOpen": 29,
+    "geslotenVandaag": 9,
+    "totaalOpen": 28,
     "inDeWacht": 23,
     "statusBreakdown": {
-      "Open": 6,
-      "Gesloten": 724,
+      "Gesloten": 725,
+      "Open": 5,
       "In de wacht": 23
     },
     "capBereikt": false
@@ -308,14 +308,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-29",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
-    },
-    {
-      "ticketNumber": "2920",
-      "titel": "Vakantiewoningen vergunning en burenconflict",
-      "klant": "D.J.H. Vullings",
-      "status": "Open",
-      "aangemaakt": "2026-10-30",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014985047"
     },
     {
       "ticketNumber": "2916",
