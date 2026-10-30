@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T15:54:07Z",
+  "generated_at": "2026-10-30T16:01:06Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -53,8 +53,8 @@
     {
       "ticketNumber": "2920",
       "tijd": "13:51",
-      "titel": "FW: Klantnummer 84178954",
-      "klant": "De juridische helpdesk",
+      "titel": "Vakantiewoningen vergunning en burenconflict",
+      "klant": "D.J.H. Vullings",
       "status": "Open",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
@@ -86,8 +86,8 @@
     "totaalOpen": 29,
     "inDeWacht": 23,
     "statusBreakdown": {
-      "Gesloten": 724,
       "Open": 6,
+      "Gesloten": 724,
       "In de wacht": 23
     },
     "capBereikt": false
@@ -311,8 +311,8 @@
     },
     {
       "ticketNumber": "2920",
-      "titel": "FW: Klantnummer 84178954",
-      "klant": "De juridische helpdesk",
+      "titel": "Vakantiewoningen vergunning en burenconflict",
+      "klant": "D.J.H. Vullings",
       "status": "Open",
       "aangemaakt": "2026-10-30",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014985047"
