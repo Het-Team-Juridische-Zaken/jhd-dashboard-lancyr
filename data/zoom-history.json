@@ -7046,8 +7046,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 10,
-        "gesprekstijdSec": 3394,
-        "uitgaand": 7
+        "gesprekstijdSec": 3561,
+        "uitgaand": 8
       }
     },
     "alleGemistNummers": [
@@ -7076,21 +7076,21 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31626080370",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "14:28"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31629415836",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "14:37"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-30",
-    "generated_at": "2026-10-30T13:44:12Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-10-30T13:50:47Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7105,23 +7105,9 @@
         "nummer": "+31618749707",
         "teruggebeld": false,
         "tijd": "12:23"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31626080370",
-        "teruggebeld": false,
-        "tijd": "14:28"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31629415836",
-        "teruggebeld": false,
-        "tijd": "14:37"
       }
     ],
-    "terugGebeld": 1,
+    "terugGebeld": 3,
     "totaalGemist": 5,
     "totaalInbound": 15
   }

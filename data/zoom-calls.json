@@ -1,10 +1,10 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T13:44:12Z",
+  "generated_at": "2026-10-30T13:50:47Z",
   "totaalInbound": 15,
   "totaalGemist": 5,
-  "terugGebeld": 1,
-  "nietTerugGebeld": 4,
+  "terugGebeld": 3,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31612660578",
@@ -17,20 +17,6 @@
       "nummer": "+31618749707",
       "naam": "Onbekend",
       "tijd": "12:23",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31626080370",
-      "naam": "Onbekend",
-      "tijd": "14:28",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31629415836",
-      "naam": "Onbekend",
-      "tijd": "14:37",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -62,21 +48,21 @@
       "naam": "Onbekend",
       "tijd": "14:28",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31629415836",
       "naam": "Onbekend",
       "tijd": "14:37",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     }
   ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 10,
-      "uitgaand": 7,
-      "gesprekstijdSec": 3394
+      "uitgaand": 8,
+      "gesprekstijdSec": 3561
     }
   },
   "beantwoordZonderAgent": 0
