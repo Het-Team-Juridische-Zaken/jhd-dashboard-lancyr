@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T14:44:11Z",
+  "generated_at": "2026-10-30T14:50:51Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -61,22 +61,34 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014985047",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2921",
+      "tijd": "15:45",
+      "titel": "VSO-controlecheck en rechtsbijstandopties met Bart Klaver",
+      "klant": "B.T.A. Klaver",
+      "status": "Gesloten",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015013001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 4,
+    "Phone": 5,
     "Email": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 5,
-    "geslotenVandaag": 5,
+    "nieuweVandaag": 6,
+    "geslotenVandaag": 6,
     "totaalOpen": 30,
     "inDeWacht": 25,
     "statusBreakdown": {
+      "Gesloten": 723,
       "In de wacht": 25,
-      "Open": 5,
-      "Gesloten": 722
+      "Open": 5
     },
     "capBereikt": false
   },
