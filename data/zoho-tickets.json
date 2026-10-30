@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T11:54:13Z",
+  "generated_at": "2026-10-30T12:01:06Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -58,17 +58,24 @@
   "ticketStats": {
     "nieuweVandaag": 4,
     "geslotenVandaag": 3,
-    "totaalOpen": 30,
-    "inDeWacht": 24,
+    "totaalOpen": 31,
+    "inDeWacht": 25,
     "statusBreakdown": {
-      "Closed": 1,
+      "In de wacht": 25,
       "Open": 6,
-      "Gesloten": 720,
-      "In de wacht": 24
+      "Gesloten": 720
     },
     "capBereikt": false
   },
   "openTickets": [
+    {
+      "ticketNumber": "166",
+      "titel": "Schadeclaim Van Oers – vervolgstatus en doorverwijzing",
+      "klant": "J.L.W.M. vanOers",
+      "status": "In de wacht",
+      "aangemaakt": "2025-03-19",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000003549004"
+    },
     {
       "ticketNumber": "2220",
       "titel": "FW: 84229772_Wongsodrono: tickets evenement WAVY",
