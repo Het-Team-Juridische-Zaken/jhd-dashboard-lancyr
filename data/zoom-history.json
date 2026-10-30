@@ -7085,12 +7085,19 @@
         "nummer": "+31629415836",
         "teruggebeld": true,
         "tijd": "14:37"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643197133",
+        "teruggebeld": false,
+        "tijd": "14:58"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-30",
-    "generated_at": "2026-10-30T14:01:17Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-10-30T14:10:55Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7105,10 +7112,17 @@
         "nummer": "+31618749707",
         "teruggebeld": false,
         "tijd": "12:23"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643197133",
+        "teruggebeld": false,
+        "tijd": "14:58"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 5,
-    "totaalInbound": 15
+    "totaalGemist": 6,
+    "totaalInbound": 16
   }
 }
