@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T15:25:03Z",
+  "generated_at": "2026-10-30T15:30:58Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -83,12 +83,12 @@
   "ticketStats": {
     "nieuweVandaag": 6,
     "geslotenVandaag": 7,
-    "totaalOpen": 29,
+    "totaalOpen": 30,
     "inDeWacht": 24,
     "statusBreakdown": {
       "In de wacht": 24,
-      "Gesloten": 724,
-      "Open": 5
+      "Open": 6,
+      "Gesloten": 723
     },
     "capBereikt": false
   },
@@ -300,6 +300,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-27",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883131"
+    },
+    {
+      "ticketNumber": "2913",
+      "titel": "Leaseauto beëindiging en functiewijziging",
+      "klant": "R.A. Carrilho",
+      "status": "Open",
+      "aangemaakt": "2026-10-28",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014947003"
     },
     {
       "ticketNumber": "2915",

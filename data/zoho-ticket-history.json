@@ -543,10 +543,10 @@
     "inDeWacht": 24,
     "nieuweVandaag": 6,
     "statusBreakdown": {
-      "Gesloten": 724,
+      "Gesloten": 723,
       "In de wacht": 24,
-      "Open": 5
+      "Open": 6
     },
-    "totaalOpen": 29
+    "totaalOpen": 30
   }
 }
