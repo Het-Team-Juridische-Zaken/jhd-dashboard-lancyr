@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T10:01:05Z",
+  "generated_at": "2026-10-30T10:10:44Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -25,20 +25,32 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014971015",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2918",
+      "tijd": "11:07",
+      "titel": "Advies functionele mogelijkhedenlijst en arbeidsreïntegratie",
+      "klant": "A.C. van derHel",
+      "status": "Gesloten",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014965027",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 2
+    "Phone": 3
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
-    "geslotenVandaag": 1,
+    "nieuweVandaag": 3,
+    "geslotenVandaag": 2,
     "totaalOpen": 30,
     "inDeWacht": 25,
     "statusBreakdown": {
+      "Gesloten": 720,
       "In de wacht": 25,
-      "Gesloten": 719,
       "Open": 5
     },
     "capBereikt": false
