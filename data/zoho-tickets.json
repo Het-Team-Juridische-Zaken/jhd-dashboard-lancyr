@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T12:50:43Z",
+  "generated_at": "2026-10-30T12:54:19Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -49,20 +49,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014964032",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2920",
+      "tijd": "13:51",
+      "titel": "FW: Klantnummer 84178954",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014985047",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 4
+    "Phone": 4,
+    "Email": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 4,
+    "nieuweVandaag": 5,
     "geslotenVandaag": 5,
-    "totaalOpen": 29,
+    "totaalOpen": 30,
     "inDeWacht": 24,
     "statusBreakdown": {
+      "Open": 6,
       "Gesloten": 722,
-      "Open": 5,
       "In de wacht": 24
     },
     "capBereikt": false
@@ -291,6 +304,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-29",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
+    },
+    {
+      "ticketNumber": "2920",
+      "titel": "FW: Klantnummer 84178954",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-30",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014985047"
     },
     {
       "ticketNumber": "2916",
