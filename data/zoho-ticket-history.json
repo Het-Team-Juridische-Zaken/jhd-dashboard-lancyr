@@ -543,6 +543,7 @@
     "inDeWacht": 24,
     "nieuweVandaag": 4,
     "statusBreakdown": {
+      "Closed": 1,
       "Gesloten": 720,
       "In de wacht": 24,
       "Open": 6
