@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T09:30:50Z",
+  "generated_at": "2026-10-30T09:37:50Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -25,8 +25,8 @@
     "totaalOpen": 30,
     "inDeWacht": 23,
     "statusBreakdown": {
-      "In de wacht": 23,
       "Open": 7,
+      "In de wacht": 23,
       "Gesloten": 718
     },
     "capBereikt": false
@@ -137,20 +137,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
     },
     {
+      "ticketNumber": "2876",
+      "titel": "Juridische ondersteuning duizendkoop",
+      "klant": "N. Martina",
+      "status": "Open",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652094"
+    },
+    {
       "ticketNumber": "2875",
       "titel": "Overleg",
       "klant": "Martijn Rengers",
       "status": "Open",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014645140"
-    },
-    {
-      "ticketNumber": "2876",
-      "titel": "melding – Japanse duizendknoop bij woningaankoop | Verzoek beoordeling rechtsbijstandsdekking Wonen (relatienummer 84236870)",
-      "klant": "N. Martina",
-      "status": "Open",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652094"
     },
     {
       "ticketNumber": "2871",
