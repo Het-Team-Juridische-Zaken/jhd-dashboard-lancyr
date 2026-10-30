@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T15:30:58Z",
+  "generated_at": "2026-10-30T15:36:54Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -82,13 +82,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 6,
-    "geslotenVandaag": 7,
-    "totaalOpen": 30,
-    "inDeWacht": 24,
+    "geslotenVandaag": 8,
+    "totaalOpen": 29,
+    "inDeWacht": 23,
     "statusBreakdown": {
-      "In de wacht": 24,
+      "Gesloten": 724,
       "Open": 6,
-      "Gesloten": 723
+      "In de wacht": 23
     },
     "capBereikt": false
   },
@@ -140,14 +140,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-08-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013207089"
-    },
-    {
-      "ticketNumber": "2681",
-      "titel": "Rechtsbijstandsverzekering — bed met verkeerde kleuren en ingebrekenstelling",
-      "klant": "R. Lutteke",
-      "status": "In de wacht",
-      "aangemaakt": "2026-09-01",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013756001"
     },
     {
       "ticketNumber": "2699",
