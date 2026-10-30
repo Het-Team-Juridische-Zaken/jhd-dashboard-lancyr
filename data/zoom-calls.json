@@ -1,11 +1,19 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T10:31:01Z",
-  "totaalInbound": 7,
-  "totaalGemist": 1,
+  "generated_at": "2026-10-30T10:36:57Z",
+  "totaalInbound": 8,
+  "totaalGemist": 2,
   "terugGebeld": 1,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31612660578",
+      "naam": "Onbekend",
+      "tijd": "11:28",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
   "alleGemistNummers": [
     {
       "nummer": "+31631691501",
@@ -13,6 +21,13 @@
       "tijd": "10:15",
       "callResult": "overflowed",
       "teruggebeld": true
+    },
+    {
+      "nummer": "+31612660578",
+      "naam": "Onbekend",
+      "tijd": "11:28",
+      "callResult": "overflowed",
+      "teruggebeld": false
     }
   ],
   "agenten": {
