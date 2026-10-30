@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T10:20:31Z",
+  "generated_at": "2026-10-30T10:27:34Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -37,19 +37,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014965027",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2919",
+      "tijd": "11:21",
+      "titel": "Autoschadeclaim en verhaal tegen vriend",
+      "klant": "M. Mooibroek",
+      "status": "Gesloten",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014964032",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 3
+    "Phone": 4
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
-    "geslotenVandaag": 2,
+    "nieuweVandaag": 4,
+    "geslotenVandaag": 3,
     "totaalOpen": 30,
     "inDeWacht": 25,
     "statusBreakdown": {
-      "Gesloten": 720,
+      "Gesloten": 721,
       "In de wacht": 25,
       "Open": 5
     },
