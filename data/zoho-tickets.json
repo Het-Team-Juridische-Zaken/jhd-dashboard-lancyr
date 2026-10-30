@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T09:44:14Z",
+  "generated_at": "2026-10-30T09:50:48Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -13,21 +13,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014973002",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2917",
+      "tijd": "10:44",
+      "titel": "Juridisch advies buren illegale aanbouw",
+      "klant": "E. Stoel",
+      "status": "Gesloten",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014971015",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 1
+    "Phone": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
-    "geslotenVandaag": 0,
+    "nieuweVandaag": 2,
+    "geslotenVandaag": 1,
     "totaalOpen": 30,
-    "inDeWacht": 24,
+    "inDeWacht": 25,
     "statusBreakdown": {
-      "In de wacht": 24,
-      "Open": 6,
-      "Gesloten": 718
+      "In de wacht": 25,
+      "Gesloten": 719,
+      "Open": 5
     },
     "capBereikt": false
   },
@@ -84,7 +96,7 @@
       "ticketNumber": "2681",
       "titel": "Rechtsbijstandsverzekering — bed met verkeerde kleuren en ingebrekenstelling",
       "klant": "R. Lutteke",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-09-01",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013756001"
     },
