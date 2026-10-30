@@ -1,16 +1,31 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T09:12:43Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-10-30T09:20:43Z",
+  "tickets": [
+    {
+      "ticketNumber": "2916",
+      "tijd": "10:15",
+      "titel": "Reorganisatie en geschiktheidsbeoordeling",
+      "klant": "F.A. Beenen-Kieft",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014973002",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Phone": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 29,
-    "inDeWacht": 22,
+    "totaalOpen": 30,
+    "inDeWacht": 23,
     "statusBreakdown": {
-      "In de wacht": 22,
+      "In de wacht": 23,
       "Open": 7,
       "Gesloten": 718
     },
@@ -248,6 +263,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-29",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
+    },
+    {
+      "ticketNumber": "2916",
+      "titel": "Reorganisatie en geschiktheidsbeoordeling",
+      "klant": "F.A. Beenen-Kieft",
+      "status": "In de wacht",
+      "aangemaakt": "2026-10-30",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014973002"
     }
   ]
 }
