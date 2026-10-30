@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T15:20:47Z",
+  "generated_at": "2026-10-30T15:25:03Z",
   "tickets": [
     {
       "ticketNumber": "2916",
@@ -55,7 +55,7 @@
       "tijd": "13:51",
       "titel": "FW: Klantnummer 84178954",
       "klant": "De juridische helpdesk",
-      "status": "In de wacht",
+      "status": "Open",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014985047",
@@ -82,13 +82,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 6,
-    "geslotenVandaag": 6,
-    "totaalOpen": 30,
-    "inDeWacht": 26,
+    "geslotenVandaag": 7,
+    "totaalOpen": 29,
+    "inDeWacht": 24,
     "statusBreakdown": {
-      "In de wacht": 26,
-      "Gesloten": 723,
-      "Open": 4
+      "In de wacht": 24,
+      "Gesloten": 724,
+      "Open": 5
     },
     "capBereikt": false
   },
@@ -262,14 +262,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
     },
     {
-      "ticketNumber": "2908",
-      "titel": "Financieel geschil samenwoning zonder contract",
-      "klant": "P.H. deVries",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-27",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880260"
-    },
-    {
       "ticketNumber": "2912",
       "titel": "Contractuele aansprakelijkheid en vrijwaring bij functiewisseling",
       "klant": "I.M. Hendriks",
@@ -321,7 +313,7 @@
       "ticketNumber": "2920",
       "titel": "FW: Klantnummer 84178954",
       "klant": "De juridische helpdesk",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-30",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014985047"
     },
