@@ -7064,12 +7064,19 @@
         "nummer": "+31612660578",
         "teruggebeld": false,
         "tijd": "11:28"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31618749707",
+        "teruggebeld": false,
+        "tijd": "12:23"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-30",
-    "generated_at": "2026-10-30T11:20:50Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-10-30T11:24:35Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7077,10 +7084,17 @@
         "nummer": "+31612660578",
         "teruggebeld": false,
         "tijd": "11:28"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31618749707",
+        "teruggebeld": false,
+        "tijd": "12:23"
       }
     ],
     "terugGebeld": 1,
-    "totaalGemist": 2,
-    "totaalInbound": 10
+    "totaalGemist": 3,
+    "totaalInbound": 11
   }
 }

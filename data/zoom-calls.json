@@ -1,16 +1,23 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T11:20:50Z",
-  "totaalInbound": 10,
-  "totaalGemist": 2,
+  "generated_at": "2026-10-30T11:24:35Z",
+  "totaalInbound": 11,
+  "totaalGemist": 3,
   "terugGebeld": 1,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31612660578",
       "naam": "Onbekend",
       "tijd": "11:28",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31618749707",
+      "naam": "Onbekend",
+      "tijd": "12:23",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -27,6 +34,13 @@
       "naam": "Onbekend",
       "tijd": "11:28",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31618749707",
+      "naam": "Onbekend",
+      "tijd": "12:23",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
