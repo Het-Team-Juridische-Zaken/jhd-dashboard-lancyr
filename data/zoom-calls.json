@@ -1,33 +1,25 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T10:12:05Z",
+  "generated_at": "2026-10-30T10:21:02Z",
   "totaalInbound": 6,
   "totaalGemist": 1,
-  "terugGebeld": 0,
-  "nietTerugGebeld": 1,
-  "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31631691501",
-      "naam": "Onbekend",
-      "tijd": "10:15",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    }
-  ],
+  "terugGebeld": 1,
+  "nietTerugGebeld": 0,
+  "nietTerugGebeldNummers": [],
   "alleGemistNummers": [
     {
       "nummer": "+31631691501",
       "naam": "Onbekend",
       "tijd": "10:15",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     }
   ],
   "agenten": {
     "Leyla Pereira": {
-      "beantwoord": 5,
-      "uitgaand": 4,
-      "gesprekstijdSec": 2162
+      "beantwoord": 4,
+      "uitgaand": 5,
+      "gesprekstijdSec": 2360
     }
   },
   "beantwoordZonderAgent": 0

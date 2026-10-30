@@ -7045,9 +7045,9 @@
   "2026-10-30": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 5,
-        "gesprekstijdSec": 2162,
-        "uitgaand": 4
+        "beantwoord": 4,
+        "gesprekstijdSec": 2360,
+        "uitgaand": 5
       }
     },
     "alleGemistNummers": [
@@ -7055,24 +7055,16 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31631691501",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "10:15"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-30",
-    "generated_at": "2026-10-30T10:12:05Z",
-    "nietTerugGebeld": 1,
-    "nietTerugGebeldNummers": [
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31631691501",
-        "teruggebeld": false,
-        "tijd": "10:15"
-      }
-    ],
-    "terugGebeld": 0,
+    "generated_at": "2026-10-30T10:21:02Z",
+    "nietTerugGebeld": 0,
+    "nietTerugGebeldNummers": [],
+    "terugGebeld": 1,
     "totaalGemist": 1,
     "totaalInbound": 6
   }
