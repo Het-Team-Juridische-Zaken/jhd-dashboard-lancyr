@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T08:30:53Z",
+  "generated_at": "2026-10-30T08:38:53Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,10 +8,10 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 29,
-    "inDeWacht": 21,
+    "inDeWacht": 22,
     "statusBreakdown": {
-      "Open": 8,
-      "In de wacht": 21,
+      "In de wacht": 22,
+      "Open": 7,
       "Gesloten": 718
     },
     "capBereikt": false
@@ -122,20 +122,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
     },
     {
-      "ticketNumber": "2876",
-      "titel": "melding – Japanse duizendknoop bij woningaankoop | Verzoek beoordeling rechtsbijstandsdekking Wonen (relatienummer 84236870)",
-      "klant": "N. Martina",
-      "status": "Open",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652094"
-    },
-    {
       "ticketNumber": "2875",
       "titel": "Overleg",
       "klant": "Martijn Rengers",
       "status": "Open",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014645140"
+    },
+    {
+      "ticketNumber": "2876",
+      "titel": "melding – Japanse duizendknoop bij woningaankoop | Verzoek beoordeling rechtsbijstandsdekking Wonen (relatienummer 84236870)",
+      "klant": "N. Martina",
+      "status": "Open",
+      "aangemaakt": "2026-10-14",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652094"
     },
     {
       "ticketNumber": "2871",
@@ -197,7 +197,7 @@
       "ticketNumber": "2912",
       "titel": "Contractuele aansprakelijkheid en vrijwaring bij functiewisseling",
       "klant": "I.M. Hendriks",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-27",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880315"
     },
