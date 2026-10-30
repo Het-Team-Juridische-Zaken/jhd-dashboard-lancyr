@@ -7046,14 +7046,14 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 2,
-        "gesprekstijdSec": 570,
-        "uitgaand": 2
+        "gesprekstijdSec": 1243,
+        "uitgaand": 3
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-10-30",
-    "generated_at": "2026-10-30T09:10:44Z",
+    "generated_at": "2026-10-30T09:12:44Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
