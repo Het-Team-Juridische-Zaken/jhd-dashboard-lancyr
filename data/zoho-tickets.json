@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T16:50:46Z",
+  "generated_at": "2026-11-02T16:54:31Z",
   "tickets": [
     {
       "ticketNumber": "2926",
@@ -34,11 +34,11 @@
   "ticketStats": {
     "nieuweVandaag": 2,
     "geslotenVandaag": 1,
-    "totaalOpen": 32,
+    "totaalOpen": 33,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 12,
-      "Gesloten": 725,
+      "Open": 13,
+      "Gesloten": 724,
       "In de wacht": 20
     },
     "capBereikt": false
@@ -99,6 +99,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-09-08",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013871009"
+    },
+    {
+      "ticketNumber": "2722",
+      "titel": "FW: Relatienummer 84181098: LancyrJuridischeHelpdesk is nodig.",
+      "klant": "X. Zhang",
+      "status": "Open",
+      "aangemaakt": "2026-09-11",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013967056"
     },
     {
       "ticketNumber": "2833",

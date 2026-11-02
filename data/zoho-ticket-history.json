@@ -555,10 +555,10 @@
     "inDeWacht": 20,
     "nieuweVandaag": 2,
     "statusBreakdown": {
-      "Gesloten": 725,
+      "Gesloten": 724,
       "In de wacht": 20,
-      "Open": 12
+      "Open": 13
     },
-    "totaalOpen": 32
+    "totaalOpen": 33
   }
 }
