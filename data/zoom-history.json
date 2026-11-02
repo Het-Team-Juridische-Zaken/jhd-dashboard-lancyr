@@ -7168,12 +7168,19 @@
         "nummer": "+31682121792",
         "teruggebeld": false,
         "tijd": "11:23"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643254686",
+        "teruggebeld": false,
+        "tijd": "11:27"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-02",
-    "generated_at": "2026-11-02T10:30:53Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-11-02T10:36:20Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7209,10 +7216,17 @@
         "nummer": "+31682121792",
         "teruggebeld": false,
         "tijd": "11:23"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643254686",
+        "teruggebeld": false,
+        "tijd": "11:27"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 5,
-    "totaalInbound": 14
+    "totaalGemist": 6,
+    "totaalInbound": 15
   }
 }
