@@ -1,10 +1,10 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T12:44:21Z",
-  "totaalInbound": 20,
-  "totaalGemist": 11,
+  "generated_at": "2026-11-02T12:50:48Z",
+  "totaalInbound": 21,
+  "totaalGemist": 12,
   "terugGebeld": 1,
-  "nietTerugGebeld": 10,
+  "nietTerugGebeld": 11,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31621359836",
@@ -73,6 +73,13 @@
       "nummer": "+31235548825",
       "naam": "Onbekend",
       "tijd": "13:13",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31649761068",
+      "naam": "Onbekend",
+      "tijd": "13:44",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -152,6 +159,13 @@
       "nummer": "+31235548825",
       "naam": "Onbekend",
       "tijd": "13:13",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31649761068",
+      "naam": "Onbekend",
+      "tijd": "13:44",
       "callResult": "abandoned",
       "teruggebeld": false
     }
