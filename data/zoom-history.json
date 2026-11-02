@@ -7126,7 +7126,13 @@
     "totaalInbound": 18
   },
   "2026-11-02": {
-    "agenten": {},
+    "agenten": {
+      "Dewi Verver": {
+        "beantwoord": 2,
+        "gesprekstijdSec": 497,
+        "uitgaand": 0
+      }
+    },
     "alleGemistNummers": [
       {
         "callResult": "abandoned",
@@ -7152,7 +7158,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-02",
-    "generated_at": "2026-11-02T08:15:15Z",
+    "generated_at": "2026-11-02T08:20:44Z",
     "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
@@ -7179,6 +7185,6 @@
     ],
     "terugGebeld": 0,
     "totaalGemist": 3,
-    "totaalInbound": 3
+    "totaalInbound": 5
   }
 }
