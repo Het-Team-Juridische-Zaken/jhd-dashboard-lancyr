@@ -1,10 +1,10 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T10:24:25Z",
-  "totaalInbound": 13,
-  "totaalGemist": 4,
+  "generated_at": "2026-11-02T10:30:53Z",
+  "totaalInbound": 14,
+  "totaalGemist": 5,
   "terugGebeld": 0,
-  "nietTerugGebeld": 4,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31627567548",
@@ -32,6 +32,13 @@
       "naam": "Onbekend",
       "tijd": "10:42",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31682121792",
+      "naam": "Onbekend",
+      "tijd": "11:23",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -62,6 +69,13 @@
       "naam": "Onbekend",
       "tijd": "10:42",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31682121792",
+      "naam": "Onbekend",
+      "tijd": "11:23",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],

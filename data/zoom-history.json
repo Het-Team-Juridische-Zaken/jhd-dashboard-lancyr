@@ -7161,12 +7161,19 @@
         "nummer": "+31645129038",
         "teruggebeld": false,
         "tijd": "10:42"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31682121792",
+        "teruggebeld": false,
+        "tijd": "11:23"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-02",
-    "generated_at": "2026-11-02T10:24:25Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-11-02T10:30:53Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7195,10 +7202,17 @@
         "nummer": "+31645129038",
         "teruggebeld": false,
         "tijd": "10:42"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31682121792",
+        "teruggebeld": false,
+        "tijd": "11:23"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 13
+    "totaalGemist": 5,
+    "totaalInbound": 14
   }
 }
