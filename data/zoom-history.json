@@ -7182,12 +7182,19 @@
         "nummer": "+31629342905",
         "teruggebeld": false,
         "tijd": "11:31"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31620956361",
+        "teruggebeld": false,
+        "tijd": "11:44"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-02",
-    "generated_at": "2026-11-02T10:50:52Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-11-02T10:54:04Z",
+    "nietTerugGebeld": 8,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7237,10 +7244,17 @@
         "nummer": "+31629342905",
         "teruggebeld": false,
         "tijd": "11:31"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31620956361",
+        "teruggebeld": false,
+        "tijd": "11:44"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 7,
-    "totaalInbound": 16
+    "totaalGemist": 8,
+    "totaalInbound": 17
   }
 }
