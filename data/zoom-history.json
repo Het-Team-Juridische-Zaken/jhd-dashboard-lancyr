@@ -7129,8 +7129,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 9,
-        "gesprekstijdSec": 1600,
-        "uitgaand": 1
+        "gesprekstijdSec": 2229,
+        "uitgaand": 2
       }
     },
     "alleGemistNummers": [
@@ -7138,7 +7138,7 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31627567548",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:05"
       },
       {
@@ -7214,16 +7214,9 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-02",
-    "generated_at": "2026-11-02T12:40:59Z",
-    "nietTerugGebeld": 11,
+    "generated_at": "2026-11-02T12:44:21Z",
+    "nietTerugGebeld": 10,
     "nietTerugGebeldNummers": [
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31627567548",
-        "teruggebeld": false,
-        "tijd": "09:05"
-      },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
@@ -7295,7 +7288,7 @@
         "tijd": "13:13"
       }
     ],
-    "terugGebeld": 0,
+    "terugGebeld": 1,
     "totaalGemist": 11,
     "totaalInbound": 20
   }
