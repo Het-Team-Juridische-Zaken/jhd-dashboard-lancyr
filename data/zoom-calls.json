@@ -1,10 +1,10 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T09:40:42Z",
-  "totaalInbound": 9,
-  "totaalGemist": 3,
+  "generated_at": "2026-11-02T09:44:02Z",
+  "totaalInbound": 10,
+  "totaalGemist": 4,
   "terugGebeld": 0,
-  "nietTerugGebeld": 3,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31627567548",
@@ -24,6 +24,13 @@
       "nummer": "+31621359836",
       "naam": "Onbekend",
       "tijd": "09:10",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31645129038",
+      "naam": "Onbekend",
+      "tijd": "10:42",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -47,6 +54,13 @@
       "nummer": "+31621359836",
       "naam": "Onbekend",
       "tijd": "09:10",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31645129038",
+      "naam": "Onbekend",
+      "tijd": "10:42",
       "callResult": "abandoned",
       "teruggebeld": false
     }

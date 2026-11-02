@@ -7154,12 +7154,19 @@
         "nummer": "+31621359836",
         "teruggebeld": false,
         "tijd": "09:10"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31645129038",
+        "teruggebeld": false,
+        "tijd": "10:42"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-02",
-    "generated_at": "2026-11-02T09:40:42Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-11-02T09:44:02Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7181,10 +7188,17 @@
         "nummer": "+31621359836",
         "teruggebeld": false,
         "tijd": "09:10"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31645129038",
+        "teruggebeld": false,
+        "tijd": "10:42"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 9
+    "totaalGemist": 4,
+    "totaalInbound": 10
   }
 }
