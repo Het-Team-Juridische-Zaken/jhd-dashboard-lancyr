@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T13:54:11Z",
+  "generated_at": "2026-11-02T14:01:05Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,11 +8,11 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 1,
     "totaalOpen": 30,
-    "inDeWacht": 24,
+    "inDeWacht": 23,
     "statusBreakdown": {
-      "In de wacht": 24,
-      "Gesloten": 725,
-      "Open": 6
+      "Open": 7,
+      "In de wacht": 23,
+      "Gesloten": 725
     },
     "capBereikt": false
   },
@@ -141,7 +141,7 @@
       "ticketNumber": "2878",
       "titel": "Nieuwe melding, afsplister [D3076943_I74357557]",
       "klant": "BrandMR Intake",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-16",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
     },
