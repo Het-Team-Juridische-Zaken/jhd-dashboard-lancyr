@@ -553,12 +553,12 @@
     "capBereikt": false,
     "geslotenVandaag": 1,
     "inDeWacht": 20,
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "statusBreakdown": {
       "Gesloten": 725,
       "In de wacht": 20,
-      "Open": 10
+      "Open": 11
     },
-    "totaalOpen": 30
+    "totaalOpen": 31
   }
 }
