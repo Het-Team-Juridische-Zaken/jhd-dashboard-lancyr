@@ -7141,12 +7141,19 @@
         "nummer": "+31621359836",
         "teruggebeld": false,
         "tijd": "09:07"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31621359836",
+        "teruggebeld": false,
+        "tijd": "09:10"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-02",
-    "generated_at": "2026-11-02T08:10:54Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-02T08:15:15Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7161,10 +7168,17 @@
         "nummer": "+31621359836",
         "teruggebeld": false,
         "tijd": "09:07"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31621359836",
+        "teruggebeld": false,
+        "tijd": "09:10"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 2
+    "totaalGemist": 3,
+    "totaalInbound": 3
   }
 }
