@@ -1,18 +1,18 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T09:10:55Z",
+  "generated_at": "2026-11-02T09:15:12Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 0,
-    "totaalOpen": 31,
-    "inDeWacht": 23,
+    "geslotenVandaag": 1,
+    "totaalOpen": 30,
+    "inDeWacht": 24,
     "statusBreakdown": {
-      "Open": 8,
-      "Gesloten": 724,
-      "In de wacht": 23
+      "In de wacht": 24,
+      "Gesloten": 725,
+      "Open": 6
     },
     "capBereikt": false
   },
@@ -253,17 +253,9 @@
       "ticketNumber": "2923",
       "titel": "2920",
       "klant": "Ana Vullings",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-31",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977213"
-    },
-    {
-      "ticketNumber": "2925",
-      "titel": "rechtsbijstand voorwaarde(n)",
-      "klant": "F. Sanou",
-      "status": "Open",
-      "aangemaakt": "2026-11-01",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014995001"
     }
   ]
 }
