@@ -7129,8 +7129,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 14,
-        "gesprekstijdSec": 3594,
-        "uitgaand": 2
+        "gesprekstijdSec": 3971,
+        "uitgaand": 3
       }
     },
     "alleGemistNummers": [
@@ -7221,7 +7221,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-02",
-    "generated_at": "2026-11-02T15:01:15Z",
+    "generated_at": "2026-11-02T15:10:54Z",
     "nietTerugGebeld": 11,
     "nietTerugGebeldNummers": [
       {
