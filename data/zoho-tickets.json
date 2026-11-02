@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T15:20:49Z",
+  "generated_at": "2026-11-02T15:25:59Z",
   "tickets": [
     {
       "ticketNumber": "2926",
@@ -13,20 +13,32 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014995093",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2927",
+      "tijd": "16:22",
+      "titel": "FW: 84312780 (Bunnig, W.): Tav Dewi Verver",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977297",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 1
+    "Email": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 1,
-    "totaalOpen": 31,
+    "totaalOpen": 32,
     "inDeWacht": 20,
     "statusBreakdown": {
+      "Open": 12,
       "Gesloten": 725,
-      "Open": 11,
       "In de wacht": 20
     },
     "capBereikt": false
@@ -271,6 +283,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-31",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977213"
+    },
+    {
+      "ticketNumber": "2927",
+      "titel": "FW: 84312780 (Bunnig, W.): Tav Dewi Verver",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-11-02",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977297"
     },
     {
       "ticketNumber": "2926",
