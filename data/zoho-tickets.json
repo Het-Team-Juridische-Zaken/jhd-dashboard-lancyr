@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T14:12:17Z",
+  "generated_at": "2026-11-02T14:20:42Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,10 +8,10 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 1,
     "totaalOpen": 30,
-    "inDeWacht": 23,
+    "inDeWacht": 21,
     "statusBreakdown": {
-      "Open": 7,
-      "In de wacht": 23,
+      "Open": 9,
+      "In de wacht": 21,
       "Gesloten": 725
     },
     "capBereikt": false
@@ -181,7 +181,7 @@
       "ticketNumber": "2912",
       "titel": "Contractuele aansprakelijkheid en vrijwaring bij functiewisseling",
       "klant": "I.M. Hendriks",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-27",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880315"
     },
@@ -234,20 +234,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
     },
     {
+      "ticketNumber": "2916",
+      "titel": "Reorganisatie en geschiktheidsbeoordeling",
+      "klant": "F.A. Beenen-Kieft",
+      "status": "Open",
+      "aangemaakt": "2026-10-30",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014973002"
+    },
+    {
       "ticketNumber": "2922",
       "titel": "Schade auto rechtsbijstandverzekering ",
       "klant": "A. van derGeest",
       "status": "Open",
       "aangemaakt": "2026-10-30",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977123"
-    },
-    {
-      "ticketNumber": "2916",
-      "titel": "Reorganisatie en geschiktheidsbeoordeling",
-      "klant": "F.A. Beenen-Kieft",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-30",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014973002"
     },
     {
       "ticketNumber": "2923",
