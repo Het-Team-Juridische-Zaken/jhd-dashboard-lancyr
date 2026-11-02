@@ -1,10 +1,10 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T11:01:06Z",
-  "totaalInbound": 17,
-  "totaalGemist": 8,
+  "generated_at": "2026-11-02T11:10:17Z",
+  "totaalInbound": 18,
+  "totaalGemist": 9,
   "terugGebeld": 0,
-  "nietTerugGebeld": 8,
+  "nietTerugGebeld": 9,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31627567548",
@@ -59,6 +59,13 @@
       "nummer": "+31620956361",
       "naam": "Onbekend",
       "tijd": "11:44",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31627418932",
+      "naam": "Onbekend",
+      "tijd": "11:56",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -117,6 +124,13 @@
       "nummer": "+31620956361",
       "naam": "Onbekend",
       "tijd": "11:44",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31627418932",
+      "naam": "Onbekend",
+      "tijd": "11:56",
       "callResult": "overflowed",
       "teruggebeld": false
     }

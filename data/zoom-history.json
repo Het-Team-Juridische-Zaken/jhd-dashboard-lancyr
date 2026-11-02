@@ -7189,12 +7189,19 @@
         "nummer": "+31620956361",
         "teruggebeld": false,
         "tijd": "11:44"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31627418932",
+        "teruggebeld": false,
+        "tijd": "11:56"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-02",
-    "generated_at": "2026-11-02T11:01:06Z",
-    "nietTerugGebeld": 8,
+    "generated_at": "2026-11-02T11:10:17Z",
+    "nietTerugGebeld": 9,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7251,10 +7258,17 @@
         "nummer": "+31620956361",
         "teruggebeld": false,
         "tijd": "11:44"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31627418932",
+        "teruggebeld": false,
+        "tijd": "11:56"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 8,
-    "totaalInbound": 17
+    "totaalGemist": 9,
+    "totaalInbound": 18
   }
 }
