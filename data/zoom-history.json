@@ -7128,8 +7128,8 @@
   "2026-11-02": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 14,
-        "gesprekstijdSec": 3971,
+        "beantwoord": 15,
+        "gesprekstijdSec": 4273,
         "uitgaand": 3
       }
     },
@@ -7217,12 +7217,19 @@
         "nummer": "+31649761068",
         "teruggebeld": false,
         "tijd": "13:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629342905",
+        "teruggebeld": false,
+        "tijd": "16:34"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-02",
-    "generated_at": "2026-11-02T15:31:02Z",
-    "nietTerugGebeld": 11,
+    "generated_at": "2026-11-02T15:36:18Z",
+    "nietTerugGebeld": 12,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7300,10 +7307,17 @@
         "nummer": "+31649761068",
         "teruggebeld": false,
         "tijd": "13:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629342905",
+        "teruggebeld": false,
+        "tijd": "16:34"
       }
     ],
     "terugGebeld": 1,
-    "totaalGemist": 12,
-    "totaalInbound": 26
+    "totaalGemist": 13,
+    "totaalInbound": 28
   }
 }

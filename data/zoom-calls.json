@@ -1,10 +1,10 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T15:31:02Z",
-  "totaalInbound": 26,
-  "totaalGemist": 12,
+  "generated_at": "2026-11-02T15:36:18Z",
+  "totaalInbound": 28,
+  "totaalGemist": 13,
   "terugGebeld": 1,
-  "nietTerugGebeld": 11,
+  "nietTerugGebeld": 12,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31621359836",
@@ -80,6 +80,13 @@
       "nummer": "+31649761068",
       "naam": "Onbekend",
       "tijd": "13:44",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31629342905",
+      "naam": "Onbekend",
+      "tijd": "16:34",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -168,13 +175,20 @@
       "tijd": "13:44",
       "callResult": "abandoned",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31629342905",
+      "naam": "Onbekend",
+      "tijd": "16:34",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 14,
+      "beantwoord": 15,
       "uitgaand": 3,
-      "gesprekstijdSec": 3971
+      "gesprekstijdSec": 4273
     }
   },
   "beantwoordZonderAgent": 0
