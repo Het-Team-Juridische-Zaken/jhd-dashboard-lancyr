@@ -7342,12 +7342,19 @@
         "nummer": "+31643031400",
         "teruggebeld": false,
         "tijd": "11:15"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31649939907",
+        "teruggebeld": false,
+        "tijd": "11:21"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-03",
-    "generated_at": "2026-11-03T10:20:42Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-03T10:24:36Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7362,10 +7369,17 @@
         "nummer": "+31643031400",
         "teruggebeld": false,
         "tijd": "11:15"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31649939907",
+        "teruggebeld": false,
+        "tijd": "11:21"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 3
+    "totaalGemist": 3,
+    "totaalInbound": 4
   }
 }
