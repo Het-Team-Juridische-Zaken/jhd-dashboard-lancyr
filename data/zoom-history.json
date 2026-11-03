@@ -7335,12 +7335,19 @@
         "nummer": "+31643254686",
         "teruggebeld": false,
         "tijd": "09:04"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31643031400",
+        "teruggebeld": false,
+        "tijd": "11:15"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-03",
-    "generated_at": "2026-11-03T10:10:19Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-03T10:16:30Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7348,10 +7355,17 @@
         "nummer": "+31643254686",
         "teruggebeld": false,
         "tijd": "09:04"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31643031400",
+        "teruggebeld": false,
+        "tijd": "11:15"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 2
+    "totaalGemist": 2,
+    "totaalInbound": 3
   }
 }
