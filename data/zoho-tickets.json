@@ -1,16 +1,31 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T08:20:43Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-11-03T08:26:31Z",
+  "tickets": [
+    {
+      "ticketNumber": "2928",
+      "tijd": "09:21",
+      "titel": "Niet gebeld door Senne Buishuis gisteren",
+      "klant": "T. Doorn",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031001",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Email": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 33,
+    "totaalOpen": 34,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 13,
+      "Open": 14,
       "Gesloten": 724,
       "In de wacht": 20
     },
@@ -280,6 +295,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-02",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014995093"
+    },
+    {
+      "ticketNumber": "2928",
+      "titel": "Niet gebeld door Senne Buishuis gisteren",
+      "klant": "T. Doorn",
+      "status": "Open",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031001"
     }
   ]
 }
