@@ -7351,6 +7351,13 @@
         "tijd": "11:21"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31649939907",
+        "teruggebeld": false,
+        "tijd": "11:46"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31621267991",
@@ -7360,8 +7367,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-03",
-    "generated_at": "2026-11-03T10:50:41Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-11-03T10:53:59Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7385,6 +7392,13 @@
         "tijd": "11:21"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31649939907",
+        "teruggebeld": false,
+        "tijd": "11:46"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31621267991",
@@ -7393,7 +7407,7 @@
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 6
+    "totaalGemist": 5,
+    "totaalInbound": 7
   }
 }
