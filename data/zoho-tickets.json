@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T16:35:52Z",
+  "generated_at": "2026-11-03T16:40:45Z",
   "tickets": [
     {
       "ticketNumber": "2928",
@@ -82,12 +82,12 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 6,
-    "geslotenVandaag": 15,
-    "totaalOpen": 26,
+    "geslotenVandaag": 14,
+    "totaalOpen": 27,
     "inDeWacht": 14,
     "statusBreakdown": {
-      "Open": 12,
-      "Gesloten": 732,
+      "Open": 13,
+      "Gesloten": 731,
       "In de wacht": 14
     },
     "capBereikt": false
@@ -188,6 +188,14 @@
       "status": "Open",
       "aangemaakt": "2026-10-16",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
+    },
+    {
+      "ticketNumber": "2881",
+      "titel": "houdgreep BrandMr; relatienr. 84233704",
+      "klant": "F. Sanou",
+      "status": "Open",
+      "aangemaakt": "2026-10-19",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722001"
     },
     {
       "ticketNumber": "2911",

@@ -563,14 +563,14 @@
   },
   "2026-11-03": {
     "capBereikt": false,
-    "geslotenVandaag": 15,
+    "geslotenVandaag": 14,
     "inDeWacht": 14,
     "nieuweVandaag": 6,
     "statusBreakdown": {
-      "Gesloten": 732,
+      "Gesloten": 731,
       "In de wacht": 14,
-      "Open": 12
+      "Open": 13
     },
-    "totaalOpen": 26
+    "totaalOpen": 27
   }
 }
