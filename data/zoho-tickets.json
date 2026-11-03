@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T15:24:23Z",
+  "generated_at": "2026-11-03T15:31:07Z",
   "tickets": [
     {
       "ticketNumber": "2928",
@@ -82,25 +82,17 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 6,
-    "geslotenVandaag": 3,
-    "totaalOpen": 37,
-    "inDeWacht": 24,
+    "geslotenVandaag": 14,
+    "totaalOpen": 26,
+    "inDeWacht": 16,
     "statusBreakdown": {
-      "Gesloten": 721,
-      "In de wacht": 24,
-      "Open": 13
+      "Gesloten": 732,
+      "In de wacht": 16,
+      "Open": 10
     },
     "capBereikt": false
   },
   "openTickets": [
-    {
-      "ticketNumber": "2220",
-      "titel": "FW: 84229772_Wongsodrono: tickets evenement WAVY",
-      "klant": "J.A. Wongsodrono",
-      "status": "In de wacht",
-      "aangemaakt": "2026-05-27",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000011647210"
-    },
     {
       "ticketNumber": "2339",
       "titel": "Conflict aannemer - afkoop",
@@ -142,28 +134,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013207089"
     },
     {
-      "ticketNumber": "2699",
-      "titel": "FW: 84190257_Schiphuis: Beroep op rechtsbijstandverzekering",
-      "klant": "R.B. Schiphuis",
-      "status": "In de wacht",
-      "aangemaakt": "2026-09-08",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013871009"
-    },
-    {
       "ticketNumber": "2722",
       "titel": "FW: Relatienummer 84181098: LancyrJuridischeHelpdesk is nodig.",
       "klant": "X. Zhang",
       "status": "Open",
       "aangemaakt": "2026-09-11",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013967056"
-    },
-    {
-      "ticketNumber": "2833",
-      "titel": "Rechtsbijstandverzekering elektrische fiets moeder Gaarthuis",
-      "klant": "J.M.T. Gaarthuis",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014426020"
     },
     {
       "ticketNumber": "2838",
@@ -182,28 +158,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014530001"
     },
     {
-      "ticketNumber": "2851",
-      "titel": "Wachten op belafspraak",
-      "klant": "H.W. deLeeuw",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-09",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014541001"
-    },
-    {
       "ticketNumber": "2865",
       "titel": "FW: U kunt ook de rechtsbijstand laten aanmelden bij Waarborgfonds",
       "klant": "De juridische helpdesk",
       "status": "In de wacht",
       "aangemaakt": "2026-10-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014597080"
-    },
-    {
-      "ticketNumber": "2876",
-      "titel": "Juridische ondersteuning duizendkoop",
-      "klant": "N. Martina",
-      "status": "Open",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014652094"
     },
     {
       "ticketNumber": "2871",
@@ -214,14 +174,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013"
     },
     {
-      "ticketNumber": "2873",
-      "titel": "Conflict met huurder",
-      "klant": "C.H.O. Lissenberg",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-14",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014646111"
-    },
-    {
       "ticketNumber": "2878",
       "titel": "Nieuwe melding, afsplister [D3076943_I74357557]",
       "klant": "BrandMR Intake",
@@ -230,44 +182,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
     },
     {
-      "ticketNumber": "2881",
-      "titel": "houdgreep BrandMr; relatienr. 84233704",
-      "klant": "F. Sanou",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-19",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722001"
-    },
-    {
-      "ticketNumber": "2885",
-      "titel": "Stopzetten auto verzekering N-775-BR",
-      "klant": "Prive Mail Rick Welvaart",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-20",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014699148"
-    },
-    {
-      "ticketNumber": "2886",
-      "titel": "Fwd: Aansprakelijkstelling verkeersongeval 11 september 2026, uw verzekerde ZT-718-V [D20161151_I73734594]",
-      "klant": "S.L. Soedamah",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-20",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014745060"
-    },
-    {
       "ticketNumber": "2889",
       "titel": "FW: 84195328 (Volp, C.K.N.): Rechtsbijstandverzekering",
       "klant": "De juridische helpdesk",
       "status": "In de wacht",
       "aangemaakt": "2026-10-21",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
-    },
-    {
-      "ticketNumber": "2912",
-      "titel": "Contractuele aansprakelijkheid en vrijwaring bij functiewisseling",
-      "klant": "I.M. Hendriks",
-      "status": "Open",
-      "aangemaakt": "2026-10-27",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014880315"
     },
     {
       "ticketNumber": "2911",
@@ -316,14 +236,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-29",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
-    },
-    {
-      "ticketNumber": "2916",
-      "titel": "Reorganisatie en geschiktheidsbeoordeling",
-      "klant": "F.A. Beenen-Kieft",
-      "status": "Open",
-      "aangemaakt": "2026-10-30",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014973002"
     },
     {
       "ticketNumber": "2922",
