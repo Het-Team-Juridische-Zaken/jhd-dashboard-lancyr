@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T15:15:38Z",
+  "generated_at": "2026-11-03T15:20:52Z",
   "tickets": [
     {
       "ticketNumber": "2928",
@@ -82,25 +82,17 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 6,
-    "geslotenVandaag": 1,
-    "totaalOpen": 39,
+    "geslotenVandaag": 2,
+    "totaalOpen": 38,
     "inDeWacht": 21,
     "statusBreakdown": {
-      "Open": 18,
+      "Gesloten": 720,
       "In de wacht": 21,
-      "Gesloten": 719
+      "Open": 17
     },
     "capBereikt": false
   },
   "openTickets": [
-    {
-      "ticketNumber": "136",
-      "titel": "Brandschade vakantieappartement Texel en VVE-geschil met Annemarieke",
-      "klant": "A.M.W. vanVlodrop",
-      "status": "Open",
-      "aangemaakt": "2025-03-13",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000003420678"
-    },
     {
       "ticketNumber": "2220",
       "titel": "FW: 84229772_Wongsodrono: tickets evenement WAVY",
