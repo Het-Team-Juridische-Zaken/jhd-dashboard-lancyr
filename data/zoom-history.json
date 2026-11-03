@@ -7384,12 +7384,19 @@
         "nummer": "+31610439904",
         "teruggebeld": false,
         "tijd": "12:38"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31630731901",
+        "teruggebeld": false,
+        "tijd": "12:45"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-03",
-    "generated_at": "2026-11-03T11:54:05Z",
-    "nietTerugGebeld": 8,
+    "generated_at": "2026-11-03T12:01:06Z",
+    "nietTerugGebeld": 9,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7446,10 +7453,17 @@
         "nummer": "+31610439904",
         "teruggebeld": false,
         "tijd": "12:38"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31630731901",
+        "teruggebeld": false,
+        "tijd": "12:45"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 8,
-    "totaalInbound": 10
+    "totaalGemist": 9,
+    "totaalInbound": 11
   }
 }
