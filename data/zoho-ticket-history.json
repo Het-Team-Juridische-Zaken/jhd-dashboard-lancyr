@@ -563,11 +563,11 @@
   },
   "2026-11-03": {
     "capBereikt": false,
-    "geslotenVandaag": 0,
+    "geslotenVandaag": 1,
     "inDeWacht": 20,
-    "nieuweVandaag": 4,
+    "nieuweVandaag": 5,
     "statusBreakdown": {
-      "Gesloten": 719,
+      "Gesloten": 720,
       "In de wacht": 20,
       "Open": 17
     },
