@@ -7370,12 +7370,19 @@
         "nummer": "+31650582954",
         "teruggebeld": false,
         "tijd": "11:58"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31620874282",
+        "teruggebeld": false,
+        "tijd": "12:04"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-03",
-    "generated_at": "2026-11-03T11:15:37Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-11-03T11:20:43Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7418,10 +7425,17 @@
         "nummer": "+31650582954",
         "teruggebeld": false,
         "tijd": "11:58"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31620874282",
+        "teruggebeld": false,
+        "tijd": "12:04"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 8
+    "totaalGemist": 7,
+    "totaalInbound": 9
   }
 }
