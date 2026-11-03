@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T16:50:52Z",
+  "generated_at": "2026-11-03T16:54:07Z",
   "tickets": [
     {
       "ticketNumber": "2928",
@@ -85,20 +85,44 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015068001",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2936",
+      "tijd": "17:52",
+      "titel": "FW: 84312780 (Bunnig, W.) rappel mbt zaak tegen Verduurzaming Centrum Nederland ",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015068056",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2935",
+      "tijd": "17:52",
+      "titel": "FW: 84218530 (Randhawa, M.S.): Vraag bestelling bed vervolg",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054090",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 5,
+    "Email": 7,
     "Phone": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 7,
+    "nieuweVandaag": 9,
     "geslotenVandaag": 13,
-    "totaalOpen": 29,
+    "totaalOpen": 31,
     "inDeWacht": 14,
     "statusBreakdown": {
-      "Open": 15,
+      "Open": 17,
       "Gesloten": 730,
       "In de wacht": 14
     },
@@ -288,6 +312,22 @@
       "status": "Open",
       "aangemaakt": "2026-11-02",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977297"
+    },
+    {
+      "ticketNumber": "2936",
+      "titel": "FW: 84312780 (Bunnig, W.) rappel mbt zaak tegen Verduurzaming Centrum Nederland ",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015068056"
+    },
+    {
+      "ticketNumber": "2935",
+      "titel": "FW: 84218530 (Randhawa, M.S.): Vraag bestelling bed vervolg",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054090"
     },
     {
       "ticketNumber": "2934",
