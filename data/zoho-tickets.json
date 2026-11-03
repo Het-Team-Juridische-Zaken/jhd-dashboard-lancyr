@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T16:11:57Z",
+  "generated_at": "2026-11-03T16:18:56Z",
   "tickets": [
     {
       "ticketNumber": "2928",
@@ -82,12 +82,12 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 6,
-    "geslotenVandaag": 16,
-    "totaalOpen": 25,
+    "geslotenVandaag": 15,
+    "totaalOpen": 26,
     "inDeWacht": 14,
     "statusBreakdown": {
-      "Open": 11,
-      "Gesloten": 733,
+      "Open": 12,
+      "Gesloten": 732,
       "In de wacht": 14
     },
     "capBereikt": false
@@ -140,6 +140,14 @@
       "status": "Open",
       "aangemaakt": "2026-09-11",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013967056"
+    },
+    {
+      "ticketNumber": "2833",
+      "titel": "Rechtsbijstandverzekering elektrische fiets moeder Gaarthuis",
+      "klant": "J.M.T. Gaarthuis",
+      "status": "Open",
+      "aangemaakt": "2026-10-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014426020"
     },
     {
       "ticketNumber": "2838",
