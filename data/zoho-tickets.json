@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T16:54:07Z",
+  "generated_at": "2026-11-03T17:01:13Z",
   "tickets": [
     {
       "ticketNumber": "2928",
@@ -43,7 +43,7 @@
       "tijd": "13:08",
       "titel": "Verzoek om spoedadvies – intrekking leaseauto door werkgever (relatienummer 84217114)",
       "klant": "R.A. Carrilho",
-      "status": "In de wacht",
+      "status": "Open",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054013",
@@ -120,11 +120,11 @@
     "nieuweVandaag": 9,
     "geslotenVandaag": 13,
     "totaalOpen": 31,
-    "inDeWacht": 14,
+    "inDeWacht": 13,
     "statusBreakdown": {
-      "Open": 17,
+      "Open": 18,
       "Gesloten": 730,
-      "In de wacht": 14
+      "In de wacht": 13
     },
     "capBereikt": false
   },
@@ -314,6 +314,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977297"
     },
     {
+      "ticketNumber": "2931",
+      "titel": "Verzoek om spoedadvies – intrekking leaseauto door werkgever (relatienummer 84217114)",
+      "klant": "R.A. Carrilho",
+      "status": "Open",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054013"
+    },
+    {
       "ticketNumber": "2936",
       "titel": "FW: 84312780 (Bunnig, W.) rappel mbt zaak tegen Verduurzaming Centrum Nederland ",
       "klant": "De juridische helpdesk",
@@ -344,14 +352,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049001"
-    },
-    {
-      "ticketNumber": "2931",
-      "titel": "Verzoek om spoedadvies – intrekking leaseauto door werkgever (relatienummer 84217114)",
-      "klant": "R.A. Carrilho",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-03",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054013"
     },
     {
       "ticketNumber": "2933",
