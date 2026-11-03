@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T15:31:07Z",
+  "generated_at": "2026-11-03T15:36:27Z",
   "tickets": [
     {
       "ticketNumber": "2928",
@@ -82,12 +82,12 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 6,
-    "geslotenVandaag": 14,
-    "totaalOpen": 26,
-    "inDeWacht": 16,
+    "geslotenVandaag": 16,
+    "totaalOpen": 24,
+    "inDeWacht": 14,
     "statusBreakdown": {
-      "Gesloten": 732,
-      "In de wacht": 16,
+      "Gesloten": 734,
+      "In de wacht": 14,
       "Open": 10
     },
     "capBereikt": false
@@ -182,14 +182,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014644213"
     },
     {
-      "ticketNumber": "2889",
-      "titel": "FW: 84195328 (Volp, C.K.N.): Rechtsbijstandverzekering",
-      "klant": "De juridische helpdesk",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-21",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014790021"
-    },
-    {
       "ticketNumber": "2911",
       "titel": "FW: Polis afschrijving Antoniou",
       "klant": "De juridische helpdesk",
@@ -212,14 +204,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-27",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846086"
-    },
-    {
-      "ticketNumber": "2907",
-      "titel": "FW: Juridische hulpvraag voor schadenummer: 2605882",
-      "klant": "De juridische helpdesk",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-27",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883131"
     },
     {
       "ticketNumber": "2913",
