@@ -564,12 +564,12 @@
   "2026-11-03": {
     "capBereikt": false,
     "geslotenVandaag": 1,
-    "inDeWacht": 20,
+    "inDeWacht": 21,
     "nieuweVandaag": 6,
     "statusBreakdown": {
       "Gesloten": 720,
-      "In de wacht": 20,
-      "Open": 18
+      "In de wacht": 21,
+      "Open": 17
     },
     "totaalOpen": 38
   }
