@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T12:01:03Z",
+  "generated_at": "2026-11-03T12:10:47Z",
   "tickets": [
     {
       "ticketNumber": "2928",
@@ -37,19 +37,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049001",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2931",
+      "tijd": "13:08",
+      "titel": "Verzoek om spoedadvies – intrekking leaseauto door werkgever (relatienummer 84217114)",
+      "klant": "R.A. Carrilho",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054013",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 3
+    "Email": 4
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
+    "nieuweVandaag": 4,
     "geslotenVandaag": 0,
-    "totaalOpen": 36,
+    "totaalOpen": 37,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 16,
+      "Open": 17,
       "Gesloten": 719,
       "In de wacht": 20
     },
@@ -319,6 +331,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-02",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014995093"
+    },
+    {
+      "ticketNumber": "2931",
+      "titel": "Verzoek om spoedadvies – intrekking leaseauto door werkgever (relatienummer 84217114)",
+      "klant": "R.A. Carrilho",
+      "status": "Open",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054013"
     },
     {
       "ticketNumber": "2930",
