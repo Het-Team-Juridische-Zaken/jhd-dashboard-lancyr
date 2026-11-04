@@ -7558,12 +7558,19 @@
         "nummer": "+31621212350",
         "teruggebeld": false,
         "tijd": "14:14"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31618570720",
+        "teruggebeld": false,
+        "tijd": "15:17"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T14:20:59Z",
-    "nietTerugGebeld": 9,
+    "generated_at": "2026-11-04T14:24:59Z",
+    "nietTerugGebeld": 10,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7627,10 +7634,17 @@
         "nummer": "+31621212350",
         "teruggebeld": false,
         "tijd": "14:14"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31618570720",
+        "teruggebeld": false,
+        "tijd": "15:17"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 12,
-    "totaalInbound": 24
+    "totaalGemist": 13,
+    "totaalInbound": 25
   }
 }

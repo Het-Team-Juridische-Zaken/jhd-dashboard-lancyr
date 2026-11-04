@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T14:20:59Z",
-  "totaalInbound": 24,
-  "totaalGemist": 12,
+  "generated_at": "2026-11-04T14:24:59Z",
+  "totaalInbound": 25,
+  "totaalGemist": 13,
   "terugGebeld": 3,
-  "nietTerugGebeld": 9,
+  "nietTerugGebeld": 10,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31616342016",
@@ -67,6 +67,13 @@
       "naam": "Onbekend",
       "tijd": "14:14",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31618570720",
+      "naam": "Onbekend",
+      "tijd": "15:17",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -153,6 +160,13 @@
       "naam": "Onbekend",
       "tijd": "14:14",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31618570720",
+      "naam": "Onbekend",
+      "tijd": "15:17",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
