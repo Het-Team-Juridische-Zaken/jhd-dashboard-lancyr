@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T09:01:05Z",
+  "generated_at": "2026-11-04T09:10:57Z",
   "tickets": [
     {
       "ticketNumber": "2937",
@@ -23,11 +23,11 @@
     "nieuweVandaag": 1,
     "geslotenVandaag": 2,
     "totaalOpen": 31,
-    "inDeWacht": 13,
+    "inDeWacht": 14,
     "statusBreakdown": {
-      "Open": 18,
-      "Gesloten": 731,
-      "In de wacht": 13
+      "In de wacht": 14,
+      "Open": 17,
+      "Gesloten": 731
     },
     "capBereikt": false
   },
@@ -210,9 +210,9 @@
     },
     {
       "ticketNumber": "2931",
-      "titel": "Verzoek om spoedadvies – intrekking leaseauto door werkgever (relatienummer 84217114)",
+      "titel": "Leaseauto intrekking en compensatierechten met Carrillo",
       "klant": "R.A. Carrilho",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054013"
     },
