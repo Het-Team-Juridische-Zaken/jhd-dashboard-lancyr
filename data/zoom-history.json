@@ -7495,12 +7495,19 @@
         "nummer": "+31633850351",
         "teruggebeld": false,
         "tijd": "12:12"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643031400",
+        "teruggebeld": false,
+        "tijd": "12:21"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T11:24:17Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-11-04T11:31:09Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7522,10 +7529,17 @@
         "nummer": "+31633850351",
         "teruggebeld": false,
         "tijd": "12:12"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643031400",
+        "teruggebeld": false,
+        "tijd": "12:21"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 8
+    "totaalGemist": 4,
+    "totaalInbound": 9
   }
 }

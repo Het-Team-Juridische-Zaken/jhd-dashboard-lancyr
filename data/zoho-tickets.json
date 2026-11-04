@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T11:24:15Z",
+  "generated_at": "2026-11-04T11:31:07Z",
   "tickets": [
     {
       "ticketNumber": "2937",
@@ -73,22 +73,46 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015074087",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2943",
+      "tijd": "12:25",
+      "titel": "Fw: Afdeling:Rechtsbijstand ",
+      "klant": "H. AFKIR",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049212",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2944",
+      "tijd": "12:26",
+      "titel": "Afdeling:Rechtsbijstand ",
+      "klant": "H. AFKIR",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031167",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 2,
+    "Email": 4,
     "Phone": 4
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 6,
+    "nieuweVandaag": 8,
     "geslotenVandaag": 6,
-    "totaalOpen": 32,
+    "totaalOpen": 34,
     "inDeWacht": 16,
     "statusBreakdown": {
+      "Open": 18,
       "Gesloten": 735,
-      "In de wacht": 16,
-      "Open": 16
+      "In de wacht": 16
     },
     "capBereikt": false
   },
@@ -316,6 +340,22 @@
       "status": "Open",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031001"
+    },
+    {
+      "ticketNumber": "2944",
+      "titel": "Afdeling:Rechtsbijstand ",
+      "klant": "H. AFKIR",
+      "status": "Open",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031167"
+    },
+    {
+      "ticketNumber": "2943",
+      "titel": "Fw: Afdeling:Rechtsbijstand ",
+      "klant": "H. AFKIR",
+      "status": "Open",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049212"
     },
     {
       "ticketNumber": "2940",
