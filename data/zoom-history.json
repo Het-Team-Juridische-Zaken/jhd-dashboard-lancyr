@@ -7469,8 +7469,8 @@
   "2026-11-04": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 8,
-        "gesprekstijdSec": 4435,
+        "beantwoord": 9,
+        "gesprekstijdSec": 4500,
         "uitgaand": 7
       }
     },
@@ -7544,12 +7544,19 @@
         "nummer": "+31652285733",
         "teruggebeld": false,
         "tijd": "13:20"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31623728682",
+        "teruggebeld": false,
+        "tijd": "14:06"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T13:01:12Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-11-04T13:10:18Z",
+    "nietTerugGebeld": 8,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7599,10 +7606,17 @@
         "nummer": "+31652285733",
         "teruggebeld": false,
         "tijd": "13:20"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31623728682",
+        "teruggebeld": false,
+        "tijd": "14:06"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 10,
-    "totaalInbound": 18
+    "totaalGemist": 11,
+    "totaalInbound": 20
   }
 }

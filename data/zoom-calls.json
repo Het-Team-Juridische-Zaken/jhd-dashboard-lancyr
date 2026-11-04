@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T13:01:12Z",
-  "totaalInbound": 18,
-  "totaalGemist": 10,
+  "generated_at": "2026-11-04T13:10:18Z",
+  "totaalInbound": 20,
+  "totaalGemist": 11,
   "terugGebeld": 3,
-  "nietTerugGebeld": 7,
+  "nietTerugGebeld": 8,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31616342016",
@@ -53,6 +53,13 @@
       "naam": "Onbekend",
       "tijd": "13:20",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31623728682",
+      "naam": "Onbekend",
+      "tijd": "14:06",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -126,13 +133,20 @@
       "tijd": "13:20",
       "callResult": "overflowed",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31623728682",
+      "naam": "Onbekend",
+      "tijd": "14:06",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Leyla Pereira": {
-      "beantwoord": 8,
+      "beantwoord": 9,
       "uitgaand": 7,
-      "gesprekstijdSec": 4435
+      "gesprekstijdSec": 4500
     }
   },
   "beantwoordZonderAgent": 0
