@@ -1,15 +1,22 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T10:12:08Z",
-  "totaalInbound": 6,
-  "totaalGemist": 1,
+  "generated_at": "2026-11-04T10:19:44Z",
+  "totaalInbound": 7,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31616342016",
       "naam": "Onbekend",
       "tijd": "10:17",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31626280458",
+      "naam": "Onbekend",
+      "tijd": "11:14",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -19,6 +26,13 @@
       "nummer": "+31616342016",
       "naam": "Onbekend",
       "tijd": "10:17",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31626280458",
+      "naam": "Onbekend",
+      "tijd": "11:14",
       "callResult": "abandoned",
       "teruggebeld": false
     }

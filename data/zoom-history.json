@@ -7481,12 +7481,19 @@
         "nummer": "+31616342016",
         "teruggebeld": false,
         "tijd": "10:17"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31626280458",
+        "teruggebeld": false,
+        "tijd": "11:14"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T10:12:08Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-04T10:19:44Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7494,10 +7501,17 @@
         "nummer": "+31616342016",
         "teruggebeld": false,
         "tijd": "10:17"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31626280458",
+        "teruggebeld": false,
+        "tijd": "11:14"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 6
+    "totaalGemist": 2,
+    "totaalInbound": 7
   }
 }
