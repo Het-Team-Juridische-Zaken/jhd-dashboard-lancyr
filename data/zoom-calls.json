@@ -1,17 +1,33 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T09:18:59Z",
-  "totaalInbound": 2,
-  "totaalGemist": 0,
+  "generated_at": "2026-11-04T09:20:47Z",
+  "totaalInbound": 4,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31616342016",
+      "naam": "Onbekend",
+      "tijd": "10:17",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31616342016",
+      "naam": "Onbekend",
+      "tijd": "10:17",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {
     "Leyla Pereira": {
-      "beantwoord": 2,
+      "beantwoord": 3,
       "uitgaand": 2,
-      "gesprekstijdSec": 1032
+      "gesprekstijdSec": 1426
     }
   },
   "beantwoordZonderAgent": 0

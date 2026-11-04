@@ -7469,19 +7469,35 @@
   "2026-11-04": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 1032,
+        "beantwoord": 3,
+        "gesprekstijdSec": 1426,
         "uitgaand": 2
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31616342016",
+        "teruggebeld": false,
+        "tijd": "10:17"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T09:18:59Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-11-04T09:20:47Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31616342016",
+        "teruggebeld": false,
+        "tijd": "10:17"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 2
+    "totaalGemist": 1,
+    "totaalInbound": 4
   }
 }
