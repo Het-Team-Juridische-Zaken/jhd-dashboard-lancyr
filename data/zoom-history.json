@@ -7572,12 +7572,19 @@
         "nummer": "+31629342905",
         "teruggebeld": false,
         "tijd": "15:38"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643031400",
+        "teruggebeld": false,
+        "tijd": "16:50"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T15:54:16Z",
-    "nietTerugGebeld": 11,
+    "generated_at": "2026-11-04T16:01:21Z",
+    "nietTerugGebeld": 12,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7655,10 +7662,17 @@
         "nummer": "+31629342905",
         "teruggebeld": false,
         "tijd": "15:38"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643031400",
+        "teruggebeld": false,
+        "tijd": "16:50"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 14,
-    "totaalInbound": 26
+    "totaalGemist": 15,
+    "totaalInbound": 27
   }
 }

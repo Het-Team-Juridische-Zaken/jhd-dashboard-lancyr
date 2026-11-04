@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T15:54:10Z",
+  "generated_at": "2026-11-04T16:01:14Z",
   "tickets": [
     {
       "ticketNumber": "2937",
@@ -130,13 +130,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 10,
-    "geslotenVandaag": 10,
-    "totaalOpen": 32,
-    "inDeWacht": 18,
+    "geslotenVandaag": 11,
+    "totaalOpen": 31,
+    "inDeWacht": 19,
     "statusBreakdown": {
-      "In de wacht": 18,
-      "Open": 14,
-      "Gesloten": 739
+      "Open": 12,
+      "In de wacht": 19,
+      "Gesloten": 740
     },
     "capBereikt": false
   },
@@ -209,7 +209,7 @@
       "ticketNumber": "2851",
       "titel": "Wachten op belafspraak",
       "klant": "H.W. deLeeuw",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-09",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014541001"
     },
@@ -236,14 +236,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013"
-    },
-    {
-      "ticketNumber": "2881",
-      "titel": "houdgreep BrandMr; relatienr. 84233704",
-      "klant": "F. Sanou",
-      "status": "Open",
-      "aangemaakt": "2026-10-19",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014722001"
     },
     {
       "ticketNumber": "2910",
@@ -342,20 +334,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
     },
     {
-      "ticketNumber": "2947",
-      "titel": "zsm polisinformatie nodig [D3077715_I74893557]",
-      "klant": "Lucinda Arrey",
-      "status": "Open",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031245"
-    },
-    {
       "ticketNumber": "2938",
       "titel": "Mazda elektrische auto: garantie en oplossing bij defect laadpaal",
       "klant": "Dirk Willems",
       "status": "Open",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049158"
+    },
+    {
+      "ticketNumber": "2947",
+      "titel": "zsm polisinformatie nodig [D3077715_I74893557]",
+      "klant": "Lucinda Arrey",
+      "status": "Open",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031245"
     },
     {
       "ticketNumber": "2946",
