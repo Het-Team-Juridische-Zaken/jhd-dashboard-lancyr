@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T15:11:22Z",
+  "generated_at": "2026-11-04T15:18:29Z",
   "tickets": [
     {
       "ticketNumber": "2937",
@@ -109,20 +109,32 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049268",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2947",
+      "tijd": "16:16",
+      "titel": "zsm polisinformatie nodig [D3077715_I74893557]",
+      "klant": "Lucinda Arrey",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031245",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 4,
+    "Email": 5,
     "Phone": 5
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 9,
+    "nieuweVandaag": 10,
     "geslotenVandaag": 10,
-    "totaalOpen": 31,
+    "totaalOpen": 32,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 14,
+      "Open": 15,
       "In de wacht": 17,
       "Gesloten": 739
     },
@@ -328,6 +340,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
+    },
+    {
+      "ticketNumber": "2947",
+      "titel": "zsm polisinformatie nodig [D3077715_I74893557]",
+      "klant": "Lucinda Arrey",
+      "status": "Open",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031245"
     },
     {
       "ticketNumber": "2946",
