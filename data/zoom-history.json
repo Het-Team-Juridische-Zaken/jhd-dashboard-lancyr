@@ -7488,12 +7488,19 @@
         "nummer": "+31626280458",
         "teruggebeld": false,
         "tijd": "11:14"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31633850351",
+        "teruggebeld": false,
+        "tijd": "12:12"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T11:20:57Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-04T11:24:17Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7508,10 +7515,17 @@
         "nummer": "+31626280458",
         "teruggebeld": false,
         "tijd": "11:14"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31633850351",
+        "teruggebeld": false,
+        "tijd": "12:12"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 7
+    "totaalGemist": 3,
+    "totaalInbound": 8
   }
 }

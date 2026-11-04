@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T11:20:57Z",
-  "totaalInbound": 7,
-  "totaalGemist": 2,
+  "generated_at": "2026-11-04T11:24:17Z",
+  "totaalInbound": 8,
+  "totaalGemist": 3,
   "terugGebeld": 0,
-  "nietTerugGebeld": 2,
+  "nietTerugGebeld": 3,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31616342016",
@@ -18,6 +18,13 @@
       "naam": "Onbekend",
       "tijd": "11:14",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31633850351",
+      "naam": "Onbekend",
+      "tijd": "12:12",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -34,6 +41,13 @@
       "naam": "Onbekend",
       "tijd": "11:14",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31633850351",
+      "naam": "Onbekend",
+      "tijd": "12:12",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
