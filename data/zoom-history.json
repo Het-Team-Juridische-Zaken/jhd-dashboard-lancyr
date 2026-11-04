@@ -7470,8 +7470,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 8,
-        "gesprekstijdSec": 4260,
-        "uitgaand": 6
+        "gesprekstijdSec": 4435,
+        "uitgaand": 7
       }
     },
     "alleGemistNummers": [
@@ -7548,7 +7548,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T12:44:23Z",
+    "generated_at": "2026-11-04T12:50:49Z",
     "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
