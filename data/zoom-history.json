@@ -7530,12 +7530,19 @@
         "nummer": "+31643906705",
         "teruggebeld": false,
         "tijd": "13:03"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31627567548",
+        "teruggebeld": false,
+        "tijd": "13:04"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T12:10:47Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-11-04T12:15:24Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7571,10 +7578,17 @@
         "nummer": "+31643906705",
         "teruggebeld": false,
         "tijd": "13:03"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31627567548",
+        "teruggebeld": false,
+        "tijd": "13:04"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 8,
-    "totaalInbound": 13
+    "totaalGemist": 9,
+    "totaalInbound": 14
   }
 }
