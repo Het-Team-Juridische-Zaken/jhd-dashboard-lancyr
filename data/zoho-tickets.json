@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T10:54:02Z",
+  "generated_at": "2026-11-04T11:10:10Z",
   "tickets": [
     {
       "ticketNumber": "2937",
@@ -49,22 +49,34 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044013",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2941",
+      "tijd": "11:57",
+      "titel": "Japanse duizendknoop melding en aansprakelijkheid gemeente",
+      "klant": "H. Schulz",
+      "status": "Gesloten",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015074009",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
     "Email": 2,
-    "Phone": 2
+    "Phone": 3
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 4,
-    "geslotenVandaag": 4,
+    "nieuweVandaag": 5,
+    "geslotenVandaag": 5,
     "totaalOpen": 32,
     "inDeWacht": 16,
     "statusBreakdown": {
+      "Gesloten": 734,
       "In de wacht": 16,
-      "Open": 16,
-      "Gesloten": 733
+      "Open": 16
     },
     "capBereikt": false
   },
