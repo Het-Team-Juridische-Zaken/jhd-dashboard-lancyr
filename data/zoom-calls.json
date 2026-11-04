@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T12:21:02Z",
-  "totaalInbound": 14,
-  "totaalGemist": 9,
+  "generated_at": "2026-11-04T12:29:08Z",
+  "totaalInbound": 17,
+  "totaalGemist": 10,
   "terugGebeld": 3,
-  "nietTerugGebeld": 6,
+  "nietTerugGebeld": 7,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31616342016",
@@ -45,6 +45,13 @@
       "nummer": "+31627567548",
       "naam": "Onbekend",
       "tijd": "13:04",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31652285733",
+      "naam": "Onbekend",
+      "tijd": "13:20",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -112,13 +119,20 @@
       "tijd": "13:04",
       "callResult": "overflowed",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31652285733",
+      "naam": "Onbekend",
+      "tijd": "13:20",
+      "callResult": "overflowed",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Leyla Pereira": {
-      "beantwoord": 5,
+      "beantwoord": 7,
       "uitgaand": 6,
-      "gesprekstijdSec": 3165
+      "gesprekstijdSec": 3786
     }
   },
   "beantwoordZonderAgent": 0
