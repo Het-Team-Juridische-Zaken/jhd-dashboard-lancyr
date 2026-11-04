@@ -7467,15 +7467,21 @@
     "totaalInbound": 13
   },
   "2026-11-04": {
-    "agenten": {},
+    "agenten": {
+      "Leyla Pereira": {
+        "beantwoord": 1,
+        "gesprekstijdSec": 39,
+        "uitgaand": 0
+      }
+    },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T08:10:44Z",
+    "generated_at": "2026-11-04T08:13:22Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalInbound": 1
   }
 }
