@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T14:01:11Z",
+  "generated_at": "2026-11-04T14:10:49Z",
   "tickets": [
     {
       "ticketNumber": "2937",
@@ -85,22 +85,34 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031167",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2945",
+      "tijd": "15:06",
+      "titel": "Aanrijding A9 – schadeclaim via rechtsbijstand",
+      "klant": "L.J. Stroomer",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044093",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
     "Email": 3,
-    "Phone": 4
+    "Phone": 5
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 7,
+    "nieuweVandaag": 8,
     "geslotenVandaag": 9,
-    "totaalOpen": 30,
-    "inDeWacht": 16,
+    "totaalOpen": 31,
+    "inDeWacht": 17,
     "statusBreakdown": {
+      "In de wacht": 17,
       "Gesloten": 738,
-      "Open": 14,
-      "In de wacht": 16
+      "Open": 14
     },
     "capBereikt": false
   },
@@ -312,6 +324,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
+    },
+    {
+      "ticketNumber": "2945",
+      "titel": "Aanrijding A9 – schadeclaim via rechtsbijstand",
+      "klant": "L.J. Stroomer",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044093"
     },
     {
       "ticketNumber": "2940",
