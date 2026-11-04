@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T15:01:18Z",
+  "generated_at": "2026-11-04T15:11:22Z",
   "tickets": [
     {
       "ticketNumber": "2937",
@@ -43,7 +43,7 @@
       "tijd": "11:20",
       "titel": "Keukencontract en annuleringsvergoeding met leverancier",
       "klant": "J.M.J. Nijhuis-Hannink",
-      "status": "Open",
+      "status": "In de wacht",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044013",
@@ -120,11 +120,11 @@
     "nieuweVandaag": 9,
     "geslotenVandaag": 10,
     "totaalOpen": 31,
-    "inDeWacht": 15,
+    "inDeWacht": 17,
     "statusBreakdown": {
-      "Gesloten": 739,
-      "Open": 16,
-      "In de wacht": 15
+      "Open": 14,
+      "In de wacht": 17,
+      "Gesloten": 739
     },
     "capBereikt": false
   },
@@ -253,7 +253,7 @@
       "ticketNumber": "2920",
       "titel": "Vakantiewoningen vergunning en burenconflict",
       "klant": "D.J.H. Vullings",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-30",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014985047"
     },
@@ -341,7 +341,7 @@
       "ticketNumber": "2940",
       "titel": "Keukencontract en annuleringsvergoeding met leverancier",
       "klant": "J.M.J. Nijhuis-Hannink",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044013"
     },
