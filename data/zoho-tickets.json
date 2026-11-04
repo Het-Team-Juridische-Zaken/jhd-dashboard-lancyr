@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T08:44:25Z",
+  "generated_at": "2026-11-04T08:50:45Z",
   "tickets": [
     {
       "ticketNumber": "2937",
@@ -21,12 +21,12 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 1,
-    "geslotenVandaag": 1,
-    "totaalOpen": 32,
+    "geslotenVandaag": 2,
+    "totaalOpen": 31,
     "inDeWacht": 13,
     "statusBreakdown": {
-      "Gesloten": 730,
-      "Open": 19,
+      "Gesloten": 731,
+      "Open": 18,
       "In de wacht": 13
     },
     "capBereikt": false
@@ -159,14 +159,6 @@
       "status": "Open",
       "aangemaakt": "2026-10-27",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883208"
-    },
-    {
-      "ticketNumber": "2909",
-      "titel": "FW: 84202191 (Hueskes, W.H.) Motorschade - productiefout",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-10-27",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014846086"
     },
     {
       "ticketNumber": "2913",
