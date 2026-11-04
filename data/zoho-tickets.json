@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T13:24:44Z",
+  "generated_at": "2026-11-04T13:31:04Z",
   "tickets": [
     {
       "ticketNumber": "2937",
@@ -106,12 +106,12 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 8,
-    "geslotenVandaag": 7,
-    "totaalOpen": 33,
+    "geslotenVandaag": 8,
+    "totaalOpen": 32,
     "inDeWacht": 16,
     "statusBreakdown": {
-      "Open": 17,
-      "Gesloten": 736,
+      "Gesloten": 737,
+      "Open": 16,
       "In de wacht": 16
     },
     "capBereikt": false
@@ -156,14 +156,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-08-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013207089"
-    },
-    {
-      "ticketNumber": "2722",
-      "titel": "Commissie uitbetaling en formele aanmaning aan voormalige werkgever",
-      "klant": "X. Zhang",
-      "status": "Open",
-      "aangemaakt": "2026-09-11",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013967056"
     },
     {
       "ticketNumber": "2833",
