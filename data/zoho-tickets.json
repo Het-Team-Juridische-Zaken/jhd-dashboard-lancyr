@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T15:31:08Z",
+  "generated_at": "2026-11-04T15:36:08Z",
   "tickets": [
     {
       "ticketNumber": "2937",
@@ -19,7 +19,7 @@
       "tijd": "10:34",
       "titel": "Mazda elektrische auto: garantie en oplossing bij defect laadpaal",
       "klant": "Dirk Willems",
-      "status": "Open",
+      "status": "Gesloten",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049158",
@@ -130,13 +130,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 10,
-    "geslotenVandaag": 10,
-    "totaalOpen": 32,
+    "geslotenVandaag": 11,
+    "totaalOpen": 31,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 15,
-      "In de wacht": 17,
-      "Gesloten": 739
+      "Gesloten": 740,
+      "Open": 14,
+      "In de wacht": 17
     },
     "capBereikt": false
   },
@@ -340,14 +340,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
-    },
-    {
-      "ticketNumber": "2938",
-      "titel": "Mazda elektrische auto: garantie en oplossing bij defect laadpaal",
-      "klant": "Dirk Willems",
-      "status": "Open",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049158"
     },
     {
       "ticketNumber": "2947",
