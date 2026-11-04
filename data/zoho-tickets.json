@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T09:50:49Z",
+  "generated_at": "2026-11-04T10:01:08Z",
   "tickets": [
     {
       "ticketNumber": "2937",
@@ -46,12 +46,12 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 3,
-    "geslotenVandaag": 3,
-    "totaalOpen": 32,
+    "geslotenVandaag": 4,
+    "totaalOpen": 31,
     "inDeWacht": 15,
     "statusBreakdown": {
-      "Gesloten": 732,
-      "Open": 17,
+      "Open": 16,
+      "Gesloten": 733,
       "In de wacht": 15
     },
     "capBereikt": false
@@ -186,18 +186,10 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883208"
     },
     {
-      "ticketNumber": "2913",
-      "titel": "Leaseauto beëindiging en functiewijziging",
-      "klant": "R.A. Carrilho",
-      "status": "In de wacht",
-      "aangemaakt": "2026-10-28",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014947003"
-    },
-    {
       "ticketNumber": "2915",
       "titel": "FW: 84313331 (Hinshelwood, S.H.): Urgent: Request for Legal Assistance – Employment Matter – Policy 5607-3391572",
       "klant": "De juridische helpdesk",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-29",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
     },
