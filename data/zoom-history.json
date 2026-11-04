@@ -7470,8 +7470,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 9,
-        "gesprekstijdSec": 4500,
-        "uitgaand": 7
+        "gesprekstijdSec": 4808,
+        "uitgaand": 8
       }
     },
     "alleGemistNummers": [
@@ -7551,12 +7551,19 @@
         "nummer": "+31623728682",
         "teruggebeld": false,
         "tijd": "14:06"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31621212350",
+        "teruggebeld": false,
+        "tijd": "14:14"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T13:16:17Z",
-    "nietTerugGebeld": 8,
+    "generated_at": "2026-11-04T13:20:57Z",
+    "nietTerugGebeld": 9,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7613,10 +7620,17 @@
         "nummer": "+31623728682",
         "teruggebeld": false,
         "tijd": "14:06"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31621212350",
+        "teruggebeld": false,
+        "tijd": "14:14"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 11,
-    "totaalInbound": 20
+    "totaalGemist": 12,
+    "totaalInbound": 21
   }
 }
