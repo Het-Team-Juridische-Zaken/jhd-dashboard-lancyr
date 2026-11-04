@@ -1,16 +1,31 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T06:54:00Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-11-04T07:01:01Z",
+  "tickets": [
+    {
+      "ticketNumber": "2937",
+      "tijd": "08:00",
+      "titel": "FW: Verzoek om rechtsbijstand – Schademelding verkeersongeval (polisnummer 5607-8173752)",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Email": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 32,
+    "totaalOpen": 33,
     "inDeWacht": 13,
     "statusBreakdown": {
-      "Open": 19,
+      "Open": 20,
       "Gesloten": 729,
       "In de wacht": 13
     },
@@ -272,6 +287,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031001"
+    },
+    {
+      "ticketNumber": "2937",
+      "titel": "FW: Verzoek om rechtsbijstand – Schademelding verkeersongeval (polisnummer 5607-8173752)",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
     }
   ]
 }
