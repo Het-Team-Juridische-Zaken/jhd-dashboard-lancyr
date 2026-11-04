@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T12:01:13Z",
-  "totaalInbound": 12,
-  "totaalGemist": 7,
-  "terugGebeld": 0,
-  "nietTerugGebeld": 7,
+  "generated_at": "2026-11-04T12:10:47Z",
+  "totaalInbound": 13,
+  "totaalGemist": 8,
+  "terugGebeld": 3,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31616342016",
@@ -21,27 +21,6 @@
       "teruggebeld": false
     },
     {
-      "nummer": "+31633850351",
-      "naam": "Onbekend",
-      "tijd": "12:12",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31643031400",
-      "naam": "Onbekend",
-      "tijd": "12:21",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31633850351",
-      "naam": "Onbekend",
-      "tijd": "12:39",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
       "nummer": "+31614320752",
       "naam": "Onbekend",
       "tijd": "12:48",
@@ -53,6 +32,13 @@
       "naam": "Onbekend",
       "tijd": "12:48",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31643906705",
+      "naam": "Onbekend",
+      "tijd": "13:03",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -76,21 +62,21 @@
       "naam": "Onbekend",
       "tijd": "12:12",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31643031400",
       "naam": "Onbekend",
       "tijd": "12:21",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31633850351",
       "naam": "Onbekend",
       "tijd": "12:39",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31614320752",
@@ -105,13 +91,20 @@
       "tijd": "12:48",
       "callResult": "abandoned",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31643906705",
+      "naam": "Onbekend",
+      "tijd": "13:03",
+      "callResult": "overflowed",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 5,
-      "uitgaand": 4,
-      "gesprekstijdSec": 3005
+      "uitgaand": 6,
+      "gesprekstijdSec": 3165
     }
   },
   "beantwoordZonderAgent": 0

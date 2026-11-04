@@ -7470,8 +7470,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 5,
-        "gesprekstijdSec": 3005,
-        "uitgaand": 4
+        "gesprekstijdSec": 3165,
+        "uitgaand": 6
       }
     },
     "alleGemistNummers": [
@@ -7493,21 +7493,21 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31633850351",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "12:12"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31643031400",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "12:21"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31633850351",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "12:39"
       },
       {
@@ -7523,12 +7523,19 @@
         "nummer": "+31630670098",
         "teruggebeld": false,
         "tijd": "12:48"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643906705",
+        "teruggebeld": false,
+        "tijd": "13:03"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-04",
-    "generated_at": "2026-11-04T12:01:13Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-11-04T12:10:47Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -7547,27 +7554,6 @@
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
-        "nummer": "+31633850351",
-        "teruggebeld": false,
-        "tijd": "12:12"
-      },
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31643031400",
-        "teruggebeld": false,
-        "tijd": "12:21"
-      },
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31633850351",
-        "teruggebeld": false,
-        "tijd": "12:39"
-      },
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
         "nummer": "+31614320752",
         "teruggebeld": false,
         "tijd": "12:48"
@@ -7578,10 +7564,17 @@
         "nummer": "+31630670098",
         "teruggebeld": false,
         "tijd": "12:48"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643906705",
+        "teruggebeld": false,
+        "tijd": "13:03"
       }
     ],
-    "terugGebeld": 0,
-    "totaalGemist": 7,
-    "totaalInbound": 12
+    "terugGebeld": 3,
+    "totaalGemist": 8,
+    "totaalInbound": 13
   }
 }
