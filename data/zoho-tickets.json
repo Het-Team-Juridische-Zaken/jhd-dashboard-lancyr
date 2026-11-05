@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T13:36:22Z",
+  "generated_at": "2026-11-05T13:40:44Z",
   "tickets": [
     {
       "ticketNumber": "2949",
@@ -37,19 +37,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049506",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2952",
+      "tijd": "14:40",
+      "titel": "FW: 84166643_Grimberg: vraag arbeidsovereenkomst",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049560",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 3
+    "Email": 4
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
+    "nieuweVandaag": 4,
     "geslotenVandaag": 0,
-    "totaalOpen": 35,
+    "totaalOpen": 36,
     "inDeWacht": 15,
     "statusBreakdown": {
-      "Open": 20,
+      "Open": 21,
       "In de wacht": 15,
       "Gesloten": 739
     },
@@ -311,6 +323,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
+    },
+    {
+      "ticketNumber": "2952",
+      "titel": "FW: 84166643_Grimberg: vraag arbeidsovereenkomst",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-11-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049560"
     },
     {
       "ticketNumber": "2951",
