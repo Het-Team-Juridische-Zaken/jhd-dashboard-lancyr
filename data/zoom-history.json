@@ -7809,12 +7809,19 @@
         "nummer": "+31624464624",
         "teruggebeld": false,
         "tijd": "13:19"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31613437780",
+        "teruggebeld": false,
+        "tijd": "13:41"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T12:44:00Z",
-    "nietTerugGebeld": 16,
+    "generated_at": "2026-11-05T12:50:54Z",
+    "nietTerugGebeld": 17,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7927,10 +7934,17 @@
         "nummer": "+31624464624",
         "teruggebeld": false,
         "tijd": "13:19"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31613437780",
+        "teruggebeld": false,
+        "tijd": "13:41"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 18,
-    "totaalInbound": 18
+    "totaalGemist": 19,
+    "totaalInbound": 19
   }
 }
