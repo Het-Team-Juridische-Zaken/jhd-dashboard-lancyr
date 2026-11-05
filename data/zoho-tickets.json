@@ -1,16 +1,31 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T08:54:17Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-11-05T09:01:38Z",
+  "tickets": [
+    {
+      "ticketNumber": "2949",
+      "tijd": "09:57",
+      "titel": "FW: Bevestiging: Juridische Vraag met Leyla Pereira op donderdag 5 november 2026",
+      "klant": "K. Oostlander",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Email": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 32,
+    "totaalOpen": 33,
     "inDeWacht": 16,
     "statusBreakdown": {
-      "Open": 16,
+      "Open": 17,
       "In de wacht": 16,
       "Gesloten": 739
     },
@@ -272,6 +287,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
+    },
+    {
+      "ticketNumber": "2949",
+      "titel": "FW: Bevestiging: Juridische Vraag met Leyla Pereira op donderdag 5 november 2026",
+      "klant": "K. Oostlander",
+      "status": "Open",
+      "aangemaakt": "2026-11-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391"
     }
   ]
 }

@@ -7698,12 +7698,26 @@
         "nummer": "+31640291411",
         "teruggebeld": false,
         "tijd": "09:23"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31620013134",
+        "teruggebeld": false,
+        "tijd": "09:49"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31627567548",
+        "teruggebeld": false,
+        "tijd": "09:49"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T08:54:18Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-11-05T09:01:39Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7725,10 +7739,24 @@
         "nummer": "+31640291411",
         "teruggebeld": false,
         "tijd": "09:23"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31620013134",
+        "teruggebeld": false,
+        "tijd": "09:49"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31627567548",
+        "teruggebeld": false,
+        "tijd": "09:49"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 3
+    "totaalGemist": 5,
+    "totaalInbound": 5
   }
 }
