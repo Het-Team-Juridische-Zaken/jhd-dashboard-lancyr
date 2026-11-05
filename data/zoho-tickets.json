@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T14:01:12Z",
+  "generated_at": "2026-11-05T14:11:01Z",
   "tickets": [
     {
       "ticketNumber": "2949",
@@ -59,10 +59,10 @@
     "nieuweVandaag": 4,
     "geslotenVandaag": 0,
     "totaalOpen": 36,
-    "inDeWacht": 14,
+    "inDeWacht": 13,
     "statusBreakdown": {
-      "Open": 22,
-      "In de wacht": 14,
+      "Open": 23,
+      "In de wacht": 13,
       "Gesloten": 739
     },
     "capBereikt": false
@@ -205,20 +205,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977297"
     },
     {
+      "ticketNumber": "2931",
+      "titel": "Leaseauto intrekking en compensatierechten met Carrillo",
+      "klant": "R.A. Carrilho",
+      "status": "Open",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054013"
+    },
+    {
       "ticketNumber": "2928",
       "titel": "Niet gebeld door Senne Buishuis gisteren",
       "klant": "T. Doorn",
       "status": "Open",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031001"
-    },
-    {
-      "ticketNumber": "2931",
-      "titel": "Leaseauto intrekking en compensatierechten met Carrillo",
-      "klant": "R.A. Carrilho",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-03",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054013"
     },
     {
       "ticketNumber": "2936",
