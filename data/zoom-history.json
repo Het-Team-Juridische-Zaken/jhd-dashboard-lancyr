@@ -7844,12 +7844,19 @@
         "nummer": "+31612131962",
         "teruggebeld": false,
         "tijd": "16:02"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31651431332",
+        "teruggebeld": false,
+        "tijd": "16:03"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T15:10:56Z",
-    "nietTerugGebeld": 21,
+    "generated_at": "2026-11-05T15:17:28Z",
+    "nietTerugGebeld": 22,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7997,10 +8004,17 @@
         "nummer": "+31612131962",
         "teruggebeld": false,
         "tijd": "16:02"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31651431332",
+        "teruggebeld": false,
+        "tijd": "16:03"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 23,
-    "totaalInbound": 23
+    "totaalGemist": 24,
+    "totaalInbound": 24
   }
 }

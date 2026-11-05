@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T15:10:56Z",
-  "totaalInbound": 23,
-  "totaalGemist": 23,
+  "generated_at": "2026-11-05T15:17:28Z",
+  "totaalInbound": 24,
+  "totaalGemist": 24,
   "terugGebeld": 2,
-  "nietTerugGebeld": 21,
+  "nietTerugGebeld": 22,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31643031400",
@@ -150,6 +150,13 @@
       "nummer": "+31612131962",
       "naam": "Onbekend",
       "tijd": "16:02",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31651431332",
+      "naam": "Onbekend",
+      "tijd": "16:03",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -313,6 +320,13 @@
       "nummer": "+31612131962",
       "naam": "Onbekend",
       "tijd": "16:02",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31651431332",
+      "naam": "Onbekend",
+      "tijd": "16:03",
       "callResult": "overflowed",
       "teruggebeld": false
     }

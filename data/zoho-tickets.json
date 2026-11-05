@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T15:10:53Z",
+  "generated_at": "2026-11-05T15:17:24Z",
   "tickets": [
     {
       "ticketNumber": "2949",
@@ -49,19 +49,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049560",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2953",
+      "tijd": "16:17",
+      "titel": "Terugbelverzoek, polisnummer 84226703",
+      "klant": "R. Diemen",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015085001",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 4
+    "Email": 5
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 4,
+    "nieuweVandaag": 5,
     "geslotenVandaag": 0,
-    "totaalOpen": 36,
+    "totaalOpen": 37,
     "inDeWacht": 12,
     "statusBreakdown": {
-      "Open": 24,
+      "Open": 25,
       "In de wacht": 12,
       "Gesloten": 739
     },
@@ -323,6 +335,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
+    },
+    {
+      "ticketNumber": "2953",
+      "titel": "Terugbelverzoek, polisnummer 84226703",
+      "klant": "R. Diemen",
+      "status": "Open",
+      "aangemaakt": "2026-11-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015085001"
     },
     {
       "ticketNumber": "2952",
