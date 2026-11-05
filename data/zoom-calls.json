@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T12:15:32Z",
-  "totaalInbound": 17,
-  "totaalGemist": 17,
+  "generated_at": "2026-11-05T12:20:48Z",
+  "totaalInbound": 18,
+  "totaalGemist": 18,
   "terugGebeld": 2,
-  "nietTerugGebeld": 15,
+  "nietTerugGebeld": 16,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31643031400",
@@ -109,6 +109,13 @@
       "naam": "Onbekend",
       "tijd": "13:02",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31624464624",
+      "naam": "Onbekend",
+      "tijd": "13:19",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -230,6 +237,13 @@
       "naam": "Onbekend",
       "tijd": "13:02",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31624464624",
+      "naam": "Onbekend",
+      "tijd": "13:19",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],

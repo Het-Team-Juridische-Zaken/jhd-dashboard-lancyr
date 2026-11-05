@@ -7802,12 +7802,19 @@
         "nummer": "+31640884342",
         "teruggebeld": false,
         "tijd": "13:02"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31624464624",
+        "teruggebeld": false,
+        "tijd": "13:19"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T12:15:32Z",
-    "nietTerugGebeld": 15,
+    "generated_at": "2026-11-05T12:20:48Z",
+    "nietTerugGebeld": 16,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7913,10 +7920,17 @@
         "nummer": "+31640884342",
         "teruggebeld": false,
         "tijd": "13:02"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31624464624",
+        "teruggebeld": false,
+        "tijd": "13:19"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 17,
-    "totaalInbound": 17
+    "totaalGemist": 18,
+    "totaalInbound": 18
   }
 }
