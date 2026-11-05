@@ -7767,12 +7767,26 @@
         "nummer": "+31643197133",
         "teruggebeld": false,
         "tijd": "11:33"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31639105297",
+        "teruggebeld": false,
+        "tijd": "12:15"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31624464624",
+        "teruggebeld": false,
+        "tijd": "12:15"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T11:15:51Z",
-    "nietTerugGebeld": 10,
+    "generated_at": "2026-11-05T11:20:46Z",
+    "nietTerugGebeld": 12,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7843,10 +7857,24 @@
         "nummer": "+31643197133",
         "teruggebeld": false,
         "tijd": "11:33"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31639105297",
+        "teruggebeld": false,
+        "tijd": "12:15"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31624464624",
+        "teruggebeld": false,
+        "tijd": "12:15"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 12,
-    "totaalInbound": 12
+    "totaalGemist": 14,
+    "totaalInbound": 14
   }
 }
