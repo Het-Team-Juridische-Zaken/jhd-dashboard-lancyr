@@ -7676,7 +7676,13 @@
     "totaalInbound": 27
   },
   "2026-11-05": {
-    "agenten": {},
+    "agenten": {
+      "Dewi Verver": {
+        "beantwoord": 0,
+        "gesprekstijdSec": 514,
+        "uitgaand": 1
+      }
+    },
     "alleGemistNummers": [
       {
         "callResult": "overflowed",
@@ -7717,7 +7723,7 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31629342905",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "10:04"
       },
       {
@@ -7731,7 +7737,7 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31629342905",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "11:16"
       },
       {
@@ -7740,6 +7746,13 @@
         "nummer": "+31643197133",
         "teruggebeld": false,
         "tijd": "11:20"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31630670098",
+        "teruggebeld": false,
+        "tijd": "11:29"
       },
       {
         "callResult": "abandoned",
@@ -7751,8 +7764,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T10:35:59Z",
-    "nietTerugGebeld": 10,
+    "generated_at": "2026-11-05T10:40:56Z",
+    "nietTerugGebeld": 9,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7790,13 +7803,6 @@
         "tijd": "09:49"
       },
       {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31629342905",
-        "teruggebeld": false,
-        "tijd": "10:04"
-      },
-      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31620013134",
@@ -7806,16 +7812,16 @@
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
-        "nummer": "+31629342905",
+        "nummer": "+31643197133",
         "teruggebeld": false,
-        "tijd": "11:16"
+        "tijd": "11:20"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
-        "nummer": "+31643197133",
+        "nummer": "+31630670098",
         "teruggebeld": false,
-        "tijd": "11:20"
+        "tijd": "11:29"
       },
       {
         "callResult": "abandoned",
@@ -7825,8 +7831,8 @@
         "tijd": "11:33"
       }
     ],
-    "terugGebeld": 0,
-    "totaalGemist": 10,
-    "totaalInbound": 10
+    "terugGebeld": 2,
+    "totaalGemist": 11,
+    "totaalInbound": 11
   }
 }
