@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T14:11:01Z",
+  "generated_at": "2026-11-05T14:18:31Z",
   "tickets": [
     {
       "ticketNumber": "2949",
@@ -59,10 +59,10 @@
     "nieuweVandaag": 4,
     "geslotenVandaag": 0,
     "totaalOpen": 36,
-    "inDeWacht": 13,
+    "inDeWacht": 12,
     "statusBreakdown": {
-      "Open": 23,
-      "In de wacht": 13,
+      "Open": 24,
+      "In de wacht": 12,
       "Gesloten": 739
     },
     "capBereikt": false
@@ -205,6 +205,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977297"
     },
     {
+      "ticketNumber": "2933",
+      "titel": "Arbeidsconflict mbt doorstart",
+      "klant": "R. Diemen",
+      "status": "Open",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015063001"
+    },
+    {
       "ticketNumber": "2931",
       "titel": "Leaseauto intrekking en compensatierechten met Carrillo",
       "klant": "R.A. Carrilho",
@@ -251,14 +259,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049001"
-    },
-    {
-      "ticketNumber": "2933",
-      "titel": "Arbeidsconflict mbt doorstart",
-      "klant": "R. Diemen",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-03",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015063001"
     },
     {
       "ticketNumber": "2929",
