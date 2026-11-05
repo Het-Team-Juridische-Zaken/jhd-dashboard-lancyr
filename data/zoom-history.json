@@ -7795,12 +7795,19 @@
         "nummer": "+31655838877",
         "teruggebeld": false,
         "tijd": "12:51"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640884342",
+        "teruggebeld": false,
+        "tijd": "13:02"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T12:01:09Z",
-    "nietTerugGebeld": 14,
+    "generated_at": "2026-11-05T12:10:49Z",
+    "nietTerugGebeld": 15,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7899,10 +7906,17 @@
         "nummer": "+31655838877",
         "teruggebeld": false,
         "tijd": "12:51"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640884342",
+        "teruggebeld": false,
+        "tijd": "13:02"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 16,
-    "totaalInbound": 16
+    "totaalGemist": 17,
+    "totaalInbound": 17
   }
 }

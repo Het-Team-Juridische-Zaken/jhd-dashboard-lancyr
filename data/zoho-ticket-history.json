@@ -589,12 +589,12 @@
     "capBereikt": false,
     "geslotenVandaag": 0,
     "inDeWacht": 15,
-    "nieuweVandaag": 2,
+    "nieuweVandaag": 3,
     "statusBreakdown": {
       "Gesloten": 739,
       "In de wacht": 15,
-      "Open": 19
+      "Open": 20
     },
-    "totaalOpen": 34
+    "totaalOpen": 35
   }
 }
