@@ -7816,12 +7816,19 @@
         "nummer": "+31613437780",
         "teruggebeld": false,
         "tijd": "13:41"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653326257",
+        "teruggebeld": false,
+        "tijd": "13:56"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T13:01:12Z",
-    "nietTerugGebeld": 17,
+    "generated_at": "2026-11-05T13:10:25Z",
+    "nietTerugGebeld": 18,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7941,10 +7948,17 @@
         "nummer": "+31613437780",
         "teruggebeld": false,
         "tijd": "13:41"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653326257",
+        "teruggebeld": false,
+        "tijd": "13:56"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 19,
-    "totaalInbound": 19
+    "totaalGemist": 20,
+    "totaalInbound": 20
   }
 }
