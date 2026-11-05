@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T08:14:42Z",
+  "generated_at": "2026-11-05T08:20:49Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,10 +8,10 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 32,
-    "inDeWacht": 18,
+    "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 14,
-      "In de wacht": 18,
+      "Open": 15,
+      "In de wacht": 17,
       "Gesloten": 739
     },
     "capBereikt": false
@@ -141,7 +141,7 @@
       "ticketNumber": "2920",
       "titel": "Vakantiewoningen vergunning en burenconflict",
       "klant": "D.J.H. Vullings",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-30",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014985047"
     },
