@@ -7781,12 +7781,19 @@
         "nummer": "+31624464624",
         "teruggebeld": false,
         "tijd": "12:15"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31649939907",
+        "teruggebeld": false,
+        "tijd": "12:16"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T11:20:46Z",
-    "nietTerugGebeld": 12,
+    "generated_at": "2026-11-05T11:24:45Z",
+    "nietTerugGebeld": 13,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7871,10 +7878,17 @@
         "nummer": "+31624464624",
         "teruggebeld": false,
         "tijd": "12:15"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31649939907",
+        "teruggebeld": false,
+        "tijd": "12:16"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 14,
-    "totaalInbound": 14
+    "totaalGemist": 15,
+    "totaalInbound": 15
   }
 }
