@@ -7755,6 +7755,13 @@
         "tijd": "11:29"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643197133",
+        "teruggebeld": false,
+        "tijd": "11:33"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31643197133",
@@ -7764,8 +7771,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T10:40:56Z",
-    "nietTerugGebeld": 9,
+    "generated_at": "2026-11-05T10:44:06Z",
+    "nietTerugGebeld": 10,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7824,6 +7831,13 @@
         "tijd": "11:29"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643197133",
+        "teruggebeld": false,
+        "tijd": "11:33"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31643197133",
@@ -7832,7 +7846,7 @@
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 11,
-    "totaalInbound": 11
+    "totaalGemist": 12,
+    "totaalInbound": 12
   }
 }

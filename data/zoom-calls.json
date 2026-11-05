@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T10:40:56Z",
-  "totaalInbound": 11,
-  "totaalGemist": 11,
+  "generated_at": "2026-11-05T10:44:06Z",
+  "totaalInbound": 12,
+  "totaalGemist": 12,
   "terugGebeld": 2,
-  "nietTerugGebeld": 9,
+  "nietTerugGebeld": 10,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31643031400",
@@ -59,6 +59,13 @@
       "nummer": "+31630670098",
       "naam": "Onbekend",
       "tijd": "11:29",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31643197133",
+      "naam": "Onbekend",
+      "tijd": "11:33",
       "callResult": "overflowed",
       "teruggebeld": false
     },
@@ -138,6 +145,13 @@
       "nummer": "+31630670098",
       "naam": "Onbekend",
       "tijd": "11:29",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31643197133",
+      "naam": "Onbekend",
+      "tijd": "11:33",
       "callResult": "overflowed",
       "teruggebeld": false
     },

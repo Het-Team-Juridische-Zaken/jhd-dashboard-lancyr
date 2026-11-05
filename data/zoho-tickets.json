@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T10:40:54Z",
+  "generated_at": "2026-11-05T10:44:04Z",
   "tickets": [
     {
       "ticketNumber": "2949",
@@ -13,19 +13,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2950",
+      "tijd": "11:41",
+      "titel": "Terugbelafspraak 5 november 2026 – zaak woningbouwvereniging",
+      "klant": "R.C.J. Beckman",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 1
+    "Email": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 0,
-    "totaalOpen": 33,
+    "totaalOpen": 34,
     "inDeWacht": 15,
     "statusBreakdown": {
-      "Open": 18,
+      "Open": 19,
       "In de wacht": 15,
       "Gesloten": 739
     },
@@ -287,6 +299,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
+    },
+    {
+      "ticketNumber": "2950",
+      "titel": "Terugbelafspraak 5 november 2026 – zaak woningbouwvereniging",
+      "klant": "R.C.J. Beckman",
+      "status": "Open",
+      "aangemaakt": "2026-11-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414"
     },
     {
       "ticketNumber": "2949",
