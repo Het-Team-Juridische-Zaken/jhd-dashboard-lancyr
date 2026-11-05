@@ -7858,12 +7858,19 @@
         "nummer": "+31647430182",
         "teruggebeld": false,
         "tijd": "16:16"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31613437780",
+        "teruggebeld": false,
+        "tijd": "16:33"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T15:41:04Z",
-    "nietTerugGebeld": 23,
+    "generated_at": "2026-11-05T15:44:17Z",
+    "nietTerugGebeld": 24,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8025,10 +8032,17 @@
         "nummer": "+31647430182",
         "teruggebeld": false,
         "tijd": "16:16"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31613437780",
+        "teruggebeld": false,
+        "tijd": "16:33"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 25,
-    "totaalInbound": 25
+    "totaalGemist": 26,
+    "totaalInbound": 26
   }
 }
