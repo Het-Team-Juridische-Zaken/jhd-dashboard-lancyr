@@ -7788,12 +7788,19 @@
         "nummer": "+31649939907",
         "teruggebeld": false,
         "tijd": "12:16"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31655838877",
+        "teruggebeld": false,
+        "tijd": "12:51"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T11:54:15Z",
-    "nietTerugGebeld": 13,
+    "generated_at": "2026-11-05T12:01:09Z",
+    "nietTerugGebeld": 14,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7885,10 +7892,17 @@
         "nummer": "+31649939907",
         "teruggebeld": false,
         "tijd": "12:16"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31655838877",
+        "teruggebeld": false,
+        "tijd": "12:51"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 15,
-    "totaalInbound": 15
+    "totaalGemist": 16,
+    "totaalInbound": 16
   }
 }
