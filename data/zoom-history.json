@@ -7837,12 +7837,19 @@
         "nummer": "+31647430182",
         "teruggebeld": false,
         "tijd": "15:56"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612131962",
+        "teruggebeld": false,
+        "tijd": "16:02"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T15:01:23Z",
-    "nietTerugGebeld": 20,
+    "generated_at": "2026-11-05T15:10:56Z",
+    "nietTerugGebeld": 21,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7983,10 +7990,17 @@
         "nummer": "+31647430182",
         "teruggebeld": false,
         "tijd": "15:56"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612131962",
+        "teruggebeld": false,
+        "tijd": "16:02"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 22,
-    "totaalInbound": 22
+    "totaalGemist": 23,
+    "totaalInbound": 23
   }
 }
