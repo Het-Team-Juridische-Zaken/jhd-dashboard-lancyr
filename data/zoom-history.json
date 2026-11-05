@@ -7851,12 +7851,19 @@
         "nummer": "+31651431332",
         "teruggebeld": false,
         "tijd": "16:03"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31647430182",
+        "teruggebeld": false,
+        "tijd": "16:16"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T15:20:58Z",
-    "nietTerugGebeld": 22,
+    "generated_at": "2026-11-05T15:24:42Z",
+    "nietTerugGebeld": 23,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8011,10 +8018,17 @@
         "nummer": "+31651431332",
         "teruggebeld": false,
         "tijd": "16:03"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31647430182",
+        "teruggebeld": false,
+        "tijd": "16:16"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 24,
-    "totaalInbound": 24
+    "totaalGemist": 25,
+    "totaalInbound": 25
   }
 }
