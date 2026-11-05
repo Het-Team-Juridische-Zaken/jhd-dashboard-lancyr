@@ -7830,12 +7830,19 @@
         "nummer": "+31616199356",
         "teruggebeld": false,
         "tijd": "14:25"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31647430182",
+        "teruggebeld": false,
+        "tijd": "15:56"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T14:54:15Z",
-    "nietTerugGebeld": 19,
+    "generated_at": "2026-11-05T15:01:23Z",
+    "nietTerugGebeld": 20,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7969,10 +7976,17 @@
         "nummer": "+31616199356",
         "teruggebeld": false,
         "tijd": "14:25"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31647430182",
+        "teruggebeld": false,
+        "tijd": "15:56"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 21,
-    "totaalInbound": 21
+    "totaalGemist": 22,
+    "totaalInbound": 22
   }
 }
