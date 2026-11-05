@@ -7684,12 +7684,19 @@
         "nummer": "+31643031400",
         "teruggebeld": false,
         "tijd": "09:04"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640291411",
+        "teruggebeld": false,
+        "tijd": "09:23"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T08:20:49Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-05T08:27:19Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7697,10 +7704,17 @@
         "nummer": "+31643031400",
         "teruggebeld": false,
         "tijd": "09:04"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640291411",
+        "teruggebeld": false,
+        "tijd": "09:23"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 1
+    "totaalGemist": 2,
+    "totaalInbound": 2
   }
 }

@@ -1,16 +1,23 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T08:20:49Z",
-  "totaalInbound": 1,
-  "totaalGemist": 1,
+  "generated_at": "2026-11-05T08:27:19Z",
+  "totaalInbound": 2,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31643031400",
       "naam": "Onbekend",
       "tijd": "09:04",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31640291411",
+      "naam": "Onbekend",
+      "tijd": "09:23",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -20,6 +27,13 @@
       "naam": "Onbekend",
       "tijd": "09:04",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31640291411",
+      "naam": "Onbekend",
+      "tijd": "09:23",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
