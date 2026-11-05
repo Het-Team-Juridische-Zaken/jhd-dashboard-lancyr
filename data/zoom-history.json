@@ -7686,6 +7686,13 @@
         "tijd": "09:04"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612131962",
+        "teruggebeld": false,
+        "tijd": "09:21"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31640291411",
@@ -7695,8 +7702,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T08:27:19Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-05T08:30:54Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7704,6 +7711,13 @@
         "nummer": "+31643031400",
         "teruggebeld": false,
         "tijd": "09:04"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612131962",
+        "teruggebeld": false,
+        "tijd": "09:21"
       },
       {
         "callResult": "abandoned",
@@ -7714,7 +7728,7 @@
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 2
+    "totaalGemist": 3,
+    "totaalInbound": 3
   }
 }

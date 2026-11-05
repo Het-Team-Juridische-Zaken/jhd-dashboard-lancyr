@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T08:27:18Z",
+  "generated_at": "2026-11-05T08:30:53Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,10 +8,10 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 32,
-    "inDeWacht": 17,
+    "inDeWacht": 16,
     "statusBreakdown": {
-      "Open": 15,
-      "In de wacht": 17,
+      "Open": 16,
+      "In de wacht": 16,
       "Gesloten": 739
     },
     "capBereikt": false
@@ -218,6 +218,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
     },
     {
+      "ticketNumber": "2940",
+      "titel": "Keukencontract en annuleringsvergoeding met leverancier",
+      "klant": "J.M.J. Nijhuis-Hannink",
+      "status": "Open",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044013"
+    },
+    {
       "ticketNumber": "2938",
       "titel": "Mazda elektrische auto: garantie en oplossing bij defect laadpaal",
       "klant": "Dirk Willems",
@@ -240,14 +248,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049268"
-    },
-    {
-      "ticketNumber": "2940",
-      "titel": "Keukencontract en annuleringsvergoeding met leverancier",
-      "klant": "J.M.J. Nijhuis-Hannink",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044013"
     },
     {
       "ticketNumber": "2945",

@@ -588,12 +588,12 @@
   "2026-11-05": {
     "capBereikt": false,
     "geslotenVandaag": 0,
-    "inDeWacht": 17,
+    "inDeWacht": 16,
     "nieuweVandaag": 0,
     "statusBreakdown": {
       "Gesloten": 739,
-      "In de wacht": 17,
-      "Open": 15
+      "In de wacht": 16,
+      "Open": 16
     },
     "totaalOpen": 32
   }
