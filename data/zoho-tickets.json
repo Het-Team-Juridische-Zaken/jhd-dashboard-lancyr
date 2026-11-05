@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T16:12:57Z",
+  "generated_at": "2026-11-05T16:20:48Z",
   "tickets": [
     {
       "ticketNumber": "2949",
@@ -61,19 +61,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015085001",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2954",
+      "tijd": "17:14",
+      "titel": "Dispuut over geleverde diensten.",
+      "klant": "Zwaana",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 5
+    "Email": 6
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 5,
+    "nieuweVandaag": 6,
     "geslotenVandaag": 0,
-    "totaalOpen": 37,
+    "totaalOpen": 38,
     "inDeWacht": 12,
     "statusBreakdown": {
-      "Open": 25,
+      "Open": 26,
       "In de wacht": 12,
       "Gesloten": 739
     },
@@ -335,6 +347,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
+    },
+    {
+      "ticketNumber": "2954",
+      "titel": "Dispuut over geleverde diensten.",
+      "klant": "Zwaana",
+      "status": "Open",
+      "aangemaakt": "2026-11-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038"
     },
     {
       "ticketNumber": "2953",
