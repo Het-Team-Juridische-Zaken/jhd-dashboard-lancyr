@@ -1,12 +1,28 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T08:01:05Z",
-  "totaalInbound": 0,
-  "totaalGemist": 0,
+  "generated_at": "2026-11-05T08:10:46Z",
+  "totaalInbound": 1,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31643031400",
+      "naam": "Onbekend",
+      "tijd": "09:04",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31643031400",
+      "naam": "Onbekend",
+      "tijd": "09:04",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {},
   "beantwoordZonderAgent": 0
 }
