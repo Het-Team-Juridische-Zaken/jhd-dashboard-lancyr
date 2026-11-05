@@ -7733,12 +7733,19 @@
         "nummer": "+31629342905",
         "teruggebeld": false,
         "tijd": "11:16"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643197133",
+        "teruggebeld": false,
+        "tijd": "11:20"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T10:25:00Z",
-    "nietTerugGebeld": 8,
+    "generated_at": "2026-11-05T10:30:55Z",
+    "nietTerugGebeld": 9,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7795,10 +7802,17 @@
         "nummer": "+31629342905",
         "teruggebeld": false,
         "tijd": "11:16"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643197133",
+        "teruggebeld": false,
+        "tijd": "11:20"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 8,
-    "totaalInbound": 8
+    "totaalGemist": 9,
+    "totaalInbound": 9
   }
 }
