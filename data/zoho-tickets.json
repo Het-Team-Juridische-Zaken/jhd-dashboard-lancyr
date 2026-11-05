@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T13:54:17Z",
+  "generated_at": "2026-11-05T14:01:12Z",
   "tickets": [
     {
       "ticketNumber": "2949",
@@ -59,10 +59,10 @@
     "nieuweVandaag": 4,
     "geslotenVandaag": 0,
     "totaalOpen": 36,
-    "inDeWacht": 15,
+    "inDeWacht": 14,
     "statusBreakdown": {
-      "Open": 21,
-      "In de wacht": 15,
+      "Open": 22,
+      "In de wacht": 14,
       "Gesloten": 739
     },
     "capBereikt": false
@@ -269,6 +269,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
     },
     {
+      "ticketNumber": "2945",
+      "titel": "Aanrijding A9 – schadeclaim via rechtsbijstand",
+      "klant": "L.J. Stroomer",
+      "status": "Open",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044093"
+    },
+    {
       "ticketNumber": "2940",
       "titel": "Keukencontract en annuleringsvergoeding met leverancier",
       "klant": "J.M.J. Nijhuis-Hannink",
@@ -299,14 +307,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049268"
-    },
-    {
-      "ticketNumber": "2945",
-      "titel": "Aanrijding A9 – schadeclaim via rechtsbijstand",
-      "klant": "L.J. Stroomer",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044093"
     },
     {
       "ticketNumber": "2939",
