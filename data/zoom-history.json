@@ -7823,12 +7823,19 @@
         "nummer": "+31653326257",
         "teruggebeld": false,
         "tijd": "13:56"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31616199356",
+        "teruggebeld": false,
+        "tijd": "14:25"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T13:25:05Z",
-    "nietTerugGebeld": 18,
+    "generated_at": "2026-11-05T13:30:58Z",
+    "nietTerugGebeld": 19,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7955,10 +7962,17 @@
         "nummer": "+31653326257",
         "teruggebeld": false,
         "tijd": "13:56"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31616199356",
+        "teruggebeld": false,
+        "tijd": "14:25"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 20,
-    "totaalInbound": 20
+    "totaalGemist": 21,
+    "totaalInbound": 21
   }
 }
