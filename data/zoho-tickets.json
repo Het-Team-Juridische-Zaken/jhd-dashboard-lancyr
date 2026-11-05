@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T10:17:21Z",
+  "generated_at": "2026-11-05T10:20:46Z",
   "tickets": [
     {
       "ticketNumber": "2949",
@@ -23,10 +23,10 @@
     "nieuweVandaag": 1,
     "geslotenVandaag": 0,
     "totaalOpen": 33,
-    "inDeWacht": 16,
+    "inDeWacht": 15,
     "statusBreakdown": {
-      "Open": 17,
-      "In de wacht": 16,
+      "Open": 18,
+      "In de wacht": 15,
       "Gesloten": 739
     },
     "capBereikt": false
@@ -148,7 +148,7 @@
       "ticketNumber": "2915",
       "titel": "FW: 84313331 (Hinshelwood, S.H.): Urgent: Request for Legal Assistance – Employment Matter – Policy 5607-3391572",
       "klant": "De juridische helpdesk",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-10-29",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
     },
