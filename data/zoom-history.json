@@ -7712,12 +7712,19 @@
         "nummer": "+31627567548",
         "teruggebeld": false,
         "tijd": "09:49"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31629342905",
+        "teruggebeld": false,
+        "tijd": "10:04"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T09:11:58Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-11-05T09:20:17Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7753,10 +7760,17 @@
         "nummer": "+31627567548",
         "teruggebeld": false,
         "tijd": "09:49"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31629342905",
+        "teruggebeld": false,
+        "tijd": "10:04"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 5,
-    "totaalInbound": 5
+    "totaalGemist": 6,
+    "totaalInbound": 6
   }
 }

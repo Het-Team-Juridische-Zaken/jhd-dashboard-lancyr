@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T09:11:58Z",
-  "totaalInbound": 5,
-  "totaalGemist": 5,
+  "generated_at": "2026-11-05T09:20:17Z",
+  "totaalInbound": 6,
+  "totaalGemist": 6,
   "terugGebeld": 0,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31643031400",
@@ -38,6 +38,13 @@
       "nummer": "+31627567548",
       "naam": "Onbekend",
       "tijd": "09:49",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31629342905",
+      "naam": "Onbekend",
+      "tijd": "10:04",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -75,6 +82,13 @@
       "nummer": "+31627567548",
       "naam": "Onbekend",
       "tijd": "09:49",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31629342905",
+      "naam": "Onbekend",
+      "tijd": "10:04",
       "callResult": "overflowed",
       "teruggebeld": false
     }
