@@ -7719,12 +7719,19 @@
         "nummer": "+31629342905",
         "teruggebeld": false,
         "tijd": "10:04"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31620013134",
+        "teruggebeld": false,
+        "tijd": "10:20"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T09:20:17Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-11-05T09:26:42Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -7767,10 +7774,17 @@
         "nummer": "+31629342905",
         "teruggebeld": false,
         "tijd": "10:04"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31620013134",
+        "teruggebeld": false,
+        "tijd": "10:20"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 6
+    "totaalGemist": 7,
+    "totaalInbound": 7
   }
 }
