@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T13:44:05Z",
+  "generated_at": "2026-11-06T13:50:41Z",
   "tickets": [
     {
       "ticketNumber": "2955",
@@ -35,11 +35,11 @@
     "nieuweVandaag": 2,
     "geslotenVandaag": 11,
     "totaalOpen": 27,
-    "inDeWacht": 19,
+    "inDeWacht": 18,
     "statusBreakdown": {
-      "In de wacht": 19,
-      "Gesloten": 748,
-      "Open": 8
+      "Open": 9,
+      "In de wacht": 18,
+      "Gesloten": 748
     },
     "capBereikt": false
   },
@@ -221,6 +221,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
     },
     {
+      "ticketNumber": "2954",
+      "titel": "Geschil tuinman en incassobureau",
+      "klant": "J.A. Zwaan",
+      "status": "Open",
+      "aangemaakt": "2026-11-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038"
+    },
+    {
       "ticketNumber": "2949",
       "titel": "Autokoop ontbinding",
       "klant": "K. Oostlander",
@@ -235,14 +243,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414"
-    },
-    {
-      "ticketNumber": "2954",
-      "titel": "Geschil tuinman en incassobureau",
-      "klant": "J.A. Zwaan",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038"
     },
     {
       "ticketNumber": "2956",
