@@ -8088,12 +8088,19 @@
         "nummer": "+31614604455",
         "teruggebeld": true,
         "tijd": "12:46"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Anonymous",
+        "nummer": "Anonymous",
+        "teruggebeld": false,
+        "tijd": "13:52"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-06",
-    "generated_at": "2026-11-06T12:54:11Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-06T13:01:00Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8101,10 +8108,17 @@
         "nummer": "+31640884342",
         "teruggebeld": false,
         "tijd": "12:36"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Anonymous",
+        "nummer": "Anonymous",
+        "teruggebeld": false,
+        "tijd": "13:52"
       }
     ],
     "terugGebeld": 4,
-    "totaalGemist": 5,
-    "totaalInbound": 8
+    "totaalGemist": 6,
+    "totaalInbound": 9
   }
 }

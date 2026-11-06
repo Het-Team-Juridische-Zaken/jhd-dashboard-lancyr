@@ -1,15 +1,22 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T12:54:11Z",
-  "totaalInbound": 8,
-  "totaalGemist": 5,
+  "generated_at": "2026-11-06T13:01:00Z",
+  "totaalInbound": 9,
+  "totaalGemist": 6,
   "terugGebeld": 4,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640884342",
       "naam": "Onbekend",
       "tijd": "12:36",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "Anonymous",
+      "naam": "Anonymous",
+      "tijd": "13:52",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -49,6 +56,13 @@
       "tijd": "12:46",
       "callResult": "abandoned",
       "teruggebeld": true
+    },
+    {
+      "nummer": "Anonymous",
+      "naam": "Anonymous",
+      "tijd": "13:52",
+      "callResult": "overflowed",
+      "teruggebeld": false
     }
   ],
   "agenten": {
