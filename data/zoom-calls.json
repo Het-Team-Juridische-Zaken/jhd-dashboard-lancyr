@@ -1,44 +1,16 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T12:20:45Z",
+  "generated_at": "2026-11-06T12:29:17Z",
   "totaalInbound": 8,
   "totaalGemist": 5,
-  "terugGebeld": 0,
-  "nietTerugGebeld": 5,
+  "terugGebeld": 4,
+  "nietTerugGebeld": 1,
   "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31620038536",
-      "naam": "Onbekend",
-      "tijd": "12:28",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
     {
       "nummer": "+31640884342",
       "naam": "Onbekend",
       "tijd": "12:36",
       "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31627056277",
-      "naam": "Onbekend",
-      "tijd": "12:44",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31614604455",
-      "naam": "Onbekend",
-      "tijd": "12:45",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31614604455",
-      "naam": "Onbekend",
-      "tijd": "12:46",
-      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -48,7 +20,7 @@
       "naam": "Onbekend",
       "tijd": "12:28",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31640884342",
@@ -62,28 +34,28 @@
       "naam": "Onbekend",
       "tijd": "12:44",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31614604455",
       "naam": "Onbekend",
       "tijd": "12:45",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31614604455",
       "naam": "Onbekend",
       "tijd": "12:46",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     }
   ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 3,
-      "uitgaand": 11,
-      "gesprekstijdSec": 1620
+      "uitgaand": 14,
+      "gesprekstijdSec": 1735
     }
   },
   "beantwoordZonderAgent": 0

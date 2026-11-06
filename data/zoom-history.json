@@ -8049,8 +8049,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 3,
-        "gesprekstijdSec": 1620,
-        "uitgaand": 11
+        "gesprekstijdSec": 1735,
+        "uitgaand": 14
       }
     },
     "alleGemistNummers": [
@@ -8058,7 +8058,7 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31620038536",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "12:28"
       },
       {
@@ -8072,66 +8072,38 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31627056277",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "12:44"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31614604455",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "12:45"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31614604455",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "12:46"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-06",
-    "generated_at": "2026-11-06T12:20:45Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-11-06T12:29:17Z",
+    "nietTerugGebeld": 1,
     "nietTerugGebeldNummers": [
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31620038536",
-        "teruggebeld": false,
-        "tijd": "12:28"
-      },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31640884342",
         "teruggebeld": false,
         "tijd": "12:36"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31627056277",
-        "teruggebeld": false,
-        "tijd": "12:44"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31614604455",
-        "teruggebeld": false,
-        "tijd": "12:45"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31614604455",
-        "teruggebeld": false,
-        "tijd": "12:46"
       }
     ],
-    "terugGebeld": 0,
+    "terugGebeld": 4,
     "totaalGemist": 5,
     "totaalInbound": 8
   }
