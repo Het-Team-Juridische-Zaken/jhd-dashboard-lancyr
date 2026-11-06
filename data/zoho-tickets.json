@@ -1,18 +1,18 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T09:54:13Z",
+  "generated_at": "2026-11-06T10:01:01Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 6,
-    "totaalOpen": 32,
+    "geslotenVandaag": 7,
+    "totaalOpen": 31,
     "inDeWacht": 13,
     "statusBreakdown": {
-      "Open": 19,
+      "Gesloten": 746,
       "In de wacht": 13,
-      "Gesloten": 745
+      "Open": 18
     },
     "capBereikt": false
   },
@@ -232,14 +232,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
-    },
-    {
-      "ticketNumber": "2952",
-      "titel": "FW: 84166643_Grimberg: vraag arbeidsovereenkomst",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-11-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049560"
     },
     {
       "ticketNumber": "2954",
