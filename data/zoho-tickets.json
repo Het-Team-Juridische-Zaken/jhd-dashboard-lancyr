@@ -1,18 +1,18 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T07:54:22Z",
+  "generated_at": "2026-11-06T08:01:05Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 0,
-    "totaalOpen": 38,
+    "geslotenVandaag": 1,
+    "totaalOpen": 37,
     "inDeWacht": 12,
     "statusBreakdown": {
-      "Open": 26,
-      "In de wacht": 12,
-      "Gesloten": 739
+      "Gesloten": 740,
+      "Open": 25,
+      "In de wacht": 12
     },
     "capBereikt": false
   },
@@ -152,14 +152,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-02",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977297"
-    },
-    {
-      "ticketNumber": "2933",
-      "titel": "Arbeidsconflict mbt doorstart",
-      "klant": "R. Diemen",
-      "status": "Open",
-      "aangemaakt": "2026-11-03",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015063001"
     },
     {
       "ticketNumber": "2931",
