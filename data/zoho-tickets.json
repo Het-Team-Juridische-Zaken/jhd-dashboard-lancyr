@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T14:35:38Z",
+  "generated_at": "2026-11-06T14:40:45Z",
   "tickets": [
     {
       "ticketNumber": "2955",
@@ -35,11 +35,11 @@
     "nieuweVandaag": 2,
     "geslotenVandaag": 14,
     "totaalOpen": 23,
-    "inDeWacht": 16,
+    "inDeWacht": 17,
     "statusBreakdown": {
+      "In de wacht": 17,
       "Gesloten": 751,
-      "Open": 7,
-      "In de wacht": 16
+      "Open": 6
     },
     "capBereikt": false
   },
@@ -133,6 +133,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
     },
     {
+      "ticketNumber": "2929",
+      "titel": "Verzoek om rechtsbijstand. relatienummer 8420287",
+      "klant": "Sara albertoe-bentum",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
+    },
+    {
       "ticketNumber": "2936",
       "titel": "FW: 84312780 (Bunnig, W.) rappel mbt zaak tegen Verduurzaming Centrum Nederland ",
       "klant": "De juridische helpdesk",
@@ -163,14 +171,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049001"
-    },
-    {
-      "ticketNumber": "2929",
-      "titel": "Verzoek om rechtsbijstand. relatienummer 8420287",
-      "klant": "Sara albertoe-bentum",
-      "status": "Open",
-      "aangemaakt": "2026-11-03",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
     },
     {
       "ticketNumber": "2945",
