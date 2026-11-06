@@ -1,17 +1,32 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T13:10:25Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-11-06T13:16:28Z",
+  "tickets": [
+    {
+      "ticketNumber": "2955",
+      "tijd": "14:11",
+      "titel": "Liposuctie-klacht Boerhavenkliniek",
+      "klant": "W. Jawad",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015138001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Phone": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 10,
-    "totaalOpen": 26,
-    "inDeWacht": 16,
+    "totaalOpen": 27,
+    "inDeWacht": 17,
     "statusBreakdown": {
+      "In de wacht": 17,
       "Gesloten": 747,
-      "In de wacht": 16,
       "Open": 10
     },
     "capBereikt": false
@@ -224,6 +239,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038"
+    },
+    {
+      "ticketNumber": "2955",
+      "titel": "Liposuctie-klacht Boerhavenkliniek",
+      "klant": "W. Jawad",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-06",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015138001"
     }
   ]
 }
