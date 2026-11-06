@@ -1,18 +1,18 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T11:30:53Z",
+  "generated_at": "2026-11-06T11:35:21Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
     "geslotenVandaag": 9,
-    "totaalOpen": 29,
-    "inDeWacht": 15,
+    "totaalOpen": 28,
+    "inDeWacht": 16,
     "statusBreakdown": {
-      "Open": 14,
-      "Gesloten": 746,
-      "In de wacht": 15
+      "Open": 12,
+      "In de wacht": 16,
+      "Gesloten": 746
     },
     "capBereikt": false
   },
@@ -130,6 +130,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977297"
     },
     {
+      "ticketNumber": "2934",
+      "titel": "FW: 84218530 (Randhawa, M.S.): Vraag bestelling bed",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015068001"
+    },
+    {
       "ticketNumber": "2928",
       "titel": "Niet gebeld door Senne Buishuis gisteren",
       "klant": "T. Doorn",
@@ -144,22 +152,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015068056"
-    },
-    {
-      "ticketNumber": "2935",
-      "titel": "FW: 84218530 (Randhawa, M.S.): Vraag bestelling bed vervolg",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-11-03",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054090"
-    },
-    {
-      "ticketNumber": "2934",
-      "titel": "FW: 84218530 (Randhawa, M.S.): Vraag bestelling bed",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-11-03",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015068001"
     },
     {
       "ticketNumber": "2930",
@@ -229,7 +221,7 @@
       "ticketNumber": "2950",
       "titel": "Woningbouw inschrijving",
       "klant": "R.C.J. Beckman",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414"
     },
