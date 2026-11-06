@@ -1,86 +1,11 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T17:50:46Z",
-  "tickets": [
-    {
-      "ticketNumber": "2949",
-      "tijd": "09:57",
-      "titel": "FW: Bevestiging: Juridische Vraag met Leyla Pereira op donderdag 5 november 2026",
-      "klant": "K. Oostlander",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2950",
-      "tijd": "11:41",
-      "titel": "Terugbelafspraak 5 november 2026 – zaak woningbouwvereniging",
-      "klant": "R.C.J. Beckman",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2951",
-      "tijd": "13:07",
-      "titel": "Contact klantnummer 84248549",
-      "klant": "Jeroen Penninx",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049506",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2952",
-      "tijd": "14:40",
-      "titel": "FW: 84166643_Grimberg: vraag arbeidsovereenkomst",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049560",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2953",
-      "tijd": "16:17",
-      "titel": "Terugbelverzoek, polisnummer 84226703",
-      "klant": "R. Diemen",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015085001",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2954",
-      "tijd": "17:14",
-      "titel": "Dispuut over geleverde diensten.",
-      "klant": "Zwaana",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Email": 6
-  },
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T05:10:46Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 6,
+    "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 38,
     "inDeWacht": 12,

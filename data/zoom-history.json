@@ -8044,5 +8044,17 @@
     "terugGebeld": 2,
     "totaalGemist": 26,
     "totaalInbound": 26
+  },
+  "2026-11-06": {
+    "agenten": {},
+    "alleGemistNummers": [],
+    "beantwoordZonderAgent": 0,
+    "date": "2026-11-06",
+    "generated_at": "2026-11-06T05:10:46Z",
+    "nietTerugGebeld": 0,
+    "nietTerugGebeldNummers": [],
+    "terugGebeld": 0,
+    "totaalGemist": 0,
+    "totaalInbound": 0
   }
 }
