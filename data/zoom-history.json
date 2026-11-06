@@ -8049,14 +8049,14 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 0,
-        "gesprekstijdSec": 64,
-        "uitgaand": 1
+        "gesprekstijdSec": 86,
+        "uitgaand": 3
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-06",
-    "generated_at": "2026-11-06T08:44:32Z",
+    "generated_at": "2026-11-06T08:50:39Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
