@@ -8053,14 +8053,30 @@
         "uitgaand": 11
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31620038536",
+        "teruggebeld": false,
+        "tijd": "12:28"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-06",
-    "generated_at": "2026-11-06T11:23:58Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-11-06T11:30:54Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31620038536",
+        "teruggebeld": false,
+        "tijd": "12:28"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 3
+    "totaalGemist": 1,
+    "totaalInbound": 4
   }
 }
