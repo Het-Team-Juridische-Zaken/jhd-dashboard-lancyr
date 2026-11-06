@@ -8048,8 +8048,8 @@
   "2026-11-06": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 5,
-        "gesprekstijdSec": 2665,
+        "beantwoord": 6,
+        "gesprekstijdSec": 2753,
         "uitgaand": 17
       }
     },
@@ -8099,7 +8099,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-06",
-    "generated_at": "2026-11-06T15:35:58Z",
+    "generated_at": "2026-11-06T15:40:44Z",
     "nietTerugGebeld": 1,
     "nietTerugGebeldNummers": [
       {
@@ -8112,6 +8112,6 @@
     ],
     "terugGebeld": 5,
     "totaalGemist": 6,
-    "totaalInbound": 11
+    "totaalInbound": 12
   }
 }
