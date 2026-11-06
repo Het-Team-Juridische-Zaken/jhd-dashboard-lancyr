@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T13:24:26Z",
+  "generated_at": "2026-11-06T13:30:54Z",
   "tickets": [
     {
       "ticketNumber": "2955",
@@ -13,19 +13,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015138001",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2956",
+      "tijd": "14:26",
+      "titel": "Afkoop RB 5607-8093447",
+      "klant": "J.M.T. Gaarthuis",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 1
+    "Phone": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 10,
-    "totaalOpen": 27,
+    "totaalOpen": 28,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 10,
+      "Open": 11,
       "In de wacht": 17,
       "Gesloten": 747
     },
@@ -239,6 +251,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038"
+    },
+    {
+      "ticketNumber": "2956",
+      "titel": "Afkoop RB 5607-8093447",
+      "klant": "J.M.T. Gaarthuis",
+      "status": "Open",
+      "aangemaakt": "2026-11-06",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001"
     },
     {
       "ticketNumber": "2955",
