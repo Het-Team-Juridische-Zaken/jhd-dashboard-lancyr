@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T13:54:57Z",
+  "generated_at": "2026-11-06T14:01:01Z",
   "tickets": [
     {
       "ticketNumber": "2955",
@@ -25,32 +25,19 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001",
       "channel": "Phone",
       "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2957",
-      "tijd": "14:50",
-      "titel": "Fwd: polis",
-      "klant": "K. Oostlander",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015131001",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 2,
-    "Email": 1
+    "Phone": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 11,
-    "totaalOpen": 28,
+    "totaalOpen": 27,
     "inDeWacht": 18,
     "statusBreakdown": {
-      "Open": 10,
+      "Open": 9,
       "In de wacht": 18,
       "Gesloten": 748
     },
@@ -141,7 +128,7 @@
       "ticketNumber": "2915",
       "titel": "FW: 84313331 (Hinshelwood, S.H.): Urgent: Request for Legal Assistance – Employment Matter – Policy 5607-3391572",
       "klant": "De juridische helpdesk",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-29",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
     },
@@ -234,6 +221,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
     },
     {
+      "ticketNumber": "2949",
+      "titel": "Autokoop ontbinding",
+      "klant": "K. Oostlander",
+      "status": "Open",
+      "aangemaakt": "2026-11-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391"
+    },
+    {
       "ticketNumber": "2954",
       "titel": "Geschil tuinman en incassobureau",
       "klant": "J.A. Zwaan",
@@ -242,28 +237,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038"
     },
     {
-      "ticketNumber": "2949",
-      "titel": "Autokoop ontbinding",
-      "klant": "K. Oostlander",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391"
-    },
-    {
       "ticketNumber": "2950",
       "titel": "Woningbouw inschrijving",
       "klant": "R.C.J. Beckman",
       "status": "In de wacht",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414"
-    },
-    {
-      "ticketNumber": "2957",
-      "titel": "Fwd: polis",
-      "klant": "K. Oostlander",
-      "status": "Open",
-      "aangemaakt": "2026-11-06",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015131001"
     },
     {
       "ticketNumber": "2956",

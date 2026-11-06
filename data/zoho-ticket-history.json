@@ -601,12 +601,12 @@
     "capBereikt": false,
     "geslotenVandaag": 11,
     "inDeWacht": 18,
-    "nieuweVandaag": 3,
+    "nieuweVandaag": 2,
     "statusBreakdown": {
       "Gesloten": 748,
       "In de wacht": 18,
-      "Open": 10
+      "Open": 9
     },
-    "totaalOpen": 28
+    "totaalOpen": 27
   }
 }
