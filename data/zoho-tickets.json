@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T15:16:19Z",
+  "generated_at": "2026-11-06T15:20:42Z",
   "tickets": [
     {
       "ticketNumber": "2955",
@@ -33,13 +33,13 @@
   "brandmeesterCount": 1,
   "ticketStats": {
     "nieuweVandaag": 2,
-    "geslotenVandaag": 15,
-    "totaalOpen": 22,
+    "geslotenVandaag": 16,
+    "totaalOpen": 21,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Gesloten": 752,
-      "In de wacht": 17,
-      "Open": 5
+      "Open": 4,
+      "Gesloten": 753,
+      "In de wacht": 17
     },
     "capBereikt": false
   },
@@ -195,14 +195,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015078001"
-    },
-    {
-      "ticketNumber": "2937",
-      "titel": "FW: Verzoek om rechtsbijstand – Schademelding verkeersongeval (polisnummer 5607-8173752)",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
     },
     {
       "ticketNumber": "2949",
