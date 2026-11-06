@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T14:01:01Z",
+  "generated_at": "2026-11-06T14:10:44Z",
   "tickets": [
     {
       "ticketNumber": "2955",
@@ -33,13 +33,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 2,
-    "geslotenVandaag": 11,
-    "totaalOpen": 27,
+    "geslotenVandaag": 12,
+    "totaalOpen": 25,
     "inDeWacht": 18,
     "statusBreakdown": {
-      "Open": 9,
-      "In de wacht": 18,
-      "Gesloten": 748
+      "Open": 7,
+      "Gesloten": 749,
+      "In de wacht": 18
     },
     "capBereikt": false
   },
@@ -133,6 +133,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
     },
     {
+      "ticketNumber": "2936",
+      "titel": "FW: 84312780 (Bunnig, W.) rappel mbt zaak tegen Verduurzaming Centrum Nederland ",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015068056"
+    },
+    {
       "ticketNumber": "2934",
       "titel": "FW: 84218530 (Randhawa, M.S.): Vraag bestelling bed",
       "klant": "De juridische helpdesk",
@@ -147,14 +155,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031001"
-    },
-    {
-      "ticketNumber": "2936",
-      "titel": "FW: 84312780 (Bunnig, W.) rappel mbt zaak tegen Verduurzaming Centrum Nederland ",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-11-03",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015068056"
     },
     {
       "ticketNumber": "2930",
@@ -179,14 +179,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044093"
-    },
-    {
-      "ticketNumber": "2946",
-      "titel": "FW: Relatie 84312780 (Bunnig, W.) inzake zaak tegen Verduurzaming Centrum Nederland ",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049268"
     },
     {
       "ticketNumber": "2947",
@@ -227,14 +219,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391"
-    },
-    {
-      "ticketNumber": "2954",
-      "titel": "Geschil tuinman en incassobureau",
-      "klant": "J.A. Zwaan",
-      "status": "Open",
-      "aangemaakt": "2026-11-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038"
     },
     {
       "ticketNumber": "2950",
