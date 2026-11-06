@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T09:40:44Z",
+  "generated_at": "2026-11-06T09:44:23Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -10,8 +10,8 @@
     "totaalOpen": 32,
     "inDeWacht": 12,
     "statusBreakdown": {
-      "Gesloten": 745,
       "Open": 20,
+      "Gesloten": 745,
       "In de wacht": 12
     },
     "capBereikt": false
@@ -235,8 +235,8 @@
     },
     {
       "ticketNumber": "2954",
-      "titel": "Dispuut over geleverde diensten.",
-      "klant": "Zwaana",
+      "titel": "Geschil tuinman en incassobureau",
+      "klant": "J.A. Zwaan",
       "status": "Open",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038"
