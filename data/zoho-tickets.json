@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T14:11:19Z",
+  "generated_at": "2026-11-06T14:19:04Z",
   "tickets": [
     {
       "ticketNumber": "2955",
@@ -33,13 +33,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 2,
-    "geslotenVandaag": 12,
-    "totaalOpen": 25,
-    "inDeWacht": 18,
+    "geslotenVandaag": 13,
+    "totaalOpen": 24,
+    "inDeWacht": 17,
     "statusBreakdown": {
+      "Gesloten": 750,
       "Open": 7,
-      "Gesloten": 749,
-      "In de wacht": 18
+      "In de wacht": 17
     },
     "capBereikt": false
   },
@@ -219,14 +219,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391"
-    },
-    {
-      "ticketNumber": "2950",
-      "titel": "Woningbouw inschrijving",
-      "klant": "R.C.J. Beckman",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414"
     },
     {
       "ticketNumber": "2956",
