@@ -8067,12 +8067,33 @@
         "nummer": "+31640884342",
         "teruggebeld": false,
         "tijd": "12:36"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31627056277",
+        "teruggebeld": false,
+        "tijd": "12:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31614604455",
+        "teruggebeld": false,
+        "tijd": "12:45"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31614604455",
+        "teruggebeld": false,
+        "tijd": "12:46"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-06",
-    "generated_at": "2026-11-06T11:44:31Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-06T11:50:43Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8087,10 +8108,31 @@
         "nummer": "+31640884342",
         "teruggebeld": false,
         "tijd": "12:36"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31627056277",
+        "teruggebeld": false,
+        "tijd": "12:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31614604455",
+        "teruggebeld": false,
+        "tijd": "12:45"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31614604455",
+        "teruggebeld": false,
+        "tijd": "12:46"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 5
+    "totaalGemist": 5,
+    "totaalInbound": 8
   }
 }
