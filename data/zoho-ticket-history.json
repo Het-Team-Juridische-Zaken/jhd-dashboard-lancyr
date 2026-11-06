@@ -600,12 +600,12 @@
   "2026-11-06": {
     "capBereikt": false,
     "geslotenVandaag": 13,
-    "inDeWacht": 17,
+    "inDeWacht": 16,
     "nieuweVandaag": 2,
     "statusBreakdown": {
       "Gesloten": 750,
-      "In de wacht": 17,
-      "Open": 7
+      "In de wacht": 16,
+      "Open": 8
     },
     "totaalOpen": 24
   }

@@ -1,13 +1,13 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T14:19:04Z",
+  "generated_at": "2026-11-06T14:20:44Z",
   "tickets": [
     {
       "ticketNumber": "2955",
       "tijd": "14:11",
       "titel": "Liposuctie-klacht Boerhavenkliniek",
       "klant": "W. Jawad",
-      "status": "In de wacht",
+      "status": "Open",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015138001",
@@ -35,11 +35,11 @@
     "nieuweVandaag": 2,
     "geslotenVandaag": 13,
     "totaalOpen": 24,
-    "inDeWacht": 17,
+    "inDeWacht": 16,
     "statusBreakdown": {
+      "Open": 8,
       "Gesloten": 750,
-      "Open": 7,
-      "In de wacht": 17
+      "In de wacht": 16
     },
     "capBereikt": false
   },
@@ -221,20 +221,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391"
     },
     {
+      "ticketNumber": "2955",
+      "titel": "Liposuctie-klacht Boerhavenkliniek",
+      "klant": "W. Jawad",
+      "status": "Open",
+      "aangemaakt": "2026-11-06",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015138001"
+    },
+    {
       "ticketNumber": "2956",
       "titel": "Afkoop RB 5607-8093447",
       "klant": "J.M.T. Gaarthuis",
       "status": "In de wacht",
       "aangemaakt": "2026-11-06",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001"
-    },
-    {
-      "ticketNumber": "2955",
-      "titel": "Liposuctie-klacht Boerhavenkliniek",
-      "klant": "W. Jawad",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-06",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015138001"
     }
   ]
 }
