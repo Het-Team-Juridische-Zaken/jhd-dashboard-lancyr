@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T11:20:43Z",
+  "generated_at": "2026-11-06T11:23:57Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,11 +8,11 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 8,
     "totaalOpen": 30,
-    "inDeWacht": 13,
+    "inDeWacht": 14,
     "statusBreakdown": {
-      "Open": 17,
-      "Gesloten": 747,
-      "In de wacht": 13
+      "In de wacht": 14,
+      "Open": 16,
+      "Gesloten": 747
     },
     "capBereikt": false
   },
@@ -235,9 +235,9 @@
     },
     {
       "ticketNumber": "2949",
-      "titel": "FW: Bevestiging: Juridische Vraag met Leyla Pereira op donderdag 5 november 2026",
+      "titel": "Autokoop ontbinding",
       "klant": "K. Oostlander",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391"
     },
