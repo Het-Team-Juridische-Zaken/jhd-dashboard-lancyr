@@ -1,18 +1,11 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T14:44:25Z",
+  "generated_at": "2026-11-06T14:50:41Z",
   "totaalInbound": 10,
   "totaalGemist": 6,
-  "terugGebeld": 4,
-  "nietTerugGebeld": 2,
+  "terugGebeld": 5,
+  "nietTerugGebeld": 1,
   "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31640884342",
-      "naam": "Onbekend",
-      "tijd": "12:36",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
     {
       "nummer": "Anonymous",
       "naam": "Anonymous",
@@ -34,7 +27,7 @@
       "naam": "Onbekend",
       "tijd": "12:36",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31627056277",
@@ -68,8 +61,8 @@
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 4,
-      "uitgaand": 14,
-      "gesprekstijdSec": 2123
+      "uitgaand": 15,
+      "gesprekstijdSec": 2351
     }
   },
   "beantwoordZonderAgent": 0

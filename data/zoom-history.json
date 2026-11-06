@@ -8049,8 +8049,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 4,
-        "gesprekstijdSec": 2123,
-        "uitgaand": 14
+        "gesprekstijdSec": 2351,
+        "uitgaand": 15
       }
     },
     "alleGemistNummers": [
@@ -8065,7 +8065,7 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31640884342",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "12:36"
       },
       {
@@ -8099,16 +8099,9 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-06",
-    "generated_at": "2026-11-06T14:44:25Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-06T14:50:41Z",
+    "nietTerugGebeld": 1,
     "nietTerugGebeldNummers": [
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31640884342",
-        "teruggebeld": false,
-        "tijd": "12:36"
-      },
       {
         "callResult": "overflowed",
         "naam": "Anonymous",
@@ -8117,7 +8110,7 @@
         "tijd": "13:52"
       }
     ],
-    "terugGebeld": 4,
+    "terugGebeld": 5,
     "totaalGemist": 6,
     "totaalInbound": 10
   }
