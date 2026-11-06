@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T11:15:46Z",
+  "generated_at": "2026-11-06T11:20:43Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -234,20 +234,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
     },
     {
-      "ticketNumber": "2950",
-      "titel": "Terugbelafspraak 5 november 2026 – zaak woningbouwvereniging",
-      "klant": "R.C.J. Beckman",
-      "status": "Open",
-      "aangemaakt": "2026-11-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414"
-    },
-    {
       "ticketNumber": "2949",
       "titel": "FW: Bevestiging: Juridische Vraag met Leyla Pereira op donderdag 5 november 2026",
       "klant": "K. Oostlander",
       "status": "Open",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391"
+    },
+    {
+      "ticketNumber": "2950",
+      "titel": "Terugbelafspraak 5 november 2026 – zaak woningbouwvereniging",
+      "klant": "R.C.J. Beckman",
+      "status": "Open",
+      "aangemaakt": "2026-11-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414"
     },
     {
       "ticketNumber": "2954",

@@ -8048,19 +8048,19 @@
   "2026-11-06": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 1138,
+        "beantwoord": 3,
+        "gesprekstijdSec": 1620,
         "uitgaand": 11
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-06",
-    "generated_at": "2026-11-06T11:15:46Z",
+    "generated_at": "2026-11-06T11:20:45Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 2
+    "totaalInbound": 3
   }
 }
