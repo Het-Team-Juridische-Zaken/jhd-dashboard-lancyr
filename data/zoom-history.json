@@ -8060,12 +8060,19 @@
         "nummer": "+31620038536",
         "teruggebeld": false,
         "tijd": "12:28"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640884342",
+        "teruggebeld": false,
+        "tijd": "12:36"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-06",
-    "generated_at": "2026-11-06T11:40:41Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-06T11:44:31Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8073,10 +8080,17 @@
         "nummer": "+31620038536",
         "teruggebeld": false,
         "tijd": "12:28"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640884342",
+        "teruggebeld": false,
+        "tijd": "12:36"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 4
+    "totaalGemist": 2,
+    "totaalInbound": 5
   }
 }
