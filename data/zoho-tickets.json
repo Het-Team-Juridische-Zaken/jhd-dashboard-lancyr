@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T09:44:23Z",
+  "generated_at": "2026-11-06T09:50:43Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,11 +8,11 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 6,
     "totaalOpen": 32,
-    "inDeWacht": 12,
+    "inDeWacht": 13,
     "statusBreakdown": {
-      "Open": 20,
+      "In de wacht": 13,
       "Gesloten": 745,
-      "In de wacht": 12
+      "Open": 19
     },
     "capBereikt": false
   },
@@ -237,7 +237,7 @@
       "ticketNumber": "2954",
       "titel": "Geschil tuinman en incassobureau",
       "klant": "J.A. Zwaan",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038"
     },
