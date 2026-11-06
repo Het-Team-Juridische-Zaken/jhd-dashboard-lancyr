@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T09:50:43Z",
+  "generated_at": "2026-11-06T09:54:13Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -10,9 +10,9 @@
     "totaalOpen": 32,
     "inDeWacht": 13,
     "statusBreakdown": {
+      "Open": 19,
       "In de wacht": 13,
-      "Gesloten": 745,
-      "Open": 19
+      "Gesloten": 745
     },
     "capBereikt": false
   },
@@ -234,20 +234,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
     },
     {
-      "ticketNumber": "2954",
-      "titel": "Geschil tuinman en incassobureau",
-      "klant": "J.A. Zwaan",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038"
-    },
-    {
       "ticketNumber": "2952",
       "titel": "FW: 84166643_Grimberg: vraag arbeidsovereenkomst",
       "klant": "De juridische helpdesk",
       "status": "Open",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049560"
+    },
+    {
+      "ticketNumber": "2954",
+      "titel": "Geschil tuinman en incassobureau",
+      "klant": "J.A. Zwaan",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015094038"
     },
     {
       "ticketNumber": "2951",
