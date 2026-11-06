@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T13:35:57Z",
+  "generated_at": "2026-11-06T13:40:45Z",
   "tickets": [
     {
       "ticketNumber": "2955",
@@ -19,7 +19,7 @@
       "tijd": "14:26",
       "titel": "Afkoop RB 5607-8093447",
       "klant": "J.M.T. Gaarthuis",
-      "status": "Open",
+      "status": "In de wacht",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001",
@@ -33,13 +33,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 2,
-    "geslotenVandaag": 10,
-    "totaalOpen": 28,
-    "inDeWacht": 17,
+    "geslotenVandaag": 11,
+    "totaalOpen": 27,
+    "inDeWacht": 18,
     "statusBreakdown": {
-      "Open": 11,
-      "In de wacht": 17,
-      "Gesloten": 747
+      "In de wacht": 18,
+      "Gesloten": 748,
+      "Open": 9
     },
     "capBereikt": false
   },
@@ -83,14 +83,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-08-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013207089"
-    },
-    {
-      "ticketNumber": "2833",
-      "titel": "Rechtsbijstandverzekering elektrische fiets moeder Gaarthuis",
-      "klant": "J.M.T. Gaarthuis",
-      "status": "Open",
-      "aangemaakt": "2026-10-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014426020"
     },
     {
       "ticketNumber": "2838",
@@ -256,7 +248,7 @@
       "ticketNumber": "2956",
       "titel": "Afkoop RB 5607-8093447",
       "klant": "J.M.T. Gaarthuis",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-11-06",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001"
     },
