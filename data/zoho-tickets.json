@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T12:43:59Z",
+  "generated_at": "2026-11-06T12:50:46Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -10,8 +10,8 @@
     "totaalOpen": 27,
     "inDeWacht": 16,
     "statusBreakdown": {
-      "Open": 11,
       "In de wacht": 16,
+      "Open": 11,
       "Gesloten": 746
     },
     "capBereikt": false
@@ -210,20 +210,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
     },
     {
-      "ticketNumber": "2950",
-      "titel": "Woningbouw inschrijving",
-      "klant": "R.C.J. Beckman",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414"
-    },
-    {
       "ticketNumber": "2949",
       "titel": "Autokoop ontbinding",
       "klant": "K. Oostlander",
       "status": "In de wacht",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391"
+    },
+    {
+      "ticketNumber": "2950",
+      "titel": "Woningbouw inschrijving",
+      "klant": "R.C.J. Beckman",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414"
     },
     {
       "ticketNumber": "2954",
