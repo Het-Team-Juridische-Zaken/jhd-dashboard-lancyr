@@ -1,17 +1,17 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T10:31:01Z",
+  "generated_at": "2026-11-06T10:35:44Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
-    "geslotenVandaag": 7,
-    "totaalOpen": 31,
+    "geslotenVandaag": 8,
+    "totaalOpen": 30,
     "inDeWacht": 13,
     "statusBreakdown": {
-      "Open": 18,
-      "Gesloten": 746,
+      "Gesloten": 747,
+      "Open": 17,
       "In de wacht": 13
     },
     "capBereikt": false
@@ -184,14 +184,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
-    },
-    {
-      "ticketNumber": "2940",
-      "titel": "Keukencontract en annuleringsvergoeding met leverancier",
-      "klant": "J.M.J. Nijhuis-Hannink",
-      "status": "Open",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044013"
     },
     {
       "ticketNumber": "2938",
