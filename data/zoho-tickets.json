@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T10:01:01Z",
+  "generated_at": "2026-11-06T10:10:35Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -10,9 +10,9 @@
     "totaalOpen": 31,
     "inDeWacht": 13,
     "statusBreakdown": {
+      "Open": 18,
       "Gesloten": 746,
-      "In de wacht": 13,
-      "Open": 18
+      "In de wacht": 13
     },
     "capBereikt": false
   },
@@ -234,6 +234,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015054194"
     },
     {
+      "ticketNumber": "2950",
+      "titel": "Terugbelafspraak 5 november 2026 – zaak woningbouwvereniging",
+      "klant": "R.C.J. Beckman",
+      "status": "Open",
+      "aangemaakt": "2026-11-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414"
+    },
+    {
       "ticketNumber": "2954",
       "titel": "Geschil tuinman en incassobureau",
       "klant": "J.A. Zwaan",
@@ -248,14 +256,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049506"
-    },
-    {
-      "ticketNumber": "2950",
-      "titel": "Terugbelafspraak 5 november 2026 – zaak woningbouwvereniging",
-      "klant": "R.C.J. Beckman",
-      "status": "Open",
-      "aangemaakt": "2026-11-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049414"
     },
     {
       "ticketNumber": "2949",
