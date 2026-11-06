@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T13:40:45Z",
+  "generated_at": "2026-11-06T13:44:05Z",
   "tickets": [
     {
       "ticketNumber": "2955",
@@ -35,11 +35,11 @@
     "nieuweVandaag": 2,
     "geslotenVandaag": 11,
     "totaalOpen": 27,
-    "inDeWacht": 18,
+    "inDeWacht": 19,
     "statusBreakdown": {
-      "In de wacht": 18,
+      "In de wacht": 19,
       "Gesloten": 748,
-      "Open": 9
+      "Open": 8
     },
     "capBereikt": false
   },
@@ -173,6 +173,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
     },
     {
+      "ticketNumber": "2945",
+      "titel": "Aanrijding A9 – schadeclaim via rechtsbijstand",
+      "klant": "L.J. Stroomer",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044093"
+    },
+    {
       "ticketNumber": "2946",
       "titel": "FW: Relatie 84312780 (Bunnig, W.) inzake zaak tegen Verduurzaming Centrum Nederland ",
       "klant": "De juridische helpdesk",
@@ -187,14 +195,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031245"
-    },
-    {
-      "ticketNumber": "2945",
-      "titel": "Aanrijding A9 – schadeclaim via rechtsbijstand",
-      "klant": "L.J. Stroomer",
-      "status": "Open",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044093"
     },
     {
       "ticketNumber": "2938",
