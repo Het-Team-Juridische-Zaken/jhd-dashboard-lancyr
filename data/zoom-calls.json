@@ -1,69 +1,12 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T17:50:49Z",
-  "totaalInbound": 12,
-  "totaalGemist": 6,
-  "terugGebeld": 5,
-  "nietTerugGebeld": 1,
-  "nietTerugGebeldNummers": [
-    {
-      "nummer": "Anonymous",
-      "naam": "Anonymous",
-      "tijd": "13:52",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    }
-  ],
-  "alleGemistNummers": [
-    {
-      "nummer": "+31620038536",
-      "naam": "Onbekend",
-      "tijd": "12:28",
-      "callResult": "abandoned",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "+31640884342",
-      "naam": "Onbekend",
-      "tijd": "12:36",
-      "callResult": "overflowed",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "+31627056277",
-      "naam": "Onbekend",
-      "tijd": "12:44",
-      "callResult": "abandoned",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "+31614604455",
-      "naam": "Onbekend",
-      "tijd": "12:45",
-      "callResult": "abandoned",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "+31614604455",
-      "naam": "Onbekend",
-      "tijd": "12:46",
-      "callResult": "abandoned",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "Anonymous",
-      "naam": "Anonymous",
-      "tijd": "13:52",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    }
-  ],
-  "agenten": {
-    "Leyla Pereira": {
-      "beantwoord": 6,
-      "uitgaand": 17,
-      "gesprekstijdSec": 2753
-    }
-  },
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T05:12:00Z",
+  "totaalInbound": 0,
+  "totaalGemist": 0,
+  "terugGebeld": 0,
+  "nietTerugGebeld": 0,
+  "nietTerugGebeldNummers": [],
+  "alleGemistNummers": [],
+  "agenten": {},
   "beantwoordZonderAgent": 0
 }
