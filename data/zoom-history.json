@@ -8117,8 +8117,8 @@
   "2026-11-09": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 3,
-        "gesprekstijdSec": 932,
+        "beantwoord": 4,
+        "gesprekstijdSec": 1522,
         "uitgaand": 2
       }
     },
@@ -8129,12 +8129,19 @@
         "nummer": "+31640788576",
         "teruggebeld": false,
         "tijd": "09:04"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31682127220",
+        "teruggebeld": false,
+        "tijd": "11:22"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-09",
-    "generated_at": "2026-11-09T10:24:21Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-09T10:30:53Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8142,10 +8149,17 @@
         "nummer": "+31640788576",
         "teruggebeld": false,
         "tijd": "09:04"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31682127220",
+        "teruggebeld": false,
+        "tijd": "11:22"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 4
+    "totaalGemist": 2,
+    "totaalInbound": 6
   }
 }

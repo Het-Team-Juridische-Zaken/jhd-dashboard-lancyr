@@ -1,16 +1,23 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T10:24:21Z",
-  "totaalInbound": 4,
-  "totaalGemist": 1,
+  "generated_at": "2026-11-09T10:30:53Z",
+  "totaalInbound": 6,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640788576",
       "naam": "Onbekend",
       "tijd": "09:04",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31682127220",
+      "naam": "Onbekend",
+      "tijd": "11:22",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -21,13 +28,20 @@
       "tijd": "09:04",
       "callResult": "abandoned",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31682127220",
+      "naam": "Onbekend",
+      "tijd": "11:22",
+      "callResult": "overflowed",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 3,
+      "beantwoord": 4,
       "uitgaand": 2,
-      "gesprekstijdSec": 932
+      "gesprekstijdSec": 1522
     }
   },
   "beantwoordZonderAgent": 0
