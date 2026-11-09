@@ -8138,6 +8138,13 @@
         "tijd": "11:22"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643457159",
+        "teruggebeld": false,
+        "tijd": "11:41"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31685503194",
@@ -8154,8 +8161,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-09",
-    "generated_at": "2026-11-09T10:50:45Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-11-09T10:54:08Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8170,6 +8177,13 @@
         "nummer": "+31682127220",
         "teruggebeld": false,
         "tijd": "11:22"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643457159",
+        "teruggebeld": false,
+        "tijd": "11:41"
       },
       {
         "callResult": "abandoned",
@@ -8187,7 +8201,7 @@
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 10
+    "totaalGemist": 5,
+    "totaalInbound": 11
   }
 }

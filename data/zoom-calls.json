@@ -1,10 +1,10 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T10:50:45Z",
-  "totaalInbound": 10,
-  "totaalGemist": 4,
+  "generated_at": "2026-11-09T10:54:08Z",
+  "totaalInbound": 11,
+  "totaalGemist": 5,
   "terugGebeld": 0,
-  "nietTerugGebeld": 4,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640788576",
@@ -17,6 +17,13 @@
       "nummer": "+31682127220",
       "naam": "Onbekend",
       "tijd": "11:22",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31643457159",
+      "naam": "Onbekend",
+      "tijd": "11:41",
       "callResult": "overflowed",
       "teruggebeld": false
     },
@@ -47,6 +54,13 @@
       "nummer": "+31682127220",
       "naam": "Onbekend",
       "tijd": "11:22",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31643457159",
+      "naam": "Onbekend",
+      "tijd": "11:41",
       "callResult": "overflowed",
       "teruggebeld": false
     },
