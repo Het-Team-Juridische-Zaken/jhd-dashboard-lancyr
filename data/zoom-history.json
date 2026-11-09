@@ -8164,12 +8164,19 @@
         "nummer": "+31685503194",
         "teruggebeld": false,
         "tijd": "12:34"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31619769477",
+        "teruggebeld": false,
+        "tijd": "13:00"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-09",
-    "generated_at": "2026-11-09T12:01:05Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-11-09T12:10:50Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8212,10 +8219,17 @@
         "nummer": "+31685503194",
         "teruggebeld": false,
         "tijd": "12:34"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31619769477",
+        "teruggebeld": false,
+        "tijd": "13:00"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 12
+    "totaalGemist": 7,
+    "totaalInbound": 13
   }
 }
