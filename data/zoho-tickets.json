@@ -1,18 +1,18 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T08:30:51Z",
+  "generated_at": "2026-11-09T08:37:34Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 0,
     "geslotenVandaag": 0,
-    "totaalOpen": 22,
+    "totaalOpen": 23,
     "inDeWacht": 17,
     "statusBreakdown": {
+      "Open": 6,
       "In de wacht": 17,
-      "Open": 5,
-      "Gesloten": 750
+      "Gesloten": 749
     },
     "capBereikt": false
   },
@@ -96,6 +96,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013"
+    },
+    {
+      "ticketNumber": "2910",
+      "titel": "FW: Uw relatienummer 84283777-Antoniou",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-10-27",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883208"
     },
     {
       "ticketNumber": "2915",
