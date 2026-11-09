@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T12:30:57Z",
+  "generated_at": "2026-11-09T12:38:03Z",
   "tickets": [
     {
       "ticketNumber": "2960",
@@ -35,12 +35,12 @@
   "ticketStats": {
     "nieuweVandaag": 2,
     "geslotenVandaag": 0,
-    "totaalOpen": 25,
+    "totaalOpen": 26,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 8,
+      "Open": 9,
       "In de wacht": 17,
-      "Gesloten": 749
+      "Gesloten": 748
     },
     "capBereikt": false
   },
@@ -124,6 +124,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-10-14",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013"
+    },
+    {
+      "ticketNumber": "2899",
+      "titel": "Juridische hulp bij arbeidsconflict",
+      "klant": "S. elBojaddaini",
+      "status": "Open",
+      "aangemaakt": "2026-10-23",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883001"
     },
     {
       "ticketNumber": "2910",
