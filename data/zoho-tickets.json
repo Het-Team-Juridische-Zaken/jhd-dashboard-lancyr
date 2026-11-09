@@ -1,13 +1,13 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T15:36:03Z",
+  "generated_at": "2026-11-09T15:40:52Z",
   "tickets": [
     {
       "ticketNumber": "2960",
       "tijd": "11:40",
       "titel": "Arbeidsconflict vervallen arbeidsplaats",
       "klant": "M.E. Sweerts",
-      "status": "In de wacht",
+      "status": "Open",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015179014",
@@ -48,10 +48,10 @@
     "nieuweVandaag": 3,
     "geslotenVandaag": 0,
     "totaalOpen": 27,
-    "inDeWacht": 16,
+    "inDeWacht": 15,
     "statusBreakdown": {
-      "Open": 11,
-      "In de wacht": 16,
+      "Open": 12,
+      "In de wacht": 15,
       "Gesloten": 748
     },
     "capBereikt": false
@@ -250,6 +250,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001"
     },
     {
+      "ticketNumber": "2960",
+      "titel": "Arbeidsconflict vervallen arbeidsplaats",
+      "klant": "M.E. Sweerts",
+      "status": "Open",
+      "aangemaakt": "2026-11-09",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015179014"
+    },
+    {
       "ticketNumber": "2962",
       "titel": "HSCH2606338 Verzoek Rechtsbijstand ",
       "klant": "Schade Particulier | Nedvol",
@@ -264,14 +272,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-09",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015155024"
-    },
-    {
-      "ticketNumber": "2960",
-      "titel": "Arbeidsconflict vervallen arbeidsplaats",
-      "klant": "M.E. Sweerts",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-09",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015179014"
     }
   ]
 }
