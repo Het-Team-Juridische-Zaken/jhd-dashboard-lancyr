@@ -1,10 +1,10 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T10:44:27Z",
-  "totaalInbound": 9,
-  "totaalGemist": 3,
+  "generated_at": "2026-11-09T10:50:45Z",
+  "totaalInbound": 10,
+  "totaalGemist": 4,
   "terugGebeld": 0,
-  "nietTerugGebeld": 3,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640788576",
@@ -25,6 +25,13 @@
       "naam": "Onbekend",
       "tijd": "11:41",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31685503194",
+      "naam": "Onbekend",
+      "tijd": "11:43",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -48,6 +55,13 @@
       "naam": "Onbekend",
       "tijd": "11:41",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31685503194",
+      "naam": "Onbekend",
+      "tijd": "11:43",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
