@@ -1,17 +1,32 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T10:35:51Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-11-09T10:40:53Z",
+  "tickets": [
+    {
+      "ticketNumber": "2960",
+      "tijd": "11:40",
+      "titel": "Arbeidsconflict vervallen arbeidsplaats",
+      "klant": "M.E. Sweerts",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015179014",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Phone": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 23,
-    "inDeWacht": 16,
+    "totaalOpen": 24,
+    "inDeWacht": 17,
     "statusBreakdown": {
+      "In de wacht": 17,
       "Open": 7,
-      "In de wacht": 16,
       "Gesloten": 749
     },
     "capBereikt": false
@@ -200,6 +215,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-06",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001"
+    },
+    {
+      "ticketNumber": "2960",
+      "titel": "Arbeidsconflict vervallen arbeidsplaats",
+      "klant": "M.E. Sweerts",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-09",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015179014"
     }
   ]
 }
