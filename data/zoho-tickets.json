@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T08:20:44Z",
+  "generated_at": "2026-11-09T08:29:35Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -10,8 +10,8 @@
     "totaalOpen": 22,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 5,
       "In de wacht": 17,
+      "Open": 5,
       "Gesloten": 750
     },
     "capBereikt": false
@@ -138,6 +138,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049001"
     },
     {
+      "ticketNumber": "2947",
+      "titel": "zsm polisinformatie nodig [D3077715_I74893557]",
+      "klant": "Lucinda Arrey",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031245"
+    },
+    {
       "ticketNumber": "2945",
       "titel": "Aanrijding A9 – schadeclaim via rechtsbijstand",
       "klant": "L.J. Stroomer",
@@ -152,14 +160,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049158"
-    },
-    {
-      "ticketNumber": "2947",
-      "titel": "zsm polisinformatie nodig [D3077715_I74893557]",
-      "klant": "Lucinda Arrey",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031245"
     },
     {
       "ticketNumber": "2939",
