@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T15:10:44Z",
+  "generated_at": "2026-11-09T15:17:22Z",
   "tickets": [
     {
       "ticketNumber": "2960",
@@ -48,10 +48,10 @@
     "nieuweVandaag": 3,
     "geslotenVandaag": 0,
     "totaalOpen": 27,
-    "inDeWacht": 17,
+    "inDeWacht": 16,
     "statusBreakdown": {
-      "Open": 10,
-      "In de wacht": 17,
+      "Open": 11,
+      "In de wacht": 16,
       "Gesloten": 748
     },
     "capBereikt": false
@@ -229,7 +229,7 @@
       "ticketNumber": "2949",
       "titel": "Autokoop ontbinding",
       "klant": "K. Oostlander",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-11-05",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391"
     },
