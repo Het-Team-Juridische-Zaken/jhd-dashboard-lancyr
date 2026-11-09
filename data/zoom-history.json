@@ -8171,12 +8171,19 @@
         "nummer": "+31619769477",
         "teruggebeld": false,
         "tijd": "13:00"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31610518742",
+        "teruggebeld": false,
+        "tijd": "13:17"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-09",
-    "generated_at": "2026-11-09T12:15:34Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-11-09T12:20:46Z",
+    "nietTerugGebeld": 8,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8226,10 +8233,17 @@
         "nummer": "+31619769477",
         "teruggebeld": false,
         "tijd": "13:00"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31610518742",
+        "teruggebeld": false,
+        "tijd": "13:17"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 7,
-    "totaalInbound": 13
+    "totaalGemist": 8,
+    "totaalInbound": 14
   }
 }

@@ -1,10 +1,10 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T12:15:34Z",
-  "totaalInbound": 13,
-  "totaalGemist": 7,
+  "generated_at": "2026-11-09T12:20:46Z",
+  "totaalInbound": 14,
+  "totaalGemist": 8,
   "terugGebeld": 0,
-  "nietTerugGebeld": 7,
+  "nietTerugGebeld": 8,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640788576",
@@ -52,6 +52,13 @@
       "nummer": "+31619769477",
       "naam": "Onbekend",
       "tijd": "13:00",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31610518742",
+      "naam": "Onbekend",
+      "tijd": "13:17",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -103,6 +110,13 @@
       "nummer": "+31619769477",
       "naam": "Onbekend",
       "tijd": "13:00",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31610518742",
+      "naam": "Onbekend",
+      "tijd": "13:17",
       "callResult": "abandoned",
       "teruggebeld": false
     }
