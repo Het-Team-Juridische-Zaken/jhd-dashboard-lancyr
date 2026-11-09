@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T08:50:40Z",
+  "generated_at": "2026-11-09T08:54:08Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,10 +8,10 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 23,
-    "inDeWacht": 17,
+    "inDeWacht": 16,
     "statusBreakdown": {
-      "Open": 6,
-      "In de wacht": 17,
+      "Open": 7,
+      "In de wacht": 16,
       "Gesloten": 749
     },
     "capBereikt": false
@@ -114,6 +114,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
     },
     {
+      "ticketNumber": "2929",
+      "titel": "Verzoek om rechtsbijstand. relatienummer 8420287",
+      "klant": "Sara albertoe-bentum",
+      "status": "Open",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
+    },
+    {
       "ticketNumber": "2928",
       "titel": "Niet gebeld door Senne Buishuis gisteren",
       "klant": "T. Doorn",
@@ -128,14 +136,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015068056"
-    },
-    {
-      "ticketNumber": "2929",
-      "titel": "Verzoek om rechtsbijstand. relatienummer 8420287",
-      "klant": "Sara albertoe-bentum",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-03",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
     },
     {
       "ticketNumber": "2930",
