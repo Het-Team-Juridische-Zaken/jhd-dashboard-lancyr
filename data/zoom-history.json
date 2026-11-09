@@ -8118,8 +8118,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 3,
-        "gesprekstijdSec": 595,
-        "uitgaand": 1
+        "gesprekstijdSec": 932,
+        "uitgaand": 2
       }
     },
     "alleGemistNummers": [
@@ -8133,7 +8133,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-09",
-    "generated_at": "2026-11-09T09:34:51Z",
+    "generated_at": "2026-11-09T09:40:41Z",
     "nietTerugGebeld": 1,
     "nietTerugGebeldNummers": [
       {
