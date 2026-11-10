@@ -8263,8 +8263,8 @@
   "2026-11-10": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 672,
+        "beantwoord": 3,
+        "gesprekstijdSec": 819,
         "uitgaand": 3
       }
     },
@@ -8303,12 +8303,19 @@
         "nummer": "+31648648923",
         "teruggebeld": true,
         "tijd": "11:01"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31623807670",
+        "teruggebeld": false,
+        "tijd": "11:31"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-10",
-    "generated_at": "2026-11-10T10:30:59Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-10T10:35:21Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8323,10 +8330,17 @@
         "nummer": "+31646176670",
         "teruggebeld": false,
         "tijd": "10:27"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31623807670",
+        "teruggebeld": false,
+        "tijd": "11:31"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 5,
-    "totaalInbound": 7
+    "totaalGemist": 6,
+    "totaalInbound": 9
   }
 }
