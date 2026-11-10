@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T13:01:06Z",
+  "generated_at": "2026-11-10T13:10:09Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -65,7 +65,7 @@
     {
       "ticketNumber": "2969",
       "tijd": "14:00",
-      "titel": "Juridische advies over spoedklus toilet — geschil met loodgieter",
+      "titel": "Geschil met Ennatuurlijk",
       "klant": "J.K. Hamelink",
       "status": "Open",
       "statusType": "",
@@ -86,8 +86,8 @@
     "totaalOpen": 27,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Gesloten": 749,
       "Open": 10,
+      "Gesloten": 749,
       "In de wacht": 17
     },
     "capBereikt": false
@@ -271,7 +271,7 @@
     },
     {
       "ticketNumber": "2969",
-      "titel": "Juridische advies over spoedklus toilet — geschil met loodgieter",
+      "titel": "Geschil met Ennatuurlijk",
       "klant": "J.K. Hamelink",
       "status": "Open",
       "aangemaakt": "2026-11-10",
