@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T08:13:34Z",
+  "generated_at": "2026-11-10T08:20:45Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -45,12 +45,12 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 3,
-    "geslotenVandaag": 1,
-    "totaalOpen": 29,
+    "geslotenVandaag": 2,
+    "totaalOpen": 28,
     "inDeWacht": 15,
     "statusBreakdown": {
-      "Open": 14,
-      "Gesloten": 749,
+      "Open": 13,
+      "Gesloten": 750,
       "In de wacht": 15
     },
     "capBereikt": false
@@ -239,14 +239,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-06",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001"
-    },
-    {
-      "ticketNumber": "2960",
-      "titel": "Arbeidsconflict vervallen arbeidsplaats",
-      "klant": "M.E. Sweerts",
-      "status": "Open",
-      "aangemaakt": "2026-11-09",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015179014"
     },
     {
       "ticketNumber": "2962",
