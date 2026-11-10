@@ -1,51 +1,11 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T17:50:41Z",
-  "tickets": [
-    {
-      "ticketNumber": "2960",
-      "tijd": "11:40",
-      "titel": "Arbeidsconflict vervallen arbeidsplaats",
-      "klant": "M.E. Sweerts",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015179014",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2961",
-      "tijd": "12:03",
-      "titel": "Fwd: We hebben nog aanvullende informatie van u nodig",
-      "klant": "J.K. Hamelink",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015155024",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2962",
-      "tijd": "15:03",
-      "titel": "HSCH2606338 Verzoek Rechtsbijstand ",
-      "klant": "Schade Particulier | Nedvol",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165024",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Phone": 1,
-    "Email": 2
-  },
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T05:10:38Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
+    "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 27,
     "inDeWacht": 15,
