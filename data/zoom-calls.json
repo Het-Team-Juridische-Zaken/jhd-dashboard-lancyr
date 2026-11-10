@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T13:10:50Z",
-  "totaalInbound": 15,
-  "totaalGemist": 11,
+  "generated_at": "2026-11-10T13:16:04Z",
+  "totaalInbound": 16,
+  "totaalGemist": 12,
   "terugGebeld": 3,
-  "nietTerugGebeld": 8,
+  "nietTerugGebeld": 9,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31653821645",
@@ -59,6 +59,13 @@
       "nummer": "+31651241195",
       "naam": "Onbekend",
       "tijd": "14:00",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31621804044",
+      "naam": "Onbekend",
+      "tijd": "14:13",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -138,6 +145,13 @@
       "nummer": "+31651241195",
       "naam": "Onbekend",
       "tijd": "14:00",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31621804044",
+      "naam": "Onbekend",
+      "tijd": "14:13",
       "callResult": "abandoned",
       "teruggebeld": false
     }
