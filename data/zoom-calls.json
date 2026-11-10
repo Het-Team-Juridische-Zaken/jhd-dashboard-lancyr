@@ -1,15 +1,22 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T09:25:39Z",
-  "totaalInbound": 3,
-  "totaalGemist": 2,
+  "generated_at": "2026-11-10T09:31:02Z",
+  "totaalInbound": 4,
+  "totaalGemist": 3,
   "terugGebeld": 1,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31653821645",
       "naam": "Onbekend",
       "tijd": "10:11",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646176670",
+      "naam": "Onbekend",
+      "tijd": "10:27",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -26,6 +33,13 @@
       "nummer": "+31653821645",
       "naam": "Onbekend",
       "tijd": "10:11",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646176670",
+      "naam": "Onbekend",
+      "tijd": "10:27",
       "callResult": "abandoned",
       "teruggebeld": false
     }

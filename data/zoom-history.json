@@ -8282,12 +8282,19 @@
         "nummer": "+31653821645",
         "teruggebeld": false,
         "tijd": "10:11"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646176670",
+        "teruggebeld": false,
+        "tijd": "10:27"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-10",
-    "generated_at": "2026-11-10T09:25:39Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-10T09:31:02Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8295,10 +8302,17 @@
         "nummer": "+31653821645",
         "teruggebeld": false,
         "tijd": "10:11"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646176670",
+        "teruggebeld": false,
+        "tijd": "10:27"
       }
     ],
     "terugGebeld": 1,
-    "totaalGemist": 2,
-    "totaalInbound": 3
+    "totaalGemist": 3,
+    "totaalInbound": 4
   }
 }
