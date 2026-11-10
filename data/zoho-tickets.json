@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T15:01:13Z",
+  "generated_at": "2026-11-10T15:09:39Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -84,10 +84,10 @@
     "nieuweVandaag": 6,
     "geslotenVandaag": 5,
     "totaalOpen": 27,
-    "inDeWacht": 21,
+    "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 6,
-      "In de wacht": 21,
+      "Open": 7,
+      "In de wacht": 20,
       "Gesloten": 748
     },
     "capBereikt": false
@@ -257,7 +257,7 @@
       "ticketNumber": "2959",
       "titel": "Waterverbruik geschil met Vitens",
       "klant": "K. Bakker",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-11-06",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015131057"
     },
