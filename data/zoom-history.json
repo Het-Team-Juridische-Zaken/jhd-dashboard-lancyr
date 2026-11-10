@@ -8263,9 +8263,9 @@
   "2026-11-10": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 1,
-        "gesprekstijdSec": 353,
-        "uitgaand": 2
+        "beantwoord": 2,
+        "gesprekstijdSec": 672,
+        "uitgaand": 3
       }
     },
     "alleGemistNummers": [
@@ -8294,7 +8294,7 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31614517070",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "10:50"
       },
       {
@@ -8307,8 +8307,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-10",
-    "generated_at": "2026-11-10T10:24:24Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-11-10T10:30:59Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8323,17 +8323,10 @@
         "nummer": "+31646176670",
         "teruggebeld": false,
         "tijd": "10:27"
-      },
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31614517070",
-        "teruggebeld": false,
-        "tijd": "10:50"
       }
     ],
-    "terugGebeld": 2,
+    "terugGebeld": 3,
     "totaalGemist": 5,
-    "totaalInbound": 6
+    "totaalInbound": 7
   }
 }
