@@ -8359,12 +8359,19 @@
         "nummer": "+31686279857",
         "teruggebeld": false,
         "tijd": "14:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Anonymous",
+        "nummer": "Anonymous",
+        "teruggebeld": false,
+        "tijd": "14:51"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-10",
-    "generated_at": "2026-11-10T13:54:23Z",
-    "nietTerugGebeld": 10,
+    "generated_at": "2026-11-10T14:01:15Z",
+    "nietTerugGebeld": 11,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8435,10 +8442,17 @@
         "nummer": "+31686279857",
         "teruggebeld": false,
         "tijd": "14:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Anonymous",
+        "nummer": "Anonymous",
+        "teruggebeld": false,
+        "tijd": "14:51"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 13,
-    "totaalInbound": 17
+    "totaalGemist": 14,
+    "totaalInbound": 18
   }
 }

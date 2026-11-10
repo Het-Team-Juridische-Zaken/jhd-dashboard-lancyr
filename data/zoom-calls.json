@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T13:54:23Z",
-  "totaalInbound": 17,
-  "totaalGemist": 13,
+  "generated_at": "2026-11-10T14:01:15Z",
+  "totaalInbound": 18,
+  "totaalGemist": 14,
   "terugGebeld": 3,
-  "nietTerugGebeld": 10,
+  "nietTerugGebeld": 11,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31653821645",
@@ -73,6 +73,13 @@
       "nummer": "+31686279857",
       "naam": "Onbekend",
       "tijd": "14:26",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "Anonymous",
+      "naam": "Anonymous",
+      "tijd": "14:51",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -166,6 +173,13 @@
       "nummer": "+31686279857",
       "naam": "Onbekend",
       "tijd": "14:26",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "Anonymous",
+      "naam": "Anonymous",
+      "tijd": "14:51",
       "callResult": "overflowed",
       "teruggebeld": false
     }
