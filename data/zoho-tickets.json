@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T13:31:01Z",
+  "generated_at": "2026-11-10T13:35:44Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -29,8 +29,8 @@
     {
       "ticketNumber": "2965",
       "tijd": "08:27",
-      "titel": "FW: 84228043 (Kremer, P.T.): Detacheringsovereenkomst",
-      "klant": "De juridische helpdesk",
+      "titel": "Detacheringsovereenkomst",
+      "klant": "P.T. Kremer",
       "status": "Open",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
@@ -86,8 +86,8 @@
     "totaalOpen": 27,
     "inDeWacht": 19,
     "statusBreakdown": {
-      "In de wacht": 19,
       "Open": 8,
+      "In de wacht": 19,
       "Gesloten": 749
     },
     "capBereikt": false
@@ -270,6 +270,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001"
     },
     {
+      "ticketNumber": "2965",
+      "titel": "Detacheringsovereenkomst",
+      "klant": "P.T. Kremer",
+      "status": "Open",
+      "aangemaakt": "2026-11-10",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165133"
+    },
+    {
       "ticketNumber": "2967",
       "titel": "Wasmachine garantie",
       "klant": "A.W. Pool",
@@ -284,14 +292,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015201437"
-    },
-    {
-      "ticketNumber": "2965",
-      "titel": "FW: 84228043 (Kremer, P.T.): Detacheringsovereenkomst",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "aangemaakt": "2026-11-10",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165133"
     },
     {
       "ticketNumber": "2964",
