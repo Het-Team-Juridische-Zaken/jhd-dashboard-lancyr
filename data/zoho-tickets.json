@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T12:44:04Z",
+  "generated_at": "2026-11-10T12:50:51Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -72,11 +72,11 @@
     "nieuweVandaag": 5,
     "geslotenVandaag": 3,
     "totaalOpen": 28,
-    "inDeWacht": 15,
+    "inDeWacht": 16,
     "statusBreakdown": {
-      "Open": 13,
-      "Gesloten": 748,
-      "In de wacht": 15
+      "In de wacht": 16,
+      "Open": 12,
+      "Gesloten": 748
     },
     "capBereikt": false
   },
@@ -218,6 +218,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049001"
     },
     {
+      "ticketNumber": "2938",
+      "titel": "Mazda elektrische auto: garantie en oplossing bij defect laadpaal",
+      "klant": "Dirk Willems",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049158"
+    },
+    {
       "ticketNumber": "2947",
       "titel": "zsm polisinformatie nodig [D3077715_I74893557]",
       "klant": "Lucinda Arrey",
@@ -232,14 +240,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044093"
-    },
-    {
-      "ticketNumber": "2938",
-      "titel": "Mazda elektrische auto: garantie en oplossing bij defect laadpaal",
-      "klant": "Dirk Willems",
-      "status": "Open",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049158"
     },
     {
       "ticketNumber": "2939",
