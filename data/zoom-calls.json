@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T12:28:29Z",
-  "totaalInbound": 12,
-  "totaalGemist": 8,
+  "generated_at": "2026-11-10T12:31:04Z",
+  "totaalInbound": 13,
+  "totaalGemist": 9,
   "terugGebeld": 3,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31653821645",
@@ -38,6 +38,13 @@
       "nummer": "+31631950164",
       "naam": "Onbekend",
       "tijd": "12:04",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31640442188",
+      "naam": "Onbekend",
+      "tijd": "13:22",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -96,6 +103,13 @@
       "nummer": "+31631950164",
       "naam": "Onbekend",
       "tijd": "12:04",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31640442188",
+      "naam": "Onbekend",
+      "tijd": "13:22",
       "callResult": "overflowed",
       "teruggebeld": false
     }
