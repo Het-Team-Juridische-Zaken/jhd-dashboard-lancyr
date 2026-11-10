@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T09:54:02Z",
+  "generated_at": "2026-11-10T10:01:07Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -43,7 +43,7 @@
       "tijd": "10:13",
       "titel": "Wasmachine garantie",
       "klant": "A.W. Pool",
-      "status": "In de wacht",
+      "status": "Open",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015202001",
@@ -60,11 +60,11 @@
     "nieuweVandaag": 4,
     "geslotenVandaag": 2,
     "totaalOpen": 28,
-    "inDeWacht": 16,
+    "inDeWacht": 15,
     "statusBreakdown": {
+      "Open": 13,
       "Gesloten": 750,
-      "In de wacht": 16,
-      "Open": 12
+      "In de wacht": 15
     },
     "capBereikt": false
   },
@@ -265,7 +265,7 @@
       "ticketNumber": "2967",
       "titel": "Wasmachine garantie",
       "klant": "A.W. Pool",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-11-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015202001"
     },
