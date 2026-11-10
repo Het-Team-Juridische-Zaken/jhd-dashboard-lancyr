@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T14:44:08Z",
+  "generated_at": "2026-11-10T14:50:47Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -84,10 +84,10 @@
     "nieuweVandaag": 6,
     "geslotenVandaag": 5,
     "totaalOpen": 27,
-    "inDeWacht": 20,
+    "inDeWacht": 21,
     "statusBreakdown": {
-      "In de wacht": 20,
-      "Open": 7,
+      "Open": 6,
+      "In de wacht": 21,
       "Gesloten": 748
     },
     "capBereikt": false
@@ -198,6 +198,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
     },
     {
+      "ticketNumber": "2928",
+      "titel": "Niet gebeld door Senne Buishuis gisteren",
+      "klant": "T. Doorn",
+      "status": "Open",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031001"
+    },
+    {
       "ticketNumber": "2929",
       "titel": "Verzoek om rechtsbijstand. relatienummer 8420287",
       "klant": "Sara albertoe-bentum",
@@ -212,14 +220,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015068056"
-    },
-    {
-      "ticketNumber": "2928",
-      "titel": "Niet gebeld door Senne Buishuis gisteren",
-      "klant": "T. Doorn",
-      "status": "Open",
-      "aangemaakt": "2026-11-03",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031001"
     },
     {
       "ticketNumber": "2930",
@@ -255,9 +255,9 @@
     },
     {
       "ticketNumber": "2959",
-      "titel": "FW: 84207644 (Bakker, K.) onenigheid over de factuur voor waterverbruik",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
+      "titel": "Waterverbruik geschil met Vitens",
+      "klant": "K. Bakker",
+      "status": "In de wacht",
       "aangemaakt": "2026-11-06",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015131057"
     },
