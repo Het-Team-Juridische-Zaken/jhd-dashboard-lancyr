@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T13:35:46Z",
-  "totaalInbound": 16,
-  "totaalGemist": 12,
+  "generated_at": "2026-11-10T13:40:52Z",
+  "totaalInbound": 17,
+  "totaalGemist": 13,
   "terugGebeld": 3,
-  "nietTerugGebeld": 9,
+  "nietTerugGebeld": 10,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31653821645",
@@ -67,6 +67,13 @@
       "naam": "Onbekend",
       "tijd": "14:13",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31686279857",
+      "naam": "Onbekend",
+      "tijd": "14:26",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -153,6 +160,13 @@
       "naam": "Onbekend",
       "tijd": "14:13",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31686279857",
+      "naam": "Onbekend",
+      "tijd": "14:26",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],

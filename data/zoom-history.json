@@ -8352,12 +8352,19 @@
         "nummer": "+31621804044",
         "teruggebeld": false,
         "tijd": "14:13"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31686279857",
+        "teruggebeld": false,
+        "tijd": "14:26"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-10",
-    "generated_at": "2026-11-10T13:35:46Z",
-    "nietTerugGebeld": 9,
+    "generated_at": "2026-11-10T13:40:52Z",
+    "nietTerugGebeld": 10,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8421,10 +8428,17 @@
         "nummer": "+31621804044",
         "teruggebeld": false,
         "tijd": "14:13"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31686279857",
+        "teruggebeld": false,
+        "tijd": "14:26"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 12,
-    "totaalInbound": 16
+    "totaalGemist": 13,
+    "totaalInbound": 17
   }
 }
