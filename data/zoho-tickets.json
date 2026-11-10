@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T08:01:03Z",
+  "generated_at": "2026-11-10T08:10:49Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -37,33 +37,21 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165133",
       "channel": "Email",
       "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2966",
-      "tijd": "08:42",
-      "titel": "status",
-      "klant": "K. Oostlander",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015164001",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 4
+    "Email": 3
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 4,
-    "geslotenVandaag": 0,
-    "totaalOpen": 31,
+    "nieuweVandaag": 3,
+    "geslotenVandaag": 1,
+    "totaalOpen": 29,
     "inDeWacht": 15,
     "statusBreakdown": {
-      "Open": 16,
-      "In de wacht": 15,
-      "Gesloten": 748
+      "Gesloten": 749,
+      "Open": 14,
+      "In de wacht": 15
     },
     "capBereikt": false
   },
@@ -237,14 +225,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015078001"
     },
     {
-      "ticketNumber": "2949",
-      "titel": "Autokoop ontbinding",
-      "klant": "K. Oostlander",
-      "status": "Open",
-      "aangemaakt": "2026-11-05",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031391"
-    },
-    {
       "ticketNumber": "2959",
       "titel": "FW: 84207644 (Bakker, K.) onenigheid over de factuur voor waterverbruik",
       "klant": "De juridische helpdesk",
@@ -283,14 +263,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-09",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015155024"
-    },
-    {
-      "ticketNumber": "2966",
-      "titel": "status",
-      "klant": "K. Oostlander",
-      "status": "Open",
-      "aangemaakt": "2026-11-10",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015164001"
     },
     {
       "ticketNumber": "2965",
