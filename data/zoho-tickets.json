@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T13:23:58Z",
+  "generated_at": "2026-11-10T13:31:01Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -43,7 +43,7 @@
       "tijd": "10:13",
       "titel": "Wasmachine garantie",
       "klant": "A.W. Pool",
-      "status": "Open",
+      "status": "In de wacht",
       "statusType": "",
       "prioriteit": "Niet ingesteld",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015202001",
@@ -84,11 +84,11 @@
     "nieuweVandaag": 6,
     "geslotenVandaag": 5,
     "totaalOpen": 27,
-    "inDeWacht": 17,
+    "inDeWacht": 19,
     "statusBreakdown": {
-      "Open": 10,
-      "Gesloten": 749,
-      "In de wacht": 17
+      "In de wacht": 19,
+      "Open": 8,
+      "Gesloten": 749
     },
     "capBereikt": false
   },
@@ -198,20 +198,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014977012"
     },
     {
+      "ticketNumber": "2929",
+      "titel": "Verzoek om rechtsbijstand. relatienummer 8420287",
+      "klant": "Sara albertoe-bentum",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-03",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
+    },
+    {
       "ticketNumber": "2936",
       "titel": "FW: 84312780 (Bunnig, W.) rappel mbt zaak tegen Verduurzaming Centrum Nederland ",
       "klant": "De juridische helpdesk",
       "status": "In de wacht",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015068056"
-    },
-    {
-      "ticketNumber": "2929",
-      "titel": "Verzoek om rechtsbijstand. relatienummer 8420287",
-      "klant": "Sara albertoe-bentum",
-      "status": "Open",
-      "aangemaakt": "2026-11-03",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
     },
     {
       "ticketNumber": "2928",
@@ -270,20 +270,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001"
     },
     {
+      "ticketNumber": "2967",
+      "titel": "Wasmachine garantie",
+      "klant": "A.W. Pool",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-10",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015202001"
+    },
+    {
       "ticketNumber": "2969",
       "titel": "Geschil met Ennatuurlijk",
       "klant": "J.K. Hamelink",
       "status": "Open",
       "aangemaakt": "2026-11-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015201437"
-    },
-    {
-      "ticketNumber": "2967",
-      "titel": "Wasmachine garantie",
-      "klant": "A.W. Pool",
-      "status": "Open",
-      "aangemaakt": "2026-11-10",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015202001"
     },
     {
       "ticketNumber": "2965",

@@ -624,12 +624,12 @@
   "2026-11-10": {
     "capBereikt": false,
     "geslotenVandaag": 5,
-    "inDeWacht": 17,
+    "inDeWacht": 19,
     "nieuweVandaag": 6,
     "statusBreakdown": {
       "Gesloten": 749,
-      "In de wacht": 17,
-      "Open": 10
+      "In de wacht": 19,
+      "Open": 8
     },
     "totaalOpen": 27
   }
