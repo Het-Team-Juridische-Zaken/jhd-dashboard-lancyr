@@ -8264,8 +8264,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 1,
-        "gesprekstijdSec": 293,
-        "uitgaand": 1
+        "gesprekstijdSec": 353,
+        "uitgaand": 2
       }
     },
     "alleGemistNummers": [
@@ -8301,14 +8301,14 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31648648923",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "11:01"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-10",
-    "generated_at": "2026-11-10T10:20:47Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-11-10T10:24:24Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8330,16 +8330,9 @@
         "nummer": "+31614517070",
         "teruggebeld": false,
         "tijd": "10:50"
-      },
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31648648923",
-        "teruggebeld": false,
-        "tijd": "11:01"
       }
     ],
-    "terugGebeld": 1,
+    "terugGebeld": 2,
     "totaalGemist": 5,
     "totaalInbound": 6
   }
