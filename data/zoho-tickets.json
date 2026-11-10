@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T15:54:22Z",
+  "generated_at": "2026-11-10T16:01:17Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -82,13 +82,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 6,
-    "geslotenVandaag": 7,
-    "totaalOpen": 25,
+    "geslotenVandaag": 8,
+    "totaalOpen": 24,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Gesloten": 750,
-      "Open": 5,
-      "In de wacht": 20
+      "In de wacht": 20,
+      "Gesloten": 751,
+      "Open": 4
     },
     "capBereikt": false
   },
@@ -177,7 +177,7 @@
       "ticketNumber": "2910",
       "titel": "FW: Uw relatienummer 84283777-Antoniou",
       "klant": "De juridische helpdesk",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-10-27",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883208"
     },
@@ -228,14 +228,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015078001"
-    },
-    {
-      "ticketNumber": "2938",
-      "titel": "Mazda elektrische auto: garantie en oplossing bij defect laadpaal",
-      "klant": "Dirk Willems",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049158"
     },
     {
       "ticketNumber": "2947",
