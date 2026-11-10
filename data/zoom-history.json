@@ -8310,12 +8310,19 @@
         "nummer": "+31623807670",
         "teruggebeld": false,
         "tijd": "11:31"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31653410146",
+        "teruggebeld": false,
+        "tijd": "11:58"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-10",
-    "generated_at": "2026-11-10T11:01:09Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-11-10T11:09:20Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8337,10 +8344,17 @@
         "nummer": "+31623807670",
         "teruggebeld": false,
         "tijd": "11:31"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31653410146",
+        "teruggebeld": false,
+        "tijd": "11:58"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 6,
-    "totaalInbound": 10
+    "totaalGemist": 7,
+    "totaalInbound": 11
   }
 }
