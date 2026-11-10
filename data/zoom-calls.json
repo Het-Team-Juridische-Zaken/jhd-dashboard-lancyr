@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T15:50:51Z",
-  "totaalInbound": 20,
+  "generated_at": "2026-11-10T15:54:24Z",
+  "totaalInbound": 21,
   "totaalGemist": 16,
   "terugGebeld": 6,
   "nietTerugGebeld": 10,
@@ -192,15 +192,15 @@
     }
   ],
   "agenten": {
+    "Leyla Pereira": {
+      "beantwoord": 5,
+      "uitgaand": 11,
+      "gesprekstijdSec": 2460
+    },
     "Dewi Verver": {
       "beantwoord": 0,
       "uitgaand": 1,
       "gesprekstijdSec": 609
-    },
-    "Leyla Pereira": {
-      "beantwoord": 4,
-      "uitgaand": 11,
-      "gesprekstijdSec": 2133
     }
   },
   "beantwoordZonderAgent": 0
