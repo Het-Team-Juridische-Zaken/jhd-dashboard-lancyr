@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T14:54:22Z",
-  "totaalInbound": 19,
-  "totaalGemist": 15,
+  "generated_at": "2026-11-10T15:01:17Z",
+  "totaalInbound": 20,
+  "totaalGemist": 16,
   "terugGebeld": 6,
-  "nietTerugGebeld": 9,
+  "nietTerugGebeld": 10,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31653821645",
@@ -67,6 +67,13 @@
       "naam": "Anonymous",
       "tijd": "14:51",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31625266466",
+      "naam": "Onbekend",
+      "tijd": "15:55",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -175,13 +182,20 @@
       "tijd": "15:04",
       "callResult": "abandoned",
       "teruggebeld": true
+    },
+    {
+      "nummer": "+31625266466",
+      "naam": "Onbekend",
+      "tijd": "15:55",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 4,
-      "uitgaand": 10,
-      "gesprekstijdSec": 1785
+      "uitgaand": 11,
+      "gesprekstijdSec": 2133
     }
   },
   "beantwoordZonderAgent": 0

@@ -8264,8 +8264,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 4,
-        "gesprekstijdSec": 1785,
-        "uitgaand": 10
+        "gesprekstijdSec": 2133,
+        "uitgaand": 11
       }
     },
     "alleGemistNummers": [
@@ -8373,12 +8373,19 @@
         "nummer": "+31683240757",
         "teruggebeld": true,
         "tijd": "15:04"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31625266466",
+        "teruggebeld": false,
+        "tijd": "15:55"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-10",
-    "generated_at": "2026-11-10T14:54:22Z",
-    "nietTerugGebeld": 9,
+    "generated_at": "2026-11-10T15:01:17Z",
+    "nietTerugGebeld": 10,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8442,10 +8449,17 @@
         "nummer": "Anonymous",
         "teruggebeld": false,
         "tijd": "14:51"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31625266466",
+        "teruggebeld": false,
+        "tijd": "15:55"
       }
     ],
     "terugGebeld": 6,
-    "totaalGemist": 15,
-    "totaalInbound": 19
+    "totaalGemist": 16,
+    "totaalInbound": 20
   }
 }
