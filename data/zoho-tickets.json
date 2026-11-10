@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T15:15:23Z",
+  "generated_at": "2026-11-10T15:20:55Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -82,13 +82,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 6,
-    "geslotenVandaag": 5,
-    "totaalOpen": 27,
+    "geslotenVandaag": 7,
+    "totaalOpen": 25,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 7,
-      "In de wacht": 20,
-      "Gesloten": 748
+      "Gesloten": 750,
+      "Open": 5,
+      "In de wacht": 20
     },
     "capBereikt": false
   },
@@ -174,14 +174,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014664013"
     },
     {
-      "ticketNumber": "2899",
-      "titel": "Juridische hulp bij arbeidsconflict",
-      "klant": "S. elBojaddaini",
-      "status": "Open",
-      "aangemaakt": "2026-10-23",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014883001"
-    },
-    {
       "ticketNumber": "2910",
       "titel": "FW: Uw relatienummer 84283777-Antoniou",
       "klant": "De juridische helpdesk",
@@ -252,14 +244,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031245"
-    },
-    {
-      "ticketNumber": "2959",
-      "titel": "Waterverbruik geschil met Vitens",
-      "klant": "K. Bakker",
-      "status": "Open",
-      "aangemaakt": "2026-11-06",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015131057"
     },
     {
       "ticketNumber": "2956",
