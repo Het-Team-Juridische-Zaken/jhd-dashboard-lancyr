@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T14:24:35Z",
+  "generated_at": "2026-11-10T14:31:06Z",
   "totaalInbound": 19,
   "totaalGemist": 15,
-  "terugGebeld": 3,
-  "nietTerugGebeld": 12,
+  "terugGebeld": 5,
+  "nietTerugGebeld": 10,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31653821645",
@@ -70,24 +70,10 @@
       "teruggebeld": false
     },
     {
-      "nummer": "+31686279857",
-      "naam": "Onbekend",
-      "tijd": "14:26",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
       "nummer": "Anonymous",
       "naam": "Anonymous",
       "tijd": "14:51",
       "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31683240757",
-      "naam": "Onbekend",
-      "tijd": "15:04",
-      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -181,7 +167,7 @@
       "naam": "Onbekend",
       "tijd": "14:26",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "Anonymous",
@@ -195,14 +181,14 @@
       "naam": "Onbekend",
       "tijd": "15:04",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     }
   ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 4,
-      "uitgaand": 4,
-      "gesprekstijdSec": 1136
+      "uitgaand": 6,
+      "gesprekstijdSec": 1272
     }
   },
   "beantwoordZonderAgent": 0
