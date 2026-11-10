@@ -8331,12 +8331,19 @@
         "nummer": "+31640442188",
         "teruggebeld": false,
         "tijd": "13:22"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31644087084",
+        "teruggebeld": false,
+        "tijd": "13:51"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-10",
-    "generated_at": "2026-11-10T12:54:01Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-11-10T13:01:08Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -8379,10 +8386,17 @@
         "nummer": "+31640442188",
         "teruggebeld": false,
         "tijd": "13:22"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31644087084",
+        "teruggebeld": false,
+        "tijd": "13:51"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 9,
-    "totaalInbound": 13
+    "totaalGemist": 10,
+    "totaalInbound": 14
   }
 }
