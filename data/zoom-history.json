@@ -8261,15 +8261,21 @@
     "totaalInbound": 17
   },
   "2026-11-10": {
-    "agenten": {},
+    "agenten": {
+      "Leyla Pereira": {
+        "beantwoord": 1,
+        "gesprekstijdSec": 87,
+        "uitgaand": 0
+      }
+    },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-10",
-    "generated_at": "2026-11-10T08:40:53Z",
+    "generated_at": "2026-11-10T08:44:20Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalInbound": 1
   }
 }
