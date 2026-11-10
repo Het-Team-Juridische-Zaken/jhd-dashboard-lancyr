@@ -8264,8 +8264,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 1,
-        "gesprekstijdSec": 87,
-        "uitgaand": 0
+        "gesprekstijdSec": 293,
+        "uitgaand": 1
       }
     },
     "alleGemistNummers": [
@@ -8273,13 +8273,20 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31653821645",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:55"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31653821645",
+        "teruggebeld": false,
+        "tijd": "10:11"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-10",
-    "generated_at": "2026-11-10T09:10:52Z",
+    "generated_at": "2026-11-10T09:19:00Z",
     "nietTerugGebeld": 1,
     "nietTerugGebeldNummers": [
       {
@@ -8287,11 +8294,11 @@
         "naam": "Onbekend",
         "nummer": "+31653821645",
         "teruggebeld": false,
-        "tijd": "09:55"
+        "tijd": "10:11"
       }
     ],
-    "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 2
+    "terugGebeld": 1,
+    "totaalGemist": 2,
+    "totaalInbound": 3
   }
 }
