@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T09:31:01Z",
+  "generated_at": "2026-11-10T09:35:42Z",
   "tickets": [
     {
       "ticketNumber": "2963",
@@ -59,12 +59,12 @@
   "ticketStats": {
     "nieuweVandaag": 4,
     "geslotenVandaag": 2,
-    "totaalOpen": 29,
+    "totaalOpen": 28,
     "inDeWacht": 16,
     "statusBreakdown": {
-      "Open": 13,
+      "Gesloten": 750,
       "In de wacht": 16,
-      "Gesloten": 750
+      "Open": 12
     },
     "capBereikt": false
   },
@@ -252,14 +252,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-06",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001"
-    },
-    {
-      "ticketNumber": "2962",
-      "titel": "HSCH2606338 Verzoek Rechtsbijstand ",
-      "klant": "Schade Particulier | Nedvol",
-      "status": "Open",
-      "aangemaakt": "2026-11-09",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165024"
     },
     {
       "ticketNumber": "2961",
