@@ -8471,8 +8471,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 0,
-        "gesprekstijdSec": 6,
-        "uitgaand": 1
+        "gesprekstijdSec": 767,
+        "uitgaand": 2
       }
     },
     "alleGemistNummers": [
@@ -8487,21 +8487,21 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31640442188",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:29"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31640442188",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:29"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T08:40:43Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-11-11T08:44:10Z",
+    "nietTerugGebeld": 1,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8509,23 +8509,9 @@
         "nummer": "+31633850351",
         "teruggebeld": false,
         "tijd": "09:19"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31640442188",
-        "teruggebeld": false,
-        "tijd": "09:29"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31640442188",
-        "teruggebeld": false,
-        "tijd": "09:29"
       }
     ],
-    "terugGebeld": 0,
+    "terugGebeld": 2,
     "totaalGemist": 3,
     "totaalInbound": 3
   }

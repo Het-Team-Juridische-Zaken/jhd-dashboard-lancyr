@@ -1,30 +1,16 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T08:40:43Z",
+  "generated_at": "2026-11-11T08:44:10Z",
   "totaalInbound": 3,
   "totaalGemist": 3,
-  "terugGebeld": 0,
-  "nietTerugGebeld": 3,
+  "terugGebeld": 2,
+  "nietTerugGebeld": 1,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31633850351",
       "naam": "Onbekend",
       "tijd": "09:19",
       "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31640442188",
-      "naam": "Onbekend",
-      "tijd": "09:29",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31640442188",
-      "naam": "Onbekend",
-      "tijd": "09:29",
-      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -41,21 +27,21 @@
       "naam": "Onbekend",
       "tijd": "09:29",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31640442188",
       "naam": "Onbekend",
       "tijd": "09:29",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     }
   ],
   "agenten": {
     "Dewi Verver": {
       "beantwoord": 0,
-      "uitgaand": 1,
-      "gesprekstijdSec": 6
+      "uitgaand": 2,
+      "gesprekstijdSec": 767
     }
   },
   "beantwoordZonderAgent": 0
