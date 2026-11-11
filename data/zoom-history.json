@@ -8566,12 +8566,19 @@
         "nummer": "+31654222477",
         "teruggebeld": false,
         "tijd": "13:09"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31623376653",
+        "teruggebeld": false,
+        "tijd": "14:26"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T13:31:00Z",
-    "nietTerugGebeld": 11,
+    "generated_at": "2026-11-11T13:35:55Z",
+    "nietTerugGebeld": 12,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8649,10 +8656,17 @@
         "nummer": "+31654222477",
         "teruggebeld": false,
         "tijd": "13:09"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31623376653",
+        "teruggebeld": false,
+        "tijd": "14:26"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 13,
-    "totaalInbound": 15
+    "totaalGemist": 14,
+    "totaalInbound": 16
   }
 }
