@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T10:16:15Z",
+  "generated_at": "2026-11-11T10:20:48Z",
   "tickets": [
     {
       "ticketNumber": "2970",
@@ -25,21 +25,33 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015169095",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2972",
+      "tijd": "11:16",
+      "titel": "Spoed Spanjaard 84184696",
+      "klant": "W.J.M. Spanjaard",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154102",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 1,
+    "Email": 2,
     "Phone": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
+    "nieuweVandaag": 3,
     "geslotenVandaag": 0,
-    "totaalOpen": 26,
+    "totaalOpen": 27,
     "inDeWacht": 21,
     "statusBreakdown": {
+      "Open": 6,
       "In de wacht": 21,
-      "Open": 5,
       "Gesloten": 751
     },
     "capBereikt": false
@@ -236,6 +248,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165078"
+    },
+    {
+      "ticketNumber": "2972",
+      "titel": "Spoed Spanjaard 84184696",
+      "klant": "W.J.M. Spanjaard",
+      "status": "Open",
+      "aangemaakt": "2026-11-11",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154102"
     },
     {
       "ticketNumber": "2971",
