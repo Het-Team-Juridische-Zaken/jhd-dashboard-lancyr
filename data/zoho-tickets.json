@@ -1,18 +1,33 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T09:50:43Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-11-11T09:53:57Z",
+  "tickets": [
+    {
+      "ticketNumber": "2970",
+      "tijd": "10:51",
+      "titel": "FW: 84195328 (Volp, C.K.N.: rechtsbijstandverzekering ",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154046",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Email": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 24,
+    "totaalOpen": 25,
     "inDeWacht": 20,
     "statusBreakdown": {
+      "Open": 5,
       "In de wacht": 20,
-      "Gesloten": 751,
-      "Open": 4
+      "Gesloten": 751
     },
     "capBereikt": false
   },
@@ -208,6 +223,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165078"
+    },
+    {
+      "ticketNumber": "2970",
+      "titel": "FW: 84195328 (Volp, C.K.N.: rechtsbijstandverzekering ",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-11-11",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154046"
     }
   ]
 }
