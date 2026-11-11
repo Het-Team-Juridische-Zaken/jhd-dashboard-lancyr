@@ -8496,12 +8496,19 @@
         "nummer": "+31640442188",
         "teruggebeld": true,
         "tijd": "09:29"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31641990848",
+        "teruggebeld": false,
+        "tijd": "09:49"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T08:44:10Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-11T08:50:47Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8509,10 +8516,17 @@
         "nummer": "+31633850351",
         "teruggebeld": false,
         "tijd": "09:19"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31641990848",
+        "teruggebeld": false,
+        "tijd": "09:49"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 3,
-    "totaalInbound": 3
+    "totaalGemist": 4,
+    "totaalInbound": 4
   }
 }
