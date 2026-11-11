@@ -8468,15 +8468,37 @@
     "totaalInbound": 21
   },
   "2026-11-11": {
-    "agenten": {},
-    "alleGemistNummers": [],
+    "agenten": {
+      "Dewi Verver": {
+        "beantwoord": 0,
+        "gesprekstijdSec": 6,
+        "uitgaand": 1
+      }
+    },
+    "alleGemistNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31633850351",
+        "teruggebeld": false,
+        "tijd": "09:19"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T08:22:38Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-11-11T08:29:03Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31633850351",
+        "teruggebeld": false,
+        "tijd": "09:19"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalGemist": 1,
+    "totaalInbound": 1
   }
 }
