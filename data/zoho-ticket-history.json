@@ -636,12 +636,12 @@
   "2026-11-11": {
     "capBereikt": false,
     "geslotenVandaag": 0,
-    "inDeWacht": 19,
+    "inDeWacht": 18,
     "nieuweVandaag": 5,
     "statusBreakdown": {
       "Gesloten": 750,
-      "In de wacht": 19,
-      "Open": 10
+      "In de wacht": 18,
+      "Open": 11
     },
     "totaalOpen": 29
   }
