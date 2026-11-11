@@ -8503,12 +8503,26 @@
         "nummer": "+31641990848",
         "teruggebeld": false,
         "tijd": "09:49"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31625266466",
+        "teruggebeld": false,
+        "tijd": "10:55"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31614553619",
+        "teruggebeld": false,
+        "tijd": "10:58"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T09:53:58Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-11T10:01:00Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8523,10 +8537,24 @@
         "nummer": "+31641990848",
         "teruggebeld": false,
         "tijd": "09:49"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31625266466",
+        "teruggebeld": false,
+        "tijd": "10:55"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31614553619",
+        "teruggebeld": false,
+        "tijd": "10:58"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 4,
-    "totaalInbound": 5
+    "totaalGemist": 6,
+    "totaalInbound": 7
   }
 }
