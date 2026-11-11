@@ -8538,12 +8538,26 @@
         "nummer": "+31623583380",
         "teruggebeld": false,
         "tijd": "11:45"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31641259824",
+        "teruggebeld": false,
+        "tijd": "12:03"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640513459",
+        "teruggebeld": false,
+        "tijd": "12:06"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T11:01:05Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-11-11T11:09:22Z",
+    "nietTerugGebeld": 9,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8593,10 +8607,24 @@
         "nummer": "+31623583380",
         "teruggebeld": false,
         "tijd": "11:45"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31641259824",
+        "teruggebeld": false,
+        "tijd": "12:03"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640513459",
+        "teruggebeld": false,
+        "tijd": "12:06"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 9,
-    "totaalInbound": 11
+    "totaalGemist": 11,
+    "totaalInbound": 13
   }
 }
