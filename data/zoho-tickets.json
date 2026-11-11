@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T11:24:22Z",
+  "generated_at": "2026-11-11T11:30:54Z",
   "tickets": [
     {
       "ticketNumber": "2970",
@@ -76,7 +76,7 @@
     "statusBreakdown": {
       "Open": 8,
       "In de wacht": 21,
-      "Gesloten": 751
+      "Gesloten": 750
     },
     "capBereikt": false
   },
