@@ -1,88 +1,12 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T17:50:49Z",
-  "tickets": [
-    {
-      "ticketNumber": "2963",
-      "tijd": "08:14",
-      "titel": "FW: W. Hueskes. Vervolg dossier: Motorschade - productiefout",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165078",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2964",
-      "tijd": "08:25",
-      "titel": "FW: 84195368 (Georges, H.G.): Verzoek om rechtsbijstand – geschil met RA Travel te Amsterdam en schadeclaim van € 1.430 ( polisnummer 5607-8110563)",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015155125",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2965",
-      "tijd": "08:27",
-      "titel": "Detacheringsovereenkomst",
-      "klant": "P.T. Kremer",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165133",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2967",
-      "tijd": "10:13",
-      "titel": "Wasmachine garantie",
-      "klant": "A.W. Pool",
-      "status": "In de wacht",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015202001",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2968",
-      "tijd": "11:43",
-      "titel": "Schenking terugvordering",
-      "klant": "A.N. Elzenga",
-      "status": "Gesloten",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015192020",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2969",
-      "tijd": "14:00",
-      "titel": "Geschil met Ennatuurlijk",
-      "klant": "J.K. Hamelink",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015201437",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Email": 3,
-    "Phone": 3
-  },
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T05:10:20Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 6,
-    "geslotenVandaag": 8,
+    "nieuweVandaag": 0,
+    "geslotenVandaag": 0,
     "totaalOpen": 24,
     "inDeWacht": 20,
     "statusBreakdown": {
