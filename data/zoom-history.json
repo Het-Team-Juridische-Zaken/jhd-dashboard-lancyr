@@ -8524,12 +8524,19 @@
         "nummer": "+31614553619",
         "teruggebeld": false,
         "tijd": "10:58"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31630670098",
+        "teruggebeld": false,
+        "tijd": "11:21"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T10:20:50Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-11-11T10:24:33Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8565,10 +8572,17 @@
         "nummer": "+31614553619",
         "teruggebeld": false,
         "tijd": "10:58"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31630670098",
+        "teruggebeld": false,
+        "tijd": "11:21"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 7,
-    "totaalInbound": 8
+    "totaalGemist": 8,
+    "totaalInbound": 9
   }
 }
