@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T14:35:44Z",
+  "generated_at": "2026-11-11T14:40:43Z",
   "tickets": [
     {
       "ticketNumber": "2970",
@@ -72,10 +72,10 @@
     "nieuweVandaag": 5,
     "geslotenVandaag": 0,
     "totaalOpen": 29,
-    "inDeWacht": 20,
+    "inDeWacht": 19,
     "statusBreakdown": {
-      "Open": 9,
-      "In de wacht": 20,
+      "Open": 10,
+      "In de wacht": 19,
       "Gesloten": 750
     },
     "capBereikt": false
@@ -237,7 +237,7 @@
       "ticketNumber": "2965",
       "titel": "Detacheringsovereenkomst",
       "klant": "P.T. Kremer",
-      "status": "In de wacht",
+      "status": "Open",
       "aangemaakt": "2026-11-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165133"
     },
