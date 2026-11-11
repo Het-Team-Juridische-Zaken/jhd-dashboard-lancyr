@@ -8580,12 +8580,19 @@
         "nummer": "+31633850351",
         "teruggebeld": false,
         "tijd": "14:31"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31633850351",
+        "teruggebeld": false,
+        "tijd": "14:48"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T13:50:47Z",
-    "nietTerugGebeld": 13,
+    "generated_at": "2026-11-11T13:54:05Z",
+    "nietTerugGebeld": 14,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8677,10 +8684,17 @@
         "nummer": "+31633850351",
         "teruggebeld": false,
         "tijd": "14:31"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31633850351",
+        "teruggebeld": false,
+        "tijd": "14:48"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 15,
-    "totaalInbound": 17
+    "totaalGemist": 16,
+    "totaalInbound": 18
   }
 }
