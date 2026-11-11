@@ -8573,12 +8573,19 @@
         "nummer": "+31623376653",
         "teruggebeld": false,
         "tijd": "14:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31633850351",
+        "teruggebeld": false,
+        "tijd": "14:31"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T13:35:55Z",
-    "nietTerugGebeld": 12,
+    "generated_at": "2026-11-11T13:40:50Z",
+    "nietTerugGebeld": 13,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8663,10 +8670,17 @@
         "nummer": "+31623376653",
         "teruggebeld": false,
         "tijd": "14:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31633850351",
+        "teruggebeld": false,
+        "tijd": "14:31"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 14,
-    "totaalInbound": 16
+    "totaalGemist": 15,
+    "totaalInbound": 17
   }
 }
