@@ -8531,12 +8531,19 @@
         "nummer": "+31630670098",
         "teruggebeld": false,
         "tijd": "11:21"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31623583380",
+        "teruggebeld": false,
+        "tijd": "11:45"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T10:50:45Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-11-11T10:53:49Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8579,10 +8586,17 @@
         "nummer": "+31630670098",
         "teruggebeld": false,
         "tijd": "11:21"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31623583380",
+        "teruggebeld": false,
+        "tijd": "11:45"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 8,
-    "totaalInbound": 10
+    "totaalGemist": 9,
+    "totaalInbound": 11
   }
 }
