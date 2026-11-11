@@ -8471,8 +8471,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 1,
-        "gesprekstijdSec": 1091,
-        "uitgaand": 4
+        "gesprekstijdSec": 1306,
+        "uitgaand": 5
       }
     },
     "alleGemistNummers": [
@@ -8512,6 +8512,13 @@
         "tijd": "10:55"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612037656",
+        "teruggebeld": false,
+        "tijd": "10:58"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31614553619",
@@ -8521,8 +8528,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T10:01:00Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-11-11T10:10:31Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8546,6 +8553,13 @@
         "tijd": "10:55"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612037656",
+        "teruggebeld": false,
+        "tijd": "10:58"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31614553619",
@@ -8554,7 +8568,7 @@
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 6,
-    "totaalInbound": 7
+    "totaalGemist": 7,
+    "totaalInbound": 8
   }
 }
