@@ -8482,12 +8482,26 @@
         "nummer": "+31633850351",
         "teruggebeld": false,
         "tijd": "09:19"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640442188",
+        "teruggebeld": false,
+        "tijd": "09:29"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640442188",
+        "teruggebeld": false,
+        "tijd": "09:29"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T08:29:03Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-11T08:30:56Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8495,10 +8509,24 @@
         "nummer": "+31633850351",
         "teruggebeld": false,
         "tijd": "09:19"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640442188",
+        "teruggebeld": false,
+        "tijd": "09:29"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640442188",
+        "teruggebeld": false,
+        "tijd": "09:29"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 1
+    "totaalGemist": 3,
+    "totaalInbound": 3
   }
 }
