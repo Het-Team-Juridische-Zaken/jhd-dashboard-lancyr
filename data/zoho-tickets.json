@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T10:24:32Z",
+  "generated_at": "2026-11-11T10:30:55Z",
   "tickets": [
     {
       "ticketNumber": "2970",
@@ -37,20 +37,32 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154102",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2973",
+      "tijd": "11:28",
+      "titel": "HSCH2606318 Verzoek rechtsbijstand ",
+      "klant": "Schade Particulier | Nedvol",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015164078",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 2,
+    "Email": 3,
     "Phone": 1
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
+    "nieuweVandaag": 4,
     "geslotenVandaag": 0,
-    "totaalOpen": 27,
+    "totaalOpen": 28,
     "inDeWacht": 21,
     "statusBreakdown": {
-      "Open": 6,
+      "Open": 7,
       "In de wacht": 21,
       "Gesloten": 751
     },
@@ -248,6 +260,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165078"
+    },
+    {
+      "ticketNumber": "2973",
+      "titel": "HSCH2606318 Verzoek rechtsbijstand ",
+      "klant": "Schade Particulier | Nedvol",
+      "status": "Open",
+      "aangemaakt": "2026-11-11",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015164078"
     },
     {
       "ticketNumber": "2972",
