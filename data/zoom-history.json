@@ -8559,12 +8559,19 @@
         "nummer": "+31640513459",
         "teruggebeld": false,
         "tijd": "12:11"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31654222477",
+        "teruggebeld": false,
+        "tijd": "13:09"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-11",
-    "generated_at": "2026-11-11T12:15:25Z",
-    "nietTerugGebeld": 10,
+    "generated_at": "2026-11-11T12:20:47Z",
+    "nietTerugGebeld": 11,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8635,10 +8642,17 @@
         "nummer": "+31640513459",
         "teruggebeld": false,
         "tijd": "12:11"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31654222477",
+        "teruggebeld": false,
+        "tijd": "13:09"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 12,
-    "totaalInbound": 14
+    "totaalGemist": 13,
+    "totaalInbound": 15
   }
 }
