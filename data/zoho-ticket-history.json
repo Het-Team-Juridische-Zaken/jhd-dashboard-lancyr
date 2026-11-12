@@ -651,10 +651,10 @@
     "inDeWacht": 17,
     "nieuweVandaag": 2,
     "statusBreakdown": {
-      "Gesloten": 753,
+      "Gesloten": 752,
       "In de wacht": 17,
-      "Open": 11
+      "Open": 12
     },
-    "totaalOpen": 28
+    "totaalOpen": 29
   }
 }
