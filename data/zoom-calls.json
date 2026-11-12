@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T10:40:49Z",
-  "totaalInbound": 7,
-  "totaalGemist": 7,
+  "generated_at": "2026-11-12T10:44:24Z",
+  "totaalInbound": 8,
+  "totaalGemist": 8,
   "terugGebeld": 0,
-  "nietTerugGebeld": 7,
+  "nietTerugGebeld": 8,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640513459",
@@ -53,6 +53,13 @@
       "naam": "Onbekend",
       "tijd": "11:18",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31653821645",
+      "naam": "Onbekend",
+      "tijd": "11:41",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -104,6 +111,13 @@
       "naam": "Onbekend",
       "tijd": "11:18",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31653821645",
+      "naam": "Onbekend",
+      "tijd": "11:41",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],

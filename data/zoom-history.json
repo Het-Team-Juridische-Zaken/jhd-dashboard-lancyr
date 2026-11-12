@@ -8762,12 +8762,19 @@
         "nummer": "+31638302030",
         "teruggebeld": false,
         "tijd": "11:18"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31653821645",
+        "teruggebeld": false,
+        "tijd": "11:41"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-12",
-    "generated_at": "2026-11-12T10:40:49Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-11-12T10:44:24Z",
+    "nietTerugGebeld": 8,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8817,10 +8824,17 @@
         "nummer": "+31638302030",
         "teruggebeld": false,
         "tijd": "11:18"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31653821645",
+        "teruggebeld": false,
+        "tijd": "11:41"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 7,
-    "totaalInbound": 7
+    "totaalGemist": 8,
+    "totaalInbound": 8
   }
 }
