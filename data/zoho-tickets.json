@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T11:30:52Z",
+  "generated_at": "2026-11-12T11:35:42Z",
   "tickets": [
     {
       "ticketNumber": "2975",
@@ -37,19 +37,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015216091",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2978",
+      "tijd": "12:31",
+      "titel": "Re: 4TRN70 Status",
+      "klant": "M.I.C.H.A. Toma",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015215076",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 3
+    "Email": 4
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 3,
+    "nieuweVandaag": 4,
     "geslotenVandaag": 3,
-    "totaalOpen": 30,
+    "totaalOpen": 31,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 13,
+      "Open": 14,
       "Gesloten": 752,
       "In de wacht": 17
     },
@@ -271,6 +283,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-11",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154046"
+    },
+    {
+      "ticketNumber": "2978",
+      "titel": "Re: 4TRN70 Status",
+      "klant": "M.I.C.H.A. Toma",
+      "status": "Open",
+      "aangemaakt": "2026-11-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015215076"
     },
     {
       "ticketNumber": "2977",
