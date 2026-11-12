@@ -8832,12 +8832,26 @@
         "nummer": "+31657215874",
         "teruggebeld": false,
         "tijd": "15:50"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31628206028",
+        "teruggebeld": false,
+        "tijd": "16:29"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31628206028",
+        "teruggebeld": false,
+        "tijd": "16:36"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-12",
-    "generated_at": "2026-11-12T15:35:55Z",
-    "nietTerugGebeld": 17,
+    "generated_at": "2026-11-12T15:40:54Z",
+    "nietTerugGebeld": 19,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8957,10 +8971,24 @@
         "nummer": "+31657215874",
         "teruggebeld": false,
         "tijd": "15:50"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31628206028",
+        "teruggebeld": false,
+        "tijd": "16:29"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31628206028",
+        "teruggebeld": false,
+        "tijd": "16:36"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 17,
-    "totaalInbound": 17
+    "totaalGemist": 19,
+    "totaalInbound": 19
   }
 }
