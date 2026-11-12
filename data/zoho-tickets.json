@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T10:01:01Z",
+  "generated_at": "2026-11-12T10:10:13Z",
   "tickets": [
     {
       "ticketNumber": "2975",
@@ -21,13 +21,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 1,
-    "geslotenVandaag": 0,
-    "totaalOpen": 30,
+    "geslotenVandaag": 3,
+    "totaalOpen": 27,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 13,
-      "In de wacht": 17,
-      "Gesloten": 750
+      "Gesloten": 753,
+      "Open": 10,
+      "In de wacht": 17
     },
     "capBereikt": false
   },
@@ -177,22 +177,6 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031245"
     },
     {
-      "ticketNumber": "2956",
-      "titel": "Afkoop RB 5607-8093447",
-      "klant": "J.M.T. Gaarthuis",
-      "status": "Open",
-      "aangemaakt": "2026-11-06",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015139001"
-    },
-    {
-      "ticketNumber": "2965",
-      "titel": "Detacheringsovereenkomst",
-      "klant": "P.T. Kremer",
-      "status": "Open",
-      "aangemaakt": "2026-11-10",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165133"
-    },
-    {
       "ticketNumber": "2967",
       "titel": "Wasmachine garantie",
       "klant": "A.W. Pool",
@@ -223,14 +207,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165078"
-    },
-    {
-      "ticketNumber": "2971",
-      "titel": "Bijstand bij lezing AVW",
-      "klant": "F. Jonkman",
-      "status": "Open",
-      "aangemaakt": "2026-11-11",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015169095"
     },
     {
       "ticketNumber": "2974",
