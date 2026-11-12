@@ -8790,12 +8790,19 @@
         "nummer": "+31653329989",
         "teruggebeld": false,
         "tijd": "12:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31648688681",
+        "teruggebeld": false,
+        "tijd": "14:44"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-12",
-    "generated_at": "2026-11-12T13:44:19Z",
-    "nietTerugGebeld": 11,
+    "generated_at": "2026-11-12T13:50:53Z",
+    "nietTerugGebeld": 12,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8873,10 +8880,17 @@
         "nummer": "+31653329989",
         "teruggebeld": false,
         "tijd": "12:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31648688681",
+        "teruggebeld": false,
+        "tijd": "14:44"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 11,
-    "totaalInbound": 11
+    "totaalGemist": 12,
+    "totaalInbound": 12
   }
 }

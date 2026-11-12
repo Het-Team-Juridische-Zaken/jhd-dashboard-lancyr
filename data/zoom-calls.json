@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T13:44:19Z",
-  "totaalInbound": 11,
-  "totaalGemist": 11,
+  "generated_at": "2026-11-12T13:50:53Z",
+  "totaalInbound": 12,
+  "totaalGemist": 12,
   "terugGebeld": 0,
-  "nietTerugGebeld": 11,
+  "nietTerugGebeld": 12,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640513459",
@@ -80,6 +80,13 @@
       "nummer": "+31653329989",
       "naam": "Onbekend",
       "tijd": "12:35",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31648688681",
+      "naam": "Onbekend",
+      "tijd": "14:44",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -159,6 +166,13 @@
       "nummer": "+31653329989",
       "naam": "Onbekend",
       "tijd": "12:35",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31648688681",
+      "naam": "Onbekend",
+      "tijd": "14:44",
       "callResult": "overflowed",
       "teruggebeld": false
     }
