@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T15:51:03Z",
-  "totaalInbound": 23,
-  "totaalGemist": 23,
+  "generated_at": "2026-11-12T15:54:30Z",
+  "totaalInbound": 24,
+  "totaalGemist": 24,
   "terugGebeld": 0,
-  "nietTerugGebeld": 23,
+  "nietTerugGebeld": 24,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640513459",
@@ -164,6 +164,13 @@
       "nummer": "+31612855017",
       "naam": "Onbekend",
       "tijd": "16:48",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31614815911",
+      "naam": "Onbekend",
+      "tijd": "16:51",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -327,6 +334,13 @@
       "nummer": "+31612855017",
       "naam": "Onbekend",
       "tijd": "16:48",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31614815911",
+      "naam": "Onbekend",
+      "tijd": "16:51",
       "callResult": "abandoned",
       "teruggebeld": false
     }

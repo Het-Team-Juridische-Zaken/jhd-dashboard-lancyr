@@ -8874,12 +8874,19 @@
         "nummer": "+31612855017",
         "teruggebeld": false,
         "tijd": "16:48"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31614815911",
+        "teruggebeld": false,
+        "tijd": "16:51"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-12",
-    "generated_at": "2026-11-12T15:51:03Z",
-    "nietTerugGebeld": 23,
+    "generated_at": "2026-11-12T15:54:30Z",
+    "nietTerugGebeld": 24,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9041,10 +9048,17 @@
         "nummer": "+31612855017",
         "teruggebeld": false,
         "tijd": "16:48"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31614815911",
+        "teruggebeld": false,
+        "tijd": "16:51"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 23,
-    "totaalInbound": 23
+    "totaalGemist": 24,
+    "totaalInbound": 24
   }
 }
