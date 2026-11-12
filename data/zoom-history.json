@@ -8720,12 +8720,19 @@
         "nummer": "+31640513459",
         "teruggebeld": false,
         "tijd": "09:07"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31610041845",
+        "teruggebeld": false,
+        "tijd": "10:19"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-12",
-    "generated_at": "2026-11-12T09:25:46Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-12T09:30:53Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8733,10 +8740,17 @@
         "nummer": "+31640513459",
         "teruggebeld": false,
         "tijd": "09:07"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31610041845",
+        "teruggebeld": false,
+        "tijd": "10:19"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 1
+    "totaalGemist": 2,
+    "totaalInbound": 2
   }
 }

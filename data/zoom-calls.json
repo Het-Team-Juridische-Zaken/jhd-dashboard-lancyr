@@ -1,15 +1,22 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T09:25:46Z",
-  "totaalInbound": 1,
-  "totaalGemist": 1,
+  "generated_at": "2026-11-12T09:30:53Z",
+  "totaalInbound": 2,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640513459",
       "naam": "Onbekend",
       "tijd": "09:07",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31610041845",
+      "naam": "Onbekend",
+      "tijd": "10:19",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -19,6 +26,13 @@
       "nummer": "+31640513459",
       "naam": "Onbekend",
       "tijd": "09:07",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31610041845",
+      "naam": "Onbekend",
+      "tijd": "10:19",
       "callResult": "overflowed",
       "teruggebeld": false
     }
