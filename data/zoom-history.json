@@ -8818,12 +8818,26 @@
         "nummer": "+31640513459",
         "teruggebeld": false,
         "tijd": "15:16"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31880188405",
+        "teruggebeld": false,
+        "tijd": "15:34"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31657215874",
+        "teruggebeld": false,
+        "tijd": "15:50"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-12",
-    "generated_at": "2026-11-12T14:51:04Z",
-    "nietTerugGebeld": 15,
+    "generated_at": "2026-11-12T14:54:42Z",
+    "nietTerugGebeld": 17,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8929,10 +8943,24 @@
         "nummer": "+31640513459",
         "teruggebeld": false,
         "tijd": "15:16"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31880188405",
+        "teruggebeld": false,
+        "tijd": "15:34"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31657215874",
+        "teruggebeld": false,
+        "tijd": "15:50"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 15,
-    "totaalInbound": 15
+    "totaalGemist": 17,
+    "totaalInbound": 17
   }
 }

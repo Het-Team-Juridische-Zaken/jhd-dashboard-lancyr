@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T14:51:04Z",
-  "totaalInbound": 15,
-  "totaalGemist": 15,
+  "generated_at": "2026-11-12T14:54:42Z",
+  "totaalInbound": 17,
+  "totaalGemist": 17,
   "terugGebeld": 0,
-  "nietTerugGebeld": 15,
+  "nietTerugGebeld": 17,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640513459",
@@ -109,6 +109,20 @@
       "naam": "Onbekend",
       "tijd": "15:16",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31880188405",
+      "naam": "Onbekend",
+      "tijd": "15:34",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31657215874",
+      "naam": "Onbekend",
+      "tijd": "15:50",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -216,6 +230,20 @@
       "naam": "Onbekend",
       "tijd": "15:16",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31880188405",
+      "naam": "Onbekend",
+      "tijd": "15:34",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31657215874",
+      "naam": "Onbekend",
+      "tijd": "15:50",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
