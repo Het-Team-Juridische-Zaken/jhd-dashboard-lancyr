@@ -648,12 +648,12 @@
   "2026-11-12": {
     "capBereikt": false,
     "geslotenVandaag": 3,
-    "inDeWacht": 17,
+    "inDeWacht": 16,
     "nieuweVandaag": 5,
     "statusBreakdown": {
       "Gesloten": 752,
-      "In de wacht": 17,
-      "Open": 15
+      "In de wacht": 16,
+      "Open": 16
     },
     "totaalOpen": 32
   }
