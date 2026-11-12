@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T15:44:10Z",
-  "totaalInbound": 19,
-  "totaalGemist": 19,
+  "generated_at": "2026-11-12T15:51:03Z",
+  "totaalInbound": 23,
+  "totaalGemist": 23,
   "terugGebeld": 0,
-  "nietTerugGebeld": 19,
+  "nietTerugGebeld": 23,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640513459",
@@ -133,9 +133,37 @@
       "teruggebeld": false
     },
     {
+      "nummer": "+31615483290",
+      "naam": "Onbekend",
+      "tijd": "16:36",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
       "nummer": "+31628206028",
       "naam": "Onbekend",
       "tijd": "16:36",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31611398744",
+      "naam": "Onbekend",
+      "tijd": "16:43",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31612855017",
+      "naam": "Onbekend",
+      "tijd": "16:48",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31612855017",
+      "naam": "Onbekend",
+      "tijd": "16:48",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -268,9 +296,37 @@
       "teruggebeld": false
     },
     {
+      "nummer": "+31615483290",
+      "naam": "Onbekend",
+      "tijd": "16:36",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
       "nummer": "+31628206028",
       "naam": "Onbekend",
       "tijd": "16:36",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31611398744",
+      "naam": "Onbekend",
+      "tijd": "16:43",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31612855017",
+      "naam": "Onbekend",
+      "tijd": "16:48",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31612855017",
+      "naam": "Onbekend",
+      "tijd": "16:48",
       "callResult": "abandoned",
       "teruggebeld": false
     }
