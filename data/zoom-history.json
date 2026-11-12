@@ -8783,12 +8783,19 @@
         "nummer": "+31641885884",
         "teruggebeld": false,
         "tijd": "12:06"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653329989",
+        "teruggebeld": false,
+        "tijd": "12:35"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-12",
-    "generated_at": "2026-11-12T11:35:44Z",
-    "nietTerugGebeld": 10,
+    "generated_at": "2026-11-12T11:40:53Z",
+    "nietTerugGebeld": 11,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8859,10 +8866,17 @@
         "nummer": "+31641885884",
         "teruggebeld": false,
         "tijd": "12:06"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653329989",
+        "teruggebeld": false,
+        "tijd": "12:35"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 10,
-    "totaalInbound": 10
+    "totaalGemist": 11,
+    "totaalInbound": 11
   }
 }
