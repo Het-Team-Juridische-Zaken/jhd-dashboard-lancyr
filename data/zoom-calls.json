@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T09:50:46Z",
-  "totaalInbound": 5,
-  "totaalGemist": 5,
+  "generated_at": "2026-11-12T09:54:00Z",
+  "totaalInbound": 6,
+  "totaalGemist": 6,
   "terugGebeld": 0,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640513459",
@@ -38,6 +38,13 @@
       "nummer": "+31627398704",
       "naam": "Onbekend",
       "tijd": "10:43",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31623583380",
+      "naam": "Onbekend",
+      "tijd": "10:44",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -75,6 +82,13 @@
       "nummer": "+31627398704",
       "naam": "Onbekend",
       "tijd": "10:43",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31623583380",
+      "naam": "Onbekend",
+      "tijd": "10:44",
       "callResult": "overflowed",
       "teruggebeld": false
     }
