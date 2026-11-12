@@ -1,75 +1,11 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T17:50:44Z",
-  "tickets": [
-    {
-      "ticketNumber": "2970",
-      "tijd": "10:51",
-      "titel": "FW: 84195328 (Volp, C.K.N.: rechtsbijstandverzekering ",
-      "klant": "De juridische helpdesk",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154046",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2971",
-      "tijd": "11:03",
-      "titel": "Bijstand bij lezing AVW",
-      "klant": "F. Jonkman",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015169095",
-      "channel": "Phone",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2972",
-      "tijd": "11:16",
-      "titel": "Spoed Spanjaard 84184696",
-      "klant": "W.J.M. Spanjaard",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154102",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2973",
-      "tijd": "11:28",
-      "titel": "HSCH2606318 Verzoek rechtsbijstand ",
-      "klant": "Schade Particulier | Nedvol",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015164078",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    },
-    {
-      "ticketNumber": "2974",
-      "tijd": "12:07",
-      "titel": "Spoedverzoek juridisch advies – beëindiging dienstverband tijdens proeftijd met behoud WW-rechten",
-      "klant": "C.E. Metsch",
-      "status": "Open",
-      "statusType": "",
-      "prioriteit": "Niet ingesteld",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165211",
-      "channel": "Email",
-      "doorgezetBrandmeester": false
-    }
-  ],
-  "channelCounts": {
-    "Email": 4,
-    "Phone": 1
-  },
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T05:10:48Z",
+  "tickets": [],
+  "channelCounts": {},
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 5,
+    "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 29,
     "inDeWacht": 17,
