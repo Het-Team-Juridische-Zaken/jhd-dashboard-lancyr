@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T10:16:53Z",
+  "generated_at": "2026-11-12T10:20:49Z",
   "tickets": [
     {
       "ticketNumber": "2975",
@@ -13,20 +13,32 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015216038",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2976",
+      "tijd": "11:17",
+      "titel": "belafspraak 11 november 2026 16:30 - 16:45",
+      "klant": "S.N. Petrov",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015215001",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 1
+    "Email": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 3,
-    "totaalOpen": 27,
+    "totaalOpen": 28,
     "inDeWacht": 17,
     "statusBreakdown": {
+      "Open": 11,
       "Gesloten": 753,
-      "Open": 10,
       "In de wacht": 17
     },
     "capBereikt": false
@@ -239,6 +251,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-11",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154046"
+    },
+    {
+      "ticketNumber": "2976",
+      "titel": "belafspraak 11 november 2026 16:30 - 16:45",
+      "klant": "S.N. Petrov",
+      "status": "Open",
+      "aangemaakt": "2026-11-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015215001"
     },
     {
       "ticketNumber": "2975",
