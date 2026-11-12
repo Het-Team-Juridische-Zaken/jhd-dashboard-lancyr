@@ -1,16 +1,31 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T08:23:10Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-11-12T08:29:52Z",
+  "tickets": [
+    {
+      "ticketNumber": "2975",
+      "tijd": "09:26",
+      "titel": "Leon Smal Verzoek om zo spoedig mogelijk teruggebeld te worden",
+      "klant": "Leon SmalNL",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015216038",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Email": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 29,
+    "totaalOpen": 30,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 12,
+      "Open": 13,
       "In de wacht": 17,
       "Gesloten": 750
     },
@@ -248,6 +263,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-11",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154046"
+    },
+    {
+      "ticketNumber": "2975",
+      "titel": "Leon Smal Verzoek om zo spoedig mogelijk teruggebeld te worden",
+      "klant": "Leon SmalNL",
+      "status": "Open",
+      "aangemaakt": "2026-11-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015216038"
     }
   ]
 }
