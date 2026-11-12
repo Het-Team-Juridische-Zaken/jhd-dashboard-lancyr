@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T14:20:53Z",
-  "totaalInbound": 14,
-  "totaalGemist": 14,
+  "generated_at": "2026-11-12T14:26:24Z",
+  "totaalInbound": 15,
+  "totaalGemist": 15,
   "terugGebeld": 0,
-  "nietTerugGebeld": 14,
+  "nietTerugGebeld": 15,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640513459",
@@ -102,6 +102,13 @@
       "naam": "Onbekend",
       "tijd": "15:15",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31640513459",
+      "naam": "Onbekend",
+      "tijd": "15:16",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -202,6 +209,13 @@
       "naam": "Onbekend",
       "tijd": "15:15",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31640513459",
+      "naam": "Onbekend",
+      "tijd": "15:16",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],

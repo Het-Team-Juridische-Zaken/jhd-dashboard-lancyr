@@ -8811,12 +8811,19 @@
         "nummer": "+31624981656",
         "teruggebeld": false,
         "tijd": "15:15"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640513459",
+        "teruggebeld": false,
+        "tijd": "15:16"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-12",
-    "generated_at": "2026-11-12T14:20:53Z",
-    "nietTerugGebeld": 14,
+    "generated_at": "2026-11-12T14:26:24Z",
+    "nietTerugGebeld": 15,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8915,10 +8922,17 @@
         "nummer": "+31624981656",
         "teruggebeld": false,
         "tijd": "15:15"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640513459",
+        "teruggebeld": false,
+        "tijd": "15:16"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 14,
-    "totaalInbound": 14
+    "totaalGemist": 15,
+    "totaalInbound": 15
   }
 }
