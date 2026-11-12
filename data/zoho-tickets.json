@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T11:10:45Z",
+  "generated_at": "2026-11-12T11:16:03Z",
   "tickets": [
     {
       "ticketNumber": "2975",
@@ -25,19 +25,31 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015215001",
       "channel": "Email",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2977",
+      "tijd": "12:11",
+      "titel": "FW: Schade melden / 2606406",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015216091",
+      "channel": "Email",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Email": 2
+    "Email": 3
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
+    "nieuweVandaag": 3,
     "geslotenVandaag": 3,
-    "totaalOpen": 29,
+    "totaalOpen": 30,
     "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 12,
+      "Open": 13,
       "Gesloten": 752,
       "In de wacht": 17
     },
@@ -259,6 +271,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-11",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154046"
+    },
+    {
+      "ticketNumber": "2977",
+      "titel": "FW: Schade melden / 2606406",
+      "klant": "De juridische helpdesk",
+      "status": "Open",
+      "aangemaakt": "2026-11-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015216091"
     },
     {
       "ticketNumber": "2976",
