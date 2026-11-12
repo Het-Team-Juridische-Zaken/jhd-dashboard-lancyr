@@ -8797,12 +8797,26 @@
         "nummer": "+31648688681",
         "teruggebeld": false,
         "tijd": "14:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "15:12"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31624981656",
+        "teruggebeld": false,
+        "tijd": "15:15"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-12",
-    "generated_at": "2026-11-12T14:10:52Z",
-    "nietTerugGebeld": 12,
+    "generated_at": "2026-11-12T14:19:10Z",
+    "nietTerugGebeld": 14,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8887,10 +8901,24 @@
         "nummer": "+31648688681",
         "teruggebeld": false,
         "tijd": "14:44"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "15:12"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31624981656",
+        "teruggebeld": false,
+        "tijd": "15:15"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 12,
-    "totaalInbound": 12
+    "totaalGemist": 14,
+    "totaalInbound": 14
   }
 }
