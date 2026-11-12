@@ -8755,12 +8755,19 @@
         "nummer": "+31623583380",
         "teruggebeld": false,
         "tijd": "10:44"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31638302030",
+        "teruggebeld": false,
+        "tijd": "11:18"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-12",
-    "generated_at": "2026-11-12T10:24:30Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-11-12T10:30:58Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -8803,10 +8810,17 @@
         "nummer": "+31623583380",
         "teruggebeld": false,
         "tijd": "10:44"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31638302030",
+        "teruggebeld": false,
+        "tijd": "11:18"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 6
+    "totaalGemist": 7,
+    "totaalInbound": 7
   }
 }

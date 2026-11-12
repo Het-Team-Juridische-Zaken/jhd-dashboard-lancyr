@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T10:24:30Z",
-  "totaalInbound": 6,
-  "totaalGemist": 6,
+  "generated_at": "2026-11-12T10:30:58Z",
+  "totaalInbound": 7,
+  "totaalGemist": 7,
   "terugGebeld": 0,
-  "nietTerugGebeld": 6,
+  "nietTerugGebeld": 7,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31640513459",
@@ -45,6 +45,13 @@
       "nummer": "+31623583380",
       "naam": "Onbekend",
       "tijd": "10:44",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31638302030",
+      "naam": "Onbekend",
+      "tijd": "11:18",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -89,6 +96,13 @@
       "nummer": "+31623583380",
       "naam": "Onbekend",
       "tijd": "10:44",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31638302030",
+      "naam": "Onbekend",
+      "tijd": "11:18",
       "callResult": "overflowed",
       "teruggebeld": false
     }
