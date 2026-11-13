@@ -1,10 +1,10 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T12:10:54Z",
-  "totaalInbound": 14,
-  "totaalGemist": 7,
-  "terugGebeld": 0,
-  "nietTerugGebeld": 7,
+  "generated_at": "2026-11-13T12:14:44Z",
+  "totaalInbound": 15,
+  "totaalGemist": 8,
+  "terugGebeld": 3,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31657998773",
@@ -35,23 +35,9 @@
       "teruggebeld": false
     },
     {
-      "nummer": "+31640513459",
+      "nummer": "+31621359836",
       "naam": "Onbekend",
-      "tijd": "12:31",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31640513459",
-      "naam": "Onbekend",
-      "tijd": "12:32",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31640513459",
-      "naam": "Onbekend",
-      "tijd": "12:41",
+      "tijd": "13:05",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -90,19 +76,26 @@
       "naam": "Onbekend",
       "tijd": "12:31",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31640513459",
       "naam": "Onbekend",
       "tijd": "12:32",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31640513459",
       "naam": "Onbekend",
       "tijd": "12:41",
+      "callResult": "overflowed",
+      "teruggebeld": true
+    },
+    {
+      "nummer": "+31621359836",
+      "naam": "Onbekend",
+      "tijd": "13:05",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -110,8 +103,8 @@
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 7,
-      "uitgaand": 9,
-      "gesprekstijdSec": 2969
+      "uitgaand": 10,
+      "gesprekstijdSec": 3868
     }
   },
   "beantwoordZonderAgent": 0
