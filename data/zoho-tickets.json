@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T08:36:57Z",
+  "generated_at": "2026-11-13T08:40:42Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -25,8 +25,8 @@
     "totaalOpen": 32,
     "inDeWacht": 19,
     "statusBreakdown": {
-      "In de wacht": 19,
       "Open": 13,
+      "In de wacht": 19,
       "Gesloten": 752
     },
     "capBereikt": false
@@ -249,6 +249,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154046"
     },
     {
+      "ticketNumber": "2976",
+      "titel": "belafspraak 11 november 2026 16:30 - 16:45",
+      "klant": "S.N. Petrov",
+      "status": "Open",
+      "aangemaakt": "2026-11-12",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015215001"
+    },
+    {
       "ticketNumber": "2979",
       "titel": "Bezwaar tegen verleende vergunning",
       "klant": "L. van deBoom",
@@ -263,14 +271,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015215076"
-    },
-    {
-      "ticketNumber": "2976",
-      "titel": "belafspraak 11 november 2026 16:30 - 16:45",
-      "klant": "S.N. Petrov",
-      "status": "Open",
-      "aangemaakt": "2026-11-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015215001"
     },
     {
       "ticketNumber": "2975",
