@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T10:00:58Z",
+  "generated_at": "2026-11-13T10:10:13Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -25,20 +25,32 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015284001",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2982",
+      "tijd": "11:08",
+      "titel": "Overkapping condens: juridisch advies en vervolgstappen met aannemer",
+      "klant": "R.J.H.M. Curvers",
+      "status": "Gesloten",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015291001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 2
+    "Phone": 3
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 2,
-    "geslotenVandaag": 1,
+    "nieuweVandaag": 3,
+    "geslotenVandaag": 2,
     "totaalOpen": 32,
     "inDeWacht": 21,
     "statusBreakdown": {
+      "Gesloten": 754,
       "In de wacht": 21,
-      "Gesloten": 753,
       "Open": 11
     },
     "capBereikt": false

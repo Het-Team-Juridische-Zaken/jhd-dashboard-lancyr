@@ -9065,8 +9065,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 4,
-        "gesprekstijdSec": 1455,
-        "uitgaand": 6
+        "gesprekstijdSec": 1728,
+        "uitgaand": 7
       }
     },
     "alleGemistNummers": [
@@ -9087,7 +9087,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-13",
-    "generated_at": "2026-11-13T10:00:59Z",
+    "generated_at": "2026-11-13T10:10:15Z",
     "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
