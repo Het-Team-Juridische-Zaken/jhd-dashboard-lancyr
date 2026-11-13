@@ -9083,12 +9083,19 @@
         "nummer": "+31641885884",
         "teruggebeld": false,
         "tijd": "10:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31649275757",
+        "teruggebeld": false,
+        "tijd": "11:29"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-13",
-    "generated_at": "2026-11-13T10:35:45Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-13T10:40:50Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9103,10 +9110,17 @@
         "nummer": "+31641885884",
         "teruggebeld": false,
         "tijd": "10:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31649275757",
+        "teruggebeld": false,
+        "tijd": "11:29"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 8
+    "totaalGemist": 3,
+    "totaalInbound": 9
   }
 }
