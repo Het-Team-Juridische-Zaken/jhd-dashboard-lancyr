@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T11:01:17Z",
+  "generated_at": "2026-11-13T11:09:19Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -47,10 +47,10 @@
     "nieuweVandaag": 3,
     "geslotenVandaag": 2,
     "totaalOpen": 33,
-    "inDeWacht": 22,
+    "inDeWacht": 23,
     "statusBreakdown": {
-      "Open": 11,
-      "In de wacht": 22,
+      "In de wacht": 23,
+      "Open": 10,
       "Gesloten": 753
     },
     "capBereikt": false
@@ -100,7 +100,7 @@
       "ticketNumber": "2816",
       "titel": "Arbeidscontract flexibiliteit en ouderschapsverlof met Tempo Team",
       "klant": "E.B. Lemckert",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-09-30",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000014352001"
     },
