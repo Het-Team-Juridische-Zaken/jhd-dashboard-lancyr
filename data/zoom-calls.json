@@ -1,12 +1,28 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T09:10:47Z",
-  "totaalInbound": 2,
-  "totaalGemist": 0,
+  "generated_at": "2026-11-13T09:11:56Z",
+  "totaalInbound": 3,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31657998773",
+      "naam": "Onbekend",
+      "tijd": "10:02",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31657998773",
+      "naam": "Onbekend",
+      "tijd": "10:02",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 2,

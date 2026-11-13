@@ -9069,14 +9069,30 @@
         "uitgaand": 3
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31657998773",
+        "teruggebeld": false,
+        "tijd": "10:02"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-13",
-    "generated_at": "2026-11-13T09:10:47Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-11-13T09:11:56Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31657998773",
+        "teruggebeld": false,
+        "tijd": "10:02"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 2
+    "totaalGemist": 1,
+    "totaalInbound": 3
   }
 }

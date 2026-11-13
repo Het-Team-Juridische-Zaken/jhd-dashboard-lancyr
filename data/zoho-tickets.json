@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T09:10:46Z",
+  "generated_at": "2026-11-13T09:11:55Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -13,20 +13,32 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015272001",
       "channel": "Phone",
       "doorgezetBrandmeester": false
+    },
+    {
+      "ticketNumber": "2981",
+      "tijd": "10:11",
+      "titel": "Ford Kuga accu-klacht",
+      "klant": "W.J.F.C. Glaser",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015284001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
     }
   ],
   "channelCounts": {
-    "Phone": 1
+    "Phone": 2
   },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 1,
+    "nieuweVandaag": 2,
     "geslotenVandaag": 0,
-    "totaalOpen": 32,
-    "inDeWacht": 19,
+    "totaalOpen": 33,
+    "inDeWacht": 20,
     "statusBreakdown": {
+      "In de wacht": 20,
       "Open": 13,
-      "In de wacht": 19,
       "Gesloten": 752
     },
     "capBereikt": false
@@ -279,6 +291,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015216038"
+    },
+    {
+      "ticketNumber": "2981",
+      "titel": "Ford Kuga accu-klacht",
+      "klant": "W.J.F.C. Glaser",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-13",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015284001"
     },
     {
       "ticketNumber": "2980",
