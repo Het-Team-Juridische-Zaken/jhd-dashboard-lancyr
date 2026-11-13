@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T13:50:45Z",
+  "generated_at": "2026-11-13T13:54:12Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -61,8 +61,8 @@
     "totaalOpen": 29,
     "inDeWacht": 22,
     "statusBreakdown": {
-      "Gesloten": 757,
       "In de wacht": 22,
+      "Gesloten": 757,
       "Open": 7
     },
     "capBereikt": false
@@ -285,20 +285,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015215001"
     },
     {
-      "ticketNumber": "2983",
-      "titel": "Omgangsregeling dochter en communicatie met moeder",
-      "klant": "J. Havelaar",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-13",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015299025"
-    },
-    {
       "ticketNumber": "2980",
       "titel": "Schadeverhaaling auto-ongeluk en rechtsbijstand",
       "klant": "C. vanRhoon",
       "status": "In de wacht",
       "aangemaakt": "2026-11-13",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015272001"
+    },
+    {
+      "ticketNumber": "2983",
+      "titel": "Omgangsregeling dochter en communicatie met moeder",
+      "klant": "J. Havelaar",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-13",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015299025"
     }
   ]
 }
