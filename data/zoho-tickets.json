@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T08:20:46Z",
+  "generated_at": "2026-11-13T08:22:19Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -23,10 +23,10 @@
     "nieuweVandaag": 1,
     "geslotenVandaag": 0,
     "totaalOpen": 33,
-    "inDeWacht": 18,
+    "inDeWacht": 19,
     "statusBreakdown": {
-      "Open": 15,
-      "In de wacht": 18,
+      "In de wacht": 19,
+      "Open": 14,
       "Gesloten": 752
     },
     "capBereikt": false
@@ -250,9 +250,9 @@
     },
     {
       "ticketNumber": "2979",
-      "titel": "nieuwe melding [D3078538_I75137504]",
-      "klant": "BrandMR Intake",
-      "status": "Open",
+      "titel": "Bezwaar tegen verleende vergunning",
+      "klant": "L. van deBoom",
+      "status": "In de wacht",
       "aangemaakt": "2026-11-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015239001"
     },
