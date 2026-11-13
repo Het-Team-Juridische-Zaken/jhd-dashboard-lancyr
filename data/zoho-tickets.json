@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T12:14:40Z",
+  "generated_at": "2026-11-13T12:20:56Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -45,13 +45,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 3,
-    "geslotenVandaag": 2,
-    "totaalOpen": 33,
+    "geslotenVandaag": 3,
+    "totaalOpen": 32,
     "inDeWacht": 23,
     "statusBreakdown": {
-      "Open": 10,
-      "In de wacht": 23,
-      "Gesloten": 753
+      "Gesloten": 754,
+      "Open": 9,
+      "In de wacht": 23
     },
     "capBereikt": false
   },
@@ -287,14 +287,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015215001"
-    },
-    {
-      "ticketNumber": "2975",
-      "titel": "Leon Smal Verzoek om zo spoedig mogelijk teruggebeld te worden",
-      "klant": "Leon SmalNL",
-      "status": "Open",
-      "aangemaakt": "2026-11-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015216038"
     },
     {
       "ticketNumber": "2979",
