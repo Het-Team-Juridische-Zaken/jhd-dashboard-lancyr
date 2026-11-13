@@ -9064,19 +9064,19 @@
   "2026-11-13": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 0,
-        "gesprekstijdSec": 188,
+        "beantwoord": 1,
+        "gesprekstijdSec": 258,
         "uitgaand": 1
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-13",
-    "generated_at": "2026-11-13T08:10:45Z",
+    "generated_at": "2026-11-13T08:12:54Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalInbound": 1
   }
 }
