@@ -9090,12 +9090,19 @@
         "nummer": "+31649275757",
         "teruggebeld": false,
         "tijd": "11:29"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "12:07"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-13",
-    "generated_at": "2026-11-13T11:15:17Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-11-13T11:20:50Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9117,10 +9124,17 @@
         "nummer": "+31649275757",
         "teruggebeld": false,
         "tijd": "11:29"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "12:07"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 10
+    "totaalGemist": 4,
+    "totaalInbound": 11
   }
 }
