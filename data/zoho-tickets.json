@@ -1,16 +1,31 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T08:00:56Z",
-  "tickets": [],
-  "channelCounts": {},
+  "generated_at": "2026-11-13T08:10:44Z",
+  "tickets": [
+    {
+      "ticketNumber": "2980",
+      "tijd": "09:06",
+      "titel": "Schadeverhaaling auto-ongeluk en rechtsbijstand",
+      "klant": "C. vanRhoon",
+      "status": "In de wacht",
+      "statusType": "",
+      "prioriteit": "Niet ingesteld",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015272001",
+      "channel": "Phone",
+      "doorgezetBrandmeester": false
+    }
+  ],
+  "channelCounts": {
+    "Phone": 1
+  },
   "brandmeesterCount": 0,
   "ticketStats": {
-    "nieuweVandaag": 0,
+    "nieuweVandaag": 1,
     "geslotenVandaag": 0,
-    "totaalOpen": 32,
-    "inDeWacht": 17,
+    "totaalOpen": 33,
+    "inDeWacht": 18,
     "statusBreakdown": {
-      "In de wacht": 17,
+      "In de wacht": 18,
       "Open": 15,
       "Gesloten": 752
     },
@@ -272,6 +287,14 @@
       "status": "Open",
       "aangemaakt": "2026-11-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015216038"
+    },
+    {
+      "ticketNumber": "2980",
+      "titel": "Schadeverhaaling auto-ongeluk en rechtsbijstand",
+      "klant": "C. vanRhoon",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-13",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015272001"
     }
   ]
 }
