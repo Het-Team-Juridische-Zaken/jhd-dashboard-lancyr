@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T09:35:31Z",
+  "generated_at": "2026-11-13T09:40:45Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -33,13 +33,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 2,
-    "geslotenVandaag": 0,
-    "totaalOpen": 33,
+    "geslotenVandaag": 1,
+    "totaalOpen": 32,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "Open": 13,
-      "In de wacht": 20,
-      "Gesloten": 752
+      "Open": 12,
+      "Gesloten": 753,
+      "In de wacht": 20
     },
     "capBereikt": false
   },
@@ -142,8 +142,8 @@
     },
     {
       "ticketNumber": "2929",
-      "titel": "Verzoek om rechtsbijstand. relatienummer 8420287",
-      "klant": "Sara albertoe-bentum",
+      "titel": "Verzoek om rechtsbijstand",
+      "klant": "G.G. Albertoe",
       "status": "Open",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
@@ -283,14 +283,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-12",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015239001"
-    },
-    {
-      "ticketNumber": "2978",
-      "titel": "Re: 4TRN70 Status",
-      "klant": "M.I.C.H.A. Toma",
-      "status": "Open",
-      "aangemaakt": "2026-11-12",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015215076"
     },
     {
       "ticketNumber": "2981",
