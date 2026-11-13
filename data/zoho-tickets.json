@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T12:44:10Z",
+  "generated_at": "2026-11-13T12:50:58Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -45,13 +45,13 @@
   "brandmeesterCount": 0,
   "ticketStats": {
     "nieuweVandaag": 3,
-    "geslotenVandaag": 3,
-    "totaalOpen": 32,
+    "geslotenVandaag": 4,
+    "totaalOpen": 31,
     "inDeWacht": 23,
     "statusBreakdown": {
-      "Open": 9,
-      "Gesloten": 754,
-      "In de wacht": 23
+      "In de wacht": 23,
+      "Gesloten": 755,
+      "Open": 8
     },
     "capBereikt": false
   },
@@ -193,6 +193,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015049001"
     },
     {
+      "ticketNumber": "2939",
+      "titel": "schadeclaim Picnic – vervolgstappen",
+      "klant": "H. AFKIR",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-04",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015078001"
+    },
+    {
       "ticketNumber": "2945",
       "titel": "Aanrijding A9 – schadeclaim via rechtsbijstand",
       "klant": "L.J. Stroomer",
@@ -207,14 +215,6 @@
       "status": "In de wacht",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031245"
-    },
-    {
-      "ticketNumber": "2939",
-      "titel": "schadeclaim Picnic – vervolgstappen",
-      "klant": "H. AFKIR",
-      "status": "In de wacht",
-      "aangemaakt": "2026-11-04",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015078001"
     },
     {
       "ticketNumber": "2967",
@@ -249,12 +249,12 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165078"
     },
     {
-      "ticketNumber": "2972",
-      "titel": "Overeenkomst Waalboog: eenzijdige ontbinding en zorgverlening",
-      "klant": "W.J.M. Spanjaard",
+      "ticketNumber": "2974",
+      "titel": "Spoedverzoek juridisch advies – beëindiging dienstverband tijdens proeftijd met behoud WW-rechten",
+      "klant": "C.E. Metsch",
       "status": "Open",
       "aangemaakt": "2026-11-11",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154102"
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165211"
     },
     {
       "ticketNumber": "2973",
@@ -263,14 +263,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-11",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015164078"
-    },
-    {
-      "ticketNumber": "2974",
-      "titel": "Spoedverzoek juridisch advies – beëindiging dienstverband tijdens proeftijd met behoud WW-rechten",
-      "klant": "C.E. Metsch",
-      "status": "Open",
-      "aangemaakt": "2026-11-11",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165211"
     },
     {
       "ticketNumber": "2970",
