@@ -9065,14 +9065,14 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 2,
-        "gesprekstijdSec": 268,
-        "uitgaand": 2
+        "gesprekstijdSec": 749,
+        "uitgaand": 3
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-13",
-    "generated_at": "2026-11-13T09:01:04Z",
+    "generated_at": "2026-11-13T09:10:47Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
