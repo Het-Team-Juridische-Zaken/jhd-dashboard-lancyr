@@ -9064,8 +9064,8 @@
   "2026-11-13": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 7,
-        "gesprekstijdSec": 4063,
+        "beantwoord": 8,
+        "gesprekstijdSec": 4151,
         "uitgaand": 11
       }
     },
@@ -9125,12 +9125,33 @@
         "nummer": "+31621359836",
         "teruggebeld": false,
         "tijd": "13:05"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31627122662",
+        "teruggebeld": false,
+        "tijd": "13:32"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646751754",
+        "teruggebeld": false,
+        "tijd": "13:33"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646751754",
+        "teruggebeld": false,
+        "tijd": "13:34"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-13",
-    "generated_at": "2026-11-13T12:31:00Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-11-13T12:37:01Z",
+    "nietTerugGebeld": 8,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9166,10 +9187,31 @@
         "nummer": "+31621359836",
         "teruggebeld": false,
         "tijd": "13:05"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31627122662",
+        "teruggebeld": false,
+        "tijd": "13:32"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646751754",
+        "teruggebeld": false,
+        "tijd": "13:33"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646751754",
+        "teruggebeld": false,
+        "tijd": "13:34"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 8,
-    "totaalInbound": 15
+    "totaalGemist": 11,
+    "totaalInbound": 19
   }
 }
