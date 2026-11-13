@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T14:01:03Z",
+  "generated_at": "2026-11-13T14:10:34Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -59,10 +59,10 @@
     "nieuweVandaag": 4,
     "geslotenVandaag": 6,
     "totaalOpen": 30,
-    "inDeWacht": 22,
+    "inDeWacht": 23,
     "statusBreakdown": {
-      "Open": 8,
-      "In de wacht": 22,
+      "In de wacht": 23,
+      "Open": 7,
       "Gesloten": 756
     },
     "capBereikt": false
@@ -229,20 +229,20 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015044093"
     },
     {
+      "ticketNumber": "2969",
+      "titel": "Geschil met Ennatuurlijk",
+      "klant": "J.K. Hamelink",
+      "status": "In de wacht",
+      "aangemaakt": "2026-11-10",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015201437"
+    },
+    {
       "ticketNumber": "2967",
       "titel": "Wasmachine garantie",
       "klant": "A.W. Pool",
       "status": "In de wacht",
       "aangemaakt": "2026-11-10",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015202001"
-    },
-    {
-      "ticketNumber": "2969",
-      "titel": "Geschil met Ennatuurlijk",
-      "klant": "J.K. Hamelink",
-      "status": "Open",
-      "aangemaakt": "2026-11-10",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015201437"
     },
     {
       "ticketNumber": "2964",
