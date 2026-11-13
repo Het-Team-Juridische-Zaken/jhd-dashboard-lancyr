@@ -9104,12 +9104,19 @@
         "nummer": "+31640513459",
         "teruggebeld": false,
         "tijd": "12:31"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640513459",
+        "teruggebeld": false,
+        "tijd": "12:32"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-13",
-    "generated_at": "2026-11-13T11:35:23Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-11-13T11:40:54Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9145,10 +9152,17 @@
         "nummer": "+31640513459",
         "teruggebeld": false,
         "tijd": "12:31"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640513459",
+        "teruggebeld": false,
+        "tijd": "12:32"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 5,
-    "totaalInbound": 12
+    "totaalGemist": 6,
+    "totaalInbound": 13
   }
 }
