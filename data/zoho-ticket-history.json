@@ -660,12 +660,12 @@
   "2026-11-13": {
     "capBereikt": false,
     "geslotenVandaag": 2,
-    "inDeWacht": 21,
+    "inDeWacht": 22,
     "nieuweVandaag": 3,
     "statusBreakdown": {
       "Gesloten": 754,
-      "In de wacht": 21,
-      "Open": 11
+      "In de wacht": 22,
+      "Open": 10
     },
     "totaalOpen": 32
   }
