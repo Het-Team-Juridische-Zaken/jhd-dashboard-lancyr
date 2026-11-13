@@ -9146,12 +9146,26 @@
         "nummer": "+31646751754",
         "teruggebeld": false,
         "tijd": "13:34"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31683439000",
+        "teruggebeld": false,
+        "tijd": "16:22"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31613470485",
+        "teruggebeld": false,
+        "tijd": "16:25"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-13",
-    "generated_at": "2026-11-13T15:30:46Z",
-    "nietTerugGebeld": 8,
+    "generated_at": "2026-11-13T15:35:23Z",
+    "nietTerugGebeld": 10,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9208,10 +9222,24 @@
         "nummer": "+31646751754",
         "teruggebeld": false,
         "tijd": "13:34"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31683439000",
+        "teruggebeld": false,
+        "tijd": "16:22"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31613470485",
+        "teruggebeld": false,
+        "tijd": "16:25"
       }
     ],
     "terugGebeld": 3,
-    "totaalGemist": 11,
-    "totaalInbound": 22
+    "totaalGemist": 13,
+    "totaalInbound": 24
   }
 }
