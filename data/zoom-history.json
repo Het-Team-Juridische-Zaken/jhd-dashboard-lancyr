@@ -9097,12 +9097,19 @@
         "nummer": "+31629027271",
         "teruggebeld": false,
         "tijd": "12:07"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640513459",
+        "teruggebeld": false,
+        "tijd": "12:31"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-13",
-    "generated_at": "2026-11-13T11:30:57Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-11-13T11:35:23Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9131,10 +9138,17 @@
         "nummer": "+31629027271",
         "teruggebeld": false,
         "tijd": "12:07"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640513459",
+        "teruggebeld": false,
+        "tijd": "12:31"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 11
+    "totaalGemist": 5,
+    "totaalInbound": 12
   }
 }
