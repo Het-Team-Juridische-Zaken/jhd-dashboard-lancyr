@@ -663,10 +663,10 @@
     "inDeWacht": 22,
     "nieuweVandaag": 4,
     "statusBreakdown": {
-      "Gesloten": 757,
+      "Gesloten": 756,
       "In de wacht": 22,
-      "Open": 7
+      "Open": 8
     },
-    "totaalOpen": 29
+    "totaalOpen": 30
   }
 }

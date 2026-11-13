@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T13:54:12Z",
+  "generated_at": "2026-11-13T14:01:03Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -58,12 +58,12 @@
   "ticketStats": {
     "nieuweVandaag": 4,
     "geslotenVandaag": 6,
-    "totaalOpen": 29,
+    "totaalOpen": 30,
     "inDeWacht": 22,
     "statusBreakdown": {
+      "Open": 8,
       "In de wacht": 22,
-      "Gesloten": 757,
-      "Open": 7
+      "Gesloten": 756
     },
     "capBereikt": false
   },
@@ -107,6 +107,14 @@
       "status": "In de wacht",
       "aangemaakt": "2026-08-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013207089"
+    },
+    {
+      "ticketNumber": "2556",
+      "titel": "Huurwoning overlast — geluidsmeting en vervolgstappen",
+      "klant": "I. van derSteen",
+      "status": "Open",
+      "aangemaakt": "2026-08-05",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000013263001"
     },
     {
       "ticketNumber": "2816",
