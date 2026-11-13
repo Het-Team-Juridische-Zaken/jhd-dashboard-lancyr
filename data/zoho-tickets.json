@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T07:44:01Z",
+  "generated_at": "2026-11-13T07:50:40Z",
   "tickets": [],
   "channelCounts": {},
   "brandmeesterCount": 0,
@@ -8,11 +8,11 @@
     "nieuweVandaag": 0,
     "geslotenVandaag": 0,
     "totaalOpen": 32,
-    "inDeWacht": 16,
+    "inDeWacht": 17,
     "statusBreakdown": {
-      "Open": 16,
-      "Gesloten": 752,
-      "In de wacht": 16
+      "In de wacht": 17,
+      "Open": 15,
+      "Gesloten": 752
     },
     "capBereikt": false
   },
@@ -149,7 +149,7 @@
       "ticketNumber": "2947",
       "titel": "zsm polisinformatie nodig [D3077715_I74893557]",
       "klant": "Lucinda Arrey",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-11-04",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031245"
     },
