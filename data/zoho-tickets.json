@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T09:20:04Z",
+  "generated_at": "2026-11-13T09:20:44Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -37,8 +37,8 @@
     "totaalOpen": 33,
     "inDeWacht": 20,
     "statusBreakdown": {
-      "In de wacht": 20,
       "Open": 13,
+      "In de wacht": 20,
       "Gesloten": 752
     },
     "capBereikt": false
@@ -229,6 +229,14 @@
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015165078"
     },
     {
+      "ticketNumber": "2972",
+      "titel": "Spoed Spanjaard 84184696",
+      "klant": "W.J.M. Spanjaard",
+      "status": "Open",
+      "aangemaakt": "2026-11-11",
+      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154102"
+    },
+    {
       "ticketNumber": "2974",
       "titel": "Spoedverzoek juridisch advies – beëindiging dienstverband tijdens proeftijd met behoud WW-rechten",
       "klant": "C.E. Metsch",
@@ -243,14 +251,6 @@
       "status": "Open",
       "aangemaakt": "2026-11-11",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015164078"
-    },
-    {
-      "ticketNumber": "2972",
-      "titel": "Spoed Spanjaard 84184696",
-      "klant": "W.J.M. Spanjaard",
-      "status": "Open",
-      "aangemaakt": "2026-11-11",
-      "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015154102"
     },
     {
       "ticketNumber": "2970",
