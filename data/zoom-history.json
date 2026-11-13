@@ -9111,12 +9111,19 @@
         "nummer": "+31640513459",
         "teruggebeld": false,
         "tijd": "12:32"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640513459",
+        "teruggebeld": false,
+        "tijd": "12:41"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-13",
-    "generated_at": "2026-11-13T11:50:49Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-11-13T11:54:17Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9159,10 +9166,17 @@
         "nummer": "+31640513459",
         "teruggebeld": false,
         "tijd": "12:32"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31640513459",
+        "teruggebeld": false,
+        "tijd": "12:41"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 13
+    "totaalGemist": 7,
+    "totaalInbound": 14
   }
 }
