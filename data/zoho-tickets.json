@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T09:40:45Z",
+  "generated_at": "2026-11-13T09:43:55Z",
   "tickets": [
     {
       "ticketNumber": "2980",
@@ -35,11 +35,11 @@
     "nieuweVandaag": 2,
     "geslotenVandaag": 1,
     "totaalOpen": 32,
-    "inDeWacht": 20,
+    "inDeWacht": 21,
     "statusBreakdown": {
-      "Open": 12,
+      "In de wacht": 21,
       "Gesloten": 753,
-      "In de wacht": 20
+      "Open": 11
     },
     "capBereikt": false
   },
@@ -144,7 +144,7 @@
       "ticketNumber": "2929",
       "titel": "Verzoek om rechtsbijstand",
       "klant": "G.G. Albertoe",
-      "status": "Open",
+      "status": "In de wacht",
       "aangemaakt": "2026-11-03",
       "webUrl": "https://desk.zoho.eu/support/htjzlancyr/ShowHomePage.do#Cases/dv/195464000015031091"
     },
