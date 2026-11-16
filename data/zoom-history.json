@@ -9245,19 +9245,19 @@
   "2026-11-16": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 1,
-        "gesprekstijdSec": 2,
+        "beantwoord": 2,
+        "gesprekstijdSec": 644,
         "uitgaand": 0
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-16",
-    "generated_at": "2026-11-16T08:20:43Z",
+    "generated_at": "2026-11-16T08:26:20Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 1
+    "totaalInbound": 2
   }
 }
