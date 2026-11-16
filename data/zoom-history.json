@@ -9271,12 +9271,26 @@
         "nummer": "+31643254686",
         "teruggebeld": false,
         "tijd": "11:21"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "12:04"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "12:06"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-16",
-    "generated_at": "2026-11-16T11:01:07Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-11-16T11:10:33Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9298,10 +9312,24 @@
         "nummer": "+31643254686",
         "teruggebeld": false,
         "tijd": "11:21"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "12:04"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "12:06"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 10
+    "totaalGemist": 5,
+    "totaalInbound": 12
   }
 }
