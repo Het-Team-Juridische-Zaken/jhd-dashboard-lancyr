@@ -9285,12 +9285,19 @@
         "nummer": "+31629027271",
         "teruggebeld": false,
         "tijd": "12:06"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "12:15"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-16",
-    "generated_at": "2026-11-16T11:29:46Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-11-16T11:31:07Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9326,10 +9333,17 @@
         "nummer": "+31629027271",
         "teruggebeld": false,
         "tijd": "12:06"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "12:15"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 5,
-    "totaalInbound": 12
+    "totaalGemist": 6,
+    "totaalInbound": 13
   }
 }

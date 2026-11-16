@@ -1,10 +1,10 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-16T11:29:46Z",
-  "totaalInbound": 12,
-  "totaalGemist": 5,
+  "generated_at": "2026-11-16T11:31:07Z",
+  "totaalInbound": 13,
+  "totaalGemist": 6,
   "terugGebeld": 0,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31639684114",
@@ -39,6 +39,13 @@
       "naam": "Onbekend",
       "tijd": "12:06",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31629027271",
+      "naam": "Onbekend",
+      "tijd": "12:15",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
@@ -76,6 +83,13 @@
       "naam": "Onbekend",
       "tijd": "12:06",
       "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31629027271",
+      "naam": "Onbekend",
+      "tijd": "12:15",
+      "callResult": "overflowed",
       "teruggebeld": false
     }
   ],
