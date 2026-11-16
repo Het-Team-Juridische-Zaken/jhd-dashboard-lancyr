@@ -9292,12 +9292,19 @@
         "nummer": "+31629027271",
         "teruggebeld": false,
         "tijd": "12:15"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653377740",
+        "teruggebeld": false,
+        "tijd": "14:48"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-16",
-    "generated_at": "2026-11-16T13:51:30Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-11-16T14:00:56Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9340,10 +9347,17 @@
         "nummer": "+31629027271",
         "teruggebeld": false,
         "tijd": "12:15"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31653377740",
+        "teruggebeld": false,
+        "tijd": "14:48"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 15
+    "totaalGemist": 7,
+    "totaalInbound": 16
   }
 }
