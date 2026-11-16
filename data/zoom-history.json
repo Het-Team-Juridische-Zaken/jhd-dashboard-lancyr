@@ -9246,8 +9246,8 @@
     "agenten": {
       "Dewi Verver": {
         "beantwoord": 9,
-        "gesprekstijdSec": 4270,
-        "uitgaand": 4
+        "gesprekstijdSec": 4285,
+        "uitgaand": 5
       }
     },
     "alleGemistNummers": [
@@ -9255,14 +9255,14 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31639684114",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:37"
       },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31639684114",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "11:03"
       },
       {
@@ -9299,27 +9299,20 @@
         "nummer": "+31653377740",
         "teruggebeld": false,
         "tijd": "14:48"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31638214072",
+        "teruggebeld": false,
+        "tijd": "15:14"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-16",
-    "generated_at": "2026-11-16T14:20:36Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-11-16T14:30:47Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31639684114",
-        "teruggebeld": false,
-        "tijd": "09:37"
-      },
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31639684114",
-        "teruggebeld": false,
-        "tijd": "11:03"
-      },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
@@ -9354,10 +9347,17 @@
         "nummer": "+31653377740",
         "teruggebeld": false,
         "tijd": "14:48"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31638214072",
+        "teruggebeld": false,
+        "tijd": "15:14"
       }
     ],
-    "terugGebeld": 0,
-    "totaalGemist": 7,
-    "totaalInbound": 16
+    "terugGebeld": 2,
+    "totaalGemist": 8,
+    "totaalInbound": 17
   }
 }

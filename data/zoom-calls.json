@@ -1,25 +1,11 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-16T14:20:36Z",
-  "totaalInbound": 16,
-  "totaalGemist": 7,
-  "terugGebeld": 0,
-  "nietTerugGebeld": 7,
+  "generated_at": "2026-11-16T14:30:47Z",
+  "totaalInbound": 17,
+  "totaalGemist": 8,
+  "terugGebeld": 2,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31639684114",
-      "naam": "Onbekend",
-      "tijd": "09:37",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31639684114",
-      "naam": "Onbekend",
-      "tijd": "11:03",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
     {
       "nummer": "+31643254686",
       "naam": "Onbekend",
@@ -52,6 +38,13 @@
       "nummer": "+31653377740",
       "naam": "Onbekend",
       "tijd": "14:48",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31638214072",
+      "naam": "Onbekend",
+      "tijd": "15:14",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -62,14 +55,14 @@
       "naam": "Onbekend",
       "tijd": "09:37",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31639684114",
       "naam": "Onbekend",
       "tijd": "11:03",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31643254686",
@@ -105,13 +98,20 @@
       "tijd": "14:48",
       "callResult": "overflowed",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31638214072",
+      "naam": "Onbekend",
+      "tijd": "15:14",
+      "callResult": "overflowed",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
       "beantwoord": 9,
-      "uitgaand": 4,
-      "gesprekstijdSec": 4270
+      "uitgaand": 5,
+      "gesprekstijdSec": 4285
     }
   },
   "beantwoordZonderAgent": 0
