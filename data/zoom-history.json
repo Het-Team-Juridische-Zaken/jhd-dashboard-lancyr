@@ -9245,19 +9245,35 @@
   "2026-11-16": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 1095,
+        "beantwoord": 3,
+        "gesprekstijdSec": 1684,
         "uitgaand": 1
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31639684114",
+        "teruggebeld": false,
+        "tijd": "09:37"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-16",
-    "generated_at": "2026-11-16T08:40:46Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-11-16T08:46:58Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31639684114",
+        "teruggebeld": false,
+        "tijd": "09:37"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 2
+    "totaalGemist": 1,
+    "totaalInbound": 4
   }
 }

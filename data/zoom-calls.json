@@ -1,17 +1,33 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-16T08:40:46Z",
-  "totaalInbound": 2,
-  "totaalGemist": 0,
+  "generated_at": "2026-11-16T08:46:58Z",
+  "totaalInbound": 4,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31639684114",
+      "naam": "Onbekend",
+      "tijd": "09:37",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31639684114",
+      "naam": "Onbekend",
+      "tijd": "09:37",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 2,
+      "beantwoord": 3,
       "uitgaand": 1,
-      "gesprekstijdSec": 1095
+      "gesprekstijdSec": 1684
     }
   },
   "beantwoordZonderAgent": 0
