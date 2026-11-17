@@ -9369,12 +9369,19 @@
         "nummer": "+31646900924",
         "teruggebeld": false,
         "tijd": "09:02"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31646900924",
+        "teruggebeld": false,
+        "tijd": "09:05"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-17",
-    "generated_at": "2026-11-17T08:10:41Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-17T08:13:42Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -9382,10 +9389,17 @@
         "nummer": "+31646900924",
         "teruggebeld": false,
         "tijd": "09:02"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31646900924",
+        "teruggebeld": false,
+        "tijd": "09:05"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 1
+    "totaalGemist": 2,
+    "totaalInbound": 2
   }
 }
