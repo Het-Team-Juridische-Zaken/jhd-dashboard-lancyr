@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T10:20:34Z",
-  "totaalInbound": 4,
-  "totaalGemist": 4,
+  "generated_at": "2026-11-17T10:24:34Z",
+  "totaalInbound": 6,
+  "totaalGemist": 6,
   "terugGebeld": 0,
-  "nietTerugGebeld": 4,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31646900924",
@@ -31,6 +31,20 @@
       "nummer": "+31649939907",
       "naam": "Onbekend",
       "tijd": "11:05",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31685503194",
+      "naam": "Onbekend",
+      "tijd": "11:08",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31611752542",
+      "naam": "Onbekend",
+      "tijd": "11:16",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -61,6 +75,20 @@
       "nummer": "+31649939907",
       "naam": "Onbekend",
       "tijd": "11:05",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31685503194",
+      "naam": "Onbekend",
+      "tijd": "11:08",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31611752542",
+      "naam": "Onbekend",
+      "tijd": "11:16",
       "callResult": "overflowed",
       "teruggebeld": false
     }

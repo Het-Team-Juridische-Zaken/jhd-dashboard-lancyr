@@ -9390,12 +9390,26 @@
         "nummer": "+31649939907",
         "teruggebeld": false,
         "tijd": "11:05"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31685503194",
+        "teruggebeld": false,
+        "tijd": "11:08"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31611752542",
+        "teruggebeld": false,
+        "tijd": "11:16"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-17",
-    "generated_at": "2026-11-17T10:20:34Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-11-17T10:24:34Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -9424,10 +9438,24 @@
         "nummer": "+31649939907",
         "teruggebeld": false,
         "tijd": "11:05"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31685503194",
+        "teruggebeld": false,
+        "tijd": "11:08"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31611752542",
+        "teruggebeld": false,
+        "tijd": "11:16"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 4
+    "totaalGemist": 6,
+    "totaalInbound": 6
   }
 }
