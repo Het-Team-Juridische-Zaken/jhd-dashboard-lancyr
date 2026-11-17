@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T10:50:36Z",
-  "totaalInbound": 7,
-  "totaalGemist": 7,
+  "generated_at": "2026-11-17T10:54:07Z",
+  "totaalInbound": 8,
+  "totaalGemist": 8,
   "terugGebeld": 0,
-  "nietTerugGebeld": 7,
+  "nietTerugGebeld": 8,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31646900924",
@@ -52,6 +52,13 @@
       "nummer": "+31613437780",
       "naam": "Onbekend",
       "tijd": "11:31",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31647804081",
+      "naam": "Onbekend",
+      "tijd": "11:42",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -103,6 +110,13 @@
       "nummer": "+31613437780",
       "naam": "Onbekend",
       "tijd": "11:31",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31647804081",
+      "naam": "Onbekend",
+      "tijd": "11:42",
       "callResult": "overflowed",
       "teruggebeld": false
     }
