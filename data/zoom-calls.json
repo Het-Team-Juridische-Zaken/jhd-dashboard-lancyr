@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T11:20:34Z",
-  "totaalInbound": 11,
-  "totaalGemist": 11,
+  "generated_at": "2026-11-17T11:24:02Z",
+  "totaalInbound": 12,
+  "totaalGemist": 12,
   "terugGebeld": 0,
-  "nietTerugGebeld": 11,
+  "nietTerugGebeld": 12,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31646900924",
@@ -80,6 +80,13 @@
       "nummer": "+31615483290",
       "naam": "Onbekend",
       "tijd": "12:19",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31615483290",
+      "naam": "Onbekend",
+      "tijd": "12:21",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -159,6 +166,13 @@
       "nummer": "+31615483290",
       "naam": "Onbekend",
       "tijd": "12:19",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31615483290",
+      "naam": "Onbekend",
+      "tijd": "12:21",
       "callResult": "abandoned",
       "teruggebeld": false
     }
