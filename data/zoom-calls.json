@@ -1,12 +1,28 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T08:00:56Z",
-  "totaalInbound": 0,
-  "totaalGemist": 0,
+  "generated_at": "2026-11-17T08:10:41Z",
+  "totaalInbound": 1,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31646900924",
+      "naam": "Onbekend",
+      "tijd": "09:02",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31646900924",
+      "naam": "Onbekend",
+      "tijd": "09:02",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {},
   "beantwoordZonderAgent": 0
 }

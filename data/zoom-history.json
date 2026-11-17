@@ -9362,14 +9362,30 @@
   },
   "2026-11-17": {
     "agenten": {},
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646900924",
+        "teruggebeld": false,
+        "tijd": "09:02"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-17",
-    "generated_at": "2026-11-17T08:00:56Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-11-17T08:10:41Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31646900924",
+        "teruggebeld": false,
+        "tijd": "09:02"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalGemist": 1,
+    "totaalInbound": 1
   }
 }
