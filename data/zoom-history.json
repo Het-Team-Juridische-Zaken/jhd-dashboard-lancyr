@@ -9467,12 +9467,19 @@
         "nummer": "+31614571015",
         "teruggebeld": false,
         "tijd": "13:03"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31619990461",
+        "teruggebeld": false,
+        "tijd": "15:13"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-17",
-    "generated_at": "2026-11-17T14:20:34Z",
-    "nietTerugGebeld": 15,
+    "generated_at": "2026-11-17T14:24:28Z",
+    "nietTerugGebeld": 16,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -9578,10 +9585,17 @@
         "nummer": "+31614571015",
         "teruggebeld": false,
         "tijd": "13:03"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31619990461",
+        "teruggebeld": false,
+        "tijd": "15:13"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 15,
-    "totaalInbound": 15
+    "totaalGemist": 16,
+    "totaalInbound": 16
   }
 }
