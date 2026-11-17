@@ -9376,12 +9376,19 @@
         "nummer": "+31646900924",
         "teruggebeld": false,
         "tijd": "09:05"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31610333316",
+        "teruggebeld": false,
+        "tijd": "10:27"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-17",
-    "generated_at": "2026-11-17T09:35:57Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-17T09:40:32Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -9396,10 +9403,17 @@
         "nummer": "+31646900924",
         "teruggebeld": false,
         "tijd": "09:05"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31610333316",
+        "teruggebeld": false,
+        "tijd": "10:27"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 2
+    "totaalGemist": 3,
+    "totaalInbound": 3
   }
 }
