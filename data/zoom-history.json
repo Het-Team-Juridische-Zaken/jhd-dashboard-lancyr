@@ -9425,12 +9425,26 @@
         "nummer": "+31685503194",
         "teruggebeld": false,
         "tijd": "11:55"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31615483290",
+        "teruggebeld": false,
+        "tijd": "12:12"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31615483290",
+        "teruggebeld": false,
+        "tijd": "12:19"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-17",
-    "generated_at": "2026-11-17T11:14:56Z",
-    "nietTerugGebeld": 9,
+    "generated_at": "2026-11-17T11:20:34Z",
+    "nietTerugGebeld": 11,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -9494,10 +9508,24 @@
         "nummer": "+31685503194",
         "teruggebeld": false,
         "tijd": "11:55"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31615483290",
+        "teruggebeld": false,
+        "tijd": "12:12"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31615483290",
+        "teruggebeld": false,
+        "tijd": "12:19"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 9,
-    "totaalInbound": 9
+    "totaalGemist": 11,
+    "totaalInbound": 11
   }
 }
