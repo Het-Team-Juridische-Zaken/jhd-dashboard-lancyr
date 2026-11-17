@@ -9446,12 +9446,19 @@
         "nummer": "+31615483290",
         "teruggebeld": false,
         "tijd": "12:21"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31615483290",
+        "teruggebeld": false,
+        "tijd": "12:25"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-17",
-    "generated_at": "2026-11-17T11:24:02Z",
-    "nietTerugGebeld": 12,
+    "generated_at": "2026-11-17T11:30:42Z",
+    "nietTerugGebeld": 13,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -9536,10 +9543,17 @@
         "nummer": "+31615483290",
         "teruggebeld": false,
         "tijd": "12:21"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31615483290",
+        "teruggebeld": false,
+        "tijd": "12:25"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 12,
-    "totaalInbound": 12
+    "totaalGemist": 13,
+    "totaalInbound": 13
   }
 }
