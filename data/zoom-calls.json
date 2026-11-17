@@ -1,118 +1,12 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T17:50:51Z",
-  "totaalInbound": 20,
-  "totaalGemist": 8,
-  "terugGebeld": 2,
-  "nietTerugGebeld": 6,
-  "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31643254686",
-      "naam": "Onbekend",
-      "tijd": "11:21",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31629027271",
-      "naam": "Onbekend",
-      "tijd": "12:04",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31629027271",
-      "naam": "Onbekend",
-      "tijd": "12:06",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31629027271",
-      "naam": "Onbekend",
-      "tijd": "12:15",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31653377740",
-      "naam": "Onbekend",
-      "tijd": "14:48",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31638214072",
-      "naam": "Onbekend",
-      "tijd": "15:14",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    }
-  ],
-  "alleGemistNummers": [
-    {
-      "nummer": "+31639684114",
-      "naam": "Onbekend",
-      "tijd": "09:37",
-      "callResult": "overflowed",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "+31639684114",
-      "naam": "Onbekend",
-      "tijd": "11:03",
-      "callResult": "overflowed",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "+31643254686",
-      "naam": "Onbekend",
-      "tijd": "11:21",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31629027271",
-      "naam": "Onbekend",
-      "tijd": "12:04",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31629027271",
-      "naam": "Onbekend",
-      "tijd": "12:06",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31629027271",
-      "naam": "Onbekend",
-      "tijd": "12:15",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31653377740",
-      "naam": "Onbekend",
-      "tijd": "14:48",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31638214072",
-      "naam": "Onbekend",
-      "tijd": "15:14",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    }
-  ],
-  "agenten": {
-    "Dewi Verver": {
-      "beantwoord": 12,
-      "uitgaand": 5,
-      "gesprekstijdSec": 5217
-    }
-  },
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T05:10:09Z",
+  "totaalInbound": 0,
+  "totaalGemist": 0,
+  "terugGebeld": 0,
+  "nietTerugGebeld": 0,
+  "nietTerugGebeldNummers": [],
+  "alleGemistNummers": [],
+  "agenten": {},
   "beantwoordZonderAgent": 0
 }
