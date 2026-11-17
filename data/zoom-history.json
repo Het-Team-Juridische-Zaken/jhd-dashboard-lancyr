@@ -9474,12 +9474,33 @@
         "nummer": "+31619990461",
         "teruggebeld": false,
         "tijd": "15:13"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31610333316",
+        "teruggebeld": false,
+        "tijd": "15:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31646321686",
+        "teruggebeld": false,
+        "tijd": "15:28"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31612459622",
+        "teruggebeld": false,
+        "tijd": "15:30"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-17",
-    "generated_at": "2026-11-17T14:30:56Z",
-    "nietTerugGebeld": 16,
+    "generated_at": "2026-11-17T14:35:45Z",
+    "nietTerugGebeld": 19,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -9592,10 +9613,31 @@
         "nummer": "+31619990461",
         "teruggebeld": false,
         "tijd": "15:13"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31610333316",
+        "teruggebeld": false,
+        "tijd": "15:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31646321686",
+        "teruggebeld": false,
+        "tijd": "15:28"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31612459622",
+        "teruggebeld": false,
+        "tijd": "15:30"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 16,
-    "totaalInbound": 16
+    "totaalGemist": 19,
+    "totaalInbound": 19
   }
 }

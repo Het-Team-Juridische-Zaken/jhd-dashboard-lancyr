@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T14:30:56Z",
-  "totaalInbound": 16,
-  "totaalGemist": 16,
+  "generated_at": "2026-11-17T14:35:45Z",
+  "totaalInbound": 19,
+  "totaalGemist": 19,
   "terugGebeld": 0,
-  "nietTerugGebeld": 16,
+  "nietTerugGebeld": 19,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31646900924",
@@ -116,6 +116,27 @@
       "naam": "Onbekend",
       "tijd": "15:13",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31610333316",
+      "naam": "Onbekend",
+      "tijd": "15:26",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646321686",
+      "naam": "Onbekend",
+      "tijd": "15:28",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31612459622",
+      "naam": "Onbekend",
+      "tijd": "15:30",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -230,6 +251,27 @@
       "naam": "Onbekend",
       "tijd": "15:13",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31610333316",
+      "naam": "Onbekend",
+      "tijd": "15:26",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31646321686",
+      "naam": "Onbekend",
+      "tijd": "15:28",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31612459622",
+      "naam": "Onbekend",
+      "tijd": "15:30",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
