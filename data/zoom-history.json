@@ -9404,12 +9404,19 @@
         "nummer": "+31611752542",
         "teruggebeld": false,
         "tijd": "11:16"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31613437780",
+        "teruggebeld": false,
+        "tijd": "11:31"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-17",
-    "generated_at": "2026-11-17T10:40:37Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-11-17T10:43:46Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -9452,10 +9459,17 @@
         "nummer": "+31611752542",
         "teruggebeld": false,
         "tijd": "11:16"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31613437780",
+        "teruggebeld": false,
+        "tijd": "11:31"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 6
+    "totaalGemist": 7,
+    "totaalInbound": 7
   }
 }
