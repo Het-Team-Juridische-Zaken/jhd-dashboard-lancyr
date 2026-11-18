@@ -9644,8 +9644,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 2,
-        "gesprekstijdSec": 2116,
-        "uitgaand": 6
+        "gesprekstijdSec": 2679,
+        "uitgaand": 8
       }
     },
     "alleGemistNummers": [
@@ -9690,12 +9690,19 @@
         "nummer": "+31627962879",
         "teruggebeld": false,
         "tijd": "13:37"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31611084729",
+        "teruggebeld": false,
+        "tijd": "14:00"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-18",
-    "generated_at": "2026-11-18T13:01:01Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-11-18T13:10:13Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9738,10 +9745,17 @@
         "nummer": "+31627962879",
         "teruggebeld": false,
         "tijd": "13:37"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31611084729",
+        "teruggebeld": false,
+        "tijd": "14:00"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 6,
-    "totaalInbound": 8
+    "totaalGemist": 7,
+    "totaalInbound": 9
   }
 }
