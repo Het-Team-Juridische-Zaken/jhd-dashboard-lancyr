@@ -9704,12 +9704,19 @@
         "nummer": "+31648116896",
         "teruggebeld": true,
         "tijd": "14:10"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31685503194",
+        "teruggebeld": false,
+        "tijd": "17:22"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-18",
-    "generated_at": "2026-11-18T16:20:40Z",
-    "nietTerugGebeld": 6,
+    "generated_at": "2026-11-18T16:24:08Z",
+    "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9752,10 +9759,17 @@
         "nummer": "+31611084729",
         "teruggebeld": false,
         "tijd": "14:00"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31685503194",
+        "teruggebeld": false,
+        "tijd": "17:22"
       }
     ],
     "terugGebeld": 2,
-    "totaalGemist": 8,
-    "totaalInbound": 16
+    "totaalGemist": 9,
+    "totaalInbound": 17
   }
 }
