@@ -1,9 +1,9 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T13:10:32Z",
-  "totaalInbound": 9,
-  "totaalGemist": 7,
-  "terugGebeld": 0,
+  "generated_at": "2026-11-18T13:17:05Z",
+  "totaalInbound": 11,
+  "totaalGemist": 8,
+  "terugGebeld": 1,
   "nietTerugGebeld": 7,
   "nietTerugGebeldNummers": [
     {
@@ -105,13 +105,20 @@
       "tijd": "14:00",
       "callResult": "overflowed",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31648116896",
+      "naam": "Onbekend",
+      "tijd": "14:10",
+      "callResult": "abandoned",
+      "teruggebeld": true
     }
   ],
   "agenten": {
     "Leyla Pereira": {
-      "beantwoord": 2,
-      "uitgaand": 8,
-      "gesprekstijdSec": 2679
+      "beantwoord": 3,
+      "uitgaand": 9,
+      "gesprekstijdSec": 2968
     }
   },
   "beantwoordZonderAgent": 0

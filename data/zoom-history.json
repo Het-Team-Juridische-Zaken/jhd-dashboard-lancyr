@@ -9643,9 +9643,9 @@
   "2026-11-18": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 2679,
-        "uitgaand": 8
+        "beantwoord": 3,
+        "gesprekstijdSec": 2968,
+        "uitgaand": 9
       }
     },
     "alleGemistNummers": [
@@ -9697,11 +9697,18 @@
         "nummer": "+31611084729",
         "teruggebeld": false,
         "tijd": "14:00"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31648116896",
+        "teruggebeld": true,
+        "tijd": "14:10"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-18",
-    "generated_at": "2026-11-18T13:10:32Z",
+    "generated_at": "2026-11-18T13:17:05Z",
     "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
@@ -9754,8 +9761,8 @@
         "tijd": "14:00"
       }
     ],
-    "terugGebeld": 0,
-    "totaalGemist": 7,
-    "totaalInbound": 9
+    "terugGebeld": 1,
+    "totaalGemist": 8,
+    "totaalInbound": 11
   }
 }
