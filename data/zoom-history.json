@@ -9648,14 +9648,30 @@
         "uitgaand": 1
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612394269",
+        "teruggebeld": false,
+        "tijd": "09:07"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-18",
-    "generated_at": "2026-11-18T08:13:26Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-11-18T08:20:33Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612394269",
+        "teruggebeld": false,
+        "tijd": "09:07"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalGemist": 1,
+    "totaalInbound": 1
   }
 }

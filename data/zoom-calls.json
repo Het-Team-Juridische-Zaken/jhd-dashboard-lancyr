@@ -1,12 +1,28 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T08:13:26Z",
-  "totaalInbound": 0,
-  "totaalGemist": 0,
+  "generated_at": "2026-11-18T08:20:33Z",
+  "totaalInbound": 1,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31612394269",
+      "naam": "Onbekend",
+      "tijd": "09:07",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31612394269",
+      "naam": "Onbekend",
+      "tijd": "09:07",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 0,
