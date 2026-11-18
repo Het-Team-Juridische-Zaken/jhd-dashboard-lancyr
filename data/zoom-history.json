@@ -9669,12 +9669,19 @@
         "nummer": "+31646874845",
         "teruggebeld": false,
         "tijd": "12:39"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31682311540",
+        "teruggebeld": false,
+        "tijd": "12:44"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-18",
-    "generated_at": "2026-11-18T11:53:57Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-11-18T12:00:56Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9696,10 +9703,17 @@
         "nummer": "+31646874845",
         "teruggebeld": false,
         "tijd": "12:39"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31682311540",
+        "teruggebeld": false,
+        "tijd": "12:44"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 4
+    "totaalGemist": 4,
+    "totaalInbound": 5
   }
 }

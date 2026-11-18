@@ -1,10 +1,10 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T11:53:57Z",
-  "totaalInbound": 4,
-  "totaalGemist": 3,
+  "generated_at": "2026-11-18T12:00:56Z",
+  "totaalInbound": 5,
+  "totaalGemist": 4,
   "terugGebeld": 0,
-  "nietTerugGebeld": 3,
+  "nietTerugGebeld": 4,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31612394269",
@@ -24,6 +24,13 @@
       "nummer": "+31646874845",
       "naam": "Onbekend",
       "tijd": "12:39",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31682311540",
+      "naam": "Onbekend",
+      "tijd": "12:44",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -47,6 +54,13 @@
       "nummer": "+31646874845",
       "naam": "Onbekend",
       "tijd": "12:39",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31682311540",
+      "naam": "Onbekend",
+      "tijd": "12:44",
       "callResult": "overflowed",
       "teruggebeld": false
     }
