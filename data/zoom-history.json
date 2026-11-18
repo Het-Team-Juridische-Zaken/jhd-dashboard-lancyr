@@ -9641,11 +9641,17 @@
     "totaalInbound": 19
   },
   "2026-11-18": {
-    "agenten": {},
+    "agenten": {
+      "Leyla Pereira": {
+        "beantwoord": 0,
+        "gesprekstijdSec": 618,
+        "uitgaand": 1
+      }
+    },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-18",
-    "generated_at": "2026-11-18T08:10:36Z",
+    "generated_at": "2026-11-18T08:13:26Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
