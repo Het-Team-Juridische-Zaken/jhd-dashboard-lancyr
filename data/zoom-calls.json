@@ -1,10 +1,10 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T12:30:45Z",
-  "totaalInbound": 6,
-  "totaalGemist": 5,
+  "generated_at": "2026-11-18T12:38:40Z",
+  "totaalInbound": 7,
+  "totaalGemist": 6,
   "terugGebeld": 0,
-  "nietTerugGebeld": 5,
+  "nietTerugGebeld": 6,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31612394269",
@@ -39,6 +39,13 @@
       "naam": "Onbekend",
       "tijd": "13:18",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31627962879",
+      "naam": "Onbekend",
+      "tijd": "13:37",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -77,13 +84,20 @@
       "tijd": "13:18",
       "callResult": "overflowed",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31627962879",
+      "naam": "Onbekend",
+      "tijd": "13:37",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 1,
-      "uitgaand": 5,
-      "gesprekstijdSec": 1523
+      "uitgaand": 6,
+      "gesprekstijdSec": 1612
     }
   },
   "beantwoordZonderAgent": 0
