@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T14:20:49Z",
-  "totaalInbound": 14,
+  "generated_at": "2026-11-18T14:25:20Z",
+  "totaalInbound": 15,
   "totaalGemist": 8,
   "terugGebeld": 1,
   "nietTerugGebeld": 7,
@@ -116,9 +116,9 @@
   ],
   "agenten": {
     "Leyla Pereira": {
-      "beantwoord": 6,
+      "beantwoord": 7,
       "uitgaand": 12,
-      "gesprekstijdSec": 3326
+      "gesprekstijdSec": 3762
     }
   },
   "beantwoordZonderAgent": 0
