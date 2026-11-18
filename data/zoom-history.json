@@ -9644,8 +9644,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 7,
-        "gesprekstijdSec": 3762,
-        "uitgaand": 12
+        "gesprekstijdSec": 3951,
+        "uitgaand": 13
       }
     },
     "alleGemistNummers": [
@@ -9708,7 +9708,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-18",
-    "generated_at": "2026-11-18T14:54:00Z",
+    "generated_at": "2026-11-18T15:00:59Z",
     "nietTerugGebeld": 7,
     "nietTerugGebeldNummers": [
       {
