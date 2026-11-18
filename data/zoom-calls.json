@@ -1,15 +1,22 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T08:50:33Z",
-  "totaalInbound": 1,
-  "totaalGemist": 1,
+  "generated_at": "2026-11-18T08:53:54Z",
+  "totaalInbound": 2,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31612394269",
       "naam": "Onbekend",
       "tijd": "09:07",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31619902355",
+      "naam": "Onbekend",
+      "tijd": "09:44",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -19,6 +26,13 @@
       "nummer": "+31612394269",
       "naam": "Onbekend",
       "tijd": "09:07",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31619902355",
+      "naam": "Onbekend",
+      "tijd": "09:44",
       "callResult": "overflowed",
       "teruggebeld": false
     }

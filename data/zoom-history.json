@@ -9655,12 +9655,19 @@
         "nummer": "+31612394269",
         "teruggebeld": false,
         "tijd": "09:07"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31619902355",
+        "teruggebeld": false,
+        "tijd": "09:44"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-18",
-    "generated_at": "2026-11-18T08:50:33Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-18T08:53:54Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9668,10 +9675,17 @@
         "nummer": "+31612394269",
         "teruggebeld": false,
         "tijd": "09:07"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31619902355",
+        "teruggebeld": false,
+        "tijd": "09:44"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 1
+    "totaalGemist": 2,
+    "totaalInbound": 2
   }
 }
