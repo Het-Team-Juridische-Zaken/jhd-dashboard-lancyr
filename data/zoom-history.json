@@ -9776,8 +9776,8 @@
     "agenten": {
       "Ne-yadey van Duiven": {
         "beantwoord": 2,
-        "gesprekstijdSec": 1404,
-        "uitgaand": 2
+        "gesprekstijdSec": 1410,
+        "uitgaand": 3
       }
     },
     "alleGemistNummers": [
@@ -9806,7 +9806,7 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31645153539",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "10:14"
       },
       {
@@ -9854,16 +9854,9 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-19",
-    "generated_at": "2026-11-19T13:20:37Z",
-    "nietTerugGebeld": 7,
+    "generated_at": "2026-11-19T13:24:39Z",
+    "nietTerugGebeld": 6,
     "nietTerugGebeldNummers": [
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31645153539",
-        "teruggebeld": false,
-        "tijd": "10:14"
-      },
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
@@ -9907,7 +9900,7 @@
         "tijd": "13:17"
       }
     ],
-    "terugGebeld": 3,
+    "terugGebeld": 4,
     "totaalGemist": 10,
     "totaalInbound": 12
   }
