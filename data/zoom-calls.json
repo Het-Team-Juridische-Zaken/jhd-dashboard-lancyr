@@ -1,23 +1,16 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T14:10:28Z",
+  "generated_at": "2026-11-19T14:18:12Z",
   "totaalInbound": 13,
   "totaalGemist": 10,
-  "terugGebeld": 6,
-  "nietTerugGebeld": 4,
+  "terugGebeld": 7,
+  "nietTerugGebeld": 3,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31615104042",
       "naam": "Onbekend",
       "tijd": "10:22",
       "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31625014812",
-      "naam": "Onbekend",
-      "tijd": "12:00",
-      "callResult": "abandoned",
       "teruggebeld": false
     },
     {
@@ -90,7 +83,7 @@
       "naam": "Onbekend",
       "tijd": "12:00",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31629027271",
@@ -110,8 +103,8 @@
   "agenten": {
     "Ne-yadey van Duiven": {
       "beantwoord": 3,
-      "uitgaand": 5,
-      "gesprekstijdSec": 2301
+      "uitgaand": 6,
+      "gesprekstijdSec": 2476
     }
   },
   "beantwoordZonderAgent": 0
