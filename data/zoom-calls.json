@@ -1,23 +1,16 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T14:44:17Z",
+  "generated_at": "2026-11-19T14:50:42Z",
   "totaalInbound": 13,
   "totaalGemist": 10,
-  "terugGebeld": 8,
-  "nietTerugGebeld": 2,
+  "terugGebeld": 9,
+  "nietTerugGebeld": 1,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31615104042",
       "naam": "Onbekend",
       "tijd": "10:22",
       "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31612466340",
-      "naam": "Onbekend",
-      "tijd": "13:17",
-      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -90,7 +83,7 @@
       "naam": "Onbekend",
       "tijd": "13:17",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     }
   ],
   "agenten": {
