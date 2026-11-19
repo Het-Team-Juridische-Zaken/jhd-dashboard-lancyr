@@ -9771,5 +9771,17 @@
     "terugGebeld": 2,
     "totaalGemist": 9,
     "totaalInbound": 17
+  },
+  "2026-11-19": {
+    "agenten": {},
+    "alleGemistNummers": [],
+    "beantwoordZonderAgent": 0,
+    "date": "2026-11-19",
+    "generated_at": "2026-11-19T05:10:27Z",
+    "nietTerugGebeld": 0,
+    "nietTerugGebeldNummers": [],
+    "terugGebeld": 0,
+    "totaalGemist": 0,
+    "totaalInbound": 0
   }
 }
