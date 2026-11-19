@@ -1,10 +1,10 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T09:26:34Z",
-  "totaalInbound": 4,
-  "totaalGemist": 4,
+  "generated_at": "2026-11-19T09:30:47Z",
+  "totaalInbound": 5,
+  "totaalGemist": 5,
   "terugGebeld": 0,
-  "nietTerugGebeld": 4,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31630016870",
@@ -31,6 +31,13 @@
       "nummer": "+31645153539",
       "naam": "Onbekend",
       "tijd": "10:14",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31616910648",
+      "naam": "Onbekend",
+      "tijd": "10:22",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -61,6 +68,13 @@
       "nummer": "+31645153539",
       "naam": "Onbekend",
       "tijd": "10:14",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31616910648",
+      "naam": "Onbekend",
+      "tijd": "10:22",
       "callResult": "overflowed",
       "teruggebeld": false
     }

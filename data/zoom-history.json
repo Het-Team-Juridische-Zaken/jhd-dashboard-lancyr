@@ -9802,12 +9802,19 @@
         "nummer": "+31645153539",
         "teruggebeld": false,
         "tijd": "10:14"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31616910648",
+        "teruggebeld": false,
+        "tijd": "10:22"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-19",
-    "generated_at": "2026-11-19T09:26:34Z",
-    "nietTerugGebeld": 4,
+    "generated_at": "2026-11-19T09:30:47Z",
+    "nietTerugGebeld": 5,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9836,10 +9843,17 @@
         "nummer": "+31645153539",
         "teruggebeld": false,
         "tijd": "10:14"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31616910648",
+        "teruggebeld": false,
+        "tijd": "10:22"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 4,
-    "totaalInbound": 4
+    "totaalGemist": 5,
+    "totaalInbound": 5
   }
 }
