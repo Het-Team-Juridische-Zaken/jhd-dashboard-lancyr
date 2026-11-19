@@ -1,10 +1,10 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T11:00:57Z",
-  "totaalInbound": 7,
-  "totaalGemist": 7,
+  "generated_at": "2026-11-19T11:09:32Z",
+  "totaalInbound": 8,
+  "totaalGemist": 8,
   "terugGebeld": 0,
-  "nietTerugGebeld": 7,
+  "nietTerugGebeld": 8,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31630016870",
@@ -53,6 +53,13 @@
       "naam": "Onbekend",
       "tijd": "11:36",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31625014812",
+      "naam": "Onbekend",
+      "tijd": "12:00",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -104,6 +111,13 @@
       "naam": "Onbekend",
       "tijd": "11:36",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31625014812",
+      "naam": "Onbekend",
+      "tijd": "12:00",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
