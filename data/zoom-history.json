@@ -9830,12 +9830,26 @@
         "nummer": "+31625014812",
         "teruggebeld": false,
         "tijd": "12:00"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "13:14"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31612466340",
+        "teruggebeld": false,
+        "tijd": "13:17"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-19",
-    "generated_at": "2026-11-19T12:14:30Z",
-    "nietTerugGebeld": 8,
+    "generated_at": "2026-11-19T12:20:38Z",
+    "nietTerugGebeld": 10,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9892,10 +9906,24 @@
         "nummer": "+31625014812",
         "teruggebeld": false,
         "tijd": "12:00"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31629027271",
+        "teruggebeld": false,
+        "tijd": "13:14"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31612466340",
+        "teruggebeld": false,
+        "tijd": "13:17"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 8,
-    "totaalInbound": 8
+    "totaalGemist": 10,
+    "totaalInbound": 10
   }
 }
