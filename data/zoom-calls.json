@@ -1,12 +1,42 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T08:23:23Z",
-  "totaalInbound": 0,
-  "totaalGemist": 0,
+  "generated_at": "2026-11-19T08:30:45Z",
+  "totaalInbound": 2,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 2,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31630016870",
+      "naam": "Onbekend",
+      "tijd": "09:20",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31630016870",
+      "naam": "Onbekend",
+      "tijd": "09:27",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31630016870",
+      "naam": "Onbekend",
+      "tijd": "09:20",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31630016870",
+      "naam": "Onbekend",
+      "tijd": "09:27",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {},
   "beantwoordZonderAgent": 0
 }
