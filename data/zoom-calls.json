@@ -1,25 +1,11 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T12:39:07Z",
+  "generated_at": "2026-11-19T12:40:42Z",
   "totaalInbound": 10,
   "totaalGemist": 10,
-  "terugGebeld": 0,
-  "nietTerugGebeld": 10,
+  "terugGebeld": 2,
+  "nietTerugGebeld": 8,
   "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31630016870",
-      "naam": "Onbekend",
-      "tijd": "09:20",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31630016870",
-      "naam": "Onbekend",
-      "tijd": "09:27",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
     {
       "nummer": "+31646090095",
       "naam": "Onbekend",
@@ -83,14 +69,14 @@
       "naam": "Onbekend",
       "tijd": "09:20",
       "callResult": "overflowed",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31630016870",
       "naam": "Onbekend",
       "tijd": "09:27",
       "callResult": "abandoned",
-      "teruggebeld": false
+      "teruggebeld": true
     },
     {
       "nummer": "+31646090095",
@@ -149,6 +135,12 @@
       "teruggebeld": false
     }
   ],
-  "agenten": {},
+  "agenten": {
+    "Ne-yadey van Duiven": {
+      "beantwoord": 0,
+      "uitgaand": 1,
+      "gesprekstijdSec": 532
+    }
+  },
   "beantwoordZonderAgent": 0
 }

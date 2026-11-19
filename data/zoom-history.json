@@ -9773,20 +9773,26 @@
     "totaalInbound": 17
   },
   "2026-11-19": {
-    "agenten": {},
+    "agenten": {
+      "Ne-yadey van Duiven": {
+        "beantwoord": 0,
+        "gesprekstijdSec": 532,
+        "uitgaand": 1
+      }
+    },
     "alleGemistNummers": [
       {
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31630016870",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:20"
       },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31630016870",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "09:27"
       },
       {
@@ -9848,23 +9854,9 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-19",
-    "generated_at": "2026-11-19T12:39:07Z",
-    "nietTerugGebeld": 10,
+    "generated_at": "2026-11-19T12:40:42Z",
+    "nietTerugGebeld": 8,
     "nietTerugGebeldNummers": [
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31630016870",
-        "teruggebeld": false,
-        "tijd": "09:20"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
-        "nummer": "+31630016870",
-        "teruggebeld": false,
-        "tijd": "09:27"
-      },
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
@@ -9922,7 +9914,7 @@
         "tijd": "13:17"
       }
     ],
-    "terugGebeld": 0,
+    "terugGebeld": 2,
     "totaalGemist": 10,
     "totaalInbound": 10
   }
