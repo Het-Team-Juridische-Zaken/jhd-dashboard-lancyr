@@ -9795,12 +9795,19 @@
         "nummer": "+31646090095",
         "teruggebeld": false,
         "tijd": "09:31"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31645153539",
+        "teruggebeld": false,
+        "tijd": "10:14"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-19",
-    "generated_at": "2026-11-19T09:20:38Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-11-19T09:26:34Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9822,10 +9829,17 @@
         "nummer": "+31646090095",
         "teruggebeld": false,
         "tijd": "09:31"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31645153539",
+        "teruggebeld": false,
+        "tijd": "10:14"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 3
+    "totaalGemist": 4,
+    "totaalInbound": 4
   }
 }
