@@ -9776,8 +9776,8 @@
     "agenten": {
       "Ne-yadey van Duiven": {
         "beantwoord": 3,
-        "gesprekstijdSec": 2256,
-        "uitgaand": 4
+        "gesprekstijdSec": 2301,
+        "uitgaand": 5
       }
     },
     "alleGemistNummers": [
@@ -9827,7 +9827,7 @@
         "callResult": "overflowed",
         "naam": "Onbekend",
         "nummer": "+31647118668",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "11:36"
       },
       {
@@ -9854,8 +9854,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-19",
-    "generated_at": "2026-11-19T14:00:59Z",
-    "nietTerugGebeld": 5,
+    "generated_at": "2026-11-19T14:10:28Z",
+    "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9863,13 +9863,6 @@
         "nummer": "+31615104042",
         "teruggebeld": false,
         "tijd": "10:22"
-      },
-      {
-        "callResult": "overflowed",
-        "naam": "Onbekend",
-        "nummer": "+31647118668",
-        "teruggebeld": false,
-        "tijd": "11:36"
       },
       {
         "callResult": "abandoned",
@@ -9893,7 +9886,7 @@
         "tijd": "13:17"
       }
     ],
-    "terugGebeld": 5,
+    "terugGebeld": 6,
     "totaalGemist": 10,
     "totaalInbound": 13
   }
