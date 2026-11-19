@@ -9776,8 +9776,8 @@
     "agenten": {
       "Ne-yadey van Duiven": {
         "beantwoord": 3,
-        "gesprekstijdSec": 2476,
-        "uitgaand": 6
+        "gesprekstijdSec": 2956,
+        "uitgaand": 7
       }
     },
     "alleGemistNummers": [
@@ -9841,7 +9841,7 @@
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31629027271",
-        "teruggebeld": false,
+        "teruggebeld": true,
         "tijd": "13:14"
       },
       {
@@ -9854,8 +9854,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-19",
-    "generated_at": "2026-11-19T14:30:45Z",
-    "nietTerugGebeld": 3,
+    "generated_at": "2026-11-19T14:35:41Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -9867,19 +9867,12 @@
       {
         "callResult": "abandoned",
         "naam": "Onbekend",
-        "nummer": "+31629027271",
-        "teruggebeld": false,
-        "tijd": "13:14"
-      },
-      {
-        "callResult": "abandoned",
-        "naam": "Onbekend",
         "nummer": "+31612466340",
         "teruggebeld": false,
         "tijd": "13:17"
       }
     ],
-    "terugGebeld": 7,
+    "terugGebeld": 8,
     "totaalGemist": 10,
     "totaalInbound": 13
   }
