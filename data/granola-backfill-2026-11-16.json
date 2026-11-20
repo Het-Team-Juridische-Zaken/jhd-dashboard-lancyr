@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-16",
+  "kandidaten": 6,
+  "generated_at": "2026-11-20T13:04:00Z",
+  "drukte": "druk",
+  "gesprekken": 6,
+  "stats": {
+    "opgelost": 1,
+    "brandmeester": 3,
+    "afkoop": 0,
+    "terugbel": 1,
+    "geenDekking": 0,
+    "verkeerdNummer": 1
+  },
+  "score": 6.1,
+  "conversations": [
+    {
+      "tijd": "09:11",
+      "titel": "Fietsongeval vrouw – schadeclaim en rechtsbijstand",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Johannes Veenema belt met een klacht over een gemiste afspraak en een ernstig fietsongeval van zijn vrouw op 20 september tegen een voetganger, met hersenbeschadiging tot gevolg. De medewerker voert een uitgebreid intake-interview, verifieert de beller via postcode en adres, geeft inhoudelijk advies over aansprakelijkheid (voetgangers hebben voorrang), en verwijst de zaak door naar Brandmeester voor verdere rechtsbijstandsbehandeling vanwege mogelijke smartengeldvorderingen en permanente schade.",
+      "tags": [
+        [
+          "tag-consument",
+          "Consumentenrecht - Schadevergoeding"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": true
+    },
+    {
+      "tijd": "09:36",
+      "titel": "Zonnepanelen-klacht: ingebrekenstelling en geschillenregeling met Brandmeester",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Mike van Brende belt over een bestaande zonnepanelenzaak (ingebrekenstelling Met de Zon) die al naar Brandmeester is doorverwezen (21 september). De beller is geverifieerd via postcode 2032 en huisnummer 78. De medewerker geeft inhoudelijk advies over (1) deskundigenkosten (vooraf eigen betaling, mogelijk later verhaald via restbijstandsverzekering), (2) geschillenregeling (verdere details moeten worden nagezocht), en (3) procedureel advies dat klachten tegen Brandmeester-oordelen bij Brandmeester zelf moeten worden ingediend omdat Lancyr wettelijk niet meer bevoegd is. De beller wordt gevraagd zijn vragen per mail naar info@lancierverzekeringen.nl in te dienen.",
+      "tags": [
+        [
+          "tag-consument",
+          "Consumentenrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-terugbel",
+        "Terugbellen"
+      ],
+      "terugbel": true,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": true
+    },
+    {
+      "tijd": "10:57",
+      "titel": "Polisvoorwaarden en inlogproblemen met Yvonne Asserij",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller Yvonne Asserij belt met belafspraak over het niet kunnen vinden van polisvoorwaarden en inlogproblemen op de website. De medewerker verwijst haar door om een e-mail naar info@lancyrverzekeringen.nl te sturen voor opzending van polisvoorwaarden en zal IT-problemen onderzoeken. De beller is niet geverifieerd in het systeem en er is geen inhoudelijk juridisch advies gegeven.",
+      "tags": [
+        [
+          "tag-overig",
+          "Verzekeringsadministratie"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-verkeerd",
+        "Verkeerd nummer"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": true,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "11:01",
+      "titel": "Fietsaankoop garantie en vervangend vervoer met Florien Heuskerk",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Florien Heuskerk belt over een kapotte fiets gekocht bij fietswinkel.nl die in garantie is, maar de reparatie duurt 6 weken. De medewerker (Davy) adviseert vervangend vervoer aan te vragen bij de fietsenwinkel en stelt dat juridisch niets aan de reparatietermijn kan worden veranderd. De beller is geverifieerd via polisnummer (eindigend op 072), maar er is verwarring over eerdere zaken en geen doorverwijzing naar Brandmeester plaatsgevonden ondanks bellers verzoek.",
+      "tags": [
+        [
+          "tag-consument",
+          "Consumentenrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-opgelost",
+        "Telefonisch opgelost"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": true
+    },
+    {
+      "tijd": "11:33",
+      "titel": "Defecte bank – reparatie of vervanging via Brandmeester",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller heeft een defecte bank besteld bij een derde partij (Briljant) met leveringsproblemen en wil reparatie of vervanging. De verkoper reageert niet op mails en heeft niet gereageerd op een ingebrekestelling. De medewerker heeft de beller niet geverifieerd in het systeem en heeft geen inhoudelijk juridisch advies gegeven, maar verwijst de zaak direct door naar Brandmeester (rechtsbijstandspartner) voor verdere behandeling.",
+      "tags": [
+        [
+          "tag-consument",
+          "Consumentenrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    },
+    {
+      "tijd": "11:38",
+      "titel": "Wasmachine afkoop en garantieaanspraken met Mediamarkt",
+      "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
+      "samenvatting": "Beller belt over een wasmachine met garantieproblemen en afkoopvoorstel van Lancyr. De medewerker geeft inhoudelijk advies over garantierechten en consumentenrechten tegen Mediamarkt (kosteloze reparatie binnen garantie), maar verwijst de beller vervolgens door naar Brandmeester voor verdere juridische bijstand met het geschil. Identiteit is niet geverifieerd (geen Zoho-match, geen verificatiepoging in transcript).",
+      "tags": [
+        [
+          "tag-consument",
+          "Consumentenrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": false
+    }
+  ],
+  "acties": [],
+  "analyse": {
+    "goed": [
+      "09:11 Fietsongeval: uitgebreide intake, identiteit geverifieerd (postcode/adres), inhoudelijk advies over aansprakelijkheid gegeven, passende doorverwijzing naar Brandmeester voor smartengeldvorderingen",
+      "09:36 Zonnepanelen: identiteit geverifieerd (postcode 2032 + huisnummer 78), inhoudelijk advies over deskundigenkosten en procedurele stappen gegeven, beller gewezen op vervolgcommunicatie via mail",
+      "11:01 Fietsaankoop: identiteit geverifieerd via polisnummer (072), inhoudelijk advies gegeven over vervangend vervoer en garantiebeperkingen"
+    ],
+    "beter": [
+      "10:57 Polisvoorwaarden: beller Yvonne Asserij niet geverifieerd in systeem – medewerker had verificatiestap moeten uitvoeren (postcode, adres, polisnummer) voordat doorverwijzing plaatsvond; geen vervolgcontact/deadline afgesproken voor verificatie",
+      "11:33 Defecte bank: identiteit niet geverifieerd voordat zaak naar Brandmeester werd doorverwezen – verificatiestap via postcode/adres/polisnummer ontbreekt; geen concrete deadline of vervolgplan voor verificatie afgesproken",
+      "11:38 Wasmachine: identiteit niet geverifieerd (geen Zoho-match, geen verificatiepoging in transcript) ondanks dat inhoudelijk juridisch advies werd gegeven – verificatie moet voorafgaan aan advieslening; geen vervolgdeadline voor verificatie genoemd",
+      "11:01 Fietsaankoop: beller vroeg om doorverwijzing naar Brandmeester maar dit is niet gebeurd ondanks geschilkarakter – vervolgstap onduidelijk afgerond"
+    ]
+  },
+  "verkeerdVerbonden": {
+    "aantal": 1,
+    "percentage": 16.7
+  },
+  "rechtsbijstandVerwijzingen": 3,
+  "categorieen": [
+    [
+      "Consumentenrecht",
+      4
+    ],
+    [
+      "Consumentenrecht - Schadevergoeding",
+      1
+    ],
+    [
+      "Verzekeringsadministratie",
+      1
+    ]
+  ]
+}
