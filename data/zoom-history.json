@@ -9871,6 +9871,11 @@
   },
   "2026-11-20": {
     "agenten": {
+      "Dewi Verver": {
+        "beantwoord": 0,
+        "gesprekstijdSec": 278,
+        "uitgaand": 3
+      },
       "Leyla Pereira": {
         "beantwoord": 5,
         "gesprekstijdSec": 3202,
@@ -9914,7 +9919,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-20",
-    "generated_at": "2026-11-20T13:16:22Z",
+    "generated_at": "2026-11-20T13:20:36Z",
     "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
