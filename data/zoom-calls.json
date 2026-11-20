@@ -1,10 +1,10 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-20T16:43:57Z",
-  "totaalInbound": 17,
-  "totaalGemist": 5,
+  "generated_at": "2026-11-20T16:50:37Z",
+  "totaalInbound": 18,
+  "totaalGemist": 6,
   "terugGebeld": 1,
-  "nietTerugGebeld": 4,
+  "nietTerugGebeld": 5,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31616910648",
@@ -32,6 +32,13 @@
       "naam": "Onbekend",
       "tijd": "16:54",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31685503194",
+      "naam": "Onbekend",
+      "tijd": "17:46",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -69,6 +76,13 @@
       "naam": "Onbekend",
       "tijd": "16:54",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31685503194",
+      "naam": "Onbekend",
+      "tijd": "17:46",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
