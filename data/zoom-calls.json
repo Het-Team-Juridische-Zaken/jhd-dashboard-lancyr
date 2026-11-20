@@ -1,9 +1,9 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-20T13:00:53Z",
-  "totaalInbound": 10,
-  "totaalGemist": 3,
-  "terugGebeld": 0,
+  "generated_at": "2026-11-20T13:09:52Z",
+  "totaalInbound": 12,
+  "totaalGemist": 4,
+  "terugGebeld": 1,
   "nietTerugGebeld": 3,
   "nietTerugGebeldNummers": [
     {
@@ -49,18 +49,25 @@
       "tijd": "12:51",
       "callResult": "abandoned",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31640260342",
+      "naam": "Onbekend",
+      "tijd": "14:01",
+      "callResult": "abandoned",
+      "teruggebeld": true
     }
   ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 5,
-      "uitgaand": 7,
-      "gesprekstijdSec": 3003
+      "uitgaand": 8,
+      "gesprekstijdSec": 3202
     },
     "Ne-yadey van Duiven": {
-      "beantwoord": 2,
+      "beantwoord": 3,
       "uitgaand": 2,
-      "gesprekstijdSec": 985
+      "gesprekstijdSec": 1348
     }
   },
   "beantwoordZonderAgent": 0

@@ -9873,12 +9873,12 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 5,
-        "gesprekstijdSec": 3003,
-        "uitgaand": 7
+        "gesprekstijdSec": 3202,
+        "uitgaand": 8
       },
       "Ne-yadey van Duiven": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 985,
+        "beantwoord": 3,
+        "gesprekstijdSec": 1348,
         "uitgaand": 2
       }
     },
@@ -9903,11 +9903,18 @@
         "nummer": "+31657841786",
         "teruggebeld": false,
         "tijd": "12:51"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31640260342",
+        "teruggebeld": true,
+        "tijd": "14:01"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-20",
-    "generated_at": "2026-11-20T13:00:53Z",
+    "generated_at": "2026-11-20T13:09:52Z",
     "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
@@ -9932,8 +9939,8 @@
         "tijd": "12:51"
       }
     ],
-    "terugGebeld": 0,
-    "totaalGemist": 3,
-    "totaalInbound": 10
+    "terugGebeld": 1,
+    "totaalGemist": 4,
+    "totaalInbound": 12
   }
 }
