@@ -1,7 +1,7 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-20T14:44:02Z",
-  "totaalInbound": 12,
+  "generated_at": "2026-11-20T14:50:36Z",
+  "totaalInbound": 13,
   "totaalGemist": 4,
   "terugGebeld": 1,
   "nietTerugGebeld": 3,
@@ -59,6 +59,11 @@
     }
   ],
   "agenten": {
+    "Ne-yadey van Duiven": {
+      "beantwoord": 4,
+      "uitgaand": 2,
+      "gesprekstijdSec": 1720
+    },
     "Dewi Verver": {
       "beantwoord": 0,
       "uitgaand": 3,
@@ -68,11 +73,6 @@
       "beantwoord": 5,
       "uitgaand": 8,
       "gesprekstijdSec": 3202
-    },
-    "Ne-yadey van Duiven": {
-      "beantwoord": 3,
-      "uitgaand": 2,
-      "gesprekstijdSec": 1348
     }
   },
   "beantwoordZonderAgent": 0
