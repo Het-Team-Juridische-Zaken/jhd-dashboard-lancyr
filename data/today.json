@@ -1,27 +1,27 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-20T12:11:06Z",
+  "generated_at": "2026-11-20T12:14:49Z",
   "drukte": "matig",
   "gesprekken": 5,
   "stats": {
     "opgelost": 1,
-    "brandmeester": 1,
+    "brandmeester": 2,
     "afkoop": 0,
     "terugbel": 1,
     "geenDekking": 0,
-    "verkeerdNummer": 2
+    "verkeerdNummer": 1
   },
-  "score": 5.8,
+  "score": 5.1,
   "conversations": [
     {
       "tijd": "10:33",
       "titel": "Verzekeringaanvraag afwijzing en beroepszaak gemeente Barendrecht",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Een niet-verzekerde beller belde de juridische helpdesk met een verzoek om verzekering af te sluiten bij Lancyr met uitsluitingen voor een lopende bestuursrechtelijke zaak tegen gemeente Barendrecht. De medewerker clarificeerde dat de juridische helpdesk geen verzekeringszaken afhandelt en verwees de beller door naar de interne verzekeringafdeling (optie 3). De beller was automatisch geverifieerd via Zoho op telefoonnummer, maar kreeg geen inhoudelijk juridisch advies omdat het onderwerp (verzekeringaanvraag) niet onder de juridische helpdesk valt.",
+      "samenvatting": "Een niet-verzekerde beller probeert een verzekering af te sluiten bij Lancyr maar is afgewezen vanwege een lopende bestuursrechtelijke zaak (beroep tegen gemeente Barendrecht) die als 'hoog risico' is beoordeeld. De medewerker Leila geeft aan dat de juridische helpdesk niet bevoegd is voor verzekeringsvraagstukken en verwijst de beller door naar de interne verzekeringafdeling (option 3). De beller is niet geverifieerd als verzekerde van Lancyr (het Zoho-systeem herkent hem wel, maar hij is niet verzekerd), en geen inhoudelijk juridisch advies over zijn bestuursrechtelijke zaak is gegeven.",
       "tags": [
         [
           "tag-bestuursrecht",
-          "Bestuursrecht (leerlingenvervoer/gemeente)"
+          "Bestuursrecht (beroep tegen gemeente)"
         ]
       ],
       "uitkomst": [
@@ -38,7 +38,7 @@
       "tijd": "11:06",
       "titel": "Huurwoning aanbouw: lekkage reparatie en ingebrekenstelling",
       "personen": "Verzekerde: R.J.H.M. Curvers · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Huurder met huurwoning en aanbouw heeft lekkage in aanbouw. Volgens overdrachtsformulier dient verhuurder lekkages te repareren, maar verhuurder weigert nu te repareren zonder dat huurder toekomstige onderhoudskosten accepteert. Medewerker heeft huurder geverifieerd (postcode + naam) en inhoudelijk advies gegeven: een ingebrekenstelling per mail sturen met overdrachtsformulier, fotomateriaal en termijn van twee weken.",
+      "samenvatting": "Huurder van een huurwoning met aanbouw heeft sinds jaren afspraken met verhuurder dat lekkages worden gerepareerd. Na nieuwe lekkage weigert verhuurder (Mooiland) te repareren tenzij huurder akkoord gaat dat latere kosten voor huurder zijn. Medewerker geeft inhoudelijk juridisch advies: stuur een formele ingebrekenstelling per mail met verwijzing naar het overdrachtscontract, foto's en een termijn van twee weken. Beller is geverifieerd via postcode en naam.",
       "tags": [
         [
           "tag-huur",
@@ -59,7 +59,7 @@
       "tijd": "11:45",
       "titel": "Energiecontract verzekering en rechtsbijstand doorsturen naar ProMeester",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt namens zijn vader over een energiecontractgeschil met een energiebedrijf; de vader is verzekerd voor consumentenrechtsbijstand. De medewerker heeft vastgesteld dat dit onder consumentenrecht valt en heeft de zaak doorverwezen naar ProMeester (rechtsbijstandspartner). Identiteit is niet geverifieerd (geen Zoho-match, geen verificatiepoging in transcript), maar de medewerker heeft wel inhoudelijk advies gegeven over de doorverwijzing.",
+      "samenvatting": "Beller belt namens zijn vader over een energiecontractgeschil met een energiebedrijf (consumentengeschil). De medewerker heeft vastgesteld dat de vader verzekerd is voor rechtsbijstand en verwijst de zaak door naar ProMeester (rechtsbijstandspartner). De beller is niet zelf geverifieerd in het systeem, maar de medewerker heeft wel inhoudelijk advies gegeven over de doorverwijzing.",
       "tags": [
         [
           "tag-consument",
@@ -80,19 +80,19 @@
       "tijd": "11:48",
       "titel": "Zaaksovergang naar Brandmeester en dossiernummerbevestiging",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller Leila belt in met een geschil waarbij zij financiële schadevergoeding nastreeft van een reisagent. De medewerker beoordeelt dat het conflict te hoog is opgelopen en verwijst de zaak door naar Brandmeester (rechtsbijstand). De beller is niet geverifieerd via het systeem, maar de medewerker belooft een e-mailbevestiging met dossiernummer te sturen zodra Brandmeester de zaak overneemt. Geen inhoudelijk juridisch advies is gegeven; enkel triage en doorverwijzing.",
+      "samenvatting": "Beller Leila heeft een geschil met een reisagent waarbij schadevergoeding centraal staat. De zaak is al geëscaleerd naar de rechtbank. De medewerker heeft de beller niet geverifieerd in het systeem (geen Zoho-match, geen verificatiepoging in transcript), maar heeft wel besloten de zaak door te verwijzen naar Brandmeester (rechtsbijstandsverzekering) omdat het conflict te hoog is opgelopen en juridische vertegenwoordiging nodig is. De medewerker belooft een e-mailbevestiging met dossiernummer te sturen zodra Brandmeester de zaak overneemt.",
       "tags": [
         [
           "tag-overig",
-          "Routering"
+          "Geschil met reisagent / schadevergoeding"
         ]
       ],
       "uitkomst": [
-        "outcome-verkeerd",
-        "Verkeerd nummer"
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
       ],
       "terugbel": false,
-      "verkeerdVerbonden": true,
+      "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
       "adviesGegeven": false,
       "identiteitGeverifieerd": false
@@ -101,7 +101,7 @@
       "tijd": "12:26",
       "titel": "Brandmeester dekking weigering en polisvoorwaarden controle",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt over een zaak met omgangsregeling die eerder naar Brandmeester is doorverwezen. Brandmeester heeft dekking geweigerd met verwijzing naar een uitsluitingsclausule voor echtscheidingsgerelateerde conflicten. De medewerker (Leyla) heeft geen inhoudelijk advies gegeven omdat ze eerst de polisvoorwaarden moet raadplegen; de beller is niet geverifieerd in het systeem en Leyla heeft afgesproken dezelfde dag terug te bellen. Geen dekking is nog niet definitief beoordeeld door HTJZ.",
+      "samenvatting": "Klant belt over een afgewezen juridische hulpvraag door Brandmeester in een omgangsregelingsgeschil (relatie beëindigd in 2014). Brandmeester weigert dekking met beroep op uitsluitingsclausule voor echtscheidingsconflicten. De medewerker (Leyla) heeft de beller NIET geverifieerd in het systeem, geen inhoudelijk advies gegeven over de polisvoorwaarden, maar afgesproken vandaag nog terug te bellen na eigen onderzoek van de polis.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -122,24 +122,25 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "10:33 Verzekeringaanvraag: Medewerker herkende correct dat het onderwerp buiten de juridische helpdesk valt en verwees door naar verzekeringafdeling (optie 3).",
-      "11:06 Huurwoning lekkage: Identiteit correct geverifieerd (postcode + naam), inhoudelijk advies gegeven (ingebrekenstelling per mail met concrete termijn van twee weken), passende vervolgstappen benoemd.",
-      "11:48 Zaaksovergang Brandmeester: Medewerker beloofde e-mailbevestiging met dossiernummer, waarmee een vervolgplan werd afgesproken ondanks niet-verificatie."
+      "10:33 Verzekeringaanvraag: Juiste doorverwijzing naar verzekeringsteam; medewerker erkent grenzen van juridische helpdesk",
+      "11:06 Huurwoning lekkage: Identiteit geverifieerd (postcode + naam), inhoudelijk juridisch advies gegeven met concrete stappen (ingebrekenstelling per mail, twee weken termijn, referentie contract)",
+      "11:48 Zaaksovergang Brandmeester: Medewerker erkent dat zaak te complex is geworden en verwijst terecht door; belooft vervolgcommunicatie met dossiernummer per e-mail"
     ],
     "beter": [
-      "11:45 Energiecontract: KRITIEK — Identiteit niet geverifieerd voordat inhoudelijk advies werd gegeven over doorverwijzing naar ProMeester. Beller belde namens vader; geen Zoho-match en geen verificatiepoging in transcript opgenomen.",
-      "11:48 Zaaksovergang Brandmeester: Vervolgplan (e-mailbevestiging) is vag. Deadline voor terugbellen niet concreet benoemd (\"zodra Brandmeester de zaak overneemt\" is onvoldoende); beller Leila had dezelfde dag direct geverifieerd moeten worden.",
-      "12:26 Brandmeester dekking: Beller niet geverifieerd in systeem en geen concrete deadline afgesproken voor terugbellen (\"dezelfde dag\" is niet concreet genoeg — welk uur?). Medewerker Leyla zei polisvoorwaarden te moeten raadplegen maar dit bleef onduidelijk: moet beller zelf nog informatie aanleveren of is dit zuiver intern?"
+      "11:45 Energiecontract: Ernstig kwaliteitsprobleem - beller is NIET geverifieerd in systeem (belt namens vader), maar medewerker geeft desondanks inhoudelijk advies over doorverwijzing. Polis/identiteit moet eerst geverifieerd worden voordat advies volgt. Vervolgplan niet duidelijk: wanneer wordt de vader persoonlijk gebeld voor verificatie?",
+      "11:48 Zaaksovergang: Medewerker heeft beller NIET geverifieerd (geen Zoho-match vermeld, geen verificatiepoging in transcript). Bij schadevergoedingszaken moet polis altijd worden gecontroleerd. Deadline voor e-mailbevestiging met dossiernummer is niet concreet benoemd (wanneer precies?)",
+      "12:26 Brandmeester dekking weigering: Kritieke verzuimen - beller NIET geverifieerd in systeem, geen inhoudelijk advies gegeven over polisvoorwaarden/uitsluitingsclausule ondanks klacht daarover. Vervolgplan (terugbellen vandaag) is gegeven maar GEEN CONCRETE TIJD afgesproken - 'vandaag nog' is onvoldoende. Beller weet niet wanneer terug te verwachten telefoontje",
+      "12:26 Herhaalcontact risico ongedetecteerd: Beller belt over Brandmeester-weigering (11:45 was ook Brandmeester-doorverwijzing) - geen notitie dat dit hetzelfde dossier kan zijn; verificatie zou dit hebben opgemerkt"
     ]
   },
   "verkeerdVerbonden": {
-    "aantal": 2,
-    "percentage": 40.0
+    "aantal": 1,
+    "percentage": 20.0
   },
   "rechtsbijstandVerwijzingen": 2,
   "categorieen": [
     [
-      "Bestuursrecht (leerlingenvervoer/gemeente)",
+      "Bestuursrecht (beroep tegen gemeente)",
       1
     ],
     [
@@ -151,7 +152,7 @@
       1
     ],
     [
-      "Routering",
+      "Geschil met reisagent / schadevergoeding",
       1
     ],
     [
