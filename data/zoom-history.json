@@ -9882,14 +9882,30 @@
         "uitgaand": 1
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31616910648",
+        "teruggebeld": false,
+        "tijd": "11:43"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-20",
-    "generated_at": "2026-11-20T10:40:37Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-11-20T10:44:11Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31616910648",
+        "teruggebeld": false,
+        "tijd": "11:43"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 4
+    "totaalGemist": 1,
+    "totaalInbound": 5
   }
 }
