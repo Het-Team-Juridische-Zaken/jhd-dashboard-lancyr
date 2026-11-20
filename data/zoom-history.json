@@ -9878,14 +9878,14 @@
       },
       "Ne-yadey van Duiven": {
         "beantwoord": 1,
-        "gesprekstijdSec": 183,
-        "uitgaand": 0
+        "gesprekstijdSec": 303,
+        "uitgaand": 1
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-20",
-    "generated_at": "2026-11-20T10:00:51Z",
+    "generated_at": "2026-11-20T10:10:03Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
