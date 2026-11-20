@@ -9889,12 +9889,26 @@
         "nummer": "+31616910648",
         "teruggebeld": false,
         "tijd": "11:43"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31616098345",
+        "teruggebeld": false,
+        "tijd": "12:51"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31657841786",
+        "teruggebeld": false,
+        "tijd": "12:51"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-20",
-    "generated_at": "2026-11-20T11:50:36Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-20T11:53:56Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "abandoned",
@@ -9902,10 +9916,24 @@
         "nummer": "+31616910648",
         "teruggebeld": false,
         "tijd": "11:43"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31616098345",
+        "teruggebeld": false,
+        "tijd": "12:51"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31657841786",
+        "teruggebeld": false,
+        "tijd": "12:51"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 8
+    "totaalGemist": 3,
+    "totaalInbound": 10
   }
 }

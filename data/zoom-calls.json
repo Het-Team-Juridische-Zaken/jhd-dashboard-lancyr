@@ -1,15 +1,29 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-20T11:50:36Z",
-  "totaalInbound": 8,
-  "totaalGemist": 1,
+  "generated_at": "2026-11-20T11:53:56Z",
+  "totaalInbound": 10,
+  "totaalGemist": 3,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 3,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31616910648",
       "naam": "Onbekend",
       "tijd": "11:43",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31616098345",
+      "naam": "Onbekend",
+      "tijd": "12:51",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31657841786",
+      "naam": "Onbekend",
+      "tijd": "12:51",
       "callResult": "abandoned",
       "teruggebeld": false
     }
@@ -19,6 +33,20 @@
       "nummer": "+31616910648",
       "naam": "Onbekend",
       "tijd": "11:43",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31616098345",
+      "naam": "Onbekend",
+      "tijd": "12:51",
+      "callResult": "abandoned",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31657841786",
+      "naam": "Onbekend",
+      "tijd": "12:51",
       "callResult": "abandoned",
       "teruggebeld": false
     }
