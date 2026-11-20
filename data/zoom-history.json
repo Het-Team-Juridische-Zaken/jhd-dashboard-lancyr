@@ -9875,16 +9875,21 @@
         "beantwoord": 2,
         "gesprekstijdSec": 370,
         "uitgaand": 2
+      },
+      "Ne-yadey van Duiven": {
+        "beantwoord": 1,
+        "gesprekstijdSec": 183,
+        "uitgaand": 0
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-20",
-    "generated_at": "2026-11-20T08:54:08Z",
+    "generated_at": "2026-11-20T09:00:58Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 2
+    "totaalInbound": 3
   }
 }
