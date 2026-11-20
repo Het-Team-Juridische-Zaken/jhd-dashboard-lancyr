@@ -9872,19 +9872,19 @@
   "2026-11-20": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 1,
-        "gesprekstijdSec": 295,
+        "beantwoord": 2,
+        "gesprekstijdSec": 370,
         "uitgaand": 2
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-20",
-    "generated_at": "2026-11-20T08:23:34Z",
+    "generated_at": "2026-11-20T08:30:46Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 1
+    "totaalInbound": 2
   }
 }
