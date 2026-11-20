@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-19",
+  "kandidaten": 1,
+  "generated_at": "2026-11-20T14:01:52Z",
+  "drukte": "rustig",
+  "gesprekken": 1,
+  "stats": {
+    "opgelost": 0,
+    "brandmeester": 0,
+    "afkoop": 0,
+    "terugbel": 0,
+    "geenDekking": 0,
+    "verkeerdNummer": 1
+  },
+  "score": 5.8,
+  "conversations": [
+    {
+      "tijd": "13:40",
+      "titel": "Juridische hulp bij verkeersongeval met Rick Kramer",
+      "personen": "Verzekerde: anoniem · Ne-Yadey van Duiven | Juridische Helpdeskmedewerker",
+      "samenvatting": "Dit transcript bevat drie afzonderlijke gesprekken. Het eerste gesprek: Rick Kramer belt over een verkeersongeval met een geleende auto, maar blijkt een autoverzekeringsvraag te hebben; de medewerker (JD) kon de beller niet verifiëren in het systeem en verwees hem door naar het juiste menu (optie 3) voor autoverzekeringen – geen juridisch advies gegeven, verkeerd verbonden naar juridische helpdesk. Het tweede gesprek: Chantal King-Nikoffel belt over een strafzaak (rijbewijsinvordering, AMS-vordering, voorvoeging bij rechtbank); de medewerker (Nijeli) verifieerde de beller via postcode en naam, erkende dat dit buiten de eerste lijn valt, en verwees expliciet door naar Brandmeester – wel geverifieerd, wel rechtsbijstand_verwijzing. Het derde gesprek: fragment van een derde beller over postcode 2993 AS met voornaam beginnend met C-E-S-A, maar transcript breekt ab medio af.",
+      "tags": [
+        [
+          "tag-overig",
+          "Routering"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-verkeerd",
+        "Verkeerd nummer"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": true,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
+    }
+  ],
+  "acties": [],
+  "analyse": {
+    "goed": [
+      "13:40 Rick Kramer (verkeersongeval): Medewerker JD erkende correct dat autoverzekeringsvraag niet in juridische helpdesk thuishoort en verwees door naar correct menu (optie 3) – geen juridisch advies gegeven zonder verificatie.",
+      "13:40 Chantal King-Nikoffel (strafzaak): Medewerker Nijeli voerde identiteitsverificatie uit (postcode + naam) en erkende dat rijbewijsinvordering/AMS-vordering buiten eerste lijn valt – expliciet doorverwijzing naar Brandmeester met juiste handeling.",
+      "Doorverwijzingen gebeurden op inhoudelijke gronden (bevoegdheid/complexiteit) in plaats van onzorgvuldig door te schakelen."
+    ],
+    "beter": [
+      "13:40 Rick Kramer (verkeersongeval): Beller kwam via verkeerd kanaal binnen (juridische helpdesk ipv autoverzekeringslijn); geen vervolgafspraak of concrete deadline vastgelegd voor beller om zelf option 3 te selecteren – vervolgcommunicatie onduidelijk.",
+      "13:40 Chantal King-Nikoffel (strafzaak): Verificatie via postcode + naam is aanwezig maar minimaal; geen verificatie van polisnummer of andere polis-identifiers vastgelegd voordat doorverwijzing plaatsvond – standaardprotocol onvolledig.",
+      "13:40 Derde gesprek (postcode 2993 AS, voornaam C-E-S-A): Transcript breekt ab medio af – vervolgstappen, identiteitsverificatie en vervolgplan ontbreken geheel; onmogelijk om kwaliteit van dit contact te beoordelen."
+    ]
+  },
+  "verkeerdVerbonden": {
+    "aantal": 1,
+    "percentage": 100.0
+  },
+  "rechtsbijstandVerwijzingen": 0,
+  "categorieen": [
+    [
+      "Routering",
+      1
+    ]
+  ]
+}
