@@ -9873,8 +9873,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 3,
-        "gesprekstijdSec": 1337,
-        "uitgaand": 4
+        "gesprekstijdSec": 1520,
+        "uitgaand": 5
       },
       "Ne-yadey van Duiven": {
         "beantwoord": 1,
@@ -9893,7 +9893,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-20",
-    "generated_at": "2026-11-20T10:44:11Z",
+    "generated_at": "2026-11-20T10:50:34Z",
     "nietTerugGebeld": 1,
     "nietTerugGebeldNummers": [
       {
