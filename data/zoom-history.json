@@ -9998,12 +9998,19 @@
         "nummer": "+31648740390",
         "teruggebeld": false,
         "tijd": "09:30"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31618893001",
+        "teruggebeld": false,
+        "tijd": "12:15"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-23",
-    "generated_at": "2026-11-23T11:20:45Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-23T11:24:09Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -10018,10 +10025,17 @@
         "nummer": "+31648740390",
         "teruggebeld": false,
         "tijd": "09:30"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31618893001",
+        "teruggebeld": false,
+        "tijd": "12:15"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 9
+    "totaalGemist": 3,
+    "totaalInbound": 10
   }
 }
