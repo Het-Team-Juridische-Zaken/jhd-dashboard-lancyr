@@ -1,15 +1,22 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T08:40:36Z",
-  "totaalInbound": 4,
-  "totaalGemist": 1,
+  "generated_at": "2026-11-23T08:44:51Z",
+  "totaalInbound": 5,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31685249723",
       "naam": "Onbekend",
       "tijd": "09:26",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31648740390",
+      "naam": "Onbekend",
+      "tijd": "09:30",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -19,6 +26,13 @@
       "nummer": "+31685249723",
       "naam": "Onbekend",
       "tijd": "09:26",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31648740390",
+      "naam": "Onbekend",
+      "tijd": "09:30",
       "callResult": "overflowed",
       "teruggebeld": false
     }

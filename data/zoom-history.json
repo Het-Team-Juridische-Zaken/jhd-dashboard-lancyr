@@ -9991,12 +9991,19 @@
         "nummer": "+31685249723",
         "teruggebeld": false,
         "tijd": "09:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31648740390",
+        "teruggebeld": false,
+        "tijd": "09:30"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-23",
-    "generated_at": "2026-11-23T08:40:36Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-23T08:44:51Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -10004,10 +10011,17 @@
         "nummer": "+31685249723",
         "teruggebeld": false,
         "tijd": "09:26"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31648740390",
+        "teruggebeld": false,
+        "tijd": "09:30"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 4
+    "totaalGemist": 2,
+    "totaalInbound": 5
   }
 }
