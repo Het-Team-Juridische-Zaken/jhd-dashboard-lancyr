@@ -1,17 +1,33 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T08:30:47Z",
-  "totaalInbound": 2,
-  "totaalGemist": 0,
+  "generated_at": "2026-11-23T08:39:12Z",
+  "totaalInbound": 4,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31685249723",
+      "naam": "Onbekend",
+      "tijd": "09:26",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31685249723",
+      "naam": "Onbekend",
+      "tijd": "09:26",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 2,
+      "beantwoord": 3,
       "uitgaand": 0,
-      "gesprekstijdSec": 872
+      "gesprekstijdSec": 1470
     }
   },
   "beantwoordZonderAgent": 0

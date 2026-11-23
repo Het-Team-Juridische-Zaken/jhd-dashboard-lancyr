@@ -9979,19 +9979,35 @@
   "2026-11-23": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 872,
+        "beantwoord": 3,
+        "gesprekstijdSec": 1470,
         "uitgaand": 0
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31685249723",
+        "teruggebeld": false,
+        "tijd": "09:26"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-23",
-    "generated_at": "2026-11-23T08:30:47Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-11-23T08:39:12Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31685249723",
+        "teruggebeld": false,
+        "tijd": "09:26"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 2
+    "totaalGemist": 1,
+    "totaalInbound": 4
   }
 }
