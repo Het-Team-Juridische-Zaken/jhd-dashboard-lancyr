@@ -1,107 +1,12 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T17:50:40Z",
-  "totaalInbound": 18,
-  "totaalGemist": 6,
-  "terugGebeld": 1,
-  "nietTerugGebeld": 5,
-  "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31616910648",
-      "naam": "Onbekend",
-      "tijd": "11:43",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31616098345",
-      "naam": "Onbekend",
-      "tijd": "12:51",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31657841786",
-      "naam": "Onbekend",
-      "tijd": "12:51",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31653897806",
-      "naam": "Onbekend",
-      "tijd": "16:54",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31685503194",
-      "naam": "Onbekend",
-      "tijd": "17:46",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    }
-  ],
-  "alleGemistNummers": [
-    {
-      "nummer": "+31616910648",
-      "naam": "Onbekend",
-      "tijd": "11:43",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31616098345",
-      "naam": "Onbekend",
-      "tijd": "12:51",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31657841786",
-      "naam": "Onbekend",
-      "tijd": "12:51",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31640260342",
-      "naam": "Onbekend",
-      "tijd": "14:01",
-      "callResult": "abandoned",
-      "teruggebeld": true
-    },
-    {
-      "nummer": "+31653897806",
-      "naam": "Onbekend",
-      "tijd": "16:54",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31685503194",
-      "naam": "Onbekend",
-      "tijd": "17:46",
-      "callResult": "abandoned",
-      "teruggebeld": false
-    }
-  ],
-  "agenten": {
-    "Ne-yadey van Duiven": {
-      "beantwoord": 6,
-      "uitgaand": 2,
-      "gesprekstijdSec": 1815
-    },
-    "Leyla Pereira": {
-      "beantwoord": 6,
-      "uitgaand": 11,
-      "gesprekstijdSec": 4144
-    },
-    "Dewi Verver": {
-      "beantwoord": 0,
-      "uitgaand": 3,
-      "gesprekstijdSec": 278
-    }
-  },
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T05:12:07Z",
+  "totaalInbound": 0,
+  "totaalGemist": 0,
+  "terugGebeld": 0,
+  "nietTerugGebeld": 0,
+  "nietTerugGebeldNummers": [],
+  "alleGemistNummers": [],
+  "agenten": {},
   "beantwoordZonderAgent": 0
 }
