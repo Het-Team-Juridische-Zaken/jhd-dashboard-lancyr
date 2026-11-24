@@ -10167,6 +10167,13 @@
         "tijd": "13:17"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31618847473",
+        "teruggebeld": false,
+        "tijd": "13:40"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31657731312",
@@ -10176,8 +10183,8 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-24",
-    "generated_at": "2026-11-24T12:45:59Z",
-    "nietTerugGebeld": 18,
+    "generated_at": "2026-11-24T12:50:34Z",
+    "nietTerugGebeld": 19,
     "nietTerugGebeldNummers": [
       {
         "callResult": "voicemail",
@@ -10299,6 +10306,13 @@
         "tijd": "13:17"
       },
       {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31618847473",
+        "teruggebeld": false,
+        "tijd": "13:40"
+      },
+      {
         "callResult": "abandoned",
         "naam": "Onbekend",
         "nummer": "+31657731312",
@@ -10307,7 +10321,7 @@
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 18,
-    "totaalInbound": 19
+    "totaalGemist": 19,
+    "totaalInbound": 20
   }
 }
