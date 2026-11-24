@@ -10193,12 +10193,19 @@
         "nummer": "+31614359374",
         "teruggebeld": false,
         "tijd": "14:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31686279857",
+        "teruggebeld": false,
+        "tijd": "15:28"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-24",
-    "generated_at": "2026-11-24T14:35:50Z",
-    "nietTerugGebeld": 21,
+    "generated_at": "2026-11-24T14:40:37Z",
+    "nietTerugGebeld": 22,
     "nietTerugGebeldNummers": [
       {
         "callResult": "voicemail",
@@ -10346,10 +10353,17 @@
         "nummer": "+31614359374",
         "teruggebeld": false,
         "tijd": "14:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31686279857",
+        "teruggebeld": false,
+        "tijd": "15:28"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 21,
-    "totaalInbound": 23
+    "totaalGemist": 22,
+    "totaalInbound": 24
   }
 }
