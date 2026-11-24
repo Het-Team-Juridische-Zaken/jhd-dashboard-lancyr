@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T15:36:08Z",
-  "totaalInbound": 27,
-  "totaalGemist": 22,
+  "generated_at": "2026-11-24T15:40:36Z",
+  "totaalInbound": 29,
+  "totaalGemist": 23,
   "terugGebeld": 0,
-  "nietTerugGebeld": 22,
+  "nietTerugGebeld": 23,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31613991747",
@@ -158,6 +158,13 @@
       "naam": "Onbekend",
       "tijd": "15:28",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31615147713",
+      "naam": "Onbekend",
+      "tijd": "16:35",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -315,13 +322,20 @@
       "tijd": "15:28",
       "callResult": "overflowed",
       "teruggebeld": false
+    },
+    {
+      "nummer": "+31615147713",
+      "naam": "Onbekend",
+      "tijd": "16:35",
+      "callResult": "abandoned",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Dewi Verver": {
-      "beantwoord": 5,
+      "beantwoord": 6,
       "uitgaand": 0,
-      "gesprekstijdSec": 1287
+      "gesprekstijdSec": 1326
     }
   },
   "beantwoordZonderAgent": 0

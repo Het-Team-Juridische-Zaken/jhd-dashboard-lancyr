@@ -10041,8 +10041,8 @@
   "2026-11-24": {
     "agenten": {
       "Dewi Verver": {
-        "beantwoord": 5,
-        "gesprekstijdSec": 1287,
+        "beantwoord": 6,
+        "gesprekstijdSec": 1326,
         "uitgaand": 0
       }
     },
@@ -10200,12 +10200,19 @@
         "nummer": "+31686279857",
         "teruggebeld": false,
         "tijd": "15:28"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31615147713",
+        "teruggebeld": false,
+        "tijd": "16:35"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-24",
-    "generated_at": "2026-11-24T15:36:08Z",
-    "nietTerugGebeld": 22,
+    "generated_at": "2026-11-24T15:40:36Z",
+    "nietTerugGebeld": 23,
     "nietTerugGebeldNummers": [
       {
         "callResult": "voicemail",
@@ -10360,10 +10367,17 @@
         "nummer": "+31686279857",
         "teruggebeld": false,
         "tijd": "15:28"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31615147713",
+        "teruggebeld": false,
+        "tijd": "16:35"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 22,
-    "totaalInbound": 27
+    "totaalGemist": 23,
+    "totaalInbound": 29
   }
 }
