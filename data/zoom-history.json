@@ -10151,12 +10151,19 @@
         "nummer": "+31620536635",
         "teruggebeld": false,
         "tijd": "12:36"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31626271524",
+        "teruggebeld": false,
+        "tijd": "13:00"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-24",
-    "generated_at": "2026-11-24T12:00:52Z",
-    "nietTerugGebeld": 15,
+    "generated_at": "2026-11-24T12:10:37Z",
+    "nietTerugGebeld": 16,
     "nietTerugGebeldNummers": [
       {
         "callResult": "voicemail",
@@ -10262,10 +10269,17 @@
         "nummer": "+31620536635",
         "teruggebeld": false,
         "tijd": "12:36"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31626271524",
+        "teruggebeld": false,
+        "tijd": "13:00"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 15,
-    "totaalInbound": 16
+    "totaalGemist": 16,
+    "totaalInbound": 17
   }
 }

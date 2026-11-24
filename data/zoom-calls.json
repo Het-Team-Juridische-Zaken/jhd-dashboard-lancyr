@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T12:00:52Z",
-  "totaalInbound": 16,
-  "totaalGemist": 15,
+  "generated_at": "2026-11-24T12:10:37Z",
+  "totaalInbound": 17,
+  "totaalGemist": 16,
   "terugGebeld": 0,
-  "nietTerugGebeld": 15,
+  "nietTerugGebeld": 16,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31613991747",
@@ -109,6 +109,13 @@
       "naam": "Onbekend",
       "tijd": "12:36",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31626271524",
+      "naam": "Onbekend",
+      "tijd": "13:00",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -216,6 +223,13 @@
       "naam": "Onbekend",
       "tijd": "12:36",
       "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31626271524",
+      "naam": "Onbekend",
+      "tijd": "13:00",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
