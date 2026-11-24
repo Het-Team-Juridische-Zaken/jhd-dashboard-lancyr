@@ -1,16 +1,23 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T08:00:50Z",
-  "totaalInbound": 1,
-  "totaalGemist": 1,
+  "generated_at": "2026-11-24T08:10:38Z",
+  "totaalInbound": 2,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31613991747",
       "naam": "Onbekend",
       "tijd": "07:42",
       "callResult": "voicemail",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31624477766",
+      "naam": "Onbekend",
+      "tijd": "09:09",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
@@ -20,6 +27,13 @@
       "naam": "Onbekend",
       "tijd": "07:42",
       "callResult": "voicemail",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31624477766",
+      "naam": "Onbekend",
+      "tijd": "09:09",
+      "callResult": "abandoned",
       "teruggebeld": false
     }
   ],
