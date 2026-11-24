@@ -10179,12 +10179,19 @@
         "nummer": "+31657731312",
         "teruggebeld": false,
         "tijd": "13:42"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31618847473",
+        "teruggebeld": false,
+        "tijd": "14:11"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-24",
-    "generated_at": "2026-11-24T13:10:43Z",
-    "nietTerugGebeld": 19,
+    "generated_at": "2026-11-24T13:17:32Z",
+    "nietTerugGebeld": 20,
     "nietTerugGebeldNummers": [
       {
         "callResult": "voicemail",
@@ -10318,10 +10325,17 @@
         "nummer": "+31657731312",
         "teruggebeld": false,
         "tijd": "13:42"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31618847473",
+        "teruggebeld": false,
+        "tijd": "14:11"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 19,
-    "totaalInbound": 20
+    "totaalGemist": 20,
+    "totaalInbound": 21
   }
 }
