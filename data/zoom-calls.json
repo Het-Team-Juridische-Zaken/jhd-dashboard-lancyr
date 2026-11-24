@@ -1,62 +1,12 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T17:50:37Z",
-  "totaalInbound": 18,
-  "totaalGemist": 3,
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T05:10:53Z",
+  "totaalInbound": 0,
+  "totaalGemist": 0,
   "terugGebeld": 0,
-  "nietTerugGebeld": 3,
-  "nietTerugGebeldNummers": [
-    {
-      "nummer": "+31685249723",
-      "naam": "Onbekend",
-      "tijd": "09:26",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31648740390",
-      "naam": "Onbekend",
-      "tijd": "09:30",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31618893001",
-      "naam": "Onbekend",
-      "tijd": "12:15",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    }
-  ],
-  "alleGemistNummers": [
-    {
-      "nummer": "+31685249723",
-      "naam": "Onbekend",
-      "tijd": "09:26",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31648740390",
-      "naam": "Onbekend",
-      "tijd": "09:30",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    },
-    {
-      "nummer": "+31618893001",
-      "naam": "Onbekend",
-      "tijd": "12:15",
-      "callResult": "overflowed",
-      "teruggebeld": false
-    }
-  ],
-  "agenten": {
-    "Dewi Verver": {
-      "beantwoord": 15,
-      "uitgaand": 0,
-      "gesprekstijdSec": 3575
-    }
-  },
+  "nietTerugGebeld": 0,
+  "nietTerugGebeldNummers": [],
+  "alleGemistNummers": [],
+  "agenten": {},
   "beantwoordZonderAgent": 0
 }
