@@ -10039,7 +10039,13 @@
     "totaalInbound": 18
   },
   "2026-11-24": {
-    "agenten": {},
+    "agenten": {
+      "Dewi Verver": {
+        "beantwoord": 1,
+        "gesprekstijdSec": 535,
+        "uitgaand": 0
+      }
+    },
     "alleGemistNummers": [
       {
         "callResult": "voicemail",
@@ -10072,7 +10078,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-24",
-    "generated_at": "2026-11-24T09:01:02Z",
+    "generated_at": "2026-11-24T09:10:35Z",
     "nietTerugGebeld": 4,
     "nietTerugGebeldNummers": [
       {
@@ -10106,6 +10112,6 @@
     ],
     "terugGebeld": 0,
     "totaalGemist": 4,
-    "totaalInbound": 4
+    "totaalInbound": 5
   }
 }
