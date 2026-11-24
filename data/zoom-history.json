@@ -10116,12 +10116,19 @@
         "nummer": "+31645350002",
         "teruggebeld": false,
         "tijd": "11:23"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612798273",
+        "teruggebeld": false,
+        "tijd": "11:40"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-24",
-    "generated_at": "2026-11-24T10:44:07Z",
-    "nietTerugGebeld": 10,
+    "generated_at": "2026-11-24T10:50:34Z",
+    "nietTerugGebeld": 11,
     "nietTerugGebeldNummers": [
       {
         "callResult": "voicemail",
@@ -10192,10 +10199,17 @@
         "nummer": "+31645350002",
         "teruggebeld": false,
         "tijd": "11:23"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31612798273",
+        "teruggebeld": false,
+        "tijd": "11:40"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 10,
-    "totaalInbound": 11
+    "totaalGemist": 11,
+    "totaalInbound": 12
   }
 }

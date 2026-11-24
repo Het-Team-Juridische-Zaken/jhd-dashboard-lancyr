@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T10:44:07Z",
-  "totaalInbound": 11,
-  "totaalGemist": 10,
+  "generated_at": "2026-11-24T10:50:34Z",
+  "totaalInbound": 12,
+  "totaalGemist": 11,
   "terugGebeld": 0,
-  "nietTerugGebeld": 10,
+  "nietTerugGebeld": 11,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31613991747",
@@ -73,6 +73,13 @@
       "nummer": "+31645350002",
       "naam": "Onbekend",
       "tijd": "11:23",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31612798273",
+      "naam": "Onbekend",
+      "tijd": "11:40",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -145,6 +152,13 @@
       "nummer": "+31645350002",
       "naam": "Onbekend",
       "tijd": "11:23",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31612798273",
+      "naam": "Onbekend",
+      "tijd": "11:40",
       "callResult": "overflowed",
       "teruggebeld": false
     }
