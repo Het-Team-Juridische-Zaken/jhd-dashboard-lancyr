@@ -10165,12 +10165,19 @@
         "nummer": "+31681908151",
         "teruggebeld": false,
         "tijd": "13:17"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31657731312",
+        "teruggebeld": false,
+        "tijd": "13:42"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-24",
-    "generated_at": "2026-11-24T12:40:35Z",
-    "nietTerugGebeld": 17,
+    "generated_at": "2026-11-24T12:45:59Z",
+    "nietTerugGebeld": 18,
     "nietTerugGebeldNummers": [
       {
         "callResult": "voicemail",
@@ -10290,10 +10297,17 @@
         "nummer": "+31681908151",
         "teruggebeld": false,
         "tijd": "13:17"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31657731312",
+        "teruggebeld": false,
+        "tijd": "13:42"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 17,
-    "totaalInbound": 18
+    "totaalGemist": 18,
+    "totaalInbound": 19
   }
 }
