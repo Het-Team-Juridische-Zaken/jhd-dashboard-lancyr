@@ -10040,14 +10040,30 @@
   },
   "2026-11-24": {
     "agenten": {},
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "voicemail",
+        "naam": "Onbekend",
+        "nummer": "+31613991747",
+        "teruggebeld": false,
+        "tijd": "07:42"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-24",
-    "generated_at": "2026-11-24T06:47:07Z",
-    "nietTerugGebeld": 0,
-    "nietTerugGebeldNummers": [],
+    "generated_at": "2026-11-24T06:50:42Z",
+    "nietTerugGebeld": 1,
+    "nietTerugGebeldNummers": [
+      {
+        "callResult": "voicemail",
+        "naam": "Onbekend",
+        "nummer": "+31613991747",
+        "teruggebeld": false,
+        "tijd": "07:42"
+      }
+    ],
     "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 0
+    "totaalGemist": 1,
+    "totaalInbound": 1
   }
 }
