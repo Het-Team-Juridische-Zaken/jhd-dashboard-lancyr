@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T13:40:46Z",
-  "totaalInbound": 21,
-  "totaalGemist": 20,
+  "generated_at": "2026-11-24T13:43:42Z",
+  "totaalInbound": 22,
+  "totaalGemist": 21,
   "terugGebeld": 0,
-  "nietTerugGebeld": 20,
+  "nietTerugGebeld": 21,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31613991747",
@@ -143,6 +143,13 @@
       "nummer": "+31618847473",
       "naam": "Onbekend",
       "tijd": "14:11",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31614359374",
+      "naam": "Onbekend",
+      "tijd": "14:35",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -285,6 +292,13 @@
       "nummer": "+31618847473",
       "naam": "Onbekend",
       "tijd": "14:11",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31614359374",
+      "naam": "Onbekend",
+      "tijd": "14:35",
       "callResult": "overflowed",
       "teruggebeld": false
     }

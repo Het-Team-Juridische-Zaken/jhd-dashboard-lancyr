@@ -10186,12 +10186,19 @@
         "nummer": "+31618847473",
         "teruggebeld": false,
         "tijd": "14:11"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31614359374",
+        "teruggebeld": false,
+        "tijd": "14:35"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-24",
-    "generated_at": "2026-11-24T13:40:46Z",
-    "nietTerugGebeld": 20,
+    "generated_at": "2026-11-24T13:43:42Z",
+    "nietTerugGebeld": 21,
     "nietTerugGebeldNummers": [
       {
         "callResult": "voicemail",
@@ -10332,10 +10339,17 @@
         "nummer": "+31618847473",
         "teruggebeld": false,
         "tijd": "14:11"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31614359374",
+        "teruggebeld": false,
+        "tijd": "14:35"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 20,
-    "totaalInbound": 21
+    "totaalGemist": 21,
+    "totaalInbound": 22
   }
 }
