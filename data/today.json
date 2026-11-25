@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T08:53:58Z",
+  "generated_at": "2026-11-25T09:01:03Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
@@ -11,13 +11,13 @@
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 6.1,
+  "score": 6.8,
   "conversations": [
     {
       "tijd": "09:03",
       "titel": "VSO Senem",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Özgür belde met een afspraak over zijn arbeidsconflict: zijn werkgever ontslaagt 50 mensen en biedt hem een vertrekregeling met €750 voor juridische ondersteuning. Leyla (medewerker van Lancyr) verklaarde dat de verzekering arbeidsrecht dekt, maar verwees de beller door naar de rechtsbijstandsafdeling (Brandmeester/juristenteam) omdat de zaak complexe onderhandelingen en mogelijk UWV-procedures betreft. De beller is geverifieerd via automatische telefoonnummerkoppeling (Zoho), maar geen inhoudelijk juridisch advies is gegeven omdat de zaak voor verdere behandeling naar rechtsbijstand wordt gestuurd.",
+      "samenvatting": "Özgür belde met een afspraak over een arbeidsconflict: zijn werkgever ontslaagt 50 mensen en biedt hem een vertrekregeling aan, maar hij wil zijn rechten kennen en de overeenkomst laten controleren voordat hij tekent. De medewerker (Leyla) verificeerde hem automatisch via het systeem en gaf uitleg over verzekeringsdekking en doorverwijzingsmogelijkheden naar de rechtsbijstandsafdeling (Brandmeester), maar geen concreet juridisch advies over de arbeidsrechtelijke situatie zelf.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -38,11 +38,11 @@
       "tijd": "09:38",
       "titel": "Polisblad controle doorsturen Ameziane",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Vervolggesprek tussen Leila (medewerker) en Ameziane over eerder aangevraagde documenten voor polisblad-controle. De beller had stukken verstuurd, en Leila belooft deze door te nemen, te controleren of de zaak onder de dekking valt, en vervolgens per mail contact op te nemen met de uitkomst. Identiteit is niet expliciet geverifieerd in dit gesprek, en er is geen inhoudelijk juridisch advies gegeven, maar wel een vervolgafspraak gemaakt.",
+      "samenvatting": "Vervolggesprek tussen Leila (medewerker) en Ameziane over eerder opgevraagde gegevens/stukken die de beller heeft ingediend. Leila gaat het polisblad controleren om te bepalen of de zaak onder de dekking valt en zal dit per mail terugkoppelen; terugbellen afgesproken indien nodig. Identiteit is niet expliciet geverifieerd in dit transcript en er is geen inhoudelijk juridisch advies gegeven, alleen een vervolgstap afgesproken.",
       "tags": [
         [
           "tag-overig",
-          "Polisbladcontrole"
+          "Polisblad verificatie"
         ]
       ],
       "uitkomst": [
@@ -59,13 +59,14 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:03 VSO Senem: Identiteit correct geverifieerd via automatische telefoonnummerkoppeling (Zoho). Medewerker herkende dat zaak complex is en verwees terecht door naar rechtsbijstandsafdeling (Brandmeester) in plaats van inhoudelijk advies te geven zonder expertise.",
-      "09:03 VSO Senem: Dekking arbeidsrecht correct gecommuniceerd voordat doorverwijzing plaatsvond."
+      "09:03 VSO Senem: Identiteit correct geverifieerd via systeem voordat uitleg werd gegeven.",
+      "09:03 VSO Senem: Medewerker gaf duidelijke doorverwijzing naar gespecialiseerde afdeling (Brandmeester) voor arbeidsrechtelijk advies.",
+      "09:38 Polisblad controle: Vervolgstap (dekkingscontrole via polisblad) logisch afgesproken."
     ],
     "beter": [
-      "09:38 Polisblad controle Ameziane: Identiteit is niet expliciet geverifieerd in dit vervolggesprek. Ook al is dit een herhaalcontact, standaard moet worden bevestigd dat je met de juiste persoon spreekt voordat documenten en vervolgstappen worden besproken.",
-      "09:38 Polisblad controle Ameziane: Vervolgafspraak lacks concrete deadline. Medewerker belooft 'per mail contact op te nemen met uitkomst', maar geen specifieke datum/termijn is genoemd (bijv. 'binnen 3 werkdagen'). Dit maakt opvolging lastig.",
-      "09:38 Polisblad controle Ameziane: Geen dekkingscontrole-uitkomst vastgelegd in dit gesprek zelf. Medewerker stelt pas na afloop van het gesprek te bellen met resultaat, terwijl dit al in het gesprek kan gebeuren nu documenten bekend zijn."
+      "09:03 VSO Senem: Geen concrete deadline genoemd voor terugkoppeling of vervolgcontact met Brandmeester; beller blijft onzeker over timing.",
+      "09:38 Polisblad controle: Identiteit van Ameziane niet expliciet geverifieerd aan het begin van dit vervolggesprek – nodig voordat gegevens/stukken worden behandeld.",
+      "09:38 Polisblad controle: Geen concrete deadline gegeven voor mailterugkoppeling (bijvoorbeeld 'uiterlijk vrijdag 16:00') – te vaag 'per mail terugkoppelen'."
     ]
   },
   "verkeerdVerbonden": {
@@ -79,7 +80,7 @@
       1
     ],
     [
-      "Polisbladcontrole",
+      "Polisblad verificatie",
       1
     ]
   ]
