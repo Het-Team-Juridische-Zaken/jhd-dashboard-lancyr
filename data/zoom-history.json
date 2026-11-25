@@ -10384,8 +10384,8 @@
     "agenten": {
       "Leyla Pereira": {
         "beantwoord": 6,
-        "gesprekstijdSec": 3584,
-        "uitgaand": 6
+        "gesprekstijdSec": 3739,
+        "uitgaand": 7
       },
       "Ne-yadey van Duiven": {
         "beantwoord": 4,
@@ -10396,7 +10396,7 @@
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-25",
-    "generated_at": "2026-11-25T13:35:41Z",
+    "generated_at": "2026-11-25T13:40:37Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
