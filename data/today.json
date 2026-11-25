@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T09:10:48Z",
+  "generated_at": "2026-11-25T09:12:11Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
@@ -11,13 +11,13 @@
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 5.8,
+  "score": 7.8,
   "conversations": [
     {
       "tijd": "09:03",
       "titel": "VSO Senem",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Özgür belde met een afgesproken afspraak over zijn situatie: hij werkt 2 jaar in Nederland op bedrijfssponsoring, zijn bedrijf ontslaagt 50 mensen en hij is maandag als redundant verklaard. Hij wacht op een ontslagbesluit met een aanbod van €750 voor juridische ondersteuning. Leyla (medewerker van Lancyr) verklaarde dat zijn zaak onder rechtsbijstandsverzekering valt en stuurde een verzoek door naar de rechtsbijstandsafdeling (Brandmeester), omdat arbeidsconflicten altijd moeten worden doorverwezen; de beller is geverifieerd via automatische telefoonnummerkoppeling (Zoho), maar inhoudelijk juridisch advies is niet gegeven omdat de medewerker expliciet verklaarde geen ervaring te hebben en de zaak door moet naar specialisten.",
+      "samenvatting": "Özgür belde met juridische vragen over zijn arbeidsconflict: zijn werkgever ontslapt hem vanwege financiële problemen en biedt een schikkingsakkoord met €750 voor juridische ondersteuning. De medewerker (Leyla) verificeerde de beller automatisch via het systeem (Zoho-match op telefoonnummer) en gaf inhoudelijk advies over de verzekeringsdekking en opties (doorverwijzing naar Brandmeester/rechtsbijstandsafdeling versus particuliere advocaat). De zaak is naar de rechtsbijstandsafdeling doorverwezen voor verdere behandeling.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -31,18 +31,18 @@
       "terugbel": false,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
-      "adviesGegeven": false,
+      "adviesGegeven": true,
       "identiteitGeverifieerd": true
     },
     {
       "tijd": "09:38",
       "titel": "Polisblad controle doorsturen Ameziane",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Vervolggesprek met Ameziane over eerder aangevraagde documentatie (polisblad). De beller had stukken aangeleverd; medewerker Leila belooft deze na te lezen, te controleren of alles onder de dekking valt, en vervolgens per mail te berichten of het polisblad doorgestuurd kan worden. Identiteit is niet expliciet geverifieerd in dit transcript en er is geen Zoho-match; inhoudelijk juridisch advies is niet gegeven, alleen administratieve vervolgstappen zijn afgesproken.",
+      "samenvatting": "Vervolggesprek tussen Leila en Ameziane over eerder aangevraagde documentatie voor polisblad-controle. De beller heeft de stukken inmiddels verstuurd. Leila zal deze nalezen, controleren of de zaak onder de dekking valt, en per mail terugkomen met uitkomst; identiteit is niet expliciet geverifieerd in dit gesprek, maar dit is een vervolgcontact van twee weken eerder. Geen inhoudelijk juridisch advies gegeven in dit gesprek.",
       "tags": [
         [
           "tag-overig",
-          "Administratie/Polisbeheer"
+          "Polisblad verificatie"
         ]
       ],
       "uitkomst": [
@@ -59,14 +59,11 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:03 VSO Senem: Identiteit correct geverifieerd via Zoho-telefoonnummerkoppeling voordat medewerker handelde",
-      "09:03 VSO Senem: Medewerker handelde professioneel door arbeidsconflict bewust door te verwijzen naar specialisten (Brandmeester) vanwege eigen gebrek aan expertise",
-      "09:03 VSO Senem: Duidelijk vervolgplan afgesproken (doorverwijzing naar rechtsbijstandsafdeling)"
+      "09:03 VSO Senem: Identiteit correct geverifieerd via Zoho-match; inhoudelijk advies gegeven over dekking en vervolgstappen; passende doorverwijzing naar rechtsbijstandsafdeling.",
+      "09:38 Polisblad controle Ameziane: Medewerker handelt correct af als vervolgcontact (geen herverificatie nodig); duidelijk vervolgplan (nalezen stukken, dekkingscontrole, terugkomen per mail)."
     ],
     "beter": [
-      "09:38 Polisblad controle Ameziane: Identiteit van beller niet geverifieerd voordat vervolgstappen werden afgesproken – dit is een kritiekpunt; verifieer telefoonnummer, polis of naam/geboortedatum in Zoho",
-      "09:38 Polisblad controle Ameziane: Bij vervolgcontact ('terugbellen') geen concrete deadline vastgelegd – vervang 'we bellen terug' door 'ik bel u vrijdag 15:00 uur' of soortgelijk",
-      "09:38 Polisblad controle Ameziane: Herhaalcontact – controleer of deze beller eerder vandaag of gisteren al contact had; zo ja, noteer dit en zorg dat vervolgstappen sneller sluiten"
+      "09:38 Polisblad controle Ameziane: Geen concrete deadline genoemd voor terugbellen/e-mail. Zeg bijvoorbeeld: 'U hoort van mij uiterlijk vrijdag 16:00' om verwachting helder in te stellen en vervolgcontact te voorkomen."
     ]
   },
   "verkeerdVerbonden": {
@@ -80,7 +77,7 @@
       1
     ],
     [
-      "Administratie/Polisbeheer",
+      "Polisblad verificatie",
       1
     ]
   ]
