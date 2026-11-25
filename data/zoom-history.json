@@ -10388,19 +10388,19 @@
         "uitgaand": 6
       },
       "Ne-yadey van Duiven": {
-        "beantwoord": 2,
-        "gesprekstijdSec": 3041,
+        "beantwoord": 3,
+        "gesprekstijdSec": 3114,
         "uitgaand": 8
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-25",
-    "generated_at": "2026-11-25T11:09:55Z",
+    "generated_at": "2026-11-25T11:15:39Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 6
+    "totaalInbound": 7
   }
 }

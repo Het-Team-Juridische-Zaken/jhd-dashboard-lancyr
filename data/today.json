@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T11:10:39Z",
+  "generated_at": "2026-11-25T11:16:16Z",
   "drukte": "druk",
   "gesprekken": 6,
   "stats": {
@@ -11,13 +11,13 @@
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 7.8,
+  "score": 7.4,
   "conversations": [
     {
       "tijd": "09:03",
       "titel": "VSO Senem",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Özgür heeft een arbeidsconflict: zijn werkgever (met financiële problemen) ontslaat 50 mensen en biedt hem een afvoeringspakket aan. Hij wil onderhandelen over zijn sponsoring/visum-afhankelijkheid. De medewerker (Leyla) heeft zijn identiteit automatisch geverifieerd via telefoonnummer en geeft advies: de verzekering dekt rechtsbijstand (niet gespecialiseerd arbeidsrecht); hij kan kiezen tussen de verzekeraar (gratis, niet gegarandeerd specialist) of een privé-advocaat (€1.210, waarvan €750 van werkgever). Een vervolgverzoek wordt naar de rechtsbijstandsafdeling doorgestuurd voor beoordeling.",
+      "samenvatting": "Gesprek tussen Leyla van Lancer (HTJZ) en Özgür over arbeidsconflict: ontslag vanwege bedrijfsfinanciële problemen met UWV-procedure. Beller is geverifieerd via automatische telefoonnummerkoppeling (Zoho-contactmatch C. vanRhoon). Geen inhoudelijk juridisch advies gegeven; medewerker heeft zaak doorverwezen naar Brandmeester (rechtsbijstandsafdeling) voor verdere behandeling van onderhandelingen en mogelijk UWV-procedure.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -31,18 +31,18 @@
       "terugbel": false,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
-      "adviesGegeven": true,
+      "adviesGegeven": false,
       "identiteitGeverifieerd": true
     },
     {
       "tijd": "09:38",
       "titel": "Polisblad controle doorsturen Ameziane",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Vervolgcontact met beller Ameziane over een eerder ingediende dekkingsvraag. De beller had eerder documenten aangeleverd waarvan Leila (medewerker) zei deze door te sturen. Nu controleert Leila het polisblad omdat dit niet volledig in het systeem kon worden ingezien, en zal per e-mail terugkomen over of de zaak onder de dekking valt. De beller is niet geverifieerd in het systeem op dit moment, maar dit is een vervolgcontact met bekende beller; geen inhoudelijk juridisch advies is gegeven.",
+      "samenvatting": "Vervolggesprek tussen Leila (medewerker) en Ameziane over eerder opgevraagde documentatie voor polisblad-controle. Beller heeft documenten inmiddels verstuurd; medewerker gaat deze nalezen en bepalen of de zaak onder de dekking valt en doorgestuurd kan worden naar rechtsbijstand. Beller is niet formeel geverifieerd in dit gesprek (geen Zoho-match, geen verificatiepoging), maar dit is een vervolgcontact waarvan de identiteit al bekend is van twee weken eerder. Geen inhoudelijk juridisch advies gegeven, alleen toezegging tot vervolgactie.",
       "tags": [
         [
           "tag-overig",
-          "Polisblad verificatie"
+          "Polisblad-controle"
         ]
       ],
       "uitkomst": [
@@ -59,7 +59,7 @@
       "tijd": "09:49",
       "titel": "Motorschade garage ",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt namens haar zoon over motorschade bij een garage na installatie van downpipes. De motor is vastgelopen tijdens proefrit; garage claimt geen schuld, maar schade bedraagt minimaal EUR 5.000+ (tweedehands motorblok). Beller is geverifieerd via Zoho-match (automatische herkenning op telefoonnummer). Medewerker gaf inhoudelijk juridisch advies: ingebrekenstelling, controle bovenhag-aansluiting, eventueel externe deskundige, en toelichting over vervolgstappen.",
+      "samenvatting": "Beller belt namens haar zoon over motorschade bij een garage na installatie van downpipes: motor is vastgelopen tijdens proefrit, motorblok kapot (geschatte schade >€5.000). Medewerker gaf inhoudelijk juridisch advies over ingebrekesstelling, verificatie van garagelidmaatschap en mogelijk geschillencommissie. Beller is geverifieerd via Zoho-match (W.J.F.C. Glaser), maar dit betreft een zaak voor de zoon; advies gegeven over procedurestappen maar geen formele doorverwijzing naar rechtsbijstand.",
       "tags": [
         [
           "tag-consument",
@@ -80,11 +80,11 @@
       "tijd": "10:33",
       "titel": "Hypotheekprobleem ",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt over een hypotheekprobleem waarbij één van drie hypotheekdelen onverwacht in december afloopt, terwijl de anderen tot 2031 doorlopen; beller stelt dat de bank een eerdere verzoek om langere vaststellingsperiode niet heeft uitgevoerd. De medewerker heeft de beller geverifieerd via automatische herkenning (Zoho-koppeling), erkent dat het onderwerp buiten haar expertise valt, en spreekt af de beller vandaag terug te bellen na overleg met een collega. Geen inhoudelijk juridisch advies is gegeven.",
+      "samenvatting": "Beller belt over een hypotheekprobleem waarbij één deel van zijn drieledige hypotheek in december afloopt terwijl andere delen tot 2031 lopen; hij stelt dat hij om een langere vaststellingsperiode heeft gevraagd wat niet is ingewilligd en wacht op een AGF-verzoek. De medewerker (Leila) geeft toe dat dit buiten haar expertise valt en belooft dezelfde dag terug te bellen na overleg met een collega; beller is geverifieerd via automatische telefoonnummer-herkenning, maar geen inhoudelijk juridisch advies is gegeven.",
       "tags": [
         [
           "tag-overig",
-          "Hypotheekrecht"
+          "Hypotheekrecht/Financiering"
         ]
       ],
       "uitkomst": [
@@ -101,7 +101,7 @@
       "tijd": "10:41",
       "titel": "Gevolgschade dakkapel",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller Marieke Rinke (geverifieerd via postcode 1111 KK en adres) stelt juridische vragen over gevolgsschade aan de binnenkant van een dakkapel die door een ander bedrijf is afgewerkt, veroorzaakt door lekkage in de buitenkant die door Bouwadvies XL is geplaatst. De medewerker geeft inhoudelijk juridisch advies over schadeclaim, bewijsvoering, ingebrekenstelling en termijnstelling, en adviseert eerst het bedrijf in gebreke te stellen voordat verdere stappen worden ondernomen.",
+      "samenvatting": "Beller Marieke Rinke (geverifieerd via postcode 1111 KK en adres) stelt juridische vraag over gevolgschade aan dakkapel veroorzaakt door lekkage in onderdeel gemaakt door bouwbedrijf. Medewerker geeft inhoudelijk advies: eerst gevolgsschade bij bouwbedrijf claimen met bewijsmateriaal (foto's, facturen), eventueel ingebrekenstelling sturen met redelijke termijn (1-2 weken), en eerst gelegenheid geven tot reparatie voordat verdere stappen worden ondernomen.",
       "tags": [
         [
           "tag-bouw",
@@ -122,7 +122,7 @@
       "tijd": "11:30",
       "titel": "Commission settlement",
       "personen": "Verzekerde: R.J.H.M. Curvers · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller heeft eerder advies ontvangen over een commissiegeschil met zijn werkgever en heeft volgens vorige afspraken een herinnering verstuurd. Na meer dan 14 dagen geen respons van het bedrijf. De medewerker heeft de beller geverifieerd via het systeem (polis gevonden) en verwijst hem door naar de rechtsbijstandsafdeling voor verdere juridische ondersteuning van dit arbeidsconflict.",
+      "samenvatting": "De beller heeft een geschil met zijn werkgever over een uitbetaling van commissie. De medewerker heeft de beller geverifieerd via het systeem (Zoho-koppeling op telefoonnummer, polis gevonden) en vervolgens vastgesteld dat de verzekering rechtsbijstand dekt. Er is geen inhoudelijk juridisch advies gegeven, maar de medewerker heeft een doorverwijzing naar de rechtsbijstandsafdeling ingesteld, die contact zal opnemen binnen 5 dagen.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -136,22 +136,22 @@
       "terugbel": false,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
-      "adviesGegeven": true,
+      "adviesGegeven": false,
       "identiteitGeverifieerd": true
     }
   ],
   "acties": [],
   "analyse": {
     "goed": [
-      "09:03 VSO Senem: Identiteit automatisch geverifieerd, duidelijk advies gegeven over dekkingsopties (verzekeraar vs. privé-advocaat met kostenbijdrage), vervolgproces naar rechtsbijstandsafdeling duidelijk afgesproken.",
-      "09:49 Motorschade garage: Identiteit geverifieerd via Zoho-match, schadebedrag (€5.000+) duidelijk vastgelegd, inhoudelijk juridisch advies gegeven (ingebrekenstelling, deskundige), doorverwijzing naar Brandmeester geregeld.",
-      "10:33 Hypotheekprobleem: Identiteit correct geverifieerd, medewerker erkent expertise-grens, concrete afspraak gemaakt (vandaag terugbellen na overleg) in plaats van onverantwoord advies te geven.",
-      "10:41 Gevolgschade dakkapel: Identiteit geverifieerd (postcode + adres), duidelijk juridisch advies gegeven over schadeclaim en ingebrekenstelling, zaak telefonisch opgelost.",
-      "11:30 Commission settlement: Identiteit geverifieerd via systeem, vervolgstappen duidelijk (rechtsbijstandsafdeling), context van eerdere afspraken en herinnering goed geregistreerd."
+      "09:03 VSO Senem: Identiteit correct geverifieerd via telefoonnummerkoppeling, passende doorverwijzing naar rechtsbijstand voor complexe arbeidsrecht/UWV-zaak.",
+      "10:33 Hypotheekprobleem: Medewerker erkent terecht de grenzen van eigen expertise, belooft dezelfde dag terug te bellen na collegiale raadpleging.",
+      "10:41 Gevolgschade dakkapel: Identiteit geverifieerd, concreet juridisch advies gegeven (ingebrekenstelling, termijnstelling 1-2 weken, stappenplan duidelijk).",
+      "11:30 Commission settlement: Identiteit en polisstatus correct geverifieerd, doorverwijzing naar rechtsbijstand ingesteld met concrete deadline (5 dagen)."
     ],
     "beter": [
-      "09:38 Polisblad controle Ameziane: Dit is vervolgcontact met bekende biller, maar identiteit is NIET geverifieerd in het huidige systeem. Hoewel geen juridisch advies is gegeven, zou de medewerker voor volledigheid de identiteit moeten herbevestigen voordat documentenuitwisseling wordt voortgezet. Zorg dat bij vervolgcontacten altijd verificatie wordt herhaald, ook bij bekende bellers.",
-      "09:49 Motorschade garage: Dekkingscontrole (franchise EUR 250) is niet expliciet vastgelegd in de samenvatting. Bij schadebedrag €5.000+ moet altijd worden gecontroleerd of het bedrag boven de franchise valt en of het volledig onder de dekking valt."
+      "09:38 Polisblad controle Ameziane: Dit is een vervolgcontact, maar identiteit was niet opnieuw geverifieerd aan het begin van dit gesprek. Beste practice: bij vervolgcontacten altijd minimaal een korte verificatie uitvoeren (bijv. 'Mag ik even uw postcode bevestigen?') om zekerheid te hebben.",
+      "09:49 Motorschade garage: Advies gegeven voor zaak van zoon, maar beller zelf (moeder) is geverifieerd. Duidelijk vastleggen in dossier wie rechtsbewustzijn heeft en wie moet machtigen/ondertekenen. Geen dekkingscontrole (franchise EUR 250) vastgelegd ondanks schadebedrag >€5.000.",
+      "10:41 Gevolgschade dakkapel: Geen schadebedrag genoemd in dossier (wel schade aan dakkapel en reparatiekosten), geen formele dekkingscontrole (franchise EUR 250) gedocumenteerd voordat advies werd gegeven."
     ]
   },
   "verkeerdVerbonden": {
@@ -165,7 +165,7 @@
       2
     ],
     [
-      "Polisblad verificatie",
+      "Polisblad-controle",
       1
     ],
     [
@@ -173,7 +173,7 @@
       1
     ],
     [
-      "Hypotheekrecht",
+      "Hypotheekrecht/Financiering",
       1
     ],
     [
