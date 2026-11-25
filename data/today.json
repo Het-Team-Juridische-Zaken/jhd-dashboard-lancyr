@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T08:36:54Z",
+  "generated_at": "2026-11-25T08:40:42Z",
   "drukte": "rustig",
   "gesprekken": 1,
   "stats": {
@@ -11,13 +11,13 @@
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 8.5,
+  "score": 8.1,
   "conversations": [
     {
       "tijd": "09:03",
       "titel": "VSO Senem",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Özgür belde met een afspraak over een arbeidsconflict: hij is ontslagen bij zijn werkgever vanwege financiële problemen en ontvangt een onderhandelingsoffer met €750 voor juridische ondersteuning. De medewerker Leyla heeft geen directe juridisch advies gegeven, maar heeft de beller doorverwezen naar de rechtsbijstandsafdeling (Brandmeester/juristenteam van Lancyr) voor beoordeling van zijn zaak en onderhandeling. De identiteit van de beller is automatisch geverifieerd via telefoonnummer (Zoho-koppeling met contactpersoon C. vanRhoon).",
+      "samenvatting": "Özgür belde met een afspraak over een arbeidsconflict: zijn werkgever ontslaag hem wegens financiële problemen en biedt een ontslagregeling met €750 voor juridische bijstand. De medewerker Leyla (presentatierij suggereert dit) verklaarde dat de verzekering arbeidsrechtsbijstand dekt en stuurde de zaak door naar de rechtsbijstandsafdeling (Brandmeester/juristenteam) voor beoordeling van het ontslagbesluit en onderhandelingen, omdat Leyla zelf geen arbeidsrechtspecialist is. De beller werd geverifieerd via automatische telefoonnummerkoppeling (Zoho-contactpersoon bekend), maar kreeg geen inhoudelijk juridisch advies van Leyla zelf – alleen een doorverwijzing naar rechtsbijstand.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -28,7 +28,7 @@
         "outcome-brandmeester",
         "Doorverwezen naar Brandmeester"
       ],
-      "terugbel": false,
+      "terugbel": true,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
       "adviesGegeven": false,
@@ -38,12 +38,12 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:03 VSO Senem: Identiteit correct geverifieerd via Zoho-koppeling (telefoonnummer)",
-      "09:03 VSO Senem: Juiste triage uitgevoerd — arbeidsconflict met onderhandelingsoffer correct doorverwezen naar Brandmeester/juristenteam voor gespecialiseerde beoordeling",
-      "09:03 VSO Senem: Geen onbevoegd juridisch advies gegeven; passende handeling bij materie buiten standaard helpdesk-scope"
+      "09:03 VSO Senem: Identiteit correct geverifieerd via automatische telefoonnummerkoppeling (Zoho-contactpersoon); beller kon direct worden geholpen.",
+      "09:03 VSO Senem: Juiste triage uitgevoerd – zaak correct doorverwezen naar gespecialiseerd rechtsbijstandsteam (Brandmeester/juristenteam) omdat arbeidsrecht specialistische expertise vereist die Leyla zelf niet kon bieden.",
+      "09:03 VSO Senem: Passende dekking herkend – arbeidsrechtsbijstand is onder de polis gedekt, waardoor beller binnen het verzekeringsschema kan worden geholpen."
     ],
     "beter": [
-      "09:03 VSO Senem: Vervolgplan / concrete deadline voor contact met Brandmeester niet expliciet in samenvatting vermeld — zorg dat vervolgstap en timing altijd worden besproken en vastgelegd"
+      "09:03 VSO Senem: Geen concrete deadline of vervolgcontact-moment afgesproken met beller – onduidelijk wanneer Brandmeester contact opneemt of wanneer beller zelf mag volgen."
     ]
   },
   "verkeerdVerbonden": {
