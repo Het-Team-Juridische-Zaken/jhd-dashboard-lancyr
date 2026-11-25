@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T08:28:30Z",
+  "generated_at": "2026-11-25T08:30:50Z",
   "drukte": "rustig",
   "gesprekken": 1,
   "stats": {
@@ -11,13 +11,13 @@
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 7.8,
+  "score": 8.1,
   "conversations": [
     {
       "tijd": "09:03",
       "titel": "VSO Senem",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Özgür belde met een afgesproken vervolgafspraak over een redundantiebesluit van zijn werkgever. Hij ontvangt vandaag een aanbod en wil zijn rechten kennen, vooral rond onderhandelingen gezien zijn afhankelijkheid van bedrijfssponsoring voor zijn visum. Leyla (medewerker van Lancyr) verifieerde de beller automatisch via telefoonnummer/polis, gaf algemeen advies over verzekeringsdekking en doorverwijzingsmogelijkheden naar Brandmeester (rechtsbijstand), en zegde toe een verzoek in te dienen zonder al een concrete juridische analyse van het aanbod te geven.",
+      "samenvatting": "Özgür belde met een afspraak over een arbeidsconflict: zijn werkgever ontslaagt 50 werknemers en biedt hem een scheidingsregeling met €750 voor juridische ondersteuning, terwijl zijn visum afhankelijk is van zijn werkgever. De medewerker (Leyla) verklaarde dat zijn zaak onder de verzekeringsdekking valt en stuurde de zaak door naar de rechtsbijstandsafdeling (Brandmeester/juristenteam) voor verder onderzoek van de scheidingsregeling en onderhandelingen. De beller is automatisch geverifieerd via telefoonnummer (Zoho-match), en er is basisinformatie gegeven over dekkingsopties, maar geen diepgaand juridisch advies over de arbeidsrechtelijke positie zelf.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -28,23 +28,23 @@
         "outcome-brandmeester",
         "Doorverwezen naar Brandmeester"
       ],
-      "terugbel": true,
+      "terugbel": false,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
-      "adviesGegeven": true,
+      "adviesGegeven": false,
       "identiteitGeverifieerd": true
     }
   ],
   "acties": [],
   "analyse": {
     "goed": [
-      "09:03 VSO Senem: Identiteit correct geverifieerd via telefoonnummer/polis voordat advies werd gegeven",
-      "09:03 VSO Senem: Medewerker herkende passend dat zaak (arbeidsrecht + visumaspecten) buiten standaard verzekeringsscope valt en verwees door naar Brandmeester (rechtsbijstand)",
-      "09:03 VSO Senem: Vervolgafspraak was al gepland, medewerker sloot aan op bestaand contactmomenten en zegde vervolgstap (verzoekindienen) toe"
+      "09:03 VSO Senem: Identiteit correct geverifieerd via Zoho-telefoonnummer match",
+      "09:03 VSO Senem: Dekkingsbeoordeling uitgevoerd en bevestigd dat zaak onder verzekeringsdekking valt",
+      "09:03 VSO Senem: Passende doorverwijzing naar gespecialiseerd juristenteam (Brandmeester) voor arbeidsrechtelijke expertise en scheidingsonderhandelingen",
+      "09:03 VSO Senem: Medewerker (Leyla) heeft voorzichtig gebleven en geen overmatig juridisch advies gegeven buiten haar competentie"
     ],
     "beter": [
-      "09:03 VSO Senem: Geen concrete deadline genoemd voor de vervolgstap (verzoek indienen) – advies was 'algemeen' zonder datum waarbinnen medewerker het verzoek uitvoert of wanneer vervolgcontact plaatsvindt",
-      "09:03 VSO Senem: Geen concrete juridische analyse van het aanbod gegeven (begrijpelijk gezien complexiteit), maar ook geen duidelijke tussenstap/deadline vastgelegd voor wanneer Brandmeester contact zou opnemen of wanneer beller zelf contact moet opnemen"
+      "09:03 VSO Senem: Zorg voor concrete deadline/vervolgcontactmoment met beller wanneer Brandmeester-team contact opneemt – dit is niet expliciet genoemd en relevant gegeven de urgentie (werkgeverafhankelijk visum en scheidingsaanbod met beperkt juridisch budget)"
     ]
   },
   "verkeerdVerbonden": {
