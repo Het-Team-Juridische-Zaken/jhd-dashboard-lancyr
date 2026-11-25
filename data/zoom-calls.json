@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T13:54:09Z",
+  "generated_at": "2026-11-25T14:01:01Z",
   "totaalInbound": 10,
   "totaalGemist": 0,
   "terugGebeld": 0,
@@ -8,6 +8,11 @@
   "nietTerugGebeldNummers": [],
   "alleGemistNummers": [],
   "agenten": {
+    "Ne-yadey van Duiven": {
+      "beantwoord": 4,
+      "uitgaand": 9,
+      "gesprekstijdSec": 3371
+    },
     "Dewi Verver": {
       "beantwoord": 0,
       "uitgaand": 1,
@@ -17,11 +22,6 @@
       "beantwoord": 6,
       "uitgaand": 7,
       "gesprekstijdSec": 3739
-    },
-    "Ne-yadey van Duiven": {
-      "beantwoord": 4,
-      "uitgaand": 8,
-      "gesprekstijdSec": 3369
     }
   },
   "beantwoordZonderAgent": 0
