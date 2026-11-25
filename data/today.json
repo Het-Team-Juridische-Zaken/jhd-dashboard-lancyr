@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T09:12:11Z",
+  "generated_at": "2026-11-25T09:20:35Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
@@ -17,7 +17,7 @@
       "tijd": "09:03",
       "titel": "VSO Senem",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Özgür belde met juridische vragen over zijn arbeidsconflict: zijn werkgever ontslapt hem vanwege financiële problemen en biedt een schikkingsakkoord met €750 voor juridische ondersteuning. De medewerker (Leyla) verificeerde de beller automatisch via het systeem (Zoho-match op telefoonnummer) en gaf inhoudelijk advies over de verzekeringsdekking en opties (doorverwijzing naar Brandmeester/rechtsbijstandsafdeling versus particuliere advocaat). De zaak is naar de rechtsbijstandsafdeling doorverwezen voor verdere behandeling.",
+      "samenvatting": "Gesprek over arbeidsconflict: beller (Özgür) is ontslagen bij zijn werkgever vanwege financiële problemen en ontvangt een ontslagaanbod met €750 voor juridische bijstand. De medewerker (Leyla) verklaart dat de beller verzekerd is voor juridische ondersteuning en stuurt een verzoek door naar de rechtsbijstandsafdeling (Brandmeester) voor verdere behandeling van het onderhandelingsproces en mogelijke UWV-procedure. Identiteit is automatisch geverifieerd via telefoonnummer (Zoho-match); inhoudelijk juridisch advies is gegeven (dekking, opties voor rechtsbijstand).",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -38,11 +38,11 @@
       "tijd": "09:38",
       "titel": "Polisblad controle doorsturen Ameziane",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Vervolggesprek tussen Leila en Ameziane over eerder aangevraagde documentatie voor polisblad-controle. De beller heeft de stukken inmiddels verstuurd. Leila zal deze nalezen, controleren of de zaak onder de dekking valt, en per mail terugkomen met uitkomst; identiteit is niet expliciet geverifieerd in dit gesprek, maar dit is een vervolgcontact van twee weken eerder. Geen inhoudelijk juridisch advies gegeven in dit gesprek.",
+      "samenvatting": "Dit is een vervolggesprek tussen Leila (medewerker) en Ameziane. De beller had eerder documenten ingediend voor polisblad-controle; Leila belooft deze na te lezen, te controleren of de zaak onder de dekking valt, en vervolgens per mail contact op te nemen met het resultaat. De beller is niet geverifieerd in het systeem op dit moment, en er is geen inhoudelijk juridisch advies gegeven, alleen een belofte tot vervolgactie.",
       "tags": [
         [
           "tag-overig",
-          "Polisblad verificatie"
+          "Polisbeheer/Administratie"
         ]
       ],
       "uitkomst": [
@@ -59,11 +59,14 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:03 VSO Senem: Identiteit correct geverifieerd via Zoho-match; inhoudelijk advies gegeven over dekking en vervolgstappen; passende doorverwijzing naar rechtsbijstandsafdeling.",
-      "09:38 Polisblad controle Ameziane: Medewerker handelt correct af als vervolgcontact (geen herverificatie nodig); duidelijk vervolgplan (nalezen stukken, dekkingscontrole, terugkomen per mail)."
+      "09:03 VSO Senem: Identiteit correct geverifieerd via telefoonnummer (Zoho-match) voordat advies werd gegeven.",
+      "09:03 VSO Senem: Inhoudelijk juridisch advies gegeven over dekking voor rechtsbijstand en opties voor UWV-procedure.",
+      "09:03 VSO Senem: Zaak professioneel doorverwezen naar rechtsbijstandsafdeling (Brandmeester) met duidelijke vervolgstap.",
+      "09:38 Polisblad controle Ameziane: Medewerker handelt correct door geen inhoudelijk advies te geven zonder verificatie in het systeem.",
+      "09:38 Polisblad controle Ameziane: Duidelijk vervolgplan afgesproken: medewerker zal polisblad controleren en per mail contact opnemen met resultaat."
     ],
     "beter": [
-      "09:38 Polisblad controle Ameziane: Geen concrete deadline genoemd voor terugbellen/e-mail. Zeg bijvoorbeeld: 'U hoort van mij uiterlijk vrijdag 16:00' om verwachting helder in te stellen en vervolgcontact te voorkomen."
+      "09:38 Polisblad controle Ameziane: Geen concrete deadline benoemd voor het vervolgcontact per mail (wanneer mag de beller het resultaat verwachten?)."
     ]
   },
   "verkeerdVerbonden": {
@@ -77,7 +80,7 @@
       1
     ],
     [
-      "Polisblad verificatie",
+      "Polisbeheer/Administratie",
       1
     ]
   ]
