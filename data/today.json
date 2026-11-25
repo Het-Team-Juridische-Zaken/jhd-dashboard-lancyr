@@ -1,27 +1,60 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T08:14:18Z",
+  "generated_at": "2026-11-25T08:20:42Z",
   "drukte": "rustig",
-  "gesprekken": 0,
+  "gesprekken": 1,
   "stats": {
     "opgelost": 0,
-    "brandmeester": 0,
+    "brandmeester": 1,
     "afkoop": 0,
     "terugbel": 0,
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 0,
-  "conversations": [],
+  "score": 7.8,
+  "conversations": [
+    {
+      "tijd": "09:03",
+      "titel": "Arbeidsrechtelijk advies: ontslag en visa-afhankelijkheid met Özgür",
+      "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
+      "samenvatting": "Özgür, een migrant werkneming in Nederland met visa-sponsoring door zijn werkgever, belt in nadat hij is ontslagen in een massale afbouw (50 personen). Hij heeft een arbeidsrechtelijk geschil: ontslag zonder UWV-goedkeuring en visa-afhankelijkheid. De medewerker (Leyla van Lancer) verifieert niet expliciet via naam/adres/polis in het gesprek zelf, maar het systeem herkent hem automatisch op telefoonnummer (Zoho match C. vanRhoon). Geen inhoudelijk juridisch advies gegeven; in plaats daarvan wordt de zaak doorverwezen naar de Brandmeester-afdeling (rechtsbijstand) voor verdere behandeling, omdat de materie arbeidsrecht betreft en het gesprek voor het ontvangen van het daadwerkelijke ontslagtekst is.",
+      "tags": [
+        [
+          "tag-arbeidsrecht",
+          "Arbeidsrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-brandmeester",
+        "Doorverwezen naar Brandmeester"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": true,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": true
+    }
+  ],
   "acties": [],
   "analyse": {
-    "goed": [],
-    "beter": []
+    "goed": [
+      "09:03 Arbeidsrecht Özgür: Identiteit correct geverifieerd via telefoonnummer (Zoho match C. vanRhoon) – systeem erkende beller automatisch.",
+      "09:03 Arbeidsrecht Özgür: Juiste beslissing om zaak door te verwijzen naar Brandmeester-afdeling (rechtsbijstand) omdat arbeidsrecht specialistische behandeling vereist.",
+      "09:03 Arbeidsrecht Özgür: Geen onverantwoorde advies gegeven – medewerker hield focus op procedurestap (wachten ontslagtekst) en escalatie."
+    ],
+    "beter": [
+      "09:03 Arbeidsrecht Özgür: Geen concrete deadline of vervolgcontact afgesproken met Brandmeester-afdeling – samenvatting vermeldt alleen 'doorverwezen' zonder planning (verwachtingstermijn, contactmoment, dossierreferentie)."
+    ]
   },
   "verkeerdVerbonden": {
     "aantal": 0,
     "percentage": 0.0
   },
-  "rechtsbijstandVerwijzingen": 0,
-  "categorieen": []
+  "rechtsbijstandVerwijzingen": 1,
+  "categorieen": [
+    [
+      "Arbeidsrecht",
+      1
+    ]
+  ]
 }
