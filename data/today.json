@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T08:20:42Z",
+  "generated_at": "2026-11-25T08:28:30Z",
   "drukte": "rustig",
   "gesprekken": 1,
   "stats": {
@@ -15,9 +15,9 @@
   "conversations": [
     {
       "tijd": "09:03",
-      "titel": "Arbeidsrechtelijk advies: ontslag en visa-afhankelijkheid met Özgür",
+      "titel": "VSO Senem",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Özgür, een migrant werkneming in Nederland met visa-sponsoring door zijn werkgever, belt in nadat hij is ontslagen in een massale afbouw (50 personen). Hij heeft een arbeidsrechtelijk geschil: ontslag zonder UWV-goedkeuring en visa-afhankelijkheid. De medewerker (Leyla van Lancer) verifieert niet expliciet via naam/adres/polis in het gesprek zelf, maar het systeem herkent hem automatisch op telefoonnummer (Zoho match C. vanRhoon). Geen inhoudelijk juridisch advies gegeven; in plaats daarvan wordt de zaak doorverwezen naar de Brandmeester-afdeling (rechtsbijstand) voor verdere behandeling, omdat de materie arbeidsrecht betreft en het gesprek voor het ontvangen van het daadwerkelijke ontslagtekst is.",
+      "samenvatting": "Özgür belde met een afgesproken vervolgafspraak over een redundantiebesluit van zijn werkgever. Hij ontvangt vandaag een aanbod en wil zijn rechten kennen, vooral rond onderhandelingen gezien zijn afhankelijkheid van bedrijfssponsoring voor zijn visum. Leyla (medewerker van Lancyr) verifieerde de beller automatisch via telefoonnummer/polis, gaf algemeen advies over verzekeringsdekking en doorverwijzingsmogelijkheden naar Brandmeester (rechtsbijstand), en zegde toe een verzoek in te dienen zonder al een concrete juridische analyse van het aanbod te geven.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -28,22 +28,23 @@
         "outcome-brandmeester",
         "Doorverwezen naar Brandmeester"
       ],
-      "terugbel": false,
+      "terugbel": true,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
-      "adviesGegeven": false,
+      "adviesGegeven": true,
       "identiteitGeverifieerd": true
     }
   ],
   "acties": [],
   "analyse": {
     "goed": [
-      "09:03 Arbeidsrecht Özgür: Identiteit correct geverifieerd via telefoonnummer (Zoho match C. vanRhoon) – systeem erkende beller automatisch.",
-      "09:03 Arbeidsrecht Özgür: Juiste beslissing om zaak door te verwijzen naar Brandmeester-afdeling (rechtsbijstand) omdat arbeidsrecht specialistische behandeling vereist.",
-      "09:03 Arbeidsrecht Özgür: Geen onverantwoorde advies gegeven – medewerker hield focus op procedurestap (wachten ontslagtekst) en escalatie."
+      "09:03 VSO Senem: Identiteit correct geverifieerd via telefoonnummer/polis voordat advies werd gegeven",
+      "09:03 VSO Senem: Medewerker herkende passend dat zaak (arbeidsrecht + visumaspecten) buiten standaard verzekeringsscope valt en verwees door naar Brandmeester (rechtsbijstand)",
+      "09:03 VSO Senem: Vervolgafspraak was al gepland, medewerker sloot aan op bestaand contactmomenten en zegde vervolgstap (verzoekindienen) toe"
     ],
     "beter": [
-      "09:03 Arbeidsrecht Özgür: Geen concrete deadline of vervolgcontact afgesproken met Brandmeester-afdeling – samenvatting vermeldt alleen 'doorverwezen' zonder planning (verwachtingstermijn, contactmoment, dossierreferentie)."
+      "09:03 VSO Senem: Geen concrete deadline genoemd voor de vervolgstap (verzoek indienen) – advies was 'algemeen' zonder datum waarbinnen medewerker het verzoek uitvoert of wanneer vervolgcontact plaatsvindt",
+      "09:03 VSO Senem: Geen concrete juridische analyse van het aanbod gegeven (begrijpelijk gezien complexiteit), maar ook geen duidelijke tussenstap/deadline vastgelegd voor wanneer Brandmeester contact zou opnemen of wanneer beller zelf contact moet opnemen"
     ]
   },
   "verkeerdVerbonden": {
