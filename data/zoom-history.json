@@ -10389,23 +10389,23 @@
       },
       "Leyla Pereira": {
         "beantwoord": 10,
-        "gesprekstijdSec": 4528,
-        "uitgaand": 8
+        "gesprekstijdSec": 4633,
+        "uitgaand": 9
       },
       "Ne-yadey van Duiven": {
-        "beantwoord": 6,
-        "gesprekstijdSec": 5085,
+        "beantwoord": 7,
+        "gesprekstijdSec": 5320,
         "uitgaand": 11
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-25",
-    "generated_at": "2026-11-25T15:40:39Z",
+    "generated_at": "2026-11-25T15:44:08Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 16
+    "totaalInbound": 17
   }
 }
