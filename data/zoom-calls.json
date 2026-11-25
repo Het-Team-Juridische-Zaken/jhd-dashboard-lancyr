@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T09:43:45Z",
-  "totaalInbound": 2,
+  "generated_at": "2026-11-25T09:50:34Z",
+  "totaalInbound": 3,
   "totaalGemist": 0,
   "terugGebeld": 0,
   "nietTerugGebeld": 0,
@@ -9,9 +9,9 @@
   "alleGemistNummers": [],
   "agenten": {
     "Leyla Pereira": {
-      "beantwoord": 2,
+      "beantwoord": 3,
       "uitgaand": 4,
-      "gesprekstijdSec": 2042
+      "gesprekstijdSec": 2527
     },
     "Ne-yadey van Duiven": {
       "beantwoord": 0,
