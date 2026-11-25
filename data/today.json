@@ -1,23 +1,23 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T08:43:57Z",
+  "generated_at": "2026-11-25T08:50:56Z",
   "drukte": "rustig",
-  "gesprekken": 1,
+  "gesprekken": 2,
   "stats": {
     "opgelost": 0,
     "brandmeester": 1,
     "afkoop": 0,
-    "terugbel": 0,
+    "terugbel": 1,
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 8.1,
+  "score": 6.8,
   "conversations": [
     {
       "tijd": "09:03",
       "titel": "VSO Senem",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Özgür belde met een afspraak over een arbeidsconflict: hij wordt ontslagen via zijn werkgever en moet een schikkingsaanbod beoordelen. De medewerker Leyla heeft geen directe juridische analyse gegeven, maar verklaarde dat de zaak onder rechtsbijstand valt en diende een verzoek in bij de rechtsbijstandsafdeling (Brandmeester/juristenteam) voor verdere behandeling. De identiteit is automatisch geverifieerd via telefoonnummerkoppeling.",
+      "samenvatting": "Özgür belde met een afspraak voor juridisch advies over een arbeidsconflict: zijn werkgever (met financiële problemen) ontslaat 50 mensen en biedt hem een opzeggingsovereenkomst met €750 voor juridische bijstand. De beller is geverifieerd via Zoho (automatische herkenning op telefoonnummer). De medewerker (Leyla) gaf inhoudelijk advies over dekking en opties (verzekerde rechtsbijstand vs. externe specialist), en zal de zaak doorverwijzen naar de rechtsbijstandsafdeling voor verder onderzoek van de arbeidsovereenkomst en onderhandeling.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -28,22 +28,44 @@
         "outcome-brandmeester",
         "Doorverwezen naar Brandmeester"
       ],
-      "terugbel": true,
+      "terugbel": false,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
-      "adviesGegeven": false,
+      "adviesGegeven": true,
       "identiteitGeverifieerd": true
+    },
+    {
+      "tijd": "09:38",
+      "titel": "Polisblad controle doorsturen Ameziane",
+      "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
+      "samenvatting": "Vervolggesprek met Ameziane over eerder aangevraagde documenten (polisblad en stukken) die nu zijn ontvangen. Medewerker Leila bevestigt ontvangst van de mails en zegt deze door te zullen nemen en vervolgens per mail contact op te nemen over of de zaak onder de dekking valt en of doorsturen plaatsvindt. Identiteit is niet expliciet geverifieerd in het transcript en er is geen inhoudelijk juridisch advies gegeven.",
+      "tags": [
+        [
+          "tag-overig",
+          "Administratief vervolgcontact"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-terugbel",
+        "Terugbellen"
+      ],
+      "terugbel": true,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": false
     }
   ],
   "acties": [],
   "analyse": {
     "goed": [
-      "09:03 VSO Senem: Identiteit correct geverifieerd via telefoonnummerkoppeling (automatisch systeem)",
-      "09:03 VSO Senem: Juiste triage uitgevoerd — arbeidsconflict met schikkingsaanbod herkend als rechtsbijstandszaak en doorgezet naar Brandmeester/juristenteam",
-      "09:03 VSO Senem: Medewerker Leyla heeft geen onverantwoord advies gegeven; doorverwijzing naar bevoegd team is passend"
+      "09:03 VSO Senem: identiteit correct geverifieerd via Zoho (automatische herkenning telefoonnummer)",
+      "09:03 VSO Senem: inhoudelijk advies gegeven over dekking rechtsbijstand en vervolgstappen duidelijk benoemd (doorverwijzing naar rechtsbijstandsafdeling)",
+      "09:38 Polisblad controle Ameziane: medewerker biedt vervolgcommunicatie aan per mail met concrete evaluatiecriteria (dekking + doorsturen)"
     ],
     "beter": [
-      "09:03 VSO Senem: Geen concrete deadline of vervolgcontact vermeld — wenselijk om afroepmoment of verwachte reactietijd van Brandmeester/juristenteam af te spreken met de beller"
+      "09:38 Polisblad controle Ameziane: identiteit niet geverifieerd in transcript – bij vervolgcontact dient identiteitcontrole plaats te vinden voordat inhoudelijke beoordeling (dekking) wordt gedaan",
+      "09:38 Polisblad controle Ameziane: geen concrete deadline benoemd voor vervolgcontact per mail – voeg deadline toe (bijv. 'u hoort van ons binnen 3 werkdagen')"
     ]
   },
   "verkeerdVerbonden": {
@@ -54,6 +76,10 @@
   "categorieen": [
     [
       "Arbeidsrecht",
+      1
+    ],
+    [
+      "Administratief vervolgcontact",
       1
     ]
   ]
