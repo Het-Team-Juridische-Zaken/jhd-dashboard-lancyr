@@ -10388,8 +10388,8 @@
         "uitgaand": 1
       },
       "Leyla Pereira": {
-        "beantwoord": 6,
-        "gesprekstijdSec": 3964,
+        "beantwoord": 7,
+        "gesprekstijdSec": 4138,
         "uitgaand": 8
       },
       "Ne-yadey van Duiven": {
@@ -10401,11 +10401,11 @@
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-25",
-    "generated_at": "2026-11-25T14:43:52Z",
+    "generated_at": "2026-11-25T14:50:36Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 10
+    "totaalInbound": 11
   }
 }
