@@ -1,15 +1,15 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T17:42:09Z",
+  "generated_at": "2026-11-25T17:52:04Z",
   "drukte": "druk",
   "gesprekken": 15,
   "stats": {
     "opgelost": 1,
-    "brandmeester": 4,
+    "brandmeester": 3,
     "afkoop": 0,
     "terugbel": 6,
     "geenDekking": 0,
-    "verkeerdNummer": 4
+    "verkeerdNummer": 5
   },
   "score": 6.1,
   "conversations": [
@@ -17,7 +17,7 @@
       "tijd": "09:03",
       "titel": "VSO Senem",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Özgür belde met een afspraak over zijn arbeidssituatie: hij werkt 2 jaar in NL via bedrijfssponsoring, het bedrijf heeft financiële problemen en zegt hem maandag redundant te hebben verklaard. Hij ontvangt vandaag een aanbod en wil zijn onderhandelingspositie (vooral voor visa-sponsoring) kennen. Medewerker Leyla heeft de beller geverifieerd via Zoho (automatische herkenning op telefoonnummer) en gegeven inhoudelijk advies over de mogelijkheden (rechtsbijstand via verzekering gratis maar niet gegarandeerd specialist; betaalde advocaat €1.210; €750 van bedrijf kan daarvoor gebruikt worden). Vervolgens heeft zij aangegeven een verzoek door te sturen naar de rechtsbijstandsafdeling voor verder onderzoek van de arbeidsovereenkomst en vervolgproces.",
+      "samenvatting": "Özgür is een werknemer uit het buitenland met sponsorvisum die is ontslagen door zijn werkgever (financiële problemen, 50 mensen ontslagen). Hij ontvangt vandaag een redundantie-aanbod en wil weten welke rechten hij heeft onderhandelingen. De medewerker (Leyla) heeft zijn identiteit automatisch geverifieerd (Zoho-koppeling) en geeft inhoudelijk advies over de verzekeringsdekking en doorverwijzingsopties naar de Brandmeester voor arbeidsrechtsbijstand. Dit is een arbeidsconflict; de medewerker start de doorverwijzing naar de rechtsbijstandsafdeling voor verdere juridische ondersteuning van dit arbeidsrechtelijke geschil.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -38,11 +38,11 @@
       "tijd": "09:38",
       "titel": "Polisblad controle doorsturen Ameziane",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Vervolgcontact met Ameziane over eerder aangevraagde documentstukken voor polisblad-controle. De medewerker Leila zal de ingediende stukken nalezen, controleren of de zaak onder de dekking valt, en vervolgens per mail terugkoppeling geven over doorsturen of niet. De beller is niet geverifieerd in het systeem op dit moment, en er is geen inhoudelijk juridisch advies gegeven.",
+      "samenvatting": "Vervolgcontact met Ameziane over eerder aangeleverde documenten. De medewerker (Leila) belooft de stukken na te lezen, te controleren of ze onder de dekking vallen, en vervolgens per mail contact op te nemen over doorsturen of niet. Identiteit is niet expliciet geverifieerd in dit gesprek, maar dit is een vervolgcontact op eerdere afspraken. Geen inhoudelijk juridisch advies gegeven, alleen toezegging van vervolgacties.",
       "tags": [
         [
           "tag-overig",
-          "Administratie/Polisblad-controle"
+          "Polisblad verificatie"
         ]
       ],
       "uitkomst": [
@@ -59,20 +59,20 @@
       "tijd": "09:49",
       "titel": "Motorschade garage ",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt namens zoon over motorschade bij vakgarage na installatie downpipes: motor vast gelopen tijdens proefrit, motorblok kapot (geschat EUR 5.000+). Beller is geverifieerd via Zoho-contactmatch (W.J.F.C. Glaser). Medewerker gaf inhoudelijk juridisch advies: ingebrekenstelling opstellen, garage controleren op BOVAg-aansluiting, eventueel externe deskundige inschakelen, en leenauto-terugvorderingskwestie; doorverwijzing naar rechtsbijstand werd voorgesteld voor vervolgstappen indien garage niet positief reageert.",
+      "samenvatting": "Beller (moeder van autoeigenaar) belt over motorschade aan auto van zoon na werkzaamheden in garage. Motor vast gelopen na installatie downpipes; garage claimt dit niet hun schuld, beller verwacht vergoeding. Beller is geverifieerd via telefoonnummer (Zoho-match). Medewerker heeft inhoudelijk juridisch advies gegeven: ingebrekenstelling opstellen, termijn stellen (bijv. 14 dagen), garage controleren op branchevereniging-aansluiting, eventueel externe deskundige inschakelen, en duidelijk maken dat reparatiekosten voor garage zijn. Vervolgstap: format ingebrekenstelling opsturen en klant terugbellen na onderzoek of rechtsbijstand van toepassing is.",
       "tags": [
         [
           "tag-consument",
-          "Consumentenrecht"
+          "Consumentenrecht - Diensten/reparatie"
         ]
       ],
       "uitkomst": [
-        "outcome-brandmeester",
-        "Doorverwezen naar Brandmeester"
+        "outcome-terugbel",
+        "Terugbellen"
       ],
-      "terugbel": false,
+      "terugbel": true,
       "verkeerdVerbonden": false,
-      "rechtsbijstandVerwijzing": true,
+      "rechtsbijstandVerwijzing": false,
       "adviesGegeven": true,
       "identiteitGeverifieerd": true
     },
@@ -80,7 +80,7 @@
       "tijd": "10:33",
       "titel": "Hypotheekprobleem ",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt over een hypotheekgeschil met zijn bank: één deel van zijn hypotheek loopt af in december, terwijl andere delen tot 2031 doorlopen; beller stelt dat hij om vastgestelde rente had gevraagd wat niet is ingewilligd. Beller is geverifieerd via automatische telefoonnummer-herkenning (Zoho-koppeling met W.J.F.C. Glaser). De medewerker gaf geen inhoudelijk advies maar verklaarde de zaak buiten haar expertise te vallen en beloofde terugbel na intern overleg.",
+      "samenvatting": "Beller belt over hypotheekprobleem waarbij één deel van de hypotheek in december afloopt terwijl andere delen tot 2031 lopen; beller heeft verzoek voor AGF ingediend en claimt dat de bank zijn vervroegde aflossingswens niet heeft ingewilligd. Identiteit is geverifieerd via telefoonnummerkoppeling in Zoho. De medewerker gaf geen inhoudelijk advies maar verklaarde geen expertise te hebben en beloofde terugbel na overleg met collega.",
       "tags": [
         [
           "tag-overig",
@@ -101,7 +101,7 @@
       "tijd": "10:41",
       "titel": "Gevolgschade dakkapel",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller heeft een rechtsbijstandspolis en heeft schade aan een dakkapel die 9 jaar geleden is geplaatst. Door lekkage in de dakkapel (waarvan de buitenkant door bouwbedrijf 'Bouwadvies XL' is gemaakt) is gevolgsschade ontstaan aan de binnenkant die door een ander bedrijf is afgetimmerd. De medewerker gaf inhoudelijk juridisch advies over gevolgsschadeclaim: eerst contact met het bedrijf, foto's en facturen als bewijs verzamelen, en eventueel een ingebreken­stelling versturen met redelijke termijn (1-2 weken) voor reactie. De beller is geverifieerd via postcode en adres (1111 KK, Karel Karelstraat 18, achternaam Rinkema).",
+      "samenvatting": "De beller (Marieke Rinke, postcode 1111 KK, huisnummer 18) belt over gevolgsschade aan de binnenkant van een dakkapel die door een bouwbedrijf is geplaatst. De binnenkant was niet afgetimmerd door dit bedrijf, maar door een ander bedrijf; na een recente lekkage is er nu schade aan die binnenkant ontstaan. De medewerker gaf inhoudelijk juridisch advies over het claimen van gevolgsschade, het sturen van een ingebrekenstelling met foto's en facturen, en het eerst afwachten van het bedrijf voordat verdere stappen worden ondernomen. De identiteit van de beller is geverifieerd via postcode en huisnummer.",
       "tags": [
         [
           "tag-bouw",
@@ -122,7 +122,7 @@
       "tijd": "11:30",
       "titel": "Commission settlement",
       "personen": "Verzekerde: R.J.H.M. Curvers · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt terug over een eerdere zaak over commissie-regeling met zijn werkgever. Hij had eerder een herinnering verstuurd na HR-contact, maar ontvangt geen reactie. De medewerker verifieert de beller via het systeem (polis gevonden), beoordeelt dat rechtsbijstand nodig is, en verwijst de zaak door naar de rechtsbijstandsverzekeraar met het bericht dat deze binnen 5 dagen contact opneemt.",
+      "samenvatting": "Beller belt terug over een eerder gesloten ticket over commissiebetaling van werkgever. Beller heeft volgens vorig advies een eindherinnering verstuurd naar HR, maar kreeg na meer dan 14 dagen geen respons. De medewerker heeft de beller geverifieerd via het systeem (polis gevonden) en verwijst de zaak door naar de rechtsbijstandsverzekeraar omdat het een arbeidsconflict betreft; beller ontvangt binnen 5 dagen contact van de rechtsbijstandsafdeling.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -136,14 +136,14 @@
       "terugbel": false,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
-      "adviesGegeven": true,
+      "adviesGegeven": false,
       "identiteitGeverifieerd": true
     },
     {
       "tijd": "12:29",
       "titel": "Doorverwijzing klant naar auto-afdeling",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller belde de juridische helpdesk maar had een vraag over auto/kenteken. De medewerker (Monira) stelde vast dat het om een autoverzekeringszaak gaat, die niet onder de juridische helpdesk valt, en verwees de beller door naar de auto-afdeling (menu-optie 3). De beller is niet geverifieerd en er is geen inhoudelijk juridisch advies gegeven.",
+      "samenvatting": "Een klant belde de juridische helpdesk met een vraag over zijn auto. De medewerker stelde vast dat het onderwerp (autoverzekering/autodocumenten) niet onder de juridische afdeling valt en verwees de beller door naar de auto-afdeling (toets 3). Er is geen inhoudelijk juridisch advies gegeven en de identiteit van de beller is niet geverifieerd.",
       "tags": [
         [
           "tag-overig",
@@ -164,7 +164,7 @@
       "tijd": "14:15",
       "titel": "Polisaanvraag ",
       "personen": "Verzekerde: J. Havelaar · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller Albert Adams belt de juridische helpdesk met vragen over een polisaanvraag voor autoverzekering bij Lancyr. De medewerker stelt vast dat de beller bij het verkeerde nummer van de helpdesk is aangeland (juridische helpdesk in plaats van polisadministratie/klantenservice). De beller wordt niet geholpen en krijgt het advies opnieuw te bellen en een ander menu-item te kiezen.",
+      "samenvatting": "De beller Albert Adams belt de juridische helpdesk met vragen over een polisaanvraag voor autoverzekering (toevoeging tweede auto). De medewerker stelt vast dat de beller verkeerd is doorverbonden – hij had via keuzemenu-optie 3 bij de polisadministratie moeten uitkomen, niet bij de juridische helpdesk. Hoewel het systeem de beller automatisch herkende (Zoho-koppeling), is geen inhoudelijk juridisch advies gegeven; de medewerker geeft aan niet door te kunnen zetten en adviseert de beller opnieuw te bellen en de juiste menuoptie te kiezen.",
       "tags": [
         [
           "tag-overig",
@@ -185,7 +185,7 @@
       "tijd": "14:38",
       "titel": "Arbeidsconflict bij Liander: herplaatsing en rechtsbijstand",
       "personen": "Verzekerde: anoniem · Dewi Verver | Juridisch Medewerker",
-      "samenvatting": "Beller belt met een arbeidsconflict bij werkgever Liander: conflict met teamleider, beller heeft per mail aangegeven weg te willen gaan als teamleider niet vertrekt, werkgever wil beller uit team halen en naar andere functie herplaatsen. Beller is NIET geverifieerd in het systeem (geen Zoho-match, geen verificatiepoging in transcript). Medewerker Davy geeft wel inhoudelijk juridisch advies over arbeidsrecht (onbepaalde contract, herplaatsingsprocedure, ontbindingsverzoek wegens verstoorde arbeidsverhouding, vrijstelling van werkzaamheden), maar omdat dit een arbeidsconflict betreft, is doorverwijzing naar rechtsbijstand (Brandmeester) verplicht.",
+      "samenvatting": "Beller belt met afgesproken belafspraak voor advies over arbeidsconflict bij Liander. Medewerker Davy geeft eerste lijns juridisch advies over herplaatsing, verplichte medewerking, en mogelijkheid van ontbindingsverzoek wegens verstoorde arbeidsverhouding na maanden van geschil. Beller is niet geverifieerd in het systeem (geen Zoho-match), maar inhoudelijk juridisch advies is wel gegeven over de arbeidsrechtelijke situatie.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -198,7 +198,7 @@
       ],
       "terugbel": false,
       "verkeerdVerbonden": false,
-      "rechtsbijstandVerwijzing": false,
+      "rechtsbijstandVerwijzing": true,
       "adviesGegeven": true,
       "identiteitGeverifieerd": false
     },
@@ -206,7 +206,7 @@
       "tijd": "15:36",
       "titel": "Adobe-proefabonnement",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt over een geschil met Adobe-proefabonnement dat onverwacht in een jaarcontract is omgezet (EUR 130-160). De beller is NIET geverifieerd als verzekerde van Lancyr (geen Zoho-match, geen polisnummer/adres gecontroleerd). De medewerker Leila heeft geen inhoudelijk juridisch advies gegeven, maar heeft afgesproken een e-mailtemplate naar de beller te sturen zodat deze Adobe kan benaderen met vragen over de voorwaarden en kostennota.",
+      "samenvatting": "Beller belt over een Adobe-proefabonnement dat volgens hem een maand geleden is afgesloten met 7 dagen gratis, maar blijkt nu vastgezeten in een jaarcontract van €130. De beller is NIET geverifieerd in het systeem (geen Zoho-match, geen verificatiegegevens in transcript). De medewerker heeft geen inhoudelijk juridisch advies gegeven, maar heeft afgesproken een e-mail op te stellen met instructies hoe de beller Adobe moet contacteren en heeft beloofd dit vandaag of morgen toe te sturen.",
       "tags": [
         [
           "tag-overig",
@@ -227,7 +227,7 @@
       "tijd": "15:44",
       "titel": "Tapijt kleurklacht",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller Jan Bongens belt over een tapijt met verkeerde kleur dat hij heeft gekocht. Hij was eerder in gesprek met een collega die hem zou terugbellen, maar hij ontvangt nu bericht dat de zaak is afgesloten, wat hem verbaast. De medewerker verifieert de beller via postcode en huisnummer, stelt vast dat het om een consumentenzaak gaat (tapijtkwaliteit), en kondigt aan dat zij intern overleg zal plegen met de collega en daarna zal terugbellen; er is geen inhoudelijk juridisch advies gegeven.",
+      "samenvatting": "Beller Jan Bongens belt over een tapijt met verkeerde kleur dat hij heeft gekocht. De medewerker verifieert de beller via postcode en huisnummer (5397, huisnummer 44) en stelt vast dat een collega eerder contact heeft gehad. De medewerker geeft toe dat de zaak voortijdig is afgesloten en belooft terug te bellen na overleg met de collega, zonder inhoudelijk juridisch advies te geven.",
       "tags": [
         [
           "tag-consument",
@@ -248,11 +248,11 @@
       "tijd": "15:50",
       "titel": "Vliegtuig geschil",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller heeft een geschil met een vliegtuigmaatschappij over annulering van vlucht in oktober wegens weersomstandigheden in Barcelona. De claim voor compensatie werd afgewezen; beller wil EUR 700-800 aan gemaakte kosten teruggekregen, maar maatschappij biedt slechts EUR 100. Beller is geverifieerd via postcode en naam; medewerker gaf geen inhoudelijk advies maar kondigt intern overleg aan en belooft terugbellen.",
+      "samenvatting": "Beller heeft een geschil met een vliegtuigmaatschappij over geannuleerde vlucht begin oktober vanwege weersomstandigheden in Barcelona. Hij heeft voor drie personen 700-800 euro aan kosten gemaakt (voeding, verblijf) waarvan de maatschappij slechts 100 euro vergoedt. De identiteit is geverifieerd via postcode en naam, maar geen inhoudelijk juridisch advies is gegeven; de medewerker stelt intern overleg nodig te hebben en belt terug.",
       "tags": [
         [
-          "tag-overig",
-          "Luchtvaartrecht / Consumentengeschil"
+          "tag-consument",
+          "Consumentenrecht"
         ]
       ],
       "uitkomst": [
@@ -269,7 +269,7 @@
       "tijd": "16:12",
       "titel": "Doorsturen BrandMr.",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller Ronaldo Alves belt om op te volgen naar aanleiding van een eerder doorverwezen zaak naar Brandmeester. Hij zou binnen vijf werkdagen gebeld moeten worden, maar dit is nog niet gebeurd. De medewerker constateert dat het schadenummer nog niet is ontvangen van de andere afdeling, zegt dit opnieuw aan te vragen en beloofd morgen of vrijdag contact op te nemen met het resultaat. Identiteitsverificatie heeft niet expliciet plaatsgevonden in het transcript en Systeeminfo toont geen Zoho-contactmatch.",
+      "samenvatting": "Ronaldo Alves belt omdat hij nog niet is teruggebeld door de Brandmeester binnen de beloofde vijf werkdagen. De zaak was eerder al doorgestuurd naar rechtsbijstand, maar het schadenummer ontbreekt nog. De medewerker (identiteit niet geverifieerd) zal het verzoek opnieuw indienen en hoopt morgen of vrijdag contact op te nemen met een update over de doorsturen naar Brandmeester.",
       "tags": [
         [
           "tag-overig",
@@ -277,11 +277,11 @@
         ]
       ],
       "uitkomst": [
-        "outcome-terugbel",
-        "Terugbellen"
+        "outcome-verkeerd",
+        "Verkeerd nummer"
       ],
-      "terugbel": true,
-      "verkeerdVerbonden": false,
+      "terugbel": false,
+      "verkeerdVerbonden": true,
       "rechtsbijstandVerwijzing": false,
       "adviesGegeven": false,
       "identiteitGeverifieerd": false
@@ -290,7 +290,7 @@
       "tijd": "16:25",
       "titel": "Betaalkwestie verzekering",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt met een betaalkwestie over verzekering, maar is verkeerd verbonden met de juridische helpdesk. De medewerker erkent dat dit het verkeerde nummer is en verwijst de beller door om opnieuw te bellen en menuoptie 3 te kiezen voor de juiste afdeling. Er is geen identiteitsverificatie uitgevoerd en geen juridisch advies gegeven.",
+      "samenvatting": "Beller belt met een betaalkwestie over verzekering, maar is verkeerd verbonden met de juridische helpdesk. De medewerker erkent dat dit het verkeerde nummer is en verwijst de beller door naar de juiste afdeling (optie 3 op het keuzemenu). Er is geen identiteitsverificatie uitgevoerd en geen juridisch advies gegeven.",
       "tags": [
         [
           "tag-overig",
@@ -311,11 +311,11 @@
       "tijd": "16:40",
       "titel": "Terugbellen ",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Een terugbelvraag: de beller (huisarts, werkzaam 8-17 uur) kon niet eerder worden bereikt en belt terug om een afspraak in te plannen. De medewerker stelt voor dat de beller vrijdag terugbelt wanneer hij meer tijd heeft; de medewerker zal het onderwerp intussen met een collega bespreken en eventueel per mail antwoorden. De beller is NIET geverifieerd in het systeem (geen Zoho-match). Geen inhoudelijk juridisch advies is gegeven.",
+      "samenvatting": "Een terugbelafspraak voor vervolgoverleg. De beller (huisarts, werkt 8-17 uur) kan morgen niet bereikt worden; hij belt vrijdag zelf terug wanneer hij meer tijd heeft. De medewerker zal het dossier morgen intern bespreken met een collega en eventueel per mail reageren. De beller is NIET geverifieerd in het systeem (geen Zoho-match, geen verificatiepoging in transcript). Geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
           "tag-overig",
-          "Routering"
+          "Overig"
         ]
       ],
       "uitkomst": [
@@ -332,34 +332,33 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:03 VSO Senem: Identiteit geverifieerd via Zoho, inhoudelijk advies gegeven over rechtsbijstand-opties en kostenraming (€1.210 advocaat vs. gratis via verzekering), doorverwijzing naar rechtsbijstandsafdeling met vervolgplan.",
-      "09:49 Motorschade garage: Identiteit geverifieerd (W.J.F.C. Glaser), concrete inhoudelijke stappen gegeven (ingebrekenstelling, BOVAg-controle, deskundige), doorverwijzing naar rechtsbijstand bij geen positieve reactie garage.",
-      "10:41 Gevolgschade dakkapel: Identiteit geverifieerd via postcode/adres/naam (Rinkema, 1111 KK), inhoudelijk advies gevolgsschadeclaim met concrete stappenplan (contacten, foto's/facturen, ingebrekenstelling met 1-2 weken termijn).",
-      "11:30 Commission settlement: Identiteit geverifieerd, zaak correct ingeschat als rechtsbijstandsnodig, doorverwezen naar Brandmeester met concrete deadline (binnen 5 dagen contact).",
-      "12:29 Doorverwijzing naar auto-afdeling: Medewerker Monira correct vastgesteld dat autoverzekeringszaak niet onder juridische helpdesk valt, juiste doorverwijzing naar menu-optie 3.",
-      "14:15 Polisaanvraag Albert Adams: Medewerker correct herkend dat polisadministratie niet onder juridische helpdesk valt en verwerzen naar juiste afdeling."
+      "09:03 VSO Senem: Identiteit automatisch geverifieerd (Zoho), inhoudelijk advies gegeven over verzekeringsdekking, correct doorverwezen naar Brandmeester voor arbeidsrechtsbijstand.",
+      "09:49 Motorschade garage: Identiteit geverifieerd via telefoonnummer, inhoudelijk advies gegeven (ingebrekenstelling, termijn 14 dagen, branchevereniging-check, deskundige), duidelijk vervolgplan (format opsturen + terugbellen na onderzoek rechtsbijstand).",
+      "10:41 Gevolgschade dakkapel: Identiteit geverifieerd via postcode en huisnummer, inhoudelijk advies gegeven over gevolgsschade (ingebrekenstelling met foto's/facturen, afwachten), zaak telefonisch opgelost.",
+      "11:30 Commission settlement: Herhaalcontact correct afgehandeld, identiteit geverifieerd, doorverwezen naar rechtsbijstandsverzekeraar met concrete deadline (5 dagen contact).",
+      "12:29 Doorverwijzing naar auto-afdeling: Correct herkend dat onderwerp buiten juridische scope valt, beller doelbewust doorgestuurd naar juiste afdeling.",
+      "14:15 Polisaanvraag: Correct herkend dat beller verkeerd doorverbonden was (optie 3 auto-afdeling), hoewel identiteit automatisch herkend werd."
     ],
     "beter": [
-      "09:38 Polisblad controle Ameziane: Identiteit NIET geverifieerd voordat vervolgafspraak werd gemaakt; medewerker Leila zou beller eerst in systeem moeten controleren of deze een geldige polis heeft, voordat interne beoordelingstaken worden aangenomen.",
-      "10:33 Hypotheekprobleem: Hoewel identiteit geverifieerd (W.J.F.C. Glaser), medewerker gaf aan zaak buiten expertise valt zonder concrete deadline voor terugbel vast te stellen; vervolgcontactdatum ontbreekt.",
-      "14:38 Arbeidsconflict Liander: KRITIEK - Identiteit NIET geverifieerd in systeem voordat inhoudelijk juridisch advies werd gegeven over arbeidsrecht (onbepaalde contract, herplaatsing, ontbinding, vrijstelling). Medewerker Davy moest eerst beller verificeren. Dit is een directe schending van de kwaliteitsnorm.",
-      "15:36 Adobe-proefabonnement: Identiteit NIET geverifieerd; medewerker Leila gaf slechts e-mailtemplate zonder inhoudelijk advies, terwijl onduidelijk is of dit juridische hulpvraag van een verzekerde betreft of consumentenkwestie.",
-      "15:44 Tapijt kleurklacht: Identiteit geverifieerd maar medewerker gaf geen deadline voor intern overleg en terugbel af; klacht over afgesloten zaak vereist duidelijk vervolgcontactmoment.",
-      "15:50 Vliegtuig geschil: Identiteit geverifieerd maar medewerker beloofde 'terugbellen' zonder concrete dag/datum; claim van EUR 700-800 vereist duidelijke deadline voor vervolgcontact.",
-      "16:12 Doorsturen BrandMr.: Ronaldo Alves NIET geverifieerd in systeem; medewerker beloofde 'morgen of vrijdag' maar geen exacte deadline ('morgen' is te vaag); schadenummer nog niet ontvangen wat vervolgproces vertraagt.",
-      "16:40 Terugbellen huisarts: Identiteit NIET geverifieerd; beller zou vrijdag terugbellen maar geen concrete tijd afgesproken; onderwerp wordt met collega besproken maar geen duidelijk vervolgplan.",
-      "HERHAALCONTACTEN: Geen waarschuwing geregistreerd dat beller op 09:38 (Ameziane polisblad) eerder vandaag al contact zocht. Ook 16:12 (Ronaldo Alves doorsturen Brandmeester) is vervolgcontact na eerder doorverwijzing -- geen escalatiealarm geplaatst."
+      "09:38 Polisblad controle Ameziane: Herhaalcontact zonder expliciete identiteitsverificatie uitgevoerd; hoewel vervolgcontact op eerdere afspraken, zou bevestiging via Zoho of gegevenscheck beter zijn. Geen concrete deadline voor vervolgmail benoemd ('na na te lezen' is vaag).",
+      "10:33 Hypotheekprobleem: Identiteit geverifieerd maar geen concrete deadline benoemd voor terugbelafspraak; medewerker geeft toe geen expertise te hebben zonder datum voor collega-overleg af te spreken.",
+      "14:38 Arbeidsconflict Liander: KRITIEK – Identiteit NIET geverifieerd in Zoho-systeem, maar inhoudelijk juridisch advies over herplaatsing en ontbindingsverzoek gegeven. Dit schendt de polis+identiteit-norm voordat advies wordt gegeven. Medewerker had eerst verificatie moeten afronden.",
+      "15:36 Adobe-proefabonnement: Identiteit niet geverifieerd, geen inhoudelijk juridisch advies gegeven, maar beller blijft hangen in juridische helpdesk zonder doorverwijzing naar juiste afdeling (consumentenzaken/derden). Geen concrete deadline voor e-mail benoemd ('vandaag of morgen' is onvoldoende).",
+      "15:44 Tapijt kleurklacht: Identiteit geverifieerd maar medewerker erkent dat zaak voortijdig is afgesloten door collega; geen inhoudelijk advies gegeven en geen concrete deadline voor terugbel benoemd.",
+      "15:50 Vliegtuig geschil: Identiteit geverifieerd (postcode/naam) maar schadebedrag van €600-800 genoemd zonder dekkingscontrole/franchise-norm (EUR 250) vastgesteld. Geen intern overlegplan met deadline benoemd ('belt terug' is vaag).",
+      "16:12 Doorsturen BrandMr.: Herhaalcontact (klant wacht al op Brandmeester), maar identiteit NIET geverifieerd. Bovendien geen concrete deadline benoemd ('morgen of vrijdag' is onvoldoende). Vervolgstatus onduidelijk.",
+      "16:40 Terugbelafspraak huisarts: Identiteit NIET geverifieerd, geen verificatiepoging ondernomen. Vervolgplannen vaag ('morgen intern bespreken' zonder concrete deadline, 'beller belt vrijdag' verschuift verantwoordelijkheid)."
     ]
   },
   "verkeerdVerbonden": {
-    "aantal": 4,
-    "percentage": 26.7
+    "aantal": 5,
+    "percentage": 33.3
   },
   "rechtsbijstandVerwijzingen": 3,
   "categorieen": [
     [
       "Routering",
-      6
+      5
     ],
     [
       "Arbeidsrecht",
@@ -370,7 +369,11 @@
       2
     ],
     [
-      "Administratie/Polisblad-controle",
+      "Polisblad verificatie",
+      1
+    ],
+    [
+      "Consumentenrecht - Diensten/reparatie",
       1
     ],
     [
@@ -382,7 +385,7 @@
       1
     ],
     [
-      "Luchtvaartrecht / Consumentengeschil",
+      "Overig",
       1
     ]
   ]
