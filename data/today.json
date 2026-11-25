@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T09:20:35Z",
+  "generated_at": "2026-11-25T09:28:41Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
@@ -11,13 +11,13 @@
     "geenDekking": 0,
     "verkeerdNummer": 0
   },
-  "score": 7.8,
+  "score": 6.1,
   "conversations": [
     {
       "tijd": "09:03",
       "titel": "VSO Senem",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Gesprek over arbeidsconflict: beller (Özgür) is ontslagen bij zijn werkgever vanwege financiële problemen en ontvangt een ontslagaanbod met €750 voor juridische bijstand. De medewerker (Leyla) verklaart dat de beller verzekerd is voor juridische ondersteuning en stuurt een verzoek door naar de rechtsbijstandsafdeling (Brandmeester) voor verdere behandeling van het onderhandelingsproces en mogelijke UWV-procedure. Identiteit is automatisch geverifieerd via telefoonnummer (Zoho-match); inhoudelijk juridisch advies is gegeven (dekking, opties voor rechtsbijstand).",
+      "samenvatting": "Özgür belde met juridische vragen over een ontslagbesluit en onderhandelingen met zijn werkgever in het kader van bedrijfsrestructurering. De medewerker (Leyla) identificeerde dat dit een arbeidsconflict is dat onder rechtsbijstand valt, verklareerde de dekkingsmogelijkheden (gratis juridische ondersteuning via rechtsbijstand, of betaalde externe advocaat), en stelde voor om de zaak door te verwijzen naar de rechtsbijstandsafdeling ('Brommeester'/'jurists') die na ontvangst van de ontslagovereenkomst de zaak nader zal beoordelen. De beller werd geverifieerd via automatische telefoonnummerherkenning (Zoho-koppeling); inhoudelijk juridisch advies werd niet gegeven, maar de juiste triage naar rechtsbijstand werd ingesteld.",
       "tags": [
         [
           "tag-arbeidsrecht",
@@ -28,21 +28,21 @@
         "outcome-brandmeester",
         "Doorverwezen naar Brandmeester"
       ],
-      "terugbel": false,
+      "terugbel": true,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": true,
-      "adviesGegeven": true,
+      "adviesGegeven": false,
       "identiteitGeverifieerd": true
     },
     {
       "tijd": "09:38",
       "titel": "Polisblad controle doorsturen Ameziane",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Dit is een vervolggesprek tussen Leila (medewerker) en Ameziane. De beller had eerder documenten ingediend voor polisblad-controle; Leila belooft deze na te lezen, te controleren of de zaak onder de dekking valt, en vervolgens per mail contact op te nemen met het resultaat. De beller is niet geverifieerd in het systeem op dit moment, en er is geen inhoudelijk juridisch advies gegeven, alleen een belofte tot vervolgactie.",
+      "samenvatting": "Vervolggesprek met Ameziane (eerder contact met Leila ~2 weken geleden). Beller heeft gevraagde stukken uiteindelijk verstuurd. Leila zal polisblad nakijken, dekkingsvraag beoordelen en per mail contact opnemen met uitkomst en mogelijk doorverwijzing. Beller is niet geverifieerd (geen Zoho-match en geen expliciete verificatie in transcript), geen inhoudelijk advies gegeven.",
       "tags": [
         [
           "tag-overig",
-          "Polisbeheer/Administratie"
+          "Administratie/Polisverificatie"
         ]
       ],
       "uitkomst": [
@@ -59,14 +59,14 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:03 VSO Senem: Identiteit correct geverifieerd via telefoonnummer (Zoho-match) voordat advies werd gegeven.",
-      "09:03 VSO Senem: Inhoudelijk juridisch advies gegeven over dekking voor rechtsbijstand en opties voor UWV-procedure.",
-      "09:03 VSO Senem: Zaak professioneel doorverwezen naar rechtsbijstandsafdeling (Brandmeester) met duidelijke vervolgstap.",
-      "09:38 Polisblad controle Ameziane: Medewerker handelt correct door geen inhoudelijk advies te geven zonder verificatie in het systeem.",
-      "09:38 Polisblad controle Ameziane: Duidelijk vervolgplan afgesproken: medewerker zal polisblad controleren en per mail contact opnemen met resultaat."
+      "09:03 VSO Senem: Correcte triage naar rechtsbijstand (arbeidsrecht); dekkingsmogelijkheden toegelicht; beller geverifieerd via telefoonnummerherkenning.",
+      "09:03 VSO Senem: Vervolgplan duidelijk (doorverwijzing naar Brandmeester na ontvangst ontslagovereenkomst).",
+      "09:38 Polisblad Ameziane: Herkend als herhaalcontact (vorig contact ~2 weken geleden); stukken ontvangen en vervolgstap helder."
     ],
     "beter": [
-      "09:38 Polisblad controle Ameziane: Geen concrete deadline benoemd voor het vervolgcontact per mail (wanneer mag de beller het resultaat verwachten?)."
+      "09:38 Polisblad Ameziane: KRITIEK – Beller is NIET geverifieerd in het systeem (geen Zoho-match, geen expliciete verificatie in transcript). Voordat polisblad wordt beoordeeld en dekkingsvraag wordt geëvalueerd, moet identiteit en polis worden vastgesteld.",
+      "09:38 Polisblad Ameziane: Vervolgcontact via e-mail afgesproken, maar geen concrete deadline benoemd (wanneer ontvangt beller bericht?). Voeg concretie toe (bijv. 'binnen 2 werkdagen').",
+      "09:38 Polisblad Ameziane: Bij herhaalcontact de risico van vervoedering – zorg dat verificatie deze keer compleet wordt afgerond voordat werk wordt verricht."
     ]
   },
   "verkeerdVerbonden": {
@@ -80,7 +80,7 @@
       1
     ],
     [
-      "Polisbeheer/Administratie",
+      "Administratie/Polisverificatie",
       1
     ]
   ]
