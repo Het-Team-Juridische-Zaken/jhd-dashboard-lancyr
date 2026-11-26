@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T12:46:31Z",
+  "generated_at": "2026-11-26T12:51:03Z",
   "drukte": "matig",
   "gesprekken": 5,
   "stats": {
@@ -17,7 +17,7 @@
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt met vraag over kaartvervanging en annulering van oude kaart. Dit is een administratieve/verzekeringsadministratieve vraag, geen juridische vraag. De medewerker herkent dit correct en verwijst de beller door naar de juiste afdeling (toets 3) voor niet-juridische zaken.",
+      "samenvatting": "De beller belt met een vraag over kaartvervanging en administratie (oude kaart annuleren vs. nieuwe kaart activeren), wat niet onder juridische rechtsbijstand valt. De medewerker correct doorverwezen naar de juiste afdeling (toets 3). Identiteit was automatisch geverifieerd via telefoonnummer, maar geen juridisch advies gegeven omdat het onderwerp niet juridisch is.",
       "tags": [
         [
           "tag-overig",
@@ -38,7 +38,7 @@
       "tijd": "09:48",
       "titel": "Franchise",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller belde terug met een vervolgvraag over de franchise van EUR 250 bij consumentenzaken. De medewerker bevestigde dat de schade van EUR 157,75 onder de franchise valt en daarom geen dekking krijgt; de beller werd geadviseerd zich tot het Juridisch Loket of de consumentengeschillencommissie te wenden. De beller is geverifieerd via automatische telefoonnummerherkenning (Zoho-koppeling); inhoudelijk advies over de franchise-beperking is gegeven.",
+      "samenvatting": "Beller belt terug na eerder gesprek met collega; schade bedraagt EUR 157,75, wat onder de franchise van EUR 250 ligt en daarom niet dekbaar is. De medewerker bevestigt dit en verwijst naar het Juridisch Loket voor eerstelijnslawadvies. Beller is geverifieerd via Zoho-koppeling; inhoudelijk advies is gegeven (uitleg franchise en alternatieve opties).",
       "tags": [
         [
           "tag-consument",
@@ -59,7 +59,7 @@
       "tijd": "10:30",
       "titel": "Schadeclaim routeringsprocedure",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller Pratik belt over een schadeclaim naar een ongeval van ongeveer een week geleden en wil weten hoe het proces verloopt. De medewerker van de juridische helpdesk erkent dat dit onderwerp niet thuishoort bij de juridische afdeling en verwijst de beller door naar de schadeclaim-afdeling (toets 3 op dezelfde nummer). De beller is automatisch geverifieerd via Zoho, maar er is geen inhoudelijk juridisch advies gegeven omdat de zaak buiten de scope van de juridische helpdesk valt.",
+      "samenvatting": "Een verzekerde (Pratik) belt met een schadeclaim vanwege een verkeersongeval van ongeveer een week geleden en vraagt hulp bij het begrijpen van de voortgang. De medewerker erkent dat de beller verkeerd bij de juridische helpdesk is terechtgekomen en verwijst hem door naar de schadeclaim-afdeling (option 3 bij terugbellen). De beller is automatisch geverifieerd via telefoonnummer (Zoho-match met W.J.F.C. Glaser), maar er is geen inhoudelijk juridisch advies gegeven omdat dit onderwerp niet onder de juridische helpdesk valt.",
       "tags": [
         [
           "tag-overig",
@@ -80,7 +80,7 @@
       "tijd": "12:08",
       "titel": "Applicatie afwijzing",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt over afwijzing van een applicatie. Medewerker Leila (Lancyr) herkent dat dit niet onder juridische rechtsbijstand valt en verwijst beller door naar het juiste nummer (menu-optie 3) voor applicatiebeheer. Beller is niet geverifieerd en er is geen inhoudelijk juridisch advies gegeven.",
+      "samenvatting": "Beller belt over een afgewezen applicatie. De medewerker (Leila) herkent dat dit niet het onderwerp van de juridische helpdesk is en verwijst de beller door naar het juiste nummer (option 3 in het keuzemenu). De beller is niet geverifieerd en er is geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
           "tag-overig",
@@ -101,7 +101,7 @@
       "tijd": "13:36",
       "titel": "Fietsreis Colombia",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller informeert zich over dekking voor geschillen tijdens een fietsreis in Colombia (organisatie in Duitsland). Medewerker geeft algemeen advies dat vakantiereisverzekering conflict-dekking biedt, maar kan geen uitspraken doen over Duits recht en raadt aan om voorwaarden na te lezen. Beller is niet geverifieerd in het systeem; inhoudelijk advies is gegeven maar voorzichtig en onder voorbehoud.",
+      "samenvatting": "Beller informeert zich over dekking voor een fietsreis in Colombia waarbij een fiets wordt gehuurd bij een Duitse organisatie. De medewerker geeft algemeen advies dat conflicten met vakantiereis waarschijnlijk gedekt zijn, maar verwijst naar de polis voor details over Duits recht en raadt aan de algemene voorwaarden te raadplegen. Identiteit is niet geverifieerd (geen Zoho-match, geen verificatiepoging in transcript).",
       "tags": [
         [
           "tag-overig",
@@ -122,14 +122,14 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Medewerker herkent correct dat dit een administratieve zaak is en verwijst doelgericht door naar de juiste afdeling.",
-      "09:48 Franchise: Beller correct geverifieerd via Zoho; franchise-beperking (EUR 250) correct toegepast op schade van EUR 157,75; passend vervolgadvies naar Juridisch Loket gegeven.",
-      "10:30 Schadeclaim routeringsprocedure: Medewerker herkent correct dat schadeclaims buiten de juridische helpdesk-scope vallen en verwijst doelgericht door naar schadeclaim-afdeling."
+      "09:19 Card cancellation: Correct doorverwezen naar juiste afdeling; identiteit automatisch geverifieerd",
+      "09:48 Franchise: Juiste toepassing van EUR 250-franchise vastgesteld (EUR 157,75 niet dekbaar); inhoudelijk advies gegeven en alternatief (Juridisch Loket) aangeboden; identiteit geverifieerd",
+      "10:30 Schadeclaim routeringsprocedure: Correct erkend dat onderwerp niet onder juridische helpdesk valt; beller doorverwezen naar schadeclaim-afdeling met concrete routeringinstructie (option 3); identiteit automatisch geverifieerd"
     ],
     "beter": [
-      "12:08 Applicatie afwijzing: Beller is NIET geverifieerd voordat doorverwijzing plaatsvond. Hoewel doorverwijzing naar de juiste afdeling correct was, had eerst identiteitskontróle moeten plaatsvinden conform kwaliteitsnorm.",
-      "13:36 Fietsreis Colombia: KRITIEK – Beller is NIET geverifieerd in het systeem, maar inhoudelijk juridisch advies over vakantiereisverzekering en conflict-dekking is alsnog gegeven. Dit schendt de basisnorm polis+identiteit verificatie vóór advies. Bovendien ontbreekt een vervolgplan: geen afgestemde deadline of duidelijke instructie voor opvolging (bijv. verificatie ophalen, polis controleren).",
-      "13:36 Fietsreis Colombia: Advies is onvoldoende concreet ('raad aan om voorwaarden na te lezen') en voorzichtig ('onder voorbehoud'); maar zonder geverifieerde polis kan niet eens worden vastgesteld wat de werkelijke dekking is. Dit verhoogt het risico op miscommunicatie."
+      "12:08 Applicatie afwijzing: Identiteit niet geverifieerd voordat wordt bepaald dat dit niet het juiste onderwerp is; minimale intake kan beterbestaan uit verificatiestap",
+      "13:36 Fietsreis Colombia: KRITIEK – Advies gegeven zonder identiteitsverificatie. Geen Zoho-match vastgesteld en geen verificatiepoging gedocumenteerd. Bij juridisch advies over dekking moet polis/identiteit altijd eerst gecontroleerd worden, ook al lijkt het onderwerp algemeen",
+      "13:36 Fietsreis Colombia: Geen concrete vervolgtap afgesproken; beller alleen naar polis verwezen zonder deadline of vervolgcontact indien nodig"
     ]
   },
   "verkeerdVerbonden": {
