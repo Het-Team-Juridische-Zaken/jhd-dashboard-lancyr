@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T08:20:41Z",
+  "generated_at": "2026-11-26T08:28:20Z",
   "drukte": "rustig",
   "gesprekken": 1,
   "stats": {
@@ -17,7 +17,7 @@
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt met een vraag over kaartcancellation en cardwissel, een administratieve/operationele verzekeringsquaestie. De beller is automatisch herkend via telefoonnummer (C. vanRhoon, Zoho-match). Dit is geen juridische vraag maar een administratieve routering naar de juiste afdeling (premie/administratie).",
+      "samenvatting": "De beller heeft een vraag over kaartvervanging en annulering, wat een verzekeringsadministratieve/operationele vraag is en niet onder de juridische helpdesk valt. De medewerker erkent dit juist en verwijst de beller door naar de juiste afdeling (toets 3). De beller is automatisch geverifieerd via telefoonnummer (Zoho-match), maar er is geen inhoudelijk juridisch advies gegeven omdat dit onderwerp niet bij de juridische helpdesk hoort.",
       "tags": [
         [
           "tag-overig",
@@ -38,11 +38,12 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Identiteit correct geverifieerd via telefoonnummer (C. vanRhoon, Zoho-match)",
-      "09:19 Card cancellation: Medewerker herkende juist dat dit een administratieve vraag is, niet juridisch, en routeerde correct door naar de juiste afdeling (premie/administratie) in plaats van onterecht juridisch advies te geven"
+      "09:19 Card cancellation: Medewerker herkent juist dat dit een operationele/administratieve vraag is en niet onder de juridische helpdesk valt. Correcte doorverwijzing naar juiste afdeling (toets 3) uitgevoerd.",
+      "09:19 Card cancellation: Identiteit automatisch geverifieerd via telefoonnummer (Zoho-match), geen onnodig verificatieproces.",
+      "09:19 Card cancellation: Passende afhandeling van out-of-scope vraag zonder onnodige duur."
     ],
     "beter": [
-      "09:19 Card cancellation: Onduidelijk of medewerker een concrete deadline of vervolgcontact heeft afgesproken voor de doorverwijzing naar premie/administratie (bijv. 'u krijgt vandaag nog contact van afdeling X' of 'bel morgen terug naar nummer Y')"
+      "09:19 Card cancellation: Zou beter zijn om bij doorverwijzing ook concrete stappen voor de beller te benoemen (bijv. 'U wordt nu doorverbonden met afdeling X, die uw kaartvervanging kan afhandelen')."
     ]
   },
   "verkeerdVerbonden": {
