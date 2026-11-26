@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T08:30:50Z",
+  "generated_at": "2026-11-26T08:36:20Z",
   "drukte": "rustig",
   "gesprekken": 1,
   "stats": {
@@ -17,7 +17,7 @@
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt met vraag over kaartcancellatie en wijziging naar nieuwe kaart. Dit is geen juridische vraag maar een verzekeringsadministratieve/betaalmiddelen-vraag. De medewerker herkent correct dat dit niet onder de juridische helpdesk valt en verwijst de beller door naar het juiste departement (toets 3).",
+      "samenvatting": "Beller belt verkeerd nummer: stelt vraag over kaartvervanging/annulering, wat administratief/verzekeringsterrein betreft en niet onder juridische rechtsbijstand valt. Medewerker correct doorverwezen naar ander departement (option 3). Beller is automatisch geverifieerd via telefoonnummer, maar geen inhoudelijk juridisch advies gegeven omdat het onderwerp niet onder juridische helpdesk hoort.",
       "tags": [
         [
           "tag-overig",
@@ -38,11 +38,12 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Medewerker herkende correct dat de vraag over kaartcancellatie en betaalmiddelen niet onder juridische hulp valt en verwees professioneel door naar het juiste departement (toets 3).",
-      "09:19 Card cancellation: Identiteit werd geverifieerd voordat werd vastgesteld dat dit buiten de competentie viel."
+      "09:19 Card cancellation: Beller correct doorverwezen naar ander departement (option 3) omdat het onderwerp niet onder juridische rechtsbijstand valt - proper gatekeeping",
+      "09:19 Card cancellation: Identiteit geverifieerd via telefoonnummer, dus verificatiestap correct uitgevoerd",
+      "09:19 Card cancellation: Medewerker heeft terecht geen juridisch advies gegeven omdat de inhoud buiten het juridische domein valt"
     ],
     "beter": [
-      "09:19 Card cancellation: Geen vervolgplan of concrete deadline vastgelegd voor contact met het juiste departement (of geen toelichting gegeven dat de beller rechtstreeks doorverbonden werd)."
+      "09:19 Card cancellation: In het gespreksnotities kan nog helderheid worden gegeven over of de beller duidelijk is geïnformeerd welk departement/welke optie deze moet kiezen voor vervolgcontact (concrete verwijzing naar contactgegevens of vervolgstap)"
     ]
   },
   "verkeerdVerbonden": {
