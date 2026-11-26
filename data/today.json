@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T09:40:54Z",
+  "generated_at": "2026-11-26T09:44:01Z",
   "drukte": "rustig",
   "gesprekken": 3,
   "stats": {
@@ -11,13 +11,13 @@
     "geenDekking": 1,
     "verkeerdNummer": 2
   },
-  "score": 7.8,
+  "score": 8.1,
   "conversations": [
     {
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller belde met een vraag over kaartvervanging en administratieve verwerking daarvan, wat niet onder juridische hulp valt. De medewerker herkende dat dit onderwerp niet bij de juridische helpdesk hoort en verwees de beller door naar de juiste afdeling (toets 3 in het menu). Hoewel de beller automatisch werd herkend op telefoonnummer, is geen inhoudelijk juridisch advies gegeven omdat het onderwerp niet relevant is voor deze helpdesk.",
+      "samenvatting": "Beller belt met een vraag over kaartcancelatie (geen juridische zaak). De medewerker herkent dat dit niet thuishoort bij de juridische helpdesk en verwijst de beller door naar de juiste afdeling (toets 3). Geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
           "tag-overig",
@@ -38,7 +38,7 @@
       "tijd": "09:48",
       "titel": "Franchise",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller belde terug omdat een collega hem eerder had doorverwezen naar Brandmeester vanwege een schade onder de franchise van EUR 250. De medewerker bevestigde dat het schadebedrag EUR 157,75 is en legde uit dat de polis een franchise van EUR 250 hanteert, zodat schades onder dit bedrag niet worden gedekt. De beller werd geverifieerd via het systeem (Zoho-contactmatch), en er werd eerste-lijns advies gegeven over de franchise en verwijzingen naar het Juridisch Loket en klachtmogelijkheden, maar geen vervolgstappen werden ingezet.",
+      "samenvatting": "De beller heeft eerder contact gehad met Lancyr over een consumentenzaak met schadebedrag van EUR 157,75, die onder de franchise van EUR 250 valt en daarom niet dekking heeft. De medewerker bevestigt dit en legt uit dat juridische hulp niet mogelijk is onder dat bedrag, maar biedt alternatieve opties aan (juridisch loket, geschillencommissie). De beller is geverifieerd (Zoho-koppeling) en inhoudelijk advies is gegeven over de franchise-grens en vervolgmogelijkheden.",
       "tags": [
         [
           "tag-consument",
@@ -59,7 +59,7 @@
       "tijd": "10:30",
       "titel": "Schadeclaim routeringsprocedure",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller Pratik belt over een schadeclaim naar aanleiding van een ongeval ongeveer een week geleden en wil begeleiding bij het proces. De medewerker herkent dat dit een schadeclaimvraag is die niet onder de juridische helpdesk valt en verwijst de beller door naar de juiste afdeling (press 3) via hetzelfde nummer. De beller is automatisch geverifieerd via telefoonnummer (Zoho-match W.J.F.C. Glaser), maar er is geen inhoudelijk juridisch advies gegeven.",
+      "samenvatting": "Beller Pratik belt over een schadeclaim naar aanleiding van een ongeval ongeveer een week tot 10 dagen geleden en zoekt hulp bij het begrijpen van het proces. De medewerker herkent dat dit een schadeclaim-routeringsvraag is die niet thuishoort bij de juridische helpdesk en verwijst de beller door naar option 3 van hetzelfde nummer. De beller is wel geverifieerd via automatische herkenning op telefoonnummer (W.J.F.C. Glaser in Zoho), maar er is geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
           "tag-overig",
@@ -80,13 +80,13 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Medewerker herkende correct dat kaartvervanging niet onder juridische hulp valt en verwees doelgericht door naar juiste afdeling",
-      "09:48 Franchise: Beller correct geverifieerd via Zoho-contactmatch; schadebedrag (EUR 157,75) en franchise (EUR 250) concreet vastgelegd; correcte uitleg gegeven dat schade niet onder dekking valt",
-      "10:30 Schadeclaim routeringsprocedure: Medewerker correct herkend dat schadeclaimbegeleiding niet onder juridische helpdesk valt en verwees doelgericht door; beller via telefoonnummer geverifieerd"
+      "09:19 Card cancellation: Medewerker herkent correct dat dit niet-juridische zaak is en verwijst doelgericht door naar juiste afdeling (toets 3)",
+      "09:48 Franchise: Identiteit geverifieerd via Zoho-koppeling, dekkingscontrole correct uitgevoerd (EUR 157,75 onder EUR 250-franchise), inhoudelijk advies gegeven over franchise-grens en alternatieve opties aangeboden",
+      "10:30 Schadeclaim routeringsprocedure: Identiteit correct geverifieerd via automatische herkenning op telefoonnummer (W.J.F.C. Glaser), medewerker herkent routeringsvraag terecht als niet-juridische zaak en verwijst door naar option 3"
     ],
     "beter": [
-      "09:48 Franchise: Na verificatie en uitleg franchise was dit goed afgehandeld, maar bij toekomstige franchise-afwijzingen kan aanvullend informatie over beroepsmogelijkheden (klachtenproces, ombudsman) méér structuur krijgen in het vervolgplan",
-      "Herhaalcontact op 09:48: Beller belde terug vanwege eerdere doorverwijzing naar Brandmeester - dit geeft aan dat de eerste doorverwijzing (09:19 of eerder) mogelijk onvoldoende duidelijk was. Zorg dat doorverwijzingen specifieke stappen en indien relevant vervolgdeadlines bevatten"
+      "09:48 Franchise: Bij doorverwijzing naar juridisch loket en geschillencommissie geen concrete deadline of vervolgcontact afgesproken",
+      "10:30 Schadeclaim routeringsprocedure: Ondanks correcte doorverwijzing geen vervolgplan of terugbeldatum afgesproken voor het geval de beller aanvullende juridische vragen heeft na ontvangst van routeringsinformatie"
     ]
   },
   "verkeerdVerbonden": {
