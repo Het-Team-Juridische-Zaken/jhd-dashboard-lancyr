@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T10:40:55Z",
+  "generated_at": "2026-11-26T10:43:51Z",
   "drukte": "rustig",
   "gesprekken": 3,
   "stats": {
@@ -11,13 +11,13 @@
     "geenDekking": 1,
     "verkeerdNummer": 2
   },
-  "score": 8.1,
+  "score": 8.5,
   "conversations": [
     {
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt met een vraag over kaartvervanging en annulering, wat een administratieve/verzekeringstechnische kwestie is en niet onder juridische rechtsbijstand valt. De medewerker correct doorverwezen naar de juiste afdeling (toets 3). Identiteit was automatisch geverifieerd via telefoonnummer, maar geen inhoudelijk juridisch advies gegeven omdat dit geen juridische zaak is.",
+      "samenvatting": "Beller belt met vraag over kaartcancellatie en kaartvervanging, wat een administratieve/verzekeringstechnische vraag is en geen juridisch advies vereist. De medewerker herkent correct dat dit niet onder de juridische helpdesk valt en verwijst de beller door naar de juiste afdeling (toets 3). Beller is automatisch geverifieerd via telefoonnummer/Zoho, maar er is geen inhoudelijk juridisch advies gegeven omdat het onderwerp niet onder juridische rechtsbijstand valt.",
       "tags": [
         [
           "tag-overig",
@@ -38,7 +38,7 @@
       "tijd": "09:48",
       "titel": "Franchise",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt terug naar Lancyr naar aanleiding van een eerder gesprek waarin hem werd meegedeeld dat zijn schadebedrag van EUR 157,75 onder de franchise van EUR 250 valt en daarom niet kan worden behandeld. De medewerker bevestigt dit, legt de franchiseregel uit, en verwijst naar het Juridisch Loket voor eerstelijnsjuridisch advies. De beller is geverifieerd (automatische herkenning op telefoonnummer, polis bekend in Zoho), en de medewerker geeft wel uitleg over de franchise maar geen inhoudelijk juridisch advies over de onderliggende zaak zelf.",
+      "samenvatting": "De beller belde terug nadat een collega zijn zaak had afgewezen wegens onderschrijding van de franchise van EUR 250. De medewerker bevestigde dat het schadebedrag EUR 157,75 is en dus onder de franchise valt, waardoor Lancyr geen dekking kan bieden. De beller werd geverifieerd via Zoho-match en kreeg eerste-lijns advies (doorverwijzing naar het Juridisch Loket, consumentengeschillencommissie), maar geen inhoudelijk juridisch advies over de onderliggende zaak zelf.",
       "tags": [
         [
           "tag-consument",
@@ -59,7 +59,7 @@
       "tijd": "10:30",
       "titel": "Schadeclaim routeringsprocedure",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller Pratik belt over een schadeclaim naar aanleiding van een ongeval ongeveer een week tot 10 dagen geleden en vraagt hulp bij het begrijpen van het proces. De medewerker herkent dat dit een schadeclaimzaak is die niet onder de juridische helpdesk valt en verwijst de beller door naar de juiste afdeling (toets 3 bij hernieuw bellen van hetzelfde nummer). De beller is automatisch geverifieerd via telefoonnummer (Zoho-match met W.J.F.C. Glaser), maar er is geen inhoudelijk juridisch advies gegeven omdat het gesprek direct als routeringsprobleem werd herkend.",
+      "samenvatting": "Een beller (Pratik) beide met een schadeclaim na een auto-ongeluk ongeveer een week geleden en vraagt hulp bij het begrijpen van het claimproces. De medewerker erkent dat dit onderwerp niet onder de juridische helpdesk valt en verwijst de beller door naar de juiste afdeling (toets 3 op hetzelfde nummer). De beller is wel geverifieerd via automatische telefoonnummerherkenning in het systeem (W.J.F.C. Glaser), maar er is geen inhoudelijk juridisch advies gegeven omdat dit een schadeclaimrouting-gesprek is.",
       "tags": [
         [
           "tag-overig",
@@ -80,14 +80,14 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Correcte herkenning dat kaartvervanging buiten juridische rechtsbijstand valt; passende doorverwijzing naar juiste afdeling (toets 3)",
-      "09:48 Franchise: Beller correct geverifieerd via telefoonnummer en polis bevestigd in Zoho; franchiseregel (EUR 250) helder uitgelegd; passende doorverwijzing naar Juridisch Loket voor eerstelijnsjuridisch advies",
-      "10:30 Schadeclaim routeringsprocedure: Schadeclaim correct herkend als routeringskwestie buiten juridische helpdesk; beller Pratik automatisch geverifieerd via Zoho-match (W.J.F.C. Glaser); snelle doorverwijzing naar juiste afdeling",
-      "Alle drie gesprekken tonen adequate identiteitsverificatie via telefoonnummer/Zoho-herkenning"
+      "09:19 Card cancellation: Medewerker herkent correct dat dit geen juridisch advies vereist en verwijst professioneel door naar de juiste afdeling (toets 3).",
+      "09:48 Franchise: Medewerker controleert correct het schadebedrag (EUR 157,75) tegen de franchisedrempel (EUR 250) en concludeert terecht dat geen dekking kan worden geboden. Beller wordt geverifieerd via Zoho.",
+      "10:30 Schadeclaim routeringsprocedure: Medewerker herkent correct dat schadeclaimroutering niet onder juridische helpdesk valt en verwijst professioneel door (toets 3). Beller is geverifieerd via telefoonnummerherkenning (W.J.F.C. Glaser).",
+      "Alle drie gesprekken: Identiteitsverificatie via automatische systemen (Zoho/telefoonnummer) is correct uitgevoerd en gedocumenteerd."
     ],
     "beter": [
-      "09:48 Franchise: Hoewel de franchiseregel correct werd toegepast, ontbreekt een concrete verwijzing naar vervolgstappen of deadline voor contact met het Juridisch Loket (zou helpen beller aan te zetten tot handelen)",
-      "10:30 Schadeclaim: Bij doorverwijzing naar schadeclaimafhandeling zou kunnen worden vermeld wat de volgende stap is of welke informatie de beller gereed moet houden (bijvoorbeeld ongevalsgegevens, polisgegevens) voor snellere afhandeling"
+      "09:48 Franchise: Hoewel de franchisecontrole correct is uitgevoerd, ontbreekt een concrete deadline of vervolgstap voor de beller (bijv. 'U kunt dit onderwerp indienen bij het Juridisch Loket; daar hebben zij doorgaans responstijd van X werkdagen').",
+      "Overkoepelend: Drie opeenvolgende gesprekken leiden alle drie tot doorverwijzing naar een ander nummer/afdeling. Overweeg of een checklist aan het begin van de werkdag helpdesk-oproepen sneller kan filteren, zodat minder doorverwijzingen nodig zijn."
     ]
   },
   "verkeerdVerbonden": {
