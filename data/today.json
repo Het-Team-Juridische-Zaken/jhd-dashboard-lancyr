@@ -1,15 +1,15 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T14:21:11Z",
+  "generated_at": "2026-11-26T14:26:22Z",
   "drukte": "druk",
   "gesprekken": 6,
   "stats": {
     "opgelost": 1,
     "brandmeester": 0,
     "afkoop": 0,
-    "terugbel": 1,
+    "terugbel": 0,
     "geenDekking": 1,
-    "verkeerdNummer": 3
+    "verkeerdNummer": 4
   },
   "score": 5.8,
   "conversations": [
@@ -17,7 +17,7 @@
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt met een vraag over kaartvervanging en administratie (oude kaart annuleren vs. nieuwe kaart activeren), wat niet onder juridische advies valt. De medewerker erkent dit correct en verwijst de beller door naar de juiste afdeling (toets 3) voor administratieve/verzekeringstechnische zaken. De beller is automatisch herkend via Zoho (C. vanRhoon), maar er is geen inhoudelijk juridisch advies gegeven omdat het onderwerp niet onder de juridische helpdesk hoort.",
+      "samenvatting": "Beller belt met een vraag over kaartvervanging en annulering, wat een verzekeringsadministratieve/operationele kwestie is en niet onder juridische rechtsbijstand valt. De medewerker erkent dit correct en verwijst de beller door naar de juiste afdeling (toets 3). Beller is automatisch geverifieerd via telefoonnummer (Zoho-match C. vanRhoon), maar er is geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
           "tag-overig",
@@ -38,7 +38,7 @@
       "tijd": "09:48",
       "titel": "Franchise",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller belt terug over een eerder gesprek waarin hem werd meegedeeld dat zijn schadeclaim van EUR 157,75 niet onder de rechtsbijstandsverzekering valt vanwege de franchise van EUR 250. De medewerker bevestigt dit, legt de franchise uit, en verwijst naar het Juridisch Loket voor eerstelijnshulp. De beller is gefrustreerd dat bedrijven onder de EUR 250 geen gevolgen ondervinden. De identiteit van de beller (W.J.F.C. Glaser) was bekend via automatische herkenning; inhoudelijk advies over de franchise en alternatieven is gegeven.",
+      "samenvatting": "De beller belt terug over een eerdere doorverwijzing naar Brandmeester wegens een schade van EUR 157,75. De medewerker legt uit dat deze zaak onder de franchise van EUR 250 valt en daarom niet kan worden opgepakt door de juridische helpdesk. De beller wordt geverifieerd via het systeem (Zoho-koppeling), en er wordt inhoudelijk advies gegeven over de franchise-regeling en alternatieve opties (juridisch loket, geschillencommissie, klacht indienen).",
       "tags": [
         [
           "tag-consument",
@@ -59,7 +59,7 @@
       "tijd": "10:30",
       "titel": "Schadeclaim routeringsprocedure",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Een beller (Pratik) belt met een schadeclaim van ongeveer een week geleden en wil weten waar hij staat in het proces. De medewerker herkent dat dit een schadeclaim-routeringsvraag is die niet thuishoort bij de juridische helpdesk en verwijst de beller door naar de juiste afdeling (toets 3 op dezelfde nummer). De beller is automatisch geverifieerd via telefoonnummerkoppeling (Zoho-contactmatch), maar er is geen inhoudelijk juridisch advies gegeven.",
+      "samenvatting": "Een beller (Pratik) belt met een schadeclaim-gerelateerde vraag over een auto-ongeluk van ongeveer een week tot 10 dagen geleden. De medewerker herkent dat dit onderwerp niet onder de juridische helpdesk valt en verwijst de beller correct door naar de schadeclaim-afdeling (option 3 van dezelfde nummers). De beller is automatisch geverifieerd via telefoonnummer (W.J.F.C. Glaser in Zoho), maar geen inhoudelijk juridisch advies is gegeven omdat dit onderwerp niet bij juridische rechtsbijstand hoort.",
       "tags": [
         [
           "tag-overig",
@@ -80,7 +80,7 @@
       "tijd": "12:08",
       "titel": "Applicatie afwijzing",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt met een vraag over een afgewezen applicatie. De medewerker (Leila) bepaalt dat dit onderwerp niet onder de juridische helpdesk valt en verwijst de beller door naar optie 3 van het keuzemenu. De beller is niet geverifieerd en er is geen inhoudelijk juridisch advies gegeven.",
+      "samenvatting": "Beller belt over een afgewezen applicatie. De medewerker (Leila) herkent dit als niet onder juridische rechtsbijstand vallend en verwijst de beller door naar de juiste afdeling (toets 3 in het keuzemenu). De beller is niet geverifieerd en er is geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
           "tag-overig",
@@ -101,7 +101,7 @@
       "tijd": "13:36",
       "titel": "Fietsreis Colombia",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller informeert zich over dekking voor een fietsreis in Colombia waarbij een fiets wordt gehuurd bij een Duitse organisatie, met vragen over aansprakelijkheid bij diefstal en rechtsgeldige bepalingen onder Duits recht. De medewerker geeft algemeen advies dat conflicten met vakantierizen in principe gedekt zijn, maar wijst op onvoldoende kennis van Duits recht en verwijst naar algemene voorwaarden. Beller is niet geverifieerd tegen Lancyr-polis.",
+      "samenvatting": "Beller informeert zich over dekking voor fietsreis in Colombia (organisatie in Duitsland) en stelt vragen over aansprakelijkheid bij diefstal/schade volgens Duitse algemene voorwaarden. Medewerker geeft algemeen advies dat vakantiereisverzekering in principe conflicten dekt, maar kan geen uitspraken over Duits recht doen; adviseert beller de polis en Duitse voorwaarden zelf na te lezen. Identiteit van beller is niet geverifieerd (geen Zoho-match, geen verificatiepoging in transcript).",
       "tags": [
         [
           "tag-overig",
@@ -122,53 +122,51 @@
       "tijd": "14:00",
       "titel": "Vloerkleed kleur",
       "personen": "Verzekerde: J. Havelaar · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Klant Bombers/Boers belt terug over een vloerkkleedkwestie (kleurverschil) waarover eerder contact is geweest. De medewerker adviseert om het aangevraagde staaltje af te wachten, dit met het huidige product te vergelijken, en daarna opnieuw te bellen. Identiteit is geverifieerd via Zoho-koppeling; inhoudelijk advies is gegeven (wachten op staaltje en vergelijken).",
+      "samenvatting": "Een klant (Bombers/Boers) belt terug over een eerdere afspraak over de kleur van een vloerkleed. De medewerker adviseert af te wachten tot het aangevraagde kleurstaal morgen arriveert, waarna de klant kan terugbellen om de kleur te vergelijken. De beller is automatisch geverifieerd via telefoonnummer (Zoho-match), maar er is geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
-          "tag-consument",
-          "Consumentenrecht"
+          "tag-overig",
+          "Routering"
         ]
       ],
       "uitkomst": [
-        "outcome-terugbel",
-        "Terugbellen"
+        "outcome-verkeerd",
+        "Verkeerd nummer"
       ],
-      "terugbel": true,
-      "verkeerdVerbonden": false,
+      "terugbel": false,
+      "verkeerdVerbonden": true,
       "rechtsbijstandVerwijzing": false,
-      "adviesGegeven": true,
+      "adviesGegeven": false,
       "identiteitGeverifieerd": true
     }
   ],
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Medewerker herkent correct dat het onderwerp niet onder juridische advies valt en verwijst professioneel door naar de juiste afdeling (toets 3).",
-      "09:48 Franchise: Identiteit geverifieerd (W.J.F.C. Glaser), franchise van EUR 250 correct toegepast op schadeclaim van EUR 157,75, en inhoudelijk advies gegeven met verwijzing naar Juridisch Loket.",
-      "10:30 Schadeclaim routeringsprocedure: Medewerker herkent correct dat routeringsvragen niet onder juridische helpdesk vallen en verwijst adequaat door.",
-      "Drie van vijf gesprekken hebben identiteitsverificatie plaatsgevonden via automatische Zoho-herkenning."
+      "09:19 Card cancellation: Correcte herkenning dat kaartvervanging buiten juridische rechtsbijstand valt; juiste doorverwijzing naar afdeling 3.",
+      "09:48 Franchise: Beller geverifieerd, juiste toepassing van EUR 250-franchise op EUR 157,75-claim, inhoudelijk advies gegeven over alternatieve opties (juridisch loket, geschillencommissie).",
+      "10:30 Schadeclaim routeringsprocedure: Correcte herkenning dat auto-ongeluk-claim niet onder juridische helpdesk valt; beller geverifieerd en naar juiste afdeling (3) doorverwezen.",
+      "14:00 Vloerkleed kleur: Beller geverifieerd via telefoonnummer; correct inzicht dat vloerkleedkleur niet onder juridische rechtsbijstand valt."
     ],
     "beter": [
-      "13:36 Fietsreis Colombia: KRITIEK – Identiteit niet geverifieerd tegen Lancyr-polis voordat inhoudelijk juridisch advies over dekking werd gegeven. Medewerker gaf algemeen advies over vakantierizen zonder eerst de polis van de beller te controleren. Dit is een directe schending van de verificatienorm.",
-      "14:00 Vloerkleed kleur: KRITIEK – Dit is een verbruikersgeschil over productdescriptie (kleurverschil) en valt niet onder juridische advies. De medewerker behandelt dit als een juridische zaak en adviseert over vervolgstappen, maar dit hoort bij consumentenklantenservice, niet bij de juridische helpdesk.",
-      "14:00 Vloerkleed kleur: Geen concrete deadline afgesproken ('terugbellen' is te vaag) – wanneer moet de klant bellen na ontvangst staaltje?",
-      "12:08 Applicatie afwijzing: Identiteit niet geverifieerd voordat doorverwijzing plaatsvond. Hoewel het onderwerp niet onder juridische advies valt, zou automatische herkenning als beste practice hebben moeten plaatsvinden.",
-      "Herhaalcontact: 09:48 Franchise is een terugbelcall over eerder gesprek – geen notitie of vervolgdeadline uit voorgesprek zichtbaar vastgelegd."
+      "13:36 Fietsreis Colombia: KRITIEK – Beller is NIET geverifieerd in het systeem voordat juridisch advies werd gegeven. Geen Zoho-match genoemd, geen verificatiepoging ondernomen. Dit schrapt de kwaliteitsnorm polis+identiteit controleren vóór advies. Advies over vakantiereisverzekering en Duitse aansprakelijkheid is gegeven zonder bevestigde polisgegevens.",
+      "12:08 Applicatie afwijzing: Beller is niet geverifieerd. Hoewel doorverwijzing naar afdeling 3 correct is, had de medewerker eerst moeten proberen de beller in Zoho op te zoeken om zekerheid te hebben dat deze juridisc hulp zou kunnen ontvangen (indien het tóch onder rechtsbijstand zou vallen).",
+      "09:19 & 10:30: Bij beide 'Verkeerd nummer'-zaken ontbreekt een expliciete deadline/vervolgafspraak. Bellers zouden duidelijker moeten weten wanneer ze het juiste nummer bellen of wat de volgende stap is."
     ]
   },
   "verkeerdVerbonden": {
-    "aantal": 3,
-    "percentage": 50.0
+    "aantal": 4,
+    "percentage": 66.7
   },
   "rechtsbijstandVerwijzingen": 0,
   "categorieen": [
     [
       "Routering",
-      3
+      4
     ],
     [
       "Consumentenrecht",
-      2
+      1
     ],
     [
       "Reisverzekering",
