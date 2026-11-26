@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T15:20:37Z",
+  "generated_at": "2026-11-26T15:24:50Z",
   "totaalInbound": 12,
   "totaalGemist": 1,
   "terugGebeld": 1,
@@ -18,8 +18,8 @@
   "agenten": {
     "Ne-yadey van Duiven": {
       "beantwoord": 4,
-      "uitgaand": 2,
-      "gesprekstijdSec": 1927
+      "uitgaand": 4,
+      "gesprekstijdSec": 2350
     },
     "Leyla Pereira": {
       "beantwoord": 7,
