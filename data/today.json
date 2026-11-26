@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T09:27:44Z",
+  "generated_at": "2026-11-26T09:31:06Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
@@ -17,7 +17,7 @@
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller belde met een vraag over kaartcancellatie en wijziging van betaalmiddel. Dit is geen juridische vraag maar een administratieve/verzekeringsadministratieve aangelegenheid. De medewerker heeft correct doorverwezen naar de juiste afdeling (toets 3) en het gesprek beëindigd.",
+      "samenvatting": "Beller belt verkeerd nummer: vraagt naar kaartvervanging/polis-administratie (geen juridische vraag). Medewerker wijst beller correct door naar ander department (optie 3). Beller is automatisch geverifieerd via telefoonnummer (C. vanRhoon in Zoho), maar geen inhoudelijk juridisch advies gegeven omdat het onderwerp niet aan juridische helpdesk hoort.",
       "tags": [
         [
           "tag-overig",
@@ -38,7 +38,7 @@
       "tijd": "09:48",
       "titel": "Franchise",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller belt terug over een eerdere doorverwijzing naar Brandmeester vanwege een schade van EUR 157,75 die onder de franchise van EUR 250 valt. De medewerker legt uit dat Lancyr geen zaken onder EUR 250 kan aannemen en adviseert het Juridisch Loket, maar geeft verder geen inhoudelijk juridisch advies over de zaak zelf. De beller is geverifieerd via Zoho-contactpersoon W.J.F.C. Glaser.",
+      "samenvatting": "Beller belt terug naar aanleiding van een eerdere doorverwijzing naar 'Brandmeester' en vraagt uitleg over de franchise van EUR 250. De medewerker verklaart dat het schadebedrag EUR 157,75 is en onder de franchise van EUR 250 valt, waardoor geen dekking mogelijk is. Er is slechts eerstelijns advies gegeven (verwijzing naar juridisch loket en consumentengeschillencommissie), geen inhoudelijke juridische bijstand. De beller is geverifieerd via Zoho-match (contactpersoon W.J.F.C. Glaser).",
       "tags": [
         [
           "tag-consument",
@@ -59,14 +59,14 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Correct doorverwezen naar administratieve afdeling (toets 3) toen bleek dat dit geen juridische zaak was.",
-      "09:48 Franchise: Beller correct geverifieerd via Zoho-contactpersoon W.J.F.C. Glaser.",
-      "09:48 Franchise: Franchise-norm (EUR 250) correct toegepast; schade van EUR 157,75 valt onder de drempel en is terecht afgewezen.",
-      "09:48 Franchise: Medewerker heeft passend alternatief advies gegeven (Juridisch Loket) voor een zaak buiten dekking.",
-      "Geen herhaalcontact geconstateerd met dezelfde juridische vraag op dezelfde dag."
+      "09:19 Card cancellation: Correcte doorverwijzing naar ander department (optie 3) voor niet-juridische vraag — helpdesk-grenzen zijn goed gehanteerd.",
+      "09:19 Card cancellation: Identiteit automatisch geverifieerd via telefoonnummer (C. vanRhoon in Zoho) — verificatie in orde.",
+      "09:48 Franchise: Beller correct geverifieerd via Zoho-match (W.J.F.C. Glaser).",
+      "09:48 Franchise: Franchise-regel (EUR 250) correct toegepast — schadebedrag EUR 157,75 onder drempel, geen dekking terecht vastgesteld.",
+      "09:48 Franchise: Juiste verwijzingen gegeven (juridisch loket, consumentengeschillencommissie) als vervolgstap."
     ],
     "beter": [
-      "09:48 Franchise: Hoewel de doorverwijzing naar het Juridisch Loket passend is, zou het helpen om concreet af te spreken dat de beller daar contact opneemt en eventueel een vervolgcontact in te plannen indien het Juridisch Loket verwijst en nadere juridische hulp nodig is."
+      "09:48 Franchise: Herhaalcontact-signaal — beller belt 'terug naar aanleiding van eerdere doorverwijzing'. Geen notitie of vermelding dat deze herhaalcontact-context in het dossier is gedocumenteerd voor toekomstige contacten. Zorg dat dergelijke context altijd expliciet wordt vastgelegd."
     ]
   },
   "verkeerdVerbonden": {
