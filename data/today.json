@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T09:12:17Z",
+  "generated_at": "2026-11-26T09:20:14Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
@@ -17,7 +17,7 @@
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt verkeerd nummer: het gaat om een vraag over kaartvervanging/kaartcancellatie (bankzaken), niet om een juridische kwestie. De medewerker herkent dit correct en verwijst de beller door naar de juiste afdeling (toets 3). Identiteit is automatisch geverifieerd via Zoho, maar geen inhoudelijk juridisch advies gegeven omdat dit geen juridische helpdesk-zaak is.",
+      "samenvatting": "De beller belde met een vraag over kaartcancellatie en kaartvervanging, wat niet onder juridische rechtsbijstand valt. De medewerker herkende dat dit onderwerp niet bij de juridische helpdesk hoort en verwees de beller door naar de juiste afdeling (toets 3). De beller is automatisch geverifieerd via telefoonnummer, maar er is geen inhoudelijk juridisch advies gegeven omdat het om een verzekeringsadministratief onderwerp ging.",
       "tags": [
         [
           "tag-overig",
@@ -38,7 +38,7 @@
       "tijd": "09:48",
       "titel": "Franchise",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Een verzekerde belt terug na een eerder gesprek over een schadeclaim van EUR 157,75 die onder de franchise van EUR 250 valt en daarom niet wordt gedekt. De medewerker bevestigt dat de polis geen dekking biedt voor bedragen onder EUR 250 en geeft eerste-lijns advies over alternatieve stappen (juridisch loket, consumentengeschillencommissie). De beller is geverifieerd via automatische herkenning (Zoho-koppeling); inhoudelijk advies is gegeven over de franchise en geen-dekkingssituatie.",
+      "samenvatting": "Beller belt terug naar aanleiding van een eerdere doorverwijzing naar Brandmeester wegens franchise. De medewerker legt uit dat de polis een franchise van EUR 250 hanteert en het schadebedrag (EUR 157,75) onder dit bedrag ligt, dus geen dekking. Beller wordt niet geverifieerd (wel automatisch herkend via Zoho), medewerker geeft wel inhoudelijk advies over de franchise en verwijst naar juridisch loket als alternatief.",
       "tags": [
         [
           "tag-consument",
@@ -59,13 +59,15 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Medewerker herkent correct dat dit geen juridische zaak is en verwijst doelgericht door naar juiste afdeling (toets 3).",
-      "09:48 Franchise: Identiteit is geverifieerd via Zoho en dekkingscontrole (EUR 250 franchise) is correct vastgesteld en uitgelegerd.",
-      "09:48 Franchise: Medewerker biedt eerste-lijns advies over alternatieve stappen (juridisch loket, consumentengeschillencommissie) bij afwijzing claim.",
-      "Beide gesprekken: Routering en verwijzing naar juiste kanalen is professioneel uitgevoerd."
+      "09:19 Card cancellation: Medewerker herkende correct dat kaartcancellatie niet onder juridische rechtsbijstand valt en verwees doelbewust door naar de juiste afdeling (toets 3).",
+      "09:19 Card cancellation: Identiteit automatisch geverifieerd via telefoonnummer.",
+      "09:48 Franchise: Medewerker controleerde correct de franchise (EUR 250) en legde helder uit dat het schadebedrag (EUR 157,75) onder de drempel ligt, dus geen dekking.",
+      "09:48 Franchise: Medewerker bood alternatief aan (juridisch loket) toen dekking ontbrak.",
+      "Geen herhaalcontacten gedetecteerd op dezelfde onderwerpen binnen dezelfde dag."
     ],
     "beter": [
-      "09:48 Franchise: Bij herhaalcontact (beller belt terug na eerder gesprek) zou nuttig zijn geweest duidelijk vast te stellen of het vervolgcontact inhoudelijk gesloten is of dat nog verdere acties/deadlines voor de verzekerde gelden (bijv. indiening bij consumentengeschillencommissie)."
+      "09:48 Franchise: Hoewel de beller automatisch herkend werd via Zoho, ontbreekt documentatie dat de identiteit ook expliciet is geverifieerd (bijv. via polis- of burgerservicenummer) voordat inhoudelijk advies over de franchise werd gegeven. Best practice is dit moment vast te leggen.",
+      "09:48 Franchise: Geen concrete deadline of vervolgstap genoemd voor het juridisch loket als alternatief (bijv. 'bel maandag voor een afspraak')."
     ]
   },
   "verkeerdVerbonden": {
