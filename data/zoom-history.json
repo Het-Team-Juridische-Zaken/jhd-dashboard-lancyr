@@ -10411,24 +10411,24 @@
   "2026-11-26": {
     "agenten": {
       "Leyla Pereira": {
-        "beantwoord": 1,
-        "gesprekstijdSec": 42,
+        "beantwoord": 2,
+        "gesprekstijdSec": 669,
         "uitgaand": 0
       },
       "Ne-yadey van Duiven": {
-        "beantwoord": 0,
-        "gesprekstijdSec": 619,
+        "beantwoord": 1,
+        "gesprekstijdSec": 734,
         "uitgaand": 1
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-26",
-    "generated_at": "2026-11-26T08:53:49Z",
+    "generated_at": "2026-11-26T09:00:55Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
     "totaalGemist": 0,
-    "totaalInbound": 1
+    "totaalInbound": 3
   }
 }

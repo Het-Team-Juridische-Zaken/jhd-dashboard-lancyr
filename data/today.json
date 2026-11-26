@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T08:53:54Z",
+  "generated_at": "2026-11-26T09:01:02Z",
   "drukte": "rustig",
   "gesprekken": 1,
   "stats": {
@@ -17,7 +17,7 @@
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt met vraag over kaartvervanging en annulering van oude kaart. Dit is een administratieve/verzekeringstechnische vraag die niet onder juridische rechtsbijstand valt. Medewerker correct doorverwezen naar juiste afdeling (toets 3) en geen inhoudelijk juridisch advies gegeven.",
+      "samenvatting": "De beller belde met een vraag over kaartvervanging en administratieve verwerking daarvan, wat niet onder juridisch advies valt. De medewerker erkende dat dit het verkeerde nummer was en verwees de beller door naar de juiste afdeling (toets 3). De beller is wel automatisch geverifieerd in het systeem op telefoonnummer, maar er is geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
           "tag-overig",
@@ -38,12 +38,12 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Identiteit correct geverifieerd voordat actie werd ondernomen",
-      "09:19 Card cancellation: Medewerker herkende juist dat dit geen juridische zaak betreft en verwees correct door naar juiste afdeling (toets 3)",
-      "09:19 Card cancellation: Geen ongefundeerd juridisch advies gegeven voor administratieve materie"
+      "09:19 Card cancellation: Medewerker herkende correct dat dit geen juridische zaak was en verwees de beller door naar de juiste afdeling (toets 3), wat de juiste procedure is.",
+      "09:19 Card cancellation: Beller werd automatisch geverifieerd in het systeem op telefoonnummer, dus identiteitscontrole was in orde.",
+      "09:19 Card cancellation: Geen juridisch advies gegeven voor een niet-juridische kwestie, wat correct is."
     ],
     "beter": [
-      "09:19 Card cancellation: Onduidelijk of beller een vervolgstap of referentienummer heeft gekregen voor de doorverwijzing naar de juiste afdeling"
+      "09:19 Card cancellation: Geen vervolgplan of vervolgcontact afgesproken na doorverwijzing; het zou helpen om de beller een concrete timing mee te geven wanneer de doorverwezen afdeling contact opneemt of wanneer zij zelf contact op kunnen nemen."
     ]
   },
   "verkeerdVerbonden": {
