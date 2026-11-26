@@ -1,17 +1,25 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T11:50:37Z",
-  "totaalInbound": 5,
-  "totaalGemist": 0,
-  "terugGebeld": 0,
+  "generated_at": "2026-11-26T11:54:09Z",
+  "totaalInbound": 6,
+  "totaalGemist": 1,
+  "terugGebeld": 1,
   "nietTerugGebeld": 0,
   "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31651434619",
+      "naam": "Onbekend",
+      "tijd": "12:52",
+      "callResult": "abandoned",
+      "teruggebeld": true
+    }
+  ],
   "agenten": {
     "Leyla Pereira": {
       "beantwoord": 4,
-      "uitgaand": 0,
-      "gesprekstijdSec": 787
+      "uitgaand": 1,
+      "gesprekstijdSec": 795
     },
     "Dewi Verver": {
       "beantwoord": 0,

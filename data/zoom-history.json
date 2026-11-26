@@ -10417,8 +10417,8 @@
       },
       "Leyla Pereira": {
         "beantwoord": 4,
-        "gesprekstijdSec": 787,
-        "uitgaand": 0
+        "gesprekstijdSec": 795,
+        "uitgaand": 1
       },
       "Ne-yadey van Duiven": {
         "beantwoord": 1,
@@ -10426,14 +10426,22 @@
         "uitgaand": 2
       }
     },
-    "alleGemistNummers": [],
+    "alleGemistNummers": [
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31651434619",
+        "teruggebeld": true,
+        "tijd": "12:52"
+      }
+    ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-26",
-    "generated_at": "2026-11-26T11:50:37Z",
+    "generated_at": "2026-11-26T11:54:09Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
-    "terugGebeld": 0,
-    "totaalGemist": 0,
-    "totaalInbound": 5
+    "terugGebeld": 1,
+    "totaalGemist": 1,
+    "totaalInbound": 6
   }
 }
