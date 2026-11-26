@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T08:28:20Z",
+  "generated_at": "2026-11-26T08:30:50Z",
   "drukte": "rustig",
   "gesprekken": 1,
   "stats": {
@@ -17,7 +17,7 @@
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller heeft een vraag over kaartvervanging en annulering, wat een verzekeringsadministratieve/operationele vraag is en niet onder de juridische helpdesk valt. De medewerker erkent dit juist en verwijst de beller door naar de juiste afdeling (toets 3). De beller is automatisch geverifieerd via telefoonnummer (Zoho-match), maar er is geen inhoudelijk juridisch advies gegeven omdat dit onderwerp niet bij de juridische helpdesk hoort.",
+      "samenvatting": "Beller belt met vraag over kaartcancellatie en wijziging naar nieuwe kaart. Dit is geen juridische vraag maar een verzekeringsadministratieve/betaalmiddelen-vraag. De medewerker herkent correct dat dit niet onder de juridische helpdesk valt en verwijst de beller door naar het juiste departement (toets 3).",
       "tags": [
         [
           "tag-overig",
@@ -38,12 +38,11 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Medewerker herkent juist dat dit een operationele/administratieve vraag is en niet onder de juridische helpdesk valt. Correcte doorverwijzing naar juiste afdeling (toets 3) uitgevoerd.",
-      "09:19 Card cancellation: Identiteit automatisch geverifieerd via telefoonnummer (Zoho-match), geen onnodig verificatieproces.",
-      "09:19 Card cancellation: Passende afhandeling van out-of-scope vraag zonder onnodige duur."
+      "09:19 Card cancellation: Medewerker herkende correct dat de vraag over kaartcancellatie en betaalmiddelen niet onder juridische hulp valt en verwees professioneel door naar het juiste departement (toets 3).",
+      "09:19 Card cancellation: Identiteit werd geverifieerd voordat werd vastgesteld dat dit buiten de competentie viel."
     ],
     "beter": [
-      "09:19 Card cancellation: Zou beter zijn om bij doorverwijzing ook concrete stappen voor de beller te benoemen (bijv. 'U wordt nu doorverbonden met afdeling X, die uw kaartvervanging kan afhandelen')."
+      "09:19 Card cancellation: Geen vervolgplan of concrete deadline vastgelegd voor contact met het juiste departement (of geen toelichting gegeven dat de beller rechtstreeks doorverbonden werd)."
     ]
   },
   "verkeerdVerbonden": {
