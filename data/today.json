@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T09:20:46Z",
+  "generated_at": "2026-11-26T09:27:44Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
@@ -17,7 +17,7 @@
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt met vraag over annulering van oude betaalpas na overstap naar nieuwe pas. Dit is geen juridische vraag maar een administratieve/klantenservice-vraag. Medewerker correct doorverwezen naar de juiste afdeling (toets 3). Beller werd automatisch herkend in het systeem (C. vanRhoon), maar geen juridisch advies gegeven omdat de zaak buiten de scope van de juridische helpdesk valt.",
+      "samenvatting": "De beller belde met een vraag over kaartcancellatie en wijziging van betaalmiddel. Dit is geen juridische vraag maar een administratieve/verzekeringsadministratieve aangelegenheid. De medewerker heeft correct doorverwezen naar de juiste afdeling (toets 3) en het gesprek beëindigd.",
       "tags": [
         [
           "tag-overig",
@@ -38,7 +38,7 @@
       "tijd": "09:48",
       "titel": "Franchise",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller met consumentenschade van EUR 157,75 belt terug naar aanleiding van eerdere gesprek waarin doorverwijzing naar 'Brandmeester' (rechtsbijstand) plaatsvond vanwege franchisegrens. Medewerker bevestigt dat schade onder de EUR 250 franchise valt en daarom geen dekking; beller is geverifieerd via Zoho-match (W.J.F.C. Glaser). Medewerker geeft inhoudelijk advies over franchise en verwijst naar juridisch loket en klachtprocedure; geen verdere juridische bijstand mogelijk onder de polis.",
+      "samenvatting": "De beller belt terug over een eerdere doorverwijzing naar Brandmeester vanwege een schade van EUR 157,75 die onder de franchise van EUR 250 valt. De medewerker legt uit dat Lancyr geen zaken onder EUR 250 kan aannemen en adviseert het Juridisch Loket, maar geeft verder geen inhoudelijk juridisch advies over de zaak zelf. De beller is geverifieerd via Zoho-contactpersoon W.J.F.C. Glaser.",
       "tags": [
         [
           "tag-consument",
@@ -59,14 +59,14 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Medewerker herkende correct dat dit geen juridische zaak is en verwees beller professioneel door naar de juiste afdeling (toets 3) in plaats van tijd te verspillen aan off-topic hulp.",
-      "09:19 Card cancellation: Identiteit correct geverifieerd via automatische systeemherkenning (C. vanRhoon).",
-      "09:48 Franchise: Medewerker voerde correcte dekkingscontrole uit en stelde vast dat EUR 157,75 onder de EUR 250 franchise valt, waarmee geen dekking beschikbaar is.",
-      "09:48 Franchise: Identiteit zorgvuldig geverifieerd via Zoho-match (W.J.F.C. Glaser) voordat advies werd gegeven.",
-      "09:48 Franchise: Medewerker gaf beller constructief vervolgadvies (juridisch loket, klachtprocedure) ondanks afwezigheid van polisdekking."
+      "09:19 Card cancellation: Correct doorverwezen naar administratieve afdeling (toets 3) toen bleek dat dit geen juridische zaak was.",
+      "09:48 Franchise: Beller correct geverifieerd via Zoho-contactpersoon W.J.F.C. Glaser.",
+      "09:48 Franchise: Franchise-norm (EUR 250) correct toegepast; schade van EUR 157,75 valt onder de drempel en is terecht afgewezen.",
+      "09:48 Franchise: Medewerker heeft passend alternatief advies gegeven (Juridisch Loket) voor een zaak buiten dekking.",
+      "Geen herhaalcontact geconstateerd met dezelfde juridische vraag op dezelfde dag."
     ],
     "beter": [
-      "09:48 Franchise: Geen concrete deadline of vervolgcontactdatum vastgelegd voor eventuele escalatie via klachtprocedure of nader overleg. Een expliciete afspraak (bijv. 'we nemen contact op binnen 3 werkdagen') zou de servicestandaard verhogen."
+      "09:48 Franchise: Hoewel de doorverwijzing naar het Juridisch Loket passend is, zou het helpen om concreet af te spreken dat de beller daar contact opneemt en eventueel een vervolgcontact in te plannen indien het Juridisch Loket verwijst en nadere juridische hulp nodig is."
     ]
   },
   "verkeerdVerbonden": {
