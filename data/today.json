@@ -1,27 +1,59 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T08:13:49Z",
+  "generated_at": "2026-11-26T08:20:41Z",
   "drukte": "rustig",
-  "gesprekken": 0,
+  "gesprekken": 1,
   "stats": {
     "opgelost": 0,
     "brandmeester": 0,
     "afkoop": 0,
     "terugbel": 0,
     "geenDekking": 0,
-    "verkeerdNummer": 0
+    "verkeerdNummer": 1
   },
-  "score": 0,
-  "conversations": [],
+  "score": 8.5,
+  "conversations": [
+    {
+      "tijd": "09:19",
+      "titel": "Card cancellation",
+      "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
+      "samenvatting": "Beller belt met een vraag over kaartcancellation en cardwissel, een administratieve/operationele verzekeringsquaestie. De beller is automatisch herkend via telefoonnummer (C. vanRhoon, Zoho-match). Dit is geen juridische vraag maar een administratieve routering naar de juiste afdeling (premie/administratie).",
+      "tags": [
+        [
+          "tag-overig",
+          "Routering"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-verkeerd",
+        "Verkeerd nummer"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": true,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": false,
+      "identiteitGeverifieerd": true
+    }
+  ],
   "acties": [],
   "analyse": {
-    "goed": [],
-    "beter": []
+    "goed": [
+      "09:19 Card cancellation: Identiteit correct geverifieerd via telefoonnummer (C. vanRhoon, Zoho-match)",
+      "09:19 Card cancellation: Medewerker herkende juist dat dit een administratieve vraag is, niet juridisch, en routeerde correct door naar de juiste afdeling (premie/administratie) in plaats van onterecht juridisch advies te geven"
+    ],
+    "beter": [
+      "09:19 Card cancellation: Onduidelijk of medewerker een concrete deadline of vervolgcontact heeft afgesproken voor de doorverwijzing naar premie/administratie (bijv. 'u krijgt vandaag nog contact van afdeling X' of 'bel morgen terug naar nummer Y')"
+    ]
   },
   "verkeerdVerbonden": {
-    "aantal": 0,
-    "percentage": 0.0
+    "aantal": 1,
+    "percentage": 100.0
   },
   "rechtsbijstandVerwijzingen": 0,
-  "categorieen": []
+  "categorieen": [
+    [
+      "Routering",
+      1
+    ]
+  ]
 }
