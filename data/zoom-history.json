@@ -10414,12 +10414,17 @@
         "beantwoord": 1,
         "gesprekstijdSec": 42,
         "uitgaand": 0
+      },
+      "Ne-yadey van Duiven": {
+        "beantwoord": 0,
+        "gesprekstijdSec": 619,
+        "uitgaand": 1
       }
     },
     "alleGemistNummers": [],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-26",
-    "generated_at": "2026-11-26T08:36:13Z",
+    "generated_at": "2026-11-26T08:40:45Z",
     "nietTerugGebeld": 0,
     "nietTerugGebeldNummers": [],
     "terugGebeld": 0,
