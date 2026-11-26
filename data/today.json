@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T12:10:56Z",
+  "generated_at": "2026-11-26T12:14:48Z",
   "drukte": "matig",
   "gesprekken": 4,
   "stats": {
@@ -11,13 +11,13 @@
     "geenDekking": 1,
     "verkeerdNummer": 3
   },
-  "score": 7.8,
+  "score": 6.1,
   "conversations": [
     {
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt met vraag over kaartcancellation (bankkaart/betaalmiddel), wat niet onder juridische rechtsbijstand valt. Medewerker herkent dit correct en verwijst beller door naar de juiste afdeling (toets 3). Beller is automatisch geverifieerd via telefoonnummer, maar er is geen inhoudelijk juridisch advies gegeven omdat het onderwerp niet tot de juridische helpdesk behoort.",
+      "samenvatting": "Beller belt over kaartvervanging (geen juridische zaak). De medewerker herkent dat dit niet bij de juridische helpdesk hoort en verwijst de beller door naar de juiste afdeling (toets 3). Geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
           "tag-overig",
@@ -38,7 +38,7 @@
       "tijd": "09:48",
       "titel": "Franchise",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt terug naar HTJZ voor uitleg over de franchise van EUR 250 bij consumentenzaken. De medewerker legt uit dat de schadeclaim van EUR 157,75 onder de franchise valt en daarom niet door HTJZ kan worden opgepakt; eerste lijnsjuridisch advies en verwijzing naar het Juridisch Loket zijn de enige opties. De beller uit frustratie over de regeling en het gebrek aan daadwerkelijke rechtshulp voor kleine bedragen.",
+      "samenvatting": "Beller belt terug naar de helpdesk omdat een collega hem eerder had doorverwezen naar Brandmeester vanwege een schade van EUR 157,75 (onder de franchise van EUR 250). De medewerker legt uit dat Lancyr geen zaken onder EUR 250 kan aannemen en raadt het Juridisch Loket aan. Beller is geverifieerd via Zoho-match, maar inhoudelijk juridisch advies over de zaak zelf (het geschil met het bedrijf) is niet gegeven – alleen uitleg over de franchise en verwijzingen naar alternatieven.",
       "tags": [
         [
           "tag-consument",
@@ -52,14 +52,14 @@
       "terugbel": false,
       "verkeerdVerbonden": false,
       "rechtsbijstandVerwijzing": false,
-      "adviesGegeven": true,
+      "adviesGegeven": false,
       "identiteitGeverifieerd": true
     },
     {
       "tijd": "10:30",
       "titel": "Schadeclaim routeringsprocedure",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller Pratik belt over een schadeclaim naar aanleiding van een verkeersongeval van ongeveer een week geleden en wil begeleiding bij het proces. De medewerker herkent dat dit een schadeclaim-routeringsvraag is die niet onder de juridische helpdesk valt en verwijst de beller door naar het juiste menu-optie (toets 3) bij dezelfde nummering. De beller is automatisch geverifieerd via telefoonnummer (W.J.F.C. Glaser), maar er is geen inhoudelijk juridisch advies gegeven omdat dit onderwerp niet onder deze juridische helpdesk hoort.",
+      "samenvatting": "Een verzekerde (Pratik) belde met een schadeclaim van ongeveer een week tot 10 dagen geleden en wilde begeleiding bij het schadeprocés. De medewerker van de juridische helpdesk gaf aan niet bevoegd te zijn voor schadeclaims en verwees de beller door naar een ander menu-optie (toets 3) bij dezelfde helpdesknummer. De beller werd niet geverifieerd en kreeg geen inhoudelijk juridisch advies.",
       "tags": [
         [
           "tag-overig",
@@ -80,7 +80,7 @@
       "tijd": "12:08",
       "titel": "Applicatie afwijzing",
       "personen": "Verzekerde: anoniem · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller belde de juridische helpdesk van Lancyr maar had een vraag over een afgewezen applicatie (vermoedelijk verzekeringsaanvraag/administratief), hetgeen niet onder juridische rechtsbijstand valt. De medewerker (Leila) herkende dit direct en verwees de beller door naar het juiste telefoonnummer/menu-optie (toets 3). Er was geen verificatie en geen juridisch advies nodig.",
+      "samenvatting": "Beller belt met vraag over afwijzing van een applicatie. Medewerker Leila herkent dat dit onderwerp niet onder juridische rechtsbijstand valt en verwijst beller door naar het juiste keuzemenu-nummer (optie 3) voor applicatiekwesties. Beller is niet geverifieerd en er is geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
           "tag-overig",
@@ -101,14 +101,16 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 (Card cancellation): Medewerker herkent correct dat kaartcancellation buiten juridische helpdesk valt en verwijst doelgericht door (toets 3)",
-      "09:48 (Franchise): Medewerker legt franchise-regel (EUR 250) correct uit en adviseert beller over alternatieve routes (Juridisch Loket) voor niet-gedekte claim van EUR 157,75",
-      "10:30 (Schadeclaim routeringsprocedure): Medewerker herkent correct dat schadeclaim-routering niet onder juridische helpdesk valt en verwijst door naar juiste menu-optie; automatische verificatie via telefoonnummer werkt naar behoren",
-      "Consistente lijnvoering: Alle drie niet-juridische onderwerpen worden herkend en correct doorgeseind zonder inhoudelijk advies"
+      "09:19 (Card cancellation): Medewerker herkent correct dat kaartvervanging niet bij juridische helpdesk hoort en verwijst direct door naar juiste afdeling.",
+      "09:48 (Franchise): Beller geverifieerd via Zoho-match; medewerker legt franchisedrempel (EUR 250) correct uit en geeft passende verwijzing naar Juridisch Loket.",
+      "10:30 (Schadeclaim routeringsprocedure): Medewerker herkent correct dat schadeclaims niet onder juridische helpdesk vallen en verwijst door naar passende afdeling.",
+      "12:08 (Applicatie afwijzing): Medewerker Leila herkent correct dat applicatiekwesties niet onder juridische rechtsbijstand vallen en verwijst door."
     ],
     "beter": [
-      "12:08 (Applicatie afwijzing): Beller is NIET geverifieerd alvorens door te verwijzen. Hoewel doorzending naar toets 3 correct is, had medewerker (Leila) eerst identiteit kunnen checken via polis/telefoonnummer om zeker te zijn dat beller bij Lancyr klant is",
-      "09:48 (Franchise): Geen concrete deadline benoemd voor vervolgstappen of contact met Juridisch Loket (bijv. 'binnen 2 werkdagen aanbellen')"
+      "09:48 (Franchise): Herhaalcontact - beller belt terug omdat eerder (door collega) is doorverwezen naar Brandmeester. Zet notitie in systeem dat beller al contact heeft gehad, om herhaalcontact te voorkomen.",
+      "10:30 (Schadeclaim routeringsprocedure): Ondanks opmerking dat beller geverifieerd is als 'true' in de data: de samenvatting meldt 'beller werd niet geverifieerd' – controleer de vastlegging in Zoho. Zorg voor consistent verificatieproces.",
+      "12:08 (Applicatie afwijzing): Beller is NIET geverifieerd (identiteit_geverifieerd = false). Bij doorverwijzing naar ander keuzemenu (optie 3) op dezelfde helpdesknummer: verduidelijk waar nodig dat beller zich opnieuw dient in te loggen of gegevens dient in te voeren voor verificatie bij het nieuwe menu.",
+      "Dagelijks patroon: Veel calls (4 van 4) zijn 'verkeerd nummer' / buitenaf competentie. Controleer IVR-routing en zelfhulpopties om onnodige doorverwijzingen te reduceren."
     ]
   },
   "verkeerdVerbonden": {
