@@ -1,23 +1,23 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T09:01:02Z",
+  "generated_at": "2026-11-26T09:10:49Z",
   "drukte": "rustig",
-  "gesprekken": 1,
+  "gesprekken": 2,
   "stats": {
     "opgelost": 0,
     "brandmeester": 0,
     "afkoop": 0,
     "terugbel": 0,
-    "geenDekking": 0,
+    "geenDekking": 1,
     "verkeerdNummer": 1
   },
-  "score": 8.5,
+  "score": 8.1,
   "conversations": [
     {
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller belde met een vraag over kaartvervanging en administratieve verwerking daarvan, wat niet onder juridisch advies valt. De medewerker erkende dat dit het verkeerde nummer was en verwees de beller door naar de juiste afdeling (toets 3). De beller is wel automatisch geverifieerd in het systeem op telefoonnummer, maar er is geen inhoudelijk juridisch advies gegeven.",
+      "samenvatting": "De beller belde met een vraag over kaartcancelatie (bank-/creditcard-gerelateerd), wat niet onder de juridische helpdesk van Lancyr valt. De medewerker herkende dat het onderwerp niet relevant is voor juridische advies en verwees de beller door naar de juiste afdeling (toets 3). Geen inhoudelijk juridisch advies gegeven.",
       "tags": [
         [
           "tag-overig",
@@ -33,27 +33,54 @@
       "rechtsbijstandVerwijzing": false,
       "adviesGegeven": false,
       "identiteitGeverifieerd": true
+    },
+    {
+      "tijd": "09:48",
+      "titel": "Franchise",
+      "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
+      "samenvatting": "Beller belt terug naar juridische helpdesk omdat een collega hem eerder had doorverwezen naar Brandmeester vanwege een schade onder de franchise van EUR 250. De medewerker bevestigt dat het schadebedrag EUR 157,75 is en dat dit onder de franchisegrens van EUR 250 valt, waardoor geen dekking bestaat. De beller uit felle kritiek op de franchiseregeling en vraagt naar alternatieven (juridisch loket, geschillencommissie, klachten bij Alsiër); de medewerker geeft eerste-lijnsadvies maar kan niet verder helpen.",
+      "tags": [
+        [
+          "tag-consument",
+          "Consumentenrecht"
+        ]
+      ],
+      "uitkomst": [
+        "outcome-geen-dekking",
+        "Geen dekking"
+      ],
+      "terugbel": false,
+      "verkeerdVerbonden": false,
+      "rechtsbijstandVerwijzing": false,
+      "adviesGegeven": true,
+      "identiteitGeverifieerd": true
     }
   ],
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Medewerker herkende correct dat dit geen juridische zaak was en verwees de beller door naar de juiste afdeling (toets 3), wat de juiste procedure is.",
-      "09:19 Card cancellation: Beller werd automatisch geverifieerd in het systeem op telefoonnummer, dus identiteitscontrole was in orde.",
-      "09:19 Card cancellation: Geen juridisch advies gegeven voor een niet-juridische kwestie, wat correct is."
+      "09:19 Card cancellation: Medewerker herkende correct dat het onderwerp buiten de juridische helpdesk valt en verwees professioneel door naar juiste afdeling (toets 3).",
+      "09:48 Franchise: Medewerker voerde correcte dekkingscontrole uit, bevestigde schadebedrag EUR 157,75 en stelde vast dat dit onder franchise EUR 250 valt.",
+      "09:48 Franchise: Beller was geverifieerd; medewerker gaf eerste-lijnsadvies over alternatieven (juridisch loket, geschillencommissie, klachtenprocedure).",
+      "Beide gesprekken: Identiteit werd in beide gevallen geverifieerd, wat voldoet aan kwaliteitsnorm."
     ],
     "beter": [
-      "09:19 Card cancellation: Geen vervolgplan of vervolgcontact afgesproken na doorverwijzing; het zou helpen om de beller een concrete timing mee te geven wanneer de doorverwezen afdeling contact opneemt of wanneer zij zelf contact op kunnen nemen."
+      "09:48 Franchise: Bij herhaalcontact (beller belde al eerder over dezelfde zaak via doorverwijzing naar Brandmeester) zou expliciete vermelding in het dossier van dit vervolgcontact en eventuele vervolgstappen (bijv. contact met klachtencommissie) de continuïteit verbeteren.",
+      "09:48 Franchise: Hoewel alternatieven werden genoemd, ontbreekt een concrete deadline of vervolgafspraak voor eventuele escalatie naar geschillencommissie of juridisch loket."
     ]
   },
   "verkeerdVerbonden": {
     "aantal": 1,
-    "percentage": 100.0
+    "percentage": 50.0
   },
   "rechtsbijstandVerwijzingen": 0,
   "categorieen": [
     [
       "Routering",
+      1
+    ],
+    [
+      "Consumentenrecht",
       1
     ]
   ]
