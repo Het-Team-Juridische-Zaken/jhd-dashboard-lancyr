@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T09:10:49Z",
+  "generated_at": "2026-11-26T09:12:17Z",
   "drukte": "rustig",
   "gesprekken": 2,
   "stats": {
@@ -17,7 +17,7 @@
       "tijd": "09:19",
       "titel": "Card cancellation",
       "personen": "Verzekerde: C. vanRhoon · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "De beller belde met een vraag over kaartcancelatie (bank-/creditcard-gerelateerd), wat niet onder de juridische helpdesk van Lancyr valt. De medewerker herkende dat het onderwerp niet relevant is voor juridische advies en verwees de beller door naar de juiste afdeling (toets 3). Geen inhoudelijk juridisch advies gegeven.",
+      "samenvatting": "Beller belt verkeerd nummer: het gaat om een vraag over kaartvervanging/kaartcancellatie (bankzaken), niet om een juridische kwestie. De medewerker herkent dit correct en verwijst de beller door naar de juiste afdeling (toets 3). Identiteit is automatisch geverifieerd via Zoho, maar geen inhoudelijk juridisch advies gegeven omdat dit geen juridische helpdesk-zaak is.",
       "tags": [
         [
           "tag-overig",
@@ -38,7 +38,7 @@
       "tijd": "09:48",
       "titel": "Franchise",
       "personen": "Verzekerde: W.J.F.C. Glaser · Leyla Pereira | Juridisch medewerker",
-      "samenvatting": "Beller belt terug naar juridische helpdesk omdat een collega hem eerder had doorverwezen naar Brandmeester vanwege een schade onder de franchise van EUR 250. De medewerker bevestigt dat het schadebedrag EUR 157,75 is en dat dit onder de franchisegrens van EUR 250 valt, waardoor geen dekking bestaat. De beller uit felle kritiek op de franchiseregeling en vraagt naar alternatieven (juridisch loket, geschillencommissie, klachten bij Alsiër); de medewerker geeft eerste-lijnsadvies maar kan niet verder helpen.",
+      "samenvatting": "Een verzekerde belt terug na een eerder gesprek over een schadeclaim van EUR 157,75 die onder de franchise van EUR 250 valt en daarom niet wordt gedekt. De medewerker bevestigt dat de polis geen dekking biedt voor bedragen onder EUR 250 en geeft eerste-lijns advies over alternatieve stappen (juridisch loket, consumentengeschillencommissie). De beller is geverifieerd via automatische herkenning (Zoho-koppeling); inhoudelijk advies is gegeven over de franchise en geen-dekkingssituatie.",
       "tags": [
         [
           "tag-consument",
@@ -59,14 +59,13 @@
   "acties": [],
   "analyse": {
     "goed": [
-      "09:19 Card cancellation: Medewerker herkende correct dat het onderwerp buiten de juridische helpdesk valt en verwees professioneel door naar juiste afdeling (toets 3).",
-      "09:48 Franchise: Medewerker voerde correcte dekkingscontrole uit, bevestigde schadebedrag EUR 157,75 en stelde vast dat dit onder franchise EUR 250 valt.",
-      "09:48 Franchise: Beller was geverifieerd; medewerker gaf eerste-lijnsadvies over alternatieven (juridisch loket, geschillencommissie, klachtenprocedure).",
-      "Beide gesprekken: Identiteit werd in beide gevallen geverifieerd, wat voldoet aan kwaliteitsnorm."
+      "09:19 Card cancellation: Medewerker herkent correct dat dit geen juridische zaak is en verwijst doelgericht door naar juiste afdeling (toets 3).",
+      "09:48 Franchise: Identiteit is geverifieerd via Zoho en dekkingscontrole (EUR 250 franchise) is correct vastgesteld en uitgelegerd.",
+      "09:48 Franchise: Medewerker biedt eerste-lijns advies over alternatieve stappen (juridisch loket, consumentengeschillencommissie) bij afwijzing claim.",
+      "Beide gesprekken: Routering en verwijzing naar juiste kanalen is professioneel uitgevoerd."
     ],
     "beter": [
-      "09:48 Franchise: Bij herhaalcontact (beller belde al eerder over dezelfde zaak via doorverwijzing naar Brandmeester) zou expliciete vermelding in het dossier van dit vervolgcontact en eventuele vervolgstappen (bijv. contact met klachtencommissie) de continuïteit verbeteren.",
-      "09:48 Franchise: Hoewel alternatieven werden genoemd, ontbreekt een concrete deadline of vervolgafspraak voor eventuele escalatie naar geschillencommissie of juridisch loket."
+      "09:48 Franchise: Bij herhaalcontact (beller belt terug na eerder gesprek) zou nuttig zijn geweest duidelijk vast te stellen of het vervolgcontact inhoudelijk gesloten is of dat nog verdere acties/deadlines voor de verzekerde gelden (bijv. indiening bij consumentengeschillencommissie)."
     ]
   },
   "verkeerdVerbonden": {
