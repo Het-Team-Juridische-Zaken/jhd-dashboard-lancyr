@@ -10448,8 +10448,8 @@
     "agenten": {
       "Ne-yadey van Duiven": {
         "beantwoord": 5,
-        "gesprekstijdSec": 1287,
-        "uitgaand": 0
+        "gesprekstijdSec": 1539,
+        "uitgaand": 1
       }
     },
     "alleGemistNummers": [
@@ -10463,7 +10463,7 @@
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-27",
-    "generated_at": "2026-11-27T09:40:35Z",
+    "generated_at": "2026-11-27T09:44:00Z",
     "nietTerugGebeld": 1,
     "nietTerugGebeldNummers": [
       {
