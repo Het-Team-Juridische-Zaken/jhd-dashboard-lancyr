@@ -1,12 +1,34 @@
 {
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T08:10:36Z",
-  "totaalInbound": 0,
-  "totaalGemist": 0,
+  "generated_at": "2026-11-27T08:13:38Z",
+  "totaalInbound": 2,
+  "totaalGemist": 1,
   "terugGebeld": 0,
-  "nietTerugGebeld": 0,
-  "nietTerugGebeldNummers": [],
-  "alleGemistNummers": [],
-  "agenten": {},
+  "nietTerugGebeld": 1,
+  "nietTerugGebeldNummers": [
+    {
+      "nummer": "+31647641190",
+      "naam": "Onbekend",
+      "tijd": "09:04",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
+  "alleGemistNummers": [
+    {
+      "nummer": "+31647641190",
+      "naam": "Onbekend",
+      "tijd": "09:04",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    }
+  ],
+  "agenten": {
+    "Ne-yadey van Duiven": {
+      "beantwoord": 1,
+      "uitgaand": 0,
+      "gesprekstijdSec": 405
+    }
+  },
   "beantwoordZonderAgent": 0
 }
