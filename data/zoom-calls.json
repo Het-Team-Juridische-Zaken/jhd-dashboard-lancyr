@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T12:10:37Z",
-  "totaalInbound": 9,
+  "generated_at": "2026-11-27T12:14:53Z",
+  "totaalInbound": 10,
   "totaalGemist": 2,
   "terugGebeld": 0,
   "nietTerugGebeld": 2,
@@ -39,9 +39,9 @@
   ],
   "agenten": {
     "Ne-yadey van Duiven": {
-      "beantwoord": 7,
+      "beantwoord": 8,
       "uitgaand": 1,
-      "gesprekstijdSec": 1679
+      "gesprekstijdSec": 1752
     }
   },
   "beantwoordZonderAgent": 0
