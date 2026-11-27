@@ -1,15 +1,22 @@
 {
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T11:43:54Z",
-  "totaalInbound": 8,
-  "totaalGemist": 1,
+  "generated_at": "2026-11-27T11:50:40Z",
+  "totaalInbound": 9,
+  "totaalGemist": 2,
   "terugGebeld": 0,
-  "nietTerugGebeld": 1,
+  "nietTerugGebeld": 2,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31647641190",
       "naam": "Onbekend",
       "tijd": "09:04",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31643998861",
+      "naam": "Onbekend",
+      "tijd": "12:35",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -19,6 +26,13 @@
       "nummer": "+31647641190",
       "naam": "Onbekend",
       "tijd": "09:04",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31643998861",
+      "naam": "Onbekend",
+      "tijd": "12:35",
       "callResult": "overflowed",
       "teruggebeld": false
     }

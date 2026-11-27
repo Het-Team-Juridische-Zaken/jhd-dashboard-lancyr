@@ -10459,12 +10459,19 @@
         "nummer": "+31647641190",
         "teruggebeld": false,
         "tijd": "09:04"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643998861",
+        "teruggebeld": false,
+        "tijd": "12:35"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-27",
-    "generated_at": "2026-11-27T11:43:54Z",
-    "nietTerugGebeld": 1,
+    "generated_at": "2026-11-27T11:50:40Z",
+    "nietTerugGebeld": 2,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -10472,10 +10479,17 @@
         "nummer": "+31647641190",
         "teruggebeld": false,
         "tijd": "09:04"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31643998861",
+        "teruggebeld": false,
+        "tijd": "12:35"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 1,
-    "totaalInbound": 8
+    "totaalGemist": 2,
+    "totaalInbound": 9
   }
 }
