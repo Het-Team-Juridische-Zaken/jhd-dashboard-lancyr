@@ -10448,8 +10448,8 @@
     "agenten": {
       "Ne-yadey van Duiven": {
         "beantwoord": 14,
-        "gesprekstijdSec": 4808,
-        "uitgaand": 4
+        "gesprekstijdSec": 4881,
+        "uitgaand": 5
       }
     },
     "alleGemistNummers": [
@@ -10473,12 +10473,19 @@
         "nummer": "+31625418086",
         "teruggebeld": true,
         "tijd": "14:18"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31615483290",
+        "teruggebeld": false,
+        "tijd": "16:33"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-27",
-    "generated_at": "2026-11-27T15:40:35Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-27T15:44:12Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -10493,10 +10500,17 @@
         "nummer": "+31643998861",
         "teruggebeld": false,
         "tijd": "12:35"
+      },
+      {
+        "callResult": "overflowed",
+        "naam": "Onbekend",
+        "nummer": "+31615483290",
+        "teruggebeld": false,
+        "tijd": "16:33"
       }
     ],
     "terugGebeld": 1,
-    "totaalGemist": 3,
-    "totaalInbound": 17
+    "totaalGemist": 4,
+    "totaalInbound": 18
   }
 }

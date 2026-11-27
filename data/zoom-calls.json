@@ -1,10 +1,10 @@
 {
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T15:40:35Z",
-  "totaalInbound": 17,
-  "totaalGemist": 3,
+  "generated_at": "2026-11-27T15:44:12Z",
+  "totaalInbound": 18,
+  "totaalGemist": 4,
   "terugGebeld": 1,
-  "nietTerugGebeld": 2,
+  "nietTerugGebeld": 3,
   "nietTerugGebeldNummers": [
     {
       "nummer": "+31647641190",
@@ -17,6 +17,13 @@
       "nummer": "+31643998861",
       "naam": "Onbekend",
       "tijd": "12:35",
+      "callResult": "overflowed",
+      "teruggebeld": false
+    },
+    {
+      "nummer": "+31615483290",
+      "naam": "Onbekend",
+      "tijd": "16:33",
       "callResult": "overflowed",
       "teruggebeld": false
     }
@@ -42,13 +49,20 @@
       "tijd": "14:18",
       "callResult": "abandoned",
       "teruggebeld": true
+    },
+    {
+      "nummer": "+31615483290",
+      "naam": "Onbekend",
+      "tijd": "16:33",
+      "callResult": "overflowed",
+      "teruggebeld": false
     }
   ],
   "agenten": {
     "Ne-yadey van Duiven": {
       "beantwoord": 14,
-      "uitgaand": 4,
-      "gesprekstijdSec": 4808
+      "uitgaand": 5,
+      "gesprekstijdSec": 4881
     }
   },
   "beantwoordZonderAgent": 0
