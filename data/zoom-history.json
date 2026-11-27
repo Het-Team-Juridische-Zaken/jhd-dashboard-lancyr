@@ -10466,12 +10466,19 @@
         "nummer": "+31643998861",
         "teruggebeld": false,
         "tijd": "12:35"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31625418086",
+        "teruggebeld": false,
+        "tijd": "14:18"
       }
     ],
     "beantwoordZonderAgent": 0,
     "date": "2026-11-27",
-    "generated_at": "2026-11-27T13:17:01Z",
-    "nietTerugGebeld": 2,
+    "generated_at": "2026-11-27T13:20:38Z",
+    "nietTerugGebeld": 3,
     "nietTerugGebeldNummers": [
       {
         "callResult": "overflowed",
@@ -10486,10 +10493,17 @@
         "nummer": "+31643998861",
         "teruggebeld": false,
         "tijd": "12:35"
+      },
+      {
+        "callResult": "abandoned",
+        "naam": "Onbekend",
+        "nummer": "+31625418086",
+        "teruggebeld": false,
+        "tijd": "14:18"
       }
     ],
     "terugGebeld": 0,
-    "totaalGemist": 2,
-    "totaalInbound": 12
+    "totaalGemist": 3,
+    "totaalInbound": 13
   }
 }
